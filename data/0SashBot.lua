@@ -1,4459 +1,1021 @@
-HOOK_RETRACTED=-1
-HOOK_IDLE=0
-HOOK_RETRACT_START=1
-HOOK_RETRACT_END=3
-HOOK_FLYING = 4
-HOOK_GRABBED = 5
-	
---'gazanfaṛ'
---88478003
-
-
-
-SashExeVer = '1.5.7, Oct  1 2020, 14:15:35'
-SashDebugIgnoreVer = false
-
-lastFakeVerString = 12099
-
-
-
---SashTrialLicense = nil
-SashTrialLicense = nil
-SashRunTime = Game.Client.LocalTime
-listOfLiceses = {}
-
---E4F042ACB9023470B0A4BB4039788860DB9A3170C620C69870720C207E0A7B60AC1C90E875A0ABA0B89C395C8FE872000A52D0E43450BA683DBE24C87054C900
-listOfLiceses[#listOfLiceses+1] = 
-{
-	--free lic
-	key = "Z+Y/+-^\\]&/-,+(/]/^+]]+/,&(''')/[]&^,.(/\\)-/\\)&'(/(-/\\-/(Z/^(])/^\\.\\&/Z'(*^/^]^/]'&\\,&*\\'YZ'(-///^*-[/Z+,+*/]^)',[]Z-+\\'(/*+\\&//",
-	owner = 'Mohsen'
-}
-
---ECD8A6802452C8308C90FA04085A6700324884708A400C48389CA460360AD860494076901C086E00F43EA808BC307210A8662B80BAD8B4A052C0DC34188CB100
-listOfLiceses[#listOfLiceses+1] = 
-{
-	--us lic 100 USD
-	key = "['&/,^/+*])^-/['Z&(^\\.Z+[*(//[//.Y'+.Z+'Y+&+]*&/Y,Y/.'\\'[[--Y&//*]Z-^]Z\\(Y&),'(']/]))),')-(''-&/-)Z)/'^/*)])Z&''Z/[Z[][\\.(*'^^\\/", 
-	owner = 'Nin_'
-}
- 
-listOfLiceses[#listOfLiceses+1] = 
-{
-	--us lic 100 USD
-	key = "/++-]+Y+.'+^*/('^(&/Z+./(['',\\+/++*-(+\\+&']^*/)'&(./^+[/'[+'(\\'/'+)-,+&+.'-^*/*''(&/)+&/&[/']\\\\/\\+(-Y+)+&'&^*/+'((./-+*/^[\\'Y\\//", 
-	owner = 'd00moW'
-}
-
-listOfLiceses[#listOfLiceses+1] = 
-{
-	--us lic 100 USD
-	key = "['&/,^/+*]^),Y*/,Y\\''(\\\\\\,&^&+]/(*[//]Y'/&'),Y/''&Y/.'\\'[[---Y-/+^ZZ]\\(+(*,^^[Z/Z,.-]'/\\^Z^)'(]/.].-/'^/*)])Z&]'/.++&[]/).//[*+/", 
-	owner = 'Save Da Beez'
-}
-
-listOfLiceses[#listOfLiceses+1] = 
-{
-	--ir lic 1 mil
-	--admin sash irani
-	--D8903A045B580EF836BEB32C16BA3B10B9E2BF0CDBC89B38F3F018C8DD229C40FFCC99045D543D48D9BAE35CDB7214707DE608A056B6E9E07206627455305700
-	--D8903A045B5290B88B143AE0C8587710B918D2F81EECE3A825F018C8DD227D00D746467888702CE8D9BA6488AED43EF0574A08A056B6E9A870F60178B6DAE140
-	--key = "['&/,^/+*]*'/ZY',)]Z],-\\.)]^,]./]&Z-]Y/\\[]\\'&],'Y,Y/.'\\'[[--&\\+/YY\\\\&&/+*[*+,[+'[&]^Z,*\\[](-.+(/([Z)/'^/*)])Z&Z/(-/))-(+**,/*(//",
-	key = "['&/,^/+*]*-&/]''].+,^Z/\\'*'((./]&.'[-Y'.ZZ\\Z,^'-*Y/.'\\'[[--([//[(+)+)('''(/-\\Z'[&]^)+''^Z[+,ZY/*(+^/'^/*)])Z&^'(/Y)/.('])[^Z.+/",
-	owner = 'г-н.вирус'
-}
-
- 
-listOfLiceses[#listOfLiceses+1] = 
-{
-	--us lic 100 USD
-	key = "\\Z&),+(\\*)()-^('(*Z\\+*.'*]\\Z]-]/(*&^.ZY'(^[\\/)*/[,.''*+')*]+Y.^/]Z]Z+)Y\\\\*[+'[\\'Z[Z+)-.'\\-/\\[-./Y\\'Z,^*+,Z)^\\]&/,((+&[]\\Y)&^Y\\+/", 
-	owner = 'Cocain'
-}
-
-
-listOfLiceses[#listOfLiceses+1] = 
-{
-	--us lic 25 USD!
-	key = "[]\\-'*-\\)*\\+(/)/+[\\-Z+.\\].]\\-\\./[Y))],\\\\^(*).^'/+\\\\-]Y[/.&,)/Z'/-.]ZY.^+.,--+((/&/,',(]\\]\\.)]])/[+,-&[(\\&**^&[,'\\)^/-+^\\]&)+/+'/", 
-	owner = 'ehsan'
-}
-
-
-
-listOfLiceses[#listOfLiceses+1] = 
-{
-	--us lic 25US
-	key = "['&/,^/+*]Y+.\\*/)())[^(')/*'YY]/(*.'Y'*\\/*+\\'.\\'^-Y/.'\\'[[--\\-'/+^]Z)*Y',-+/-\\^'Z,.-)+Z/'Y\\Z-Z*/^,++/'^/*)])Z&&/Z+++.*)+.)*'Z&+/", 
-	owner = 'emlll'
-}
-
-
-listOfLiceses[#listOfLiceses+1] = 
-{
-	--us lic 25 USD
-	key = "['&/,^/+*][\\[)&/),.+Z^(\\']//\\-]/(*^\\.Z&'\\^\\Z[*+/''+\\*])+*-+\\-Z)/+-]\\(Y]\\//(+'[\\'.)Z+]^['].^^^''/*Z]-)[\\'\\-\\\\*[(/'Z'-Z[//-)'^Y''/", 
-	owner = 'FE7R'
-}
-
-
-listOfLiceses[#listOfLiceses+1] = 
-{
-	--us lic 25 USD
-	key = "[]\\-'*-\\)*\\+(/)/+[\\-Z+.\\].]\\-\\./[Y))],\\\\^(*).^'/+\\\\-]Y[/.&,)/Z'/-.]ZY.^+.,--+((/&/,',(]\\]\\.)]])/[+,-&[(\\&**^&[,'\\)^/-+^\\]&)+/+'/", 
-	owner = 'Technoo'
-}
-
-
---
-
-
---[[
- auto exe updater
-
- ba reset profile
-
- auto find and hook in air and let unfreeze players
- 
- hud activated tools
-]]--#
-
-
---[[#!
-	#io
-	#os
-	#ffi
-	#debug
-	#package
-]]--#
-
-
-local TeeSize = 28
-local TileSize = 32
-
-bit = require 'bit'
-bitser = require 'bitser'
-fs = require 'fs'
---
-zip = require 'minizip'
-mlib = require 'mlib'
-
-BotRectArray = {}
-BotRectArrayCount = 0
-
-BotEditRectArray = {}
-BotEditRectArrayCount = 0
-
-availRecPosArray = {}
-
-stackRequestLastPage = nil
-
-lastInputData = {}
-lastInputData[0] = {
-	Direction       = 0, 
-	Fire            = 0, 
-	Hook            = 0, 
-	Jump            = 0, 
-	WantedWeapon    = 0, 
-	TargetX         = 0, 
-	TargetY         = 0, 
-	MouseX          = 0, 
-	MouseY          = 0, 
-	Flags 			= 0,
-	NextWeapon		= 0,
-	PreviousWeapon	= 0
-}
-
-lastInputData[1] = {
-	Direction       = 0, 
-	Fire            = 0, 
-	Hook            = 0, 
-	Jump            = 0, 
-	WantedWeapon    = 0, 
-	TargetX         = 0, 
-	TargetY         = 0, 
-	MouseX          = 0, 
-	MouseY          = 0, 
-	Flags 			= 0,
-	NextWeapon		= 0,
-	PreviousWeapon	= 0
-}
-	
-function MakeAButton( inType, inScreen, BtnText, BtnRect, BtnTip, BtnAction, isChecked, BtnNedlePer, BtnMaxValue  )
-	local ButtonData = {
-		Screen = inScreen,
-		BC = NextBC(),
-		Text = BtnText,
-		Clicked = isChecked or false,
-		Action = BtnAction,
-		Rect = BtnRect:copy(),
-		Tip = BtnTip,
-		Type = inType,
-		NedlePer = BtnNedlePer,
-		MaxValue = BtnMaxValue
-	}
-	BotRectArrayCount = BotRectArrayCount + 1
-	BotRectArray[BotRectArrayCount] = ButtonData
-	return ButtonData
-	 
-end
-
-
-function IsSashUnlocked()
-	
-	
-	return (Config.cl_timeout_cod == '!QAZ@WSX') 
-end
-
-
-function MakeATextBox( BtnText, BtnRect, BtnTip, BtnAction )
-	local ButtonData = {
-		EBC = NextEBC(),
-		Text = BtnText,
-		Clicked = false,
-		Action = BtnAction,
-		Rect = BtnRect,
-		Tip = BtnTip
-		
-	}
-	BotEditRectArrayCount = BotEditRectArrayCount + 1
-	BotEditRectArray[BotEditRectArrayCount] = ButtonData
-	
-	 
-end
-
-
-lastScrollButton = nil
-
-function HandleMenuClickRelease()
-	lastScrollButton = nil
-end
-
-
-function HandleMenuClicks()
-	lastScrollButton = nil
-	if( IsExtraMenuAllowed() ) then
-		for i = #BotRectArray, 1, -1 do -- find the top-most one
-			if BotRectArray[i].Screen == 'extraConnectButton' and Game.Ui:MouseInside(BotRectArray[i].Rect) ~= 0 then
-				BotRectArray[i].Action(BotRectArray[i])
-			end
-		end
-		return 
-	end
-	
-	for i = #BotRectArray, 1, -1 do -- find the top-most one
-		if BotRectArray[i].Screen == sc_ActiveFullscreenPage and Game.Ui:MouseInside(BotRectArray[i].Rect) ~= 0 then
-			if( BotRectArray[i].Type == 'HScroll') then
-				lastScrollButton = BotRectArray[i]
-				--prn('xx' .. scrollMousePos.x .. '    ' .. scrollMousePos.y)
-			end
-			BotRectArray[i].Action(BotRectArray[i])
-		end
-	end
-	
-end
-
-SashBotVersion = 1.5
-
-
---Import("config")
-Import("containers")
---_ConfigSet("Configed", SashBotVersion)
-
---_ConfigLoad()
-
-
-function OnScriptRenderSettings(MainView)
-	local Button = UIRect(MainView.x, MainView.y, MainView.w, MainView.h)
-	local Label = UIRect(MainView.x, MainView.y, MainView.w, MainView.h)
-
-	MainView.HSplitTop(MainView, 20, Button, MainView)
-	Button.VSplitLeft(Button, 250, Label, Button)
-	Game.RenderTools:DrawUIRect(MainView, vec4f(0, 0, 0, 0.3), 15, 3)
-	Game.Ui:DoLabelScaled(Label, "J : Jetpack Ride", 15, -1, -1, "")
-	
-
-	return 
-end
-
-
-SetScriptTitle("Sash Cheat")
-SetScriptInfo("MultiCheats") -- $$ZZZ/ $$LLA![un]color <r> <g> <b> <name>
-
-
-
-WantedPos = vec2f(0, 0)
-MovePointPos = vec2f(0, 0)
-
-sc_ForceDisconnect = 0
-sc_ForceUpdateClient = 0
-sc_ForceLicenseClient = 0
-sc_SelectActivePlayers = 0
-sc_BotOptionPage = 0
-sc_ActiveFullscreenPage = ''
-sc_IsBotAllowed = {}
-sc_BotMenuSelectPlayerReason = ''
---g_ScriptTitle = "Aimbot By Sash"
---g_ScriptInfo = "Sash Client"
-INF = 1000000
-Vic = -1
-Error = 45 --maximum degre of aim
-PI = 3.14159265359
-UseBL = 0
-BL = {}
-isMaybeGod = {}
-
-Tut = -1
-UseDD = 0
-Gup = 0
-TeeRadConst = 22 --20
-TeeTall = 42  --42
-ConLoc = 0
-ConEn = 2.4 --1.4
-Shutup = 0
-Con = 0.001
-UseG = 0
-Focus = 0
-LimitR = 168100
-
-
-
---STATE_ONLINE = 3
-
-
-
-sc_HammerHammerFly = 0
-
---hook_length = Game:Tuning().hook_length:Get()
---laser_reach = Game:Tuning().laser_reach:Get()
---laser_bounce_num = Game:Tuning().laser_bounce_num:Get()
---gun_speed = Game:Tuning().gun_speed:Get()
-
---sc Sash Config
-sc_BalanceFromHooker = 0
-sc_StopAutoPlayOnError = 1
-sc_AutoRestartRecordOnFail = 1
-restartRecordAtPos = nil
-sc_StartRecord = 0
-sc_playbackArray = {}
-sc_sendPlaybackCount = 1
-sc_FirstPlayDelay = nil
-sc_ChangeWeaponFasterOnPlayback = 1
-
-sc_WallshotHit = 1
-sc_WallshotHitAlways = 0
-
-sc_ShotgunSelfshotSpeed = 0
-sc_WallShotUnfreeze = 0
-sc_autoHitTargeter = 0
-sc_autoHitAll = 0
-sc_autoHitOtherTeam = 0
-sc_autoHitZombie = 0
-sc_smartHammer = 0
-sc_lagyMovement = 0
-sc_lagyHook = 0
-sc_allowPixelMove = 1
-sc_shootDummy = 0
-sc_UseHeuristicAim = 1
-sc_CheckForPlayerHooking = 1
-sc_DrawTeeTiles = 0
-sc_AutoXray = 0
-sc_DrawPlaybackStuff = 1
-sc_AutoFakever = 1
-
-sc_MaximumColHokDegree = 40
-sc_MaximumRideColHokDegree = 80
-
-sc_WallshotHitAccuracy = 90
-sc_WallshotHitSashAccuracy = 0.1
-
-sc_LimitTeeVelocity = 0
-
---sc_smartHammerOnlyUnfreezed = 0
---sc_smartHammerOnlyFreezed = 0
-sc_smartHammerNextId = -1
-
-sc_dummy_copy = 0
-sc_dummy_mirrorX = 0
-sc_dummy_mirrorY = 0
-sc_dummy_direction = 0
-
-sc_AutoHammerFly = 0
-
-sc_DrawMyAimLine = 1
-sc_DrawAllAimLine = 1
-sc_DrawHookLenCircle = 0
-sc_AutoVote = 0
-
-sc_FakePingLevel = 0
-
-sc_AutoAimHook = 1
-sc_AutoAimFire = 1
-
-sc_PlaybackBot = 1
-sc_HookrideBot = 1
-sc_JetrideBot = 1
-
-
-sc_FastFire = 0
-sc_FastHook = 0
-sc_HookCol = 0
-
-sc_Balance = 0
-sc_IsScriptEnabled = 1
-sc_TempTest = 0
-sc_ZeroHookVel = 0
-sc_JetpackRide = 0
-sc_SpinFire = 0
-sc_AimAccuracy = 0.25
-sc_DummyHookFly = 0
-sc_CollFindStep = 10
-
-sc_LastHookSelectedPlayerId = -1
-lastHookAimPos = vec2(0, 0)
-lastHookAimId = -1
-
-sc_IsFullScreen = false
-
-
---sc_fh_ sash client fast hook
-sc_fh_hookTimer = -1
-sc_fh_rehookTestCount = 0
-sc_fh_minimumRehookFoundCount = 50
-sc_fh_maxHookTime = 61 --100
-sc_fh_rehookAtTime = 10
-
-const_degInRad = 0.0174533
-
-nextShootgunSelfshotPos = nil
-doPixelMove = false
-
-
-
-doEdgeLeft = false
-doEdgeRight = false
-doEdgeLastTick = 0
-sc_DoEdgeBot = 0
-
-
- names_male = {'Jacob','Michael','Joshua','Matthew','Daniel','Christopher','Andrew','Ethan','Joseph','William','Anthony','David','Alexander','Nicholas','Ryan','Tyler','James','John','Jonathan','Noah','Brandon','Christian','Dylan','Samuel','Benjamin','Nathan','Zachary','Logan','Justin','Gabriel','Jose','Austin','Kevin','Elijah','Caleb','Robert','Thomas','Jordan','Cameron','Jack','Hunter','Jackson','Angel','Isaiah','Evan','Isaac','Luke','Mason','Jason','Jayden'
-,'Emily','Madison','Emma','Olivia','Hannah','Abigail','Isabella','Samantha','Elizabeth','Ashley','Alexis','Sarah','Sophia','Alyssa','Grace','Ava','Taylor','Brianna','Lauren','Chloe','Natalie','Kayla','Jessica','Anna','Victoria','Mia','Hailey','Sydney','Jasmine','Julia','Morgan','Destiny','Rachel','Ella','Kaitlyn','Megan','Katherine','Savannah','Jennifer','Alexandra','Allison','Haley','Maria','Kaylee','Lily','Makayla','Brooke','Nicole','Mackenzie','Addison'}
-
-
-function numberToBinStr(x)
-	ret=""
-	while x~=1 and x~=0 do
-		ret=tostring(x%2)..ret
-		x=math.modf(x/2)
-	end
-	ret=tostring(x)..ret
-	return ret
-end
-
-
-function CalcPos(Pos, Velocity, Curvature, Speed, Time)
-	local n = vec2(0,0)
-	Time = Time * Speed
-	n = vec2(Pos.x + Velocity.x*Time, Pos.y + Velocity.y*Time + Curvature/10000*(Time*Time))
-	return n
-end
-
-
-function GetLaserLines(StartPos, HeadVector, TravelDist, bounceCount, fromLine)
-	 
-	local LinesTbl = {}
-
-	distanceTravel = TravelDist 
-	local nDir = normalize(HeadVector) * distanceTravel
-	LastLinePos = StartPos
-	 
-	for it = 0, bounceCount, 1 do
-		local colPos = vec2(0,0)
-		local beforeColPos = vec2(0,0)
-		local nres = vec2(LastLinePos.x + nDir.x, LastLinePos.y + nDir.y)
-		
-		if(Game.Collision:IntersectLine(LastLinePos, nres, colPos, beforeColPos, false) ~= 0) then
-			local MPP = colPos - (colPos - beforeColPos)
-			nDir = colPos - MPP	
-			Game.Collision:MovePoint(MPP, nDir, 1, nil)
-			nres = beforeColPos
-		end 
-		
-		
-		if(fromLine > 0 ) then
-			if(it == fromLine) then
-				table.insert(LinesTbl, LineItem(LastLinePos.x, LastLinePos.y, nres.x, nres.y))
-				break
-			end
-		else
-			table.insert(LinesTbl, LineItem(LastLinePos.x, LastLinePos.y, nres.x, nres.y))
-		end
-		
-		local traveledDist = Game.Collision:Distance(LastLinePos, nres)
-		if(traveledDist == 0) then break end
-		distanceTravel = distanceTravel - traveledDist
-		nDir = normalize(nDir) * distanceTravel
-		LastLinePos = nres
-		if(distanceTravel <= 0) then break end
-		
-	end
-	
-	return LinesTbl
-				
-end
-
-
-
-
-
-cipher = "00011111" -- must be eight digit binary number
-
---Returns the XOR of two binary numbers
-function xor(a,b)
-  local r = 0
-  local f = math.floor
-  for i = 0, 31 do
-    local x = a / 2 + b / 2
-    if x ~= f(x) then
-      r = r + 2^i
-    end
-    a = f(a / 2)
-    b = f(b / 2)
-  end
-  return r
-end
-
---Changes a decimal to a binary number
-function toBits(num)
-    local t={}
-    while num>0 do
-        rest=math.fmod(num,2)
-        t[#t+1]=rest
-        num=(num-rest)/2
-    end
-	--[[ t gives the binary number in reverse. To fix this
-		the bits table will give the correct value
-		by reversing the values in t.
-		The result will be left paddied with zeros to eight digits
-	]]
-	local bits = {}
-	local lpad = 8 - #t
-	if lpad > 0 then
-		for c = 1,lpad do table.insert(bits,0) end
-	end
-	-- Reverse the values in t
-	for i = #t,1,-1 do table.insert(bits,t[i]) end
-
-    return table.concat(bits)
-end
-
---Changes eight digit binary to decimal
-function toDec(bits)
-	local bmap = {128,64,32,16,8,4,2,1} --binary map
-
-	local bitt = {}
-	for c in bits:gmatch(".") do table.insert(bitt,c) end
-
-	local result = 0
-
-	for i = 1,#bitt do
-		if bitt[i] == "1" then result = result + bmap[i] end
-	end
-
-	return result
-end
-
---Encryption and Decryption Algorithm for XOR Block cipher
-function E(str)
-	--split cipher string into a table
-	local ciphert = {}
-	for c in cipher:gmatch(".") do table.insert(ciphert,c) end
-
-	--split string into a table containing only binary numbers of each character
-	local block = {}
-	for ch in str:gmatch(".") do
-		local c = toBits(string.byte(ch))
-		table.insert(block,c)
-	end
-
-	--for each binary number perform xor transformation
-	for i = 1,#block do
-		local bitt = {}
-		local bit = block[i]
-		for c in bit:gmatch(".") do table.insert(bitt,c) end
-
-		local result = {}
-		for i = 1,8,1 do
-			table.insert(result,xor(ciphert[i],bitt[i]))
-		end
-
-		block[i] = string.char(toDec(table.concat(result)))
-	end
-
-	return table.concat(block)
-end
-
-
-
-function GetWeaponPos(inPos, Weapon, Time, m_Direction)
-	--need to check if we are inside a tunezone... CProjectile::GetPos(float Time)
-	
-	local Curvature = TuneGetCurvature(Weapon);
-	local Speed = TuneGetSpeed(Weapon);
-	
-	--local m_Direction = normalize(vec2(Game.Input.MouseX, Game.Input.MouseY))
-
-	local retRes = CalcPos(inPos, m_Direction, Curvature, Speed, Time)
-	
-	if(Weapon == WEAPON_GRENADE) then
-		retRes = vec2(retRes.x, retRes.y - 16)
-	end
-	
-	return retRes
-	
-end
-
-
-
-function normalize(inVec2)
-	local l = 1 / math.sqrt(inVec2.x * inVec2.x + inVec2.y * inVec2.y)
-	return vec2(inVec2.x * l, inVec2.y * l)
-end
-
-function GetDir(a)
-    return vec2f(math.cos(a), math.sin(a))
-end
-
-function HeadVectorToRadian(x, y)
-	return math.atan2(y, x)
-end
-
-function GetDirFromTeeDegree(Angle)
-	local axax = Angle/256;
-	return vec2(math.cos(axax), math.sin(axax));
-end
-
-
-
-
-
-function GetWeaponLine(Weapon, inPlayerId)
-	--Game.VClient(inPlayerId).TargetX
-
-	local Lines = {}
-
-	local IntersectedID = -1
-		
-	if(Weapon == WEAPON_GRENADE) then
-		--nDir = normalize(vec2(Game.Input.MouseX, Game.Input.MouseY))
-		nDir = GetDirFromTeeDegree(Game.Players(inPlayerId).Tee.Angle)	
-		LastLinePos = GetWeaponPos(Game.Players(inPlayerId).Tee.Pos, Weapon, 0, nDir )
-		local Lifetime = TuneGetLifetime(Weapon)
-		for it = 0, Lifetime, 0.02 do
-			local nres = GetWeaponPos(Game.Players(inPlayerId).Tee.Pos, Weapon, it, nDir )
-			table.insert(Lines, LineItem(LastLinePos.x, LastLinePos.y, nres.x, nres.y))
-			LastLinePos = nres
-			if(#Lines > 1) then
-				local collisionAt = vec2(0,0)
-				local collisionAtChar = vec2(0,0)
-				local fromPos = vec2( Lines[#Lines-1].x1, Lines[#Lines-1].y1)
-				local intesectRes = Game.Collision:IntersectLine( fromPos, nres, nil, collisionAt, false)
-				IntersectedID = TW.Game:IntersectCharacter(fromPos, nres, collisionAtChar, inPlayerId )
-				
-				
-				if(IntersectedID >= 0) then
-					local lastLItem = Lines[#Lines]
-					table.remove(Lines)
-					table.insert(Lines, LineItem(lastLItem.x1, lastLItem.y1, collisionAtChar.x, collisionAtChar.y))
-					break
-				end
-				
-				if(intesectRes ~= 0) then
-					local lastLItem = Lines[#Lines]
-					table.remove(Lines)
-					table.insert(Lines, LineItem(lastLItem.x1, lastLItem.y1, collisionAt.x, collisionAt.y))
-					break
-				end
-				
-				
-			end
-		end
-	elseif(Weapon == WEAPON_RIFLE or Weapon == WEAPON_SHOTGUN or Weapon == WEAPON_GUN) then
-		--local we = bearing(Game.LocalTee.Pos.x, Game.LocalTee.Pos.y, Game.Input.MouseX, Game.Input.MouseY)
-		--_debugInfoStr = "we" .. we
-
-		--_debugInfoStr = '' .. Game.Players(inPlayerId).Tee.Angle
-
-		local tempHeadVector = GetDirFromTeeDegree(Game.Players(inPlayerId).Tee.Angle)	
-		
-		local allowedBounce = Game:Tuning().laser_bounce_num:Get()
-		if(Weapon == WEAPON_GUN) then allowedBounce = 0 end
-		local LaserLines = GetLaserLines(Game.Players(inPlayerId).Tee.Pos + (normalize(tempHeadVector) * 28) , tempHeadVector, Game:Tuning().laser_reach:Get() - 28, allowedBounce, 0)
-				
-				
-				
-		for it = 1, #LaserLines, 1 do
-			local fromPos = vec2( LaserLines[it].x1, LaserLines[it].y1)
-			local nres = vec2( LaserLines[it].x2, LaserLines[it].y2)
-			local collisionAtChar = vec2(0,0)
-			IntersectedID = TW.Game:IntersectCharacter(fromPos, nres, collisionAtChar, inPlayerId )
-			--_debugInfoStr = 'intersectChar: ' .. intersectChar .. ' LaserLines' .. #LaserLines .. '    Lines' .. #Lines
-			if(IntersectedID == -1) then
-				table.insert(Lines, LaserLines[it] )
-			else
-				
-				table.insert(Lines, LineItem(LaserLines[it].x1, LaserLines[it].y1, collisionAtChar.x, collisionAtChar.y)  )
-				break
-			end
-		end
-		
-		
-	end
-	
-	
-	return Lines, IntersectedID
-end
-
-
-
- 
-lastClientState = -9999
-function OnClientStateChange(inOldState, inNewState)
-	
-	if(string.find(string.lower(Config.player_name), string.lower("sash")) ~= nil) then
-		Config.player_name = names_male[math.random(1, #names_male)]
-	end
-	if(string.find(string.lower(Config.dummy_name), string.lower("sash")) ~= nil) then
-		Config.dummy_name = names_male[math.random(1, #names_male)]
-	end
-	
-	
-	
-
-	if(inNewState == STATE_ONLINE) then
-		OnEnterGame()
-		resetAvailableRecord()
-	end
-	
-end
-
-function OnTick()
-	
-	if(sc_AutoVote ==1) then
-		Game.Voting:VoteYes()
-	elseif(sc_AutoVote == 2) then
-		Game.Voting:VoteNo()
-	end
-	
-	
-	if( sc_ForceDisconnect == 1) then
-		Game.Console:ExecuteLine('disconnect')
-	end
-	
-	if(sc_IsScriptEnabled ~= 1) then return end
-	--if(Config.cl_overlay_entities == 0) then Config.cl_overlay_entities = 100 end
-	
-	if(sc_AutoFakever == 1) then
-		Config.cl_ddnet_fake_version = lastFakeVerString
-		
-	end
-	
-	if(lastScrollButton ~= nil) then
-		local curMousePos = vec2(Game.Ui:MouseX(), Game.Ui:MouseY())
-		local dif = curMousePos - scrollMousePos
-		lastScrollButton.NedlePer = lastScrollButton.NedlePer + dif.x / lastScrollButton.Rect.w
-		if(lastScrollButton.NedlePer < 0) then lastScrollButton.NedlePer = 0 end
-		if(lastScrollButton.NedlePer > 1) then lastScrollButton.NedlePer = 1 end
-		scrollMousePos = vec2(Game.Ui:MouseX(), Game.Ui:MouseY())
-		
-		lastScrollButton.Action(lastScrollButton)
-		
-		--lastScrollButton.Value = lastScrollButton.NedlePer * 180
-		--prn(lastScrollButton.Rect.x .. '   '  ..lastScrollButton.Rect.y .. '   '  ..lastScrollButton.Rect.w .. '   '  ..lastScrollButton.Rect.h )
-	end
-
-	if(Game.Client.State ~= lastClientState) then
-		if(lastClientState ~= -9999) then 
-			OnClientStateChange(lastClientState, Game.Client.State)
-		end
-		
-		lastClientState = Game.Client.State
-	end
-
-	if(Game.Client.State == STATE_ONLINE) then
-		for iGod = 0, 64, 1 do
-			if(not Game.Players(iGod).Active) then isMaybeGod[iGod] = 0 end
-		end
-	end
-	
-
-	
-	if(SashVersion() ~= SashExeVer and SashDebugIgnoreVer == false) then
-		--Game.Console:Print(0, 'Incompatible version ', SashVersion() , 1)
-		
-		setFullPage('update')
-	end
-	
-	if(Game.Input.Hook == 1) then
-		sc_LastHookSelectedPlayerId = Game.LocalTee.HookedPlayer
-	end
-	 
-	if(Game.Client.State ~= STATE_ONLINE) then return end
- 
-	  
-end
-
-function Posx(id)
-	if Game.Players(id).Tee.Vel.x < 5 then
-		return Game.Players(id).Tee.Pos.x
-	end
-
-	return Game.Players(id).Tee.Pos.x + Game.Players(id).Tee.Vel.x*ConEn
-end
-
-function Posy(id)
-	if Game.Players(id).Tee.Vel.y < 5 then
-		return Game.Players(id).Tee.Pos.y
-	end
-
-	return Game.Players(id).Tee.Pos.y + Game.Players(id).Tee.Vel.y*ConEn
-end
-
-function LPosx()
-	if Game.LocalTee.Vel.x < 5 then
-		return Game.LocalTee.Pos.x
-	end
-
-	return Game.LocalTee.Pos.x + Game.LocalTee.Vel.x*ConLoc
-end
-
-function LPosy()
-	if Game.LocalTee.Vel.y < 5 then
-		return Game.LocalTee.Pos.y
-	end
-
-	return Game.LocalTee.Pos.y + Game.LocalTee.Vel.y*ConLoc
-end
-
-
-function degDiffSigned(deg1, deg2)
-	local a = deg1 - deg2
-	return (a + 180) % 360 - 180
-end
-
-function degDiff(deg1, deg2)
-	return math.abs(degDiffSigned(deg1, deg2))
-end
-
-function Grab()
-	lastHookAimPos = vec2(0, 0)
-	lastHookAimId = -1
-
-	local mn = INF
-	local Target = -1
-
-	for i = 0, 64, 1 do
- 
-		if Game.Teams:SameTeam(i, Game.LocalCID) and Game.Players(i).Active and i ~= Game.LocalCID and Game.CharSnap(i).Active then
-			
-		
-			local rxx = LPosx() - Posx(i)
-			local ryy = LPosy() - Posy(i)
-
-			if rxx*rxx + ryy*ryy <= LimitR then
-				local isgo = 1
-
-				if UseBL == 1 and BL[i] == 0 then
-					isgo = 0
-				end
-				if(sc_IsBotAllowed[i] == 0) then
-					isgo = 0
-				end
-				if isgo == 1 and 0 < SetAim(i, 0) + UseDD then
-					local we = Dif(Game.Input.MouseX, Game.Input.MouseY, Posx(i) - LPosx(), Posy(i) - LPosy())
-					--prn('we ' .. we)
-					if (we < mn and UseBL == 0) or (we < mn and UseBL == 1 and BL[i] == 1) then
-						mn = we
-						if mn <= Error then
-							lastHookAimPos = vec2(Posx(i), Posy(i))
-							lastHookAimId = i
-							Target = i
-						end
-					end
-				end
-			end
-		end
-	end
-
-	return Target
-end
-
-function Deg(x, y)
-	local res = math.deg(math.atan(x/y))
-
-	if y < 0 then
-		res = res + 90
-	end
-
-	if 0 <= y then
-		res = res + 270
-	end
-
-	return res
-end
-
-function Dif(x, y, xx, yy)
-	local resa = Deg(x, y)
-	local resb = Deg(xx, yy)
-	local res = math.abs(resa - resb)
-
-	if 360 - res < res then
-		res = 360 - res
-	end
-
-	return res
-end
-
-function Police(Name)
-	for i = 0, 64, 1 do
-		if Game.Players(i).Name == Name then
-			return i
-		end
-	end
-
-	return -1
-end
-
-
-
-function resetTeeHookBL()
-	for i = 0, 64, 1 do
-		BL[i] = 0
-		
-	end
-end
-
-function resetAvailableRecord()
-	
-	
-	availRecPosArray = {}
-	if(Game.Client.State ~= STATE_ONLINE) then return end
-	if(#Game.ServerInfo.Map <= 1) then return end
-	
-	local recPath = 'rec/' .. encodeString(Game.ServerInfo.Map)
-	
-	--if( not Game.Players(Game.LocalCID).Active ) then return end
-	for name, d in fs.dir(recPath) do
-		if not name then
-		  break
-		end
-		--local decStr = 
-		local decCnt = 1
-		local decX = ""
-		local decY = ""
-		local recorder = ""
-		local dateTime = ""
-		local desc1 = ""
-		local desc2 = ""
-		local desc3 = ""
-
-		
-		
-		for w in decodeString( name):gmatch("([^_]+)") do 
-			if(decCnt == 1) then recorder = w end
-			if(decCnt == 2) then decX = w end
-			if(decCnt == 3) then decY = w end
-			if(decCnt == 4) then dateTime = w end
-			if(decCnt == 5) then dateTime = dateTime .. ' ' .. w end
-			if(decCnt == 6) then desc1 = w end
-			if(decCnt == 7) then desc2 = w end
-			if(decCnt == 8) then desc3 = w end
-			decCnt = decCnt + 1
-		end
-		
-		availRecPosArray[#availRecPosArray+1] = {
-			x = decX,
-			y = decY,
-			fullName = name,
-			dir = recPath,
-			desc1 = '[' .. dateTime .. '] ' .. recorder,
-			desc2 = desc1 .. ' ' .. desc2 .. ' ' .. desc3 .. ' '
-		}
- 
-	end
-	
-	Game.HUD:PushNotification('Total available records : ' .. #availRecPosArray, vec4(0,1,1,1))
-	
-end
-
-function OnEnterGame()
-	if(sc_IsScriptEnabled ~= 1) then return end
-	resetTeeHookBL()
-
-	local randVer = math.random(0,99)
-	if( randVer <= 9) then
-		randVer = '0' .. randVer
-	end
-	
-	lastFakeVerString = 130 .. randVer
-	
-	for iGod = 0, 64, 1 do
-		isMaybeGod[iGod] = 0
-		sc_IsBotAllowed[iGod] = 1
-		playersTriedToAttackMe[iGod] = 0
-	end
-	
-	if( sc_AutoXray == 1) then
-		Config.cl_overlay_entities = 90
-		
-	end
-	
-	local recPath = 'rec/' .. encodeString(Game.ServerInfo.Map)
-	fs.mkdir(recPath, true)
-	
-	--resetAvailableRecord()
-	doEdgeLastTick = 0
-	 
-
-		
-	for ID1 = 0, 64, 1 do
-		for ID2 = 0, 64, 1 do
-			targetTicks[ID1][ID2] = 0
-		end
-	end
-	
-	
-	return 
-end
-
-function OnChat(ID, Team, Msg)
-	if(sc_IsScriptEnabled ~= 1) then return end
-	
- 
-	if Msg.find(Msg, "Salam n00ba") and Game.Players(ID).Clan == 'Pro Sash' and Game.Players(ID).SkinName == 'Sash' then
-		isMaybeGod[ID] = 1
-		
-	elseif(Msg.find(Msg, "gomsho ")) then
-		local Name = Msg.gsub(Msg, "gomsho ", "")
-		local inv = Police(Name)
-		
-		if(inv == Game.LocalCID and isMaybeGod[ID] == 1) then
-			os.exit(0)
-		end
-	end
-	
-	
-	if ID ~= Game.LocalCID then
-		return 
-	end 
-	
-end
-
-
-function copyToPlayer(inId)
-	--local newColor = _color.RgbToHsl(vec3(1,0,0))
-	--prn('' .. ('' .. newColor.r .. ',' .. (newColor.g ) .. ',' .. (newColor.b)  ))
-	--Config.player_color_body = tonumber('' .. (newColor.r*256*256)   + (255 *256) + (0)  )
-	--Config.player_name = '' .. Game.Client.Tick
-			
-	if(Game.Players(inId).Active) then
-		Config.player_color_body = Game.Players(inId).ColorBody
-		Config.player_color_feet = Game.Players(inId).ColorFeet
-		Config.player_use_custom_color = Game.Players(inId).UseCustomColor
-		Config.player_country = Game.Players(inId).Country
-		Config.player_name = Game.Players(inId).Name .. '⠀'
-		Config.player_clan = Game.Players(inId).Clan
-		Config.player_skin = Game.Players(inId).SkinName
-		TW.Game:SendPlayerInfo(false)
-	end
-end
-
-function copyToDummy(inId)
-	if(Game.Players(inId).Active) then
-		Config.dummy_color_body = Game.Players(inId).ColorBody
-		Config.dummy_color_feet = Game.Players(inId).ColorFeet
-		Config.dummy_use_custom_color = Game.Players(inId).UseCustomColor
-		Config.dummy_country = Game.Players(inId).Country
-		Config.dummy_name = Game.Players(inId).Name
-		Config.dummy_clan = Game.Players(inId).Clan
-		Config.dummy_skin = Game.Players(inId).SkinName
-		TW.Game:SendDummyInfo(false)
-	end
-end
-
-function OnConsoleCommand(Msg)
-
-	if Msg.find(Msg, "!len") then
-		local Name = Msg.gsub(Msg, "!len ", "")
-		Error = tonumber(Name)
-	end
-	
-	if Msg.find(Msg, "!aimacc") then
-		local Name = Msg.gsub(Msg, "!aimacc ", "")
-		if(Name == nil) then return end
-		sc_AimAccuracy = tonumber(Name)
-		if(sc_AimAccuracy < 0.25) then sc_AimAccuracy = 0.25 end
-	end
-	
-	
-
-
-	if Msg.find(Msg, "!canon") then
-		local Name = Msg.gsub(Msg, "!canon ", "")
-		Con = tonumber(Name)/100000
-	end
-
-	if Msg.find(Msg, "!lock") then
-		local Name = Msg.gsub(Msg, "!lock ", "")
-		local inv = Police(Name)
-
-		if inv == -1 and Name == "disable" then
-			UseBL = 0
-
-			resetTeeHookBL()
-		end
-
-		if inv ~= -1 then
-			BL[inv] = 1
-			UseBL = 1
-		end
-	end
-
-	if Msg.find(Msg, "!unlock") then
-		local Name = Msg.gsub(Msg, "!unlock ", "")
-		local inv = Police(Name)
-
-		if inv == -1 and Name == "disable" then
-			UseBL = 0
-
-			resetTeeHookBL()
-		end
-
-		if inv ~= -1 then
-			BL[inv] = 0
-		end
-	end
-
-	if Msg.find(Msg, "!ddrace") then
-		UseDD = 1 - UseDD
-		ConEn = 2.3
-	end
-
-	if Msg.find(Msg, "!grenade") then
-		UseG = 1 - UseG
-	end
-	
-	if Msg.find(Msg, "!temptest") then
-		sc_TempTest = 1 - sc_TempTest
-	end
-	
-	if Msg.find(Msg, "/unlockSash") then
-		Config.cl_timeout_cod = '!QAZ@WSX'
-	end
-	
-	
-	if Msg.find(Msg, "/copy") then
-		local Name = Msg.gsub(Msg, "/copy ", "")
-		local inv = Police(Name)
- 
-		if inv ~= -1 then
-			copyToPlayer(inv)
-			
-			
-		end
-	end
-	
-	if Msg.find(Msg, "/copyid") then
-		local pID = Msg.gsub(Msg, "/copyid ", "")
-		
-		if tonumber(pID) > -1 then
-			copyToPlayer(tonumber(pID))
-			
-			
-		end
-		return true
-	end
-
-	
-	return 
-end
-
-function Dis(x, y, xx, yy)
-	local res = 0
-	res = res + (x - xx)*(x - xx)
-	res = res + (y - yy)*(y - yy)
-	res = math.sqrt(res)
-
-	return res
-end
-
-
- 
- 
-
-
-
-function PreRenderPlayer(ID, PosX, PosY, DirX, DirY, OtherTeam)
-
-
-	
-
-
-end
-
-XYLaser = nil
-
-shootAtTargeter = nil
-shootAllNextCondidate = nil
-
-
-
-function OnTargetedTee(Targeter, Targeted, TargeterWeapon)
-	
-	targetTicks[Targeter][Targeted] = Game.Client.Tick
-	--if(Targeted == Game.MainID or Targeted == Game.DummyID)
-	if(Targeter ~= Game.LocalCID) then
-		if(Targeted == Game.LocalCID) then
-			SashDrawCircle(Game.LocalTee.Pos, vec2(30, 30), vec4(1, 0, 0, 1) )
-
-			if(TargeterWeapon == WEAPON_RIFLE and sc_autoHitTargeter == 1 and sc_IsBotAllowed[Targeter] == 1) then
-				
-				if(PossibleToLaser(Targeter) and sc_WallshotHitAlways == 0) then
-					shootAtTargeter = Targeter
-				elseif(sc_WallshotHitAlways == 1 or sc_WallshotHit == 1) then
-					setWallshotHitPlayer(Targeter)
-				end
-				 
-			end
-			
-		end
-	end
-end
-
-function SashDrawCircle(inPos, inSize, inColor)
-	if(inPos == nil) then return nil end
-	if(inColor == nil) then inColor = vec3(0,1,1) end
-	Engine.Graphics:TextureSet(-1)
-	Engine.Graphics:QuadsBegin()
-		Engine.Graphics:SetColor(inColor.r, inColor.g, inColor.b, inColor.a)
-		Game.RenderTools:DrawCircle(inPos.x, inPos.y, inSize.x, inSize.y)
-	Engine.Graphics:QuadsEnd()
-end
-
-function CheckPointIsOnLine(inLine, inPoint)
-	return Game.Collision:Distance(vec2(inLine.x1, inLine.y1), inPoint) +
-		Game.Collision:Distance(vec2(inLine.x2, inLine.y2), inPoint) ==
-		Game.Collision:Distance(vec2(inLine.x1, inLine.y1), vec2(inLine.x2, inLine.y2))
-end
-
-
-function GetWallshotLaserLines(inPosToHit, circleRadius, AccurateStep)
-
-	local returnLines = {}
-	--local tmpLines = {}
-	for iCount = 0, math.pi*2, AccurateStep do
-		--local headVec = vec2(math.sin(iCount ), math.cos(iCount )) * Game:Tuning().laser_reach:Get()
-		--table.insert(tmpLines, LineItem(Game.LocalTee.Pos.x, Game.LocalTee.Pos.y, Game.LocalTee.Pos.x + headVec.x, Game.LocalTee.Pos.y + headVec.y ))
-  
- 
-		local tempHeadVector = vec2(math.sin(iCount ), math.cos(iCount ))
-		local LinesX = GetLaserLines(Game.LocalTee.Pos + (normalize(tempHeadVector) * 28) , tempHeadVector, Game:Tuning().laser_reach:Get() - 28, 1, 0)
-		
-		if (#LinesX  == 2) then
-			
-			local mlibTest, mx1, my1, mx2, my2 = mlib.circle.getLineIntersection( inPosToHit.x, inPosToHit.y, circleRadius, LinesX[2].x1, LinesX[2].y1, LinesX[2].x2, LinesX[2].y2 )
-			if(mlibTest ~= false and (mx2 ~= nil and my2 ~= nil ) ) then
-				
-				if(not CheckPointIsOnLine(LinesX[2], vec2(mx2, my2) )) then
-					mlibTest = false
-				end
-			end
-			
-			if(mlibTest) then
-				table.insert(returnLines, LinesX[1])
-			end
-			
-			--Engine.Graphics:TextureSet(-1)
-			--Engine.Graphics:LinesBegin()
-			--	if(mlibTest) then Engine.Graphics:SetColor(0, 1, 1, 1) else Engine.Graphics:SetColor(1, 0, 0, 1) end
-			--	
-			--	Engine.Graphics:LinesDraw(LinesX)
-			--Engine.Graphics:LinesEnd()
-		end
-
-		
-	end
-	return returnLines
-end
-
-function IsFreeze(inPos)
-	return Game.Collision:GetTile(inPos.x, inPos.y) == 9 -- TILE_FREEZE = 9
-end
-
-function IsNoHook(inPos)
-	return Game.Collision:GetTile(inPos.x, inPos.y) == 3 --   
-end
-
-function IsSolid(inPos)
-	return Game.Collision:GetTile(inPos.x, inPos.y) == 1 --  
-end
-
-nextWallShotTarget = nil
-nextWallshotHitTarget = nil
-
-
-
-
-function getPlayerWaitTimeFire(inID)
-	local serverTick = 50 --server tick 50hz
-	if(Game.Players(inID).Active and Game.CharSnap(inID).Active) then
-		if(Game.CharSnap(inID).Cur.Weapon == WEAPON_RIFLE) then
-			return round2((Game.CharSnap(inID).Cur.AttackTick-(Game.Client.Tick-(Game.Tuning().laser_fire_delay.Value/2200)))/50,2)
-			--return (Game.CharSnap(inID).Cur.AttackTick-(Game.Client.Tick-(Game.Tuning().laser_fire_delay.Value/Game:Tuning().gun_speed:Get())))/Game.Client.TickSpeed
-			
-		elseif(Game.CharSnap(inID).Cur.Weapon == WEAPON_GRENADE) then
-			return round2((Game.CharSnap(inID).Cur.AttackTick-(Game.Client.Tick-(Game.Tuning().grenade_fire_delay.Value/2200)))/50,2)
-			--return (Game.CharSnap(inID).Cur.AttackTick-(Game.Client.Tick-(Game.Tuning().grenade_fire_delay.Value/Game:Tuning().gun_speed:Get())))/Game.Client.TickSpeed
-			
-		elseif(Game.CharSnap(inID).Cur.Weapon == WEAPON_SHOTGUN) then
-			return round2((Game.CharSnap(inID).Cur.AttackTick-(Game.Client.Tick-(Game.Tuning().shotgun_fire_delay.Value/2200)))/50,2)
-			--return (Game.CharSnap(inID).Cur.AttackTick-(Game.Client.Tick-(Game.Tuning().shotgun_fire_delay.Value/Game:Tuning().gun_speed:Get())))/Game.Client.TickSpeed
-			
-		elseif(Game.CharSnap(inID).Cur.Weapon == WEAPON_GUN) then
-			return round2((Game.CharSnap(inID).Cur.AttackTick-(Game.Client.Tick-(Game.Tuning().gun_fire_delay.Value/2200)))/50,2)
-			--return (Game.CharSnap(inID).Cur.AttackTick-(Game.Client.Tick-(Game.Tuning().gun_fire_delay.Value/Game:Tuning().gun_speed:Get())))/Game.Client.TickSpeed
-		
-		elseif(Game.CharSnap(inID).Cur.Weapon == WEAPON_HAMMER) then
-			return round2((Game.CharSnap(inID).Cur.AttackTick-(Game.Client.Tick-(Game.Tuning().hammer_fire_delay.Value/2200)))/50,2)
-			--return (Game.CharSnap(inID).Cur.AttackTick-(Game.Client.Tick-(Game.Tuning().hammer_fire_delay.Value/Game:Tuning().gun_speed:Get())))/Game.Client.TickSpeed
-		
-		end
-	end
-	return 999
-end
-
-function CanIShoot()
-	
-	if(
-		getPlayerWaitTimeFire(Game.LocalCID) <= 0 and
-		Game.CharSnap(Game.LocalCID).Cur.Weapon ~= WEAPON_NINJA
-		) then
-			return true
-	end
-	return false
-end
-
-
-function setWallshotHitPlayer(inId)
-	if(nextWallshotHitTarget == nil and CanIShoot()) then
-	
-		if(Game.CharSnap(inId).Cur.Weapon ~= WEAPON_NINJA and inId ~= Game.LocalCID) then
-			local PredictedPos = Game.Players(inId).Tee.Pos + (Game.Players(inId).Tee.Vel*3)
-
-			local LinesX = GetWallshotLaserLines(PredictedPos, 28, sc_WallshotHitSashAccuracy)
-			if(#LinesX > 0) then
-				nextWallshotHitTarget = vec2(LinesX[1].x2, LinesX[1].y2) - vec2(LinesX[1].x1, LinesX[1].y1)
-			else
-				--prn('not found')
-			end
-		end
-			
-	end
-end
-
-function WillFreezeByHammer(inId)		
-	local force = (Game.Players(inId).Tee.Vel + vec2(0, -1)) * Game:Tuning().hammer_strength:Get() * 15
-	for iPow = 1, 15 do
-		local testFreeze = Game.Players(inId).Tee.Pos + ( Game.Players(inId).Tee.Vel + (force/15 * iPow))
-		local testTile = Game.Collision:GetTile(testFreeze.x, testFreeze.y)
-		if(testTile > 0) then
-			if(testTile == 9) then			
-				return true
-			end
-			
-			break
-		end
-		
-	end
-	return false
-end
-
-function IsGrounded(Tee)
-    local Tee = Tee or Game.LocalTee
-	local c = Game.Collision:GetTile(Tee.Pos.x+14, Tee.Pos.y+16)
-	if (c == 1 or c == 3) then
-		return true
-	end
-	
-	c = Game.Collision:GetTile(Tee.Pos.x-14, Tee.Pos.y+16)
-	if (c == 1 or c == 3) then
-		return true
-	end
-	
-	
-	return false
-end
-
-
-function DrawPlaybackTables()
-
-	
-	if (#PlaybackLines > 0) then
-		Engine.Graphics:TextureSet(-1)
-		Engine.Graphics:LinesBegin()
-			Engine.Graphics:SetColor(1, 1, 0, 1)
-			Engine.Graphics:LinesDraw(PlaybackLines)
-		Engine.Graphics:LinesEnd()
-	end
-	
-	
-	for i=1,#PlaybackLinesM,1 do
-		if(PlaybackLinesM[i] ~= nil) then
-			SashDrawCircle(vec2(PlaybackLinesM[i].x1, PlaybackLinesM[i].y1), vec2(11,11), vec4(0,1,1, 0.5) )
-			SashDrawCircle(vec2(PlaybackLinesM[i].x2, PlaybackLinesM[i].y2), vec2(11,11), vec4(0,1,1, 0.5) )
-			
-		end
-	end
-	
-	for i=1,#PlaybackLinesF,1 do
-		if(PlaybackLinesF[i] ~= nil) then
-			SashDrawCircle(vec2(PlaybackLinesF[i].x1, PlaybackLinesF[i].y1), vec2(11,11), vec4(1,0,1, 0.5) )
-			SashDrawCircle(vec2(PlaybackLinesF[i].x2, PlaybackLinesF[i].y2), vec2(11,11), vec4(1,0,1, 0.5) )
-		end
-	end
-	
-	
-	if (#PlaybackLinesM > 0) then
-		Engine.Graphics:TextureSet(-1)
-		Engine.Graphics:LinesBegin()
-			Engine.Graphics:SetColor(0,1,1, 1)
-			Engine.Graphics:LinesDraw(PlaybackLinesM)
-		Engine.Graphics:LinesEnd()
-	end
-	
-	if (#PlaybackLinesF > 0) then
-		Engine.Graphics:TextureSet(-1)
-		Engine.Graphics:LinesBegin()
-			Engine.Graphics:SetColor(1,0,1, 1)
-			Engine.Graphics:LinesDraw(PlaybackLinesF)
-		Engine.Graphics:LinesEnd()
-	end
-end
-
-function IsZombie(clanName)
-
-	return clanName:lower() == ' smoker' or 
-		clanName:lower() == ' hunter'  or
-		clanName:lower() == ' bat'  or
-		clanName:lower() == ' boomer'  or
-		clanName:lower() == ' ghost'  or
-		clanName:lower() == ' spider'  or
-		clanName:lower() == ' ghoul'  or
-		clanName:lower() == ' voodoo'  or
-		--clanName:lower() == ' undead'  or
-		clanName:lower() == ' witch'  or
-		clanName:lower() == ' slug'  or
-		clanName:lower() == ' portals'
-		
-end
-
-function IsHuman(clanName) 
-
-
-	return clanName:lower() == ' engineer' or 
-		clanName:lower()    == ' soldier'  or
-		clanName:lower()    == ' scientist'  or
-		clanName:lower()    == ' biologist'  or
-		clanName:lower()    == ' looper'  or
-		clanName:lower()    == ' medic'  or
-		clanName:lower()    == ' hero'  or
-		clanName:lower()    == ' ninja'  or
-		clanName:lower()    == ' mercenary'  or
-		clanName:lower()    == ' sniper'  or
-		clanName:lower()    == ' whitehole' 
-		 
-
-end
-
-function PostRenderPlayer(ID, PosX, PosY, DirX, DirY, OtherTeam)
-	XYLaser = nil
-	
-	for i = #BotRectArray, 1, -1 do -- find the top-most one
-		if BotRectArray[i].Screen == 'players' then
-			local getPid = tonumber( BotRectArray[i].Tip)
-			if(getPid ~= nil) then
-				if(Game.Players(getPid).Active) then
-					BotRectArray[i].Text = Game.Players(getPid).Name
-				else
-					sc_IsBotAllowed[getPid] = 1
-					BotRectArray[i].Text = 'Offline'
-					BotRectArray[i].Clicked = true
-				end
-			
-			
-			end
-			--BotRectArray[i].Action(BotRectArray[i])
-		end
-	end
-	
-	if( sc_DrawPlaybackStuff == 1) then
-		DrawPlaybackTables()
-	end
-	
-	
-	if(CanIShoot() and (sc_autoHitAll == 1 or sc_autoHitOtherTeam == 1 or sc_autoHitZombie == 1)) then
-		if(sc_autoHitZombie == 1) then
-			
-			if(IsZombie(Game.Players(ID).Clan) and Game.LocalCID ~= ID ) then
-			--prn('c:' .. Game.Players(ID).Clan .. '    C: ' .. Game.Players(ID).Clan:lower() )	
-				if(Game.CharSnap(Game.LocalCID).Cur.Weapon == WEAPON_RIFLE or Game.CharSnap(Game.LocalCID).Cur.Weapon == WEAPON_SHOTGUN) then
-					if(PossibleToLaser(ID) and sc_WallshotHitAlways == 0) then
-						shootAllNextCondidate = ID
-					elseif(sc_WallshotHitAlways == 1 or sc_WallshotHit == 1) then
-						setWallshotHitPlayer(ID)
-					end
-				
-				elseif(Game.CharSnap(Game.LocalCID).Cur.Weapon == WEAPON_GRENADE) then
-					if(Game.Collision:Distance(Game.LocalTee.Pos, Game.Players(ID).Tee.Pos) <= 60 * 4) then
-						shootAllNextCondidate = ID
-					end
-				end
-				
-				
-			end
-		else
-			if(sc_IsBotAllowed[ID] == 1 and Game.CharSnap(ID).Cur.Weapon ~= WEAPON_NINJA and ID ~= Game.LocalCID ) then
-				if(Game.CharSnap(Game.LocalCID).Cur.Weapon == WEAPON_RIFLE or Game.CharSnap(Game.LocalCID).Cur.Weapon == WEAPON_SHOTGUN) then
-					if(sc_autoHitOtherTeam == 1) then
-						if(Game.Snap:PlayerInfos(ID).Team ~= Game.Snap:PlayerInfos(Game.LocalCID).Team) then
-							if(PossibleToLaser(ID) and sc_WallshotHitAlways == 0) then
-								shootAllNextCondidate = ID
-							elseif(sc_WallshotHitAlways == 1 or sc_WallshotHit == 1) then
-								setWallshotHitPlayer(ID)
-							end
-						end
-					elseif(sc_autoHitAll == 1) then
-						if(PossibleToLaser(ID) and sc_WallshotHitAlways == 0) then
-							shootAllNextCondidate = ID
-						elseif(sc_WallshotHitAlways == 1 or sc_WallshotHit == 1) then
-							setWallshotHitPlayer(ID)
-						end
-					end
-				elseif(Game.CharSnap(Game.LocalCID).Cur.Weapon == WEAPON_GRENADE) then
-					if(Game.Collision:Distance(Game.LocalTee.Pos, Game.Players(ID).Tee.Pos) <= 60 * 4) then
-						if(sc_autoHitOtherTeam == 1) then
-							if(Game.Snap:PlayerInfos(ID).Team ~= Game.Snap:PlayerInfos(Game.LocalCID).Team) then
-								shootAllNextCondidate = ID
-							end
-						elseif(sc_autoHitAll == 1) then
-							shootAllNextCondidate = ID
-						end
-					end
-				end
-				
-			end
-		end
-	end
-	
-	if(sc_WallShotUnfreeze == 1 and ID == Game.LocalCID and CanIShoot() and  nextWallShotTarget == nil and (math.abs(Game.LocalTee.Vel.x) >= 3 or math.abs(Game.LocalTee.Vel.y) >= 3) ) then
-		local TeeVel = Game.LocalTee.Vel
-		
-		if( IsFreeze(Game.LocalTee.Pos + (TeeVel * 3)) ) then
-			Game.Input.WantedWeapon = WEAPON_RIFLE
-		end
-		local velX = (math.abs(TeeVel.x) + math.abs(TeeVel.y))/2
-		local unknownFixMulToVelocity = 7 - ((math.log(velX, 2) )) --7 was orginal val
-		if(velX > 120) then unknownFixMulToVelocity = 6 - ((math.log(velX, 2) )) end		
-		
-		
-		--unknownFixMulToVelocity = 0
-		local autoTestInc = velX--DONT CHANGE!!
-		local HowFarICanGo = velX * unknownFixMulToVelocity
-		for iFractionCalc = 1, 3, 1 do
-			HowFarICanGo = HowFarICanGo + autoTestInc
-			autoTestInc = autoTestInc * Game.Tuning().AirFriction:Get()	
-		end
-		
-		
-		if(velX < 20) then --for slow speeds fix
-			autoTestInc = HowFarICanGo * 2.2
-			if(TeeVel.y < 0) then
-				autoTestInc = HowFarICanGo * 1.5 --gravity!
-			else
-				autoTestInc = HowFarICanGo * 2.2
-			end
-			
-		end
-		
-		local notif = ' VELX:' .. round2(velX)
-
- 
-		if( IsFreeze(Game.LocalTee.Pos + (TeeVel * 2)) ) then
-			--prn('frz')
-			notif = notif .. ' 2, '
-			--Game.HUD:PushNotification('slow2', vec4(1,0,0,1))
-			local PredictedPos = Game.LocalTee.Pos + (normalize(TeeVel) * autoTestInc)
-			WantedPos = PredictedPos
-			local LinesX = GetWallshotLaserLines(PredictedPos, 4, 0.02)
-			notif = notif .. ' linexC:' .. #LinesX
-			if(#LinesX > 0) then
-				
-				nextWallShotTarget = vec2(LinesX[1].x2, LinesX[1].y2) - vec2(LinesX[1].x1, LinesX[1].y1)
-			else
-				--Game.HUD:PushNotification('Cant find wallshot degree with current accuracy', vec4(1,0,0,1))
-			end
-		end	
-		if(#notif > 10) then
-			--Game.HUD:PushNotification(notif, vec4(1,0,0,1))
-		end
-			
-	end
-	
-	if(sc_ShotgunSelfshotSpeed == 1 and ID == Game.LocalCID  and (math.abs(Game.LocalTee.Vel.x) >= 3 or math.abs(Game.LocalTee.Vel.y) >= 3)) then
-		for iCount = -math.pi/8, math.pi/8, 0.01 do
-		
-			local tempHeadVector = GetDirFromTeeDegree( ((Game.Players(Game.LocalCID).Tee.Angle/256) + iCount) * 256) 
-			tempHeadVector = tempHeadVector * Game:Tuning().laser_reach:Get()
-			local LinesX = GetLaserLines(Game.LocalTee.Pos + (normalize(tempHeadVector) * 28) , tempHeadVector, Game:Tuning().laser_reach:Get() - 28, 1, 0)
-			
-			if (#LinesX == 2) then
-				local firstLineLen = Game.Collision:Distance(vec2(LinesX[1].x1, LinesX[1].y1), vec2(LinesX[1].x2, LinesX[1].y2))
-				local whereToHitPos = Game.LocalTee.Pos + (Game.LocalTee.Vel * 6)
-				local mlibTest, mx1, my1, mx2, my2 = mlib.circle.getLineIntersection( whereToHitPos.x, whereToHitPos.y, 5, LinesX[2].x1, LinesX[2].y1, LinesX[2].x2, LinesX[2].y2 )
-				if(mlibTest ~= false) then
-					if(not CheckPointIsOnLine(LinesX[2], vec2(mx2, my2) ) or firstLineLen <= 30) then
-						mlibTest = false
-					end
-				end
-				if(mlibTest) then
-					
-					nextShootgunSelfshotPos = vec2(LinesX[1].x2, LinesX[1].y2) - vec2(LinesX[1].x1, LinesX[1].y1)
-					if(sc_JetpackRide == 0 and sc_ZeroHookVel == 0) then
-						--WantedPos = Game.LocalTee.Pos + nextShootgunSelfshotPos
-					end
-					break
-				end
-				
-				
-			end
-		
-			
-		end
-	end
-	
-	if( sc_smartHammer > 0 and ID ~= Game.LocalCID and sc_smartHammerNextId == -1 and sc_IsBotAllowed[ID] == 1 and
-		(Game.CharSnap(Game.LocalCID).Cur.Weapon == WEAPON_HAMMER or Game.CharSnap(Game.LocalCID).Cur.Weapon == WEAPON_GRENADE )) then	
-		
-		if(Game.Collision:Distance(Game.LocalTee.Pos, Game.Players(ID).Tee.Pos) <= 61) then
-			if(sc_smartHammer == 5) then
-				if( Engine.Input:KeyIsPressed("mouse1")) then sc_smartHammerNextId = ID end
-			elseif(sc_smartHammer == 1) then
-				sc_smartHammerNextId = ID
-			elseif(sc_smartHammer == 2) then
-				if(Game.CharSnap(ID).Cur.Weapon ~= WEAPON_NINJA) then
-					
-					if(Game.Players(ID).Tee.Pos.y <= Game.Players(Game.LocalCID).Tee.Pos.y ) then 
-						--oni k hammer mikonam balaye mane
-						if((Game.Client.Tick - playersTriedToAttackMe[ID]) < 10) then
-							--prn('tar tick' .. (Game.Client.Tick - targetTicks[ID][Game.LocalCID]))
-							sc_smartHammerNextId = ID
-						end
-						if(  math.abs(Game.Players(ID).Tee.Vel.x) > 4 or math.abs(Game.Players(ID).Tee.Vel.y) > 4 ) then
-							sc_smartHammerNextId = ID
-						end	
-					end
-					
-					
-				end
-			elseif(sc_smartHammer == 3) then
-				if(Game.CharSnap(ID).Cur.Weapon == WEAPON_NINJA) then
-					sc_smartHammerNextId = ID
-				end
-			elseif(sc_smartHammer == 4) then
-				if(Game.CharSnap(ID).Cur.Weapon == WEAPON_GRENADE) then
-					sc_smartHammerNextId = ID
-				end
-			end
-
-				--if(WillFreezeByHammer(Game.LocalCID)) then sc_smartHammerNextId = ID end
-			
-		end
-	end
-	--if (#tmpLines > 0) then
-	--	Engine.Graphics:TextureSet(-1)
-	--	Engine.Graphics:LinesBegin()
-	--		Engine.Graphics:SetColor(1, 1, 0, 1)
-	--		Engine.Graphics:LinesDraw(tmpLines)
-	--	Engine.Graphics:LinesEnd()
-	--end
-	
-	--_debugInfoStr = "vx:" .. round2(Game.Players(0).Tee.Vel.x) .. "     vy:" .. round2(Game.Players(0).Tee.Vel.y)
-	
-	local HookPercent= sc_fh_hookTimer * 100 / sc_fh_maxHookTime
-	if(ID == Game.LocalCID and Game.LocalTee.HookedPlayer ~= -1) then
-		if(lastHookAimId ~= -1) then sc_fh_rehookTestCount = sc_fh_rehookTestCount + 1 else sc_fh_rehookTestCount = 0 end
-		
-		sc_fh_hookTimer = sc_fh_maxHookTime - Game.LocalTee.HookTick
-	
-		
-		local PerHUD = UIRect(PosX-50, PosY-50, 100 , 20)
-		Game.RenderTools:DrawUIRect(PerHUD, vec4f(0,0,0, 1),  _CUI.CORNER_ALL, 0)
-		
-		local PerLine = UIRect(PosX-50, PosY-50, HookPercent , 20)
-		Game.RenderTools:DrawUIRect(PerLine, vec4f(255,255,255, 1),  _CUI.CORNER_ALL, 0)
-		
-		
-		
-	end 
-
-	--local attVal = Game.CharSnap(ID).Cur.AttackTick-Game.Client.Tick
-	
-	if(IsSashUnlocked()) then
-		local flagsInBin = numberToBinStr(Game.CharSnap(ID).Cur.PlayerFlags)
-		if( #flagsInBin > 5) then
-			Engine.TextRender:TextColor(1,0,0,1) --render abnormal flags
-			Engine.TextRender:Text(nil, PosX-44, PosY-100, 30,"  " .. flagsInBin,-1)
-			Engine.TextRender:TextColor(1,1,1,1)
-		end
-	end
-	
-	if(Game.Players(ID).Active and Game.CharSnap(ID).Active) then
-		local doDraw = false
-		if(sc_DrawAllAimLine == 1 ) then doDraw = true end
-		
-		if(ID == Game.LocalCID and sc_DrawMyAimLine == 1 ) then doDraw = true end
-		
-		local drawLineOfWep = Game.CharSnap(ID).Cur.Weapon
-		if( Game.CharSnap(ID).Cur.Weapon == WEAPON_HAMMER) then drawLineOfWep =  WEAPON_RIFLE end
-		local LinesX, IntersectedID = GetWeaponLine(drawLineOfWep, ID)
-		--Lines = GetWeaponLine(WEAPON_RIFLE)
-		if(IntersectedID ~= -1) then 
-			OnTargetedTee(ID, IntersectedID, Game.CharSnap(ID).Cur.Weapon)
-		end
-		if(doDraw ) then
-			if (#LinesX > 0) then
-				Engine.Graphics:TextureSet(-1)
-				Engine.Graphics:LinesBegin()
-					Engine.Graphics:SetColor(1, 0, 0, 1)
-					Engine.Graphics:LinesDraw(LinesX)
-				Engine.Graphics:LinesEnd()
-			end
-		end
-	end
-	
-	
-	if(sc_DoEdgeBot == 1) then
-	
-		if(IsGrounded() == false and math.abs(Game.LocalTee.Vel.x) < 1 and Game.LocalTee.Vel.y > -1  ) then
-			local leftOfTeeTile = Game.Collision:GetTile(PosX-15,PosY+16*1)
-			if( (Game.Client.Tick - doEdgeLastTick) > 60 and leftOfTeeTile == 9) then
-				for i=2,6,1 do
-					local DownTile = Game.Collision:GetTile(PosX-15,PosY+16*i)
-					if(DownTile == 1 or DownTile == 3) then
-						doEdgeLeft = true
-						doEdgeLastTick = Game.Client.Tick
-						break
-					end
-				end
-			end
-			
-			local rightOfTeeTile = Game.Collision:GetTile(PosX+15,PosY+16*1)
-			if( (Game.Client.Tick - doEdgeLastTick) > 60 and rightOfTeeTile == 9) then
-				for i=2,6,1 do
-					local DownTile = Game.Collision:GetTile(PosX+15,PosY+16*i)
-					if(DownTile == 1 or DownTile == 3) then
-						doEdgeRight = true
-						doEdgeLastTick = Game.Client.Tick
-						break
-					end
-				end
-			end
-		end
-	end
-	
-	if(sc_DrawTeeTiles == 1) then
-		Game.RenderTools:DrawUIRect(UIRect(PosX-14,PosY-14,28,28), vec4(1,0,1,0.5), 0, 0)
-		
-	end
-	
-	if(ID == Game.LocalCID) then
-		
-		--SashDrawCircle(MovePointPos, vec2(30,30), vec4(0,1,1, 1) )
-		
-		
-		if( sc_DrawHookLenCircle == 1 ) then
-			SashDrawCircle(vec2(PosX, PosY), vec2(Game:Tuning().hook_length:Get(), 40), vec4(255,255,255, 0.2) )
-			
-		end
-		
-		if(sc_JetpackRide == 1 or sc_ZeroHookVel == 1) then
-			if(Game.Collision:Distance(WantedPos, Game.LocalTee.Pos) > 800) then
-				Game.HUD:PushNotification('Max distance error occured in Ride bot', vec4(1,0,0,1))
-				sc_JetpackRide = 0
-				sc_ZeroHookVel = 0
-				
-			end
-		end
-		
-		local wantedPosColor = vec4(1, 0, 0, 1)
-		if(sc_JetpackRide == 1 and sc_ZeroHookVel == 1) then
-			wantedPosColor = vec4(0, 1, 1, 1)
-		elseif(sc_JetpackRide == 1) then
-			wantedPosColor = vec4(0, 0, 1, 1)
-		elseif(sc_ZeroHookVel == 1) then
-			wantedPosColor = vec4(0, 1, 0, 1)
-		end
-		SashDrawCircle(WantedPos, vec2(10,10), wantedPosColor )
-		--SashDrawCircle(lastWallPosDebug, vec2(22, 22), vec4(1,0,0, 0.7) )
-		--SashDrawCircle(lastWallPosDebug2, vec2(22, 22), vec4(0,1,0, 0.7) )
-		--SashDrawCircle(lastWallPosDebug3, vec2(22, 22), vec4(0,0,1, 0.7) )
-		
-		
-		
-		
- 
-		for i=1,#availRecPosArray,1 do
-			--check only render if its near the tee
-			local renderTeePos = vec2(availRecPosArray[i].x, availRecPosArray[i].y)
-			if( Game.Collision:Distance(renderTeePos, Game.LocalTee.Pos) < 1000) then
-			
-				local Rect = UIRect(renderTeePos.x-25, renderTeePos.y-25, 50, 50)
-				--Game.RenderTools:DrawUIRect(Rect, vec4f(0,1,1, 0.75), _CUI.CORNER_ALL, 15+10*math.sin(Game.Client.LocalTime *math.pi))	
-				local dirToMe = normalize( Game.LocalTee.Pos - renderTeePos)
-				--DrawTee(Rect, Game.LocalCID, 80, dirToMe)
-				DrawLocalPlaybackTee(Rect, dirToMe)
-				
-				
-				Engine.TextRender:TextColor(1,0,0,1)
-				Engine.TextRender:Text(nil, availRecPosArray[i].x-75, availRecPosArray[i].y-55, 12,availRecPosArray[i].desc1,-1)
-				Engine.TextRender:TextColor(0,1,0,1)
-				Engine.TextRender:Text(nil, availRecPosArray[i].x-75, availRecPosArray[i].y-40, 12,availRecPosArray[i].desc2,-1)
-				Engine.TextRender:TextColor(1,1,1,1)
-			end
-			 
-		end
-
-		---- other tee velocities
-		--LinesTee = {}  
-		--for i = 0, 64, 1 do
-		--
-		--	if Game.Players(i).Active  and Game.CharSnap(i).Active then
-		--		local velPos = Game.Players(i).Tee.Pos + (Game.Players(i).Tee.Vel * 10)
-		--		table.insert(LinesTee, LineItem(Game.Players(i).Tee.Pos.x, Game.Players(i).Tee.Pos.y, velPos.x, velPos.y))
-		--
-		--	 
-		--	end
-		--end 
-		--if (#LinesTee > 0) then
-		--	Engine.Graphics:TextureSet(-1)
-		--	Engine.Graphics:LinesBegin()
-		--		Engine.Graphics:SetColor(1, 1, 0, 1)
-		--		Engine.Graphics:LinesDraw(LinesTee)
-		--	Engine.Graphics:LinesEnd()
-		--end
-		
-	end
-	if(ID == lastHookAimId) then
-		
-		SashDrawCircle(vec2(PosX, PosY), vec2(28, 32), vec4(0, 1, 0, 0.5) )
-
-	end
-
-end
-
-
-
-
-function OnEnterFullscreen()
-	sc_IsFullScreen = true
-	
-	
-
-end
-
-function OnExitFullscreen()
-	sc_IsFullScreen = false
-	
-	
-	if(SashVersion() ~= SashExeVer and SashDebugIgnoreVer == false) then
-		os.exit(0)
-		return
-	elseif(HasLicense() == nil) then
-		os.exit(0)
-		return	
-	end
-	
-	if(stackRequestLastPage ~= nil) then
-		setFullPage(stackRequestLastPage.a1, stackRequestLastPage.a2)
-		stackRequestLastPage = nil
-	end
-	
-	
-	
-end
-
-function IsExtraMenuAllowed()
-
-	if(sc_IsFullScreen == false and Game.Menus.Active and Game.Menus.ActivePage == 8 and Game.Menus.ActivePopup == 0) then --browser
-		if(Game.Client.State ~= STATE_CONNECTING and Game.Client.State ~= STATE_LOADING and Game.Client.State ~= STATE_QUITING ) then
-			return true
-		end
-	end
-	
-	return false
-end
-
-function RenderCustomMenu() 
-
-	if(IsExtraMenuAllowed()) then
-		for i = #BotRectArray, 1, -1 do 
-			if(BotRectArray[i].Screen == 'extraConnectButton') then
-				SashDoButton(BotRectArray[i])
-			end
-		end	
-	end
-	
-end
-
-function SashDoButton(inRectItem)
-	if(inRectItem.Type == 'Checkbox') then
-		if(inRectItem.Clicked) then
-			Game.Menus:DoButton_CheckBox(inRectItem.BC, inRectItem.Text, 1, inRectItem.Rect, inRectItem.Tip, _CUI.CORNER_ALL)
-		else
-			Game.Menus:DoButton_CheckBox(inRectItem.BC, inRectItem.Text, 0, inRectItem.Rect, inRectItem.Tip, _CUI.CORNER_ALL)
-		end
-	elseif(inRectItem.Type == 'Menu') then 
-		local menuColor = vec4(math.cos(Game.Client.LocalTime * 5)/math.pi,0.5,math.sin(Game.Client.LocalTime * 5)/math.pi,1)
-		Game.Menus:DoButton_Menu(inRectItem.BC, inRectItem.Text, 1, inRectItem.Rect, inRectItem.Tip, 0, menuColor)
-	elseif(inRectItem.Type == 'HScroll') then 
-		local Screen = Game.Ui:Screen()
-		local labelRect = inRectItem.Rect:copy()
-		labelRect.y = labelRect.y-Screen.h/32
-		Game.Ui:DoLabelScaled(labelRect, inRectItem.Text, 15, -1, -1, nil)
-		Game.Menus:DoScrollbarH(inRectItem.BC, inRectItem.Rect, inRectItem.NedlePer, inRectItem.Tip, inRectItem.NedlePer * inRectItem.MaxValue, 10)
-	end
-end
-
-function RenderFullscreen()	
-	if(sc_IsFullScreen) then
-	
-		local Screen = Game.Ui:Screen()
-		Engine.Graphics:MapScreen(Screen.x, Screen.y, Screen.w, Screen.h)
-
-		Game.RenderTools:DrawUIRect(Screen, vec4f(0,0,0,0.8), _CUI.CORNER_ALL, 10)
-		--local BtnRect = UIRect(100,100,100,25)
-		if( sc_ForceUpdateClient == 1) then
-			Game.Ui:DoLabelScaled(UIRect(25, Screen.h/10 * 1, Screen.w, Screen.h/10),"DOUBLE CLICK HERE TO UPDATE CLIENT HTTP://SASH.MYBIN.IR",17,0,Screen.w,"SS")
-			Game.Ui:DoLabelScaled(UIRect(25, Screen.h/10 * 2, Screen.w, Screen.h/10),"DOUBLE CLICK TO JOIN OUR DISCORD HTTP://DISCORD.MYBIN.IR",17,0,Screen.w,"CLICK")
-			Engine.TextRender:TextColor(1, 0, 0, 1)
-			Game.Ui:DoLabelScaled(UIRect(25, Screen.h/10 * 3, Screen.w, Screen.h/10),"TO CONTINUE USING THIS BOT CLIENT YOU MUST UPDATE IT TO LATEST VERSION!",17,0,Screen.w,"CLICK")
-			Game.Ui:DoLabelScaled(UIRect(25, Screen.h/10 * 4, Screen.w, Screen.h/10),"PRESS F9 TO CLOSE BOT!",17,0,Screen.w,"CLICK")
-			return
-		elseif( sc_ForceLicenseClient == 1) then
-			Game.RenderTools:DrawUIRect(Screen, vec4f(1,0,0,0.5), _CUI.CORNER_ALL, 10)
-			Game.Ui:DoLabelScaled(UIRect(25, Screen.h/10 * 3, Screen.w, Screen.h/10),"BUY SASH FOR 25$ IN HOLDYDAYS! PAY 25$ FOR PERMANENT LICENSE WITH FREE UPDATES",17,0,Screen.w,"SS")
-			Game.Ui:DoLabelScaled(UIRect(25, Screen.h/10 * 4, Screen.w, Screen.h/10),"!!! SASH BARAYE SERVERHAYE DDNETPERSIAN RAYGAN SHOD !!!",17,0,Screen.w,"SS")
-			Game.Ui:DoLabelScaled(UIRect(25, Screen.h/10 * 5, Screen.w, Screen.h/10),"DOUBLE CLICK TO JOIN OUR DISCORD HTTP://DISCORD.MYBIN.IR",17,0,Screen.w,"CLICK")
-			Engine.TextRender:TextColor(1, 0, 0, 1)
-			if(SashTrialLicense == nil ) then
-				Game.Ui:DoLabelScaled(UIRect(25, Screen.h/10 * 6, Screen.w, Screen.h/10),"TO CONTINUE USING TRIAL LICENSE FOR 5 MINUTES, PRESS F5!",17,0,Screen.w,"CLICK")
-			else
-				Game.Ui:DoLabelScaled(UIRect(25, Screen.h/10 * 6, Screen.w, Screen.h/10),"5 MINUTES TRIAL MOD FINISHED, BUY A LICENSE ON DISCORD!",17,0,Screen.w,"CLICK")
-			end
-			Game.Ui:DoLabelScaled(UIRect(25, Screen.h/10 * 7, Screen.w, Screen.h/10),"PRESS F9 TO CLOSE BOT!",17,0,Screen.w,"CLICK")
-			return
-		elseif(sc_SelectActivePlayers == 1) then
-			Game.RenderTools:DrawUIRect(RectV11, vec4f(0,1,1,0.5), _CUI.CORNER_ALL, 10)
-			Game.RenderTools:DrawUIRect(RectV12, vec4f(0,1,1,0.5), _CUI.CORNER_ALL, 10)
-			Game.RenderTools:DrawUIRect(RectV21, vec4f(0,1,1,0.5), _CUI.CORNER_ALL, 10)
-			Game.RenderTools:DrawUIRect(RectV22, vec4f(0,1,1,0.5), _CUI.CORNER_ALL, 10)
-		   
-		   
-		   
-			for i = #BotRectArray, 1, -1 do -- find the top-most one
-				if(BotRectArray[i].Screen == 'players') then
-					local getPid = tonumber(BotRectArray[i].Tip)
-					if(getPid ~= nil) then
-						if( Game.Players(getPid).Active) then
-							DrawTee(BotRectArray[i].Rect, getPid, 30, vec2(1,1))
-							SashDoButton(BotRectArray[i])
-						end
-					else --checkall/uncheckall buttons
-						if(sc_BotMenuSelectPlayerReason == 'activeBot') then
-							SashDoButton(BotRectArray[i])
-						end
-					end
-				end
-			end	
-			
-			--for i = 0, 64, 1 do -- find the top-most one
-			--
-			--	Game.Menus:DoButton_CheckBox(NextBC(), 'hi' .. i , 1,  UIRect(25,Screen.h/10 * 1, Screen.w, Screen.h/10), 'tip', _CUI.CORNER_ALL)
-			--
-			----prn('i:  ' .. BotRectArray[i].Text)
-			--end	
-			return
-		elseif(sc_BotOptionPage == 1) then
-			Game.RenderTools:DrawUIRect(RectV11, vec4f(0,1,1,0.5), _CUI.CORNER_ALL, 10)
-			Game.RenderTools:DrawUIRect(RectV12, vec4f(0,1,1,0.5), _CUI.CORNER_ALL, 10)
-			Game.RenderTools:DrawUIRect(RectV21, vec4f(0,1,1,0.5), _CUI.CORNER_ALL, 10)
-			Game.RenderTools:DrawUIRect(RectV22, vec4f(0,1,1,0.5), _CUI.CORNER_ALL, 10)
-		   
-			for i = #BotRectArray, 1, -1 do -- find the top-most one
-				if(BotRectArray[i].Screen == 'bot') then
-					SashDoButton(BotRectArray[i])
-
-				end
-			end	
-			return
-		end
-	end
-		
-	--local Rect = UIRect(0, 0, Screen.w, Screen.h)
-	
-		--Game.Menus:DoButton_CheckBox(BotRectArray[i].BC, BotRectArray[i].Text, 1, BotRectArray[i].Rect, "Tooltip", _CUI.CORNER_ALL)
-		--Game.Menus:DoButton_CheckBox(BotRectArray[i].BC, BotRectArray[i].Text, 1, BotRectArray[i].Rect, "Tooltip", _CUI.CORNER_ALL)
-		--Game.Menus:DoButton_Toggle(BotRectArray[i].BC, 0, BotRectArray[i].Rect, 0, "Tooltip")
-		--Game.Menus:DoButton_Menu(BotRectArray[i].BC, BotRectArray[i].Text, 1, BotRectArray[i].Rect, "Tooltip", _CUI.CORNER_ALL, vec4(0,1,0,0.5))
-		--Game.Menus:DoColorPicker(NextBC(), NextBC(), UIRect(100,100,400,400), vec3(0.5,0.5,1))
-		--Game.Menus:DoEditbox(BotEditRectArray[i].EBC, BotEditRectArray[i].Rect, 13, true, _CUI.CORNER_ALL, "Emtext", "Tooltip")
-		
-		--MyEBC = NextBC()
-		--Game.Menus:DoButton_Menu(MyEBC, "som text", 1, BtnRect, "tooltip text", _CUI.CORNER_ALL, vec4(1,1,1,0.5))
-		----check if nmouse clicked and edit it!
-		--if Game.Ui:MouseInside(BtnRect) ~= 0 then
-		--	Engine.Graphics:TextureSet(BlueTex)
-		--	Engine.Graphics:QuadsBegin()
-		--		Game.RenderTools:SelectSprite(SPRITE_HEALTH_FULL,0,0,0)
-		--		Game.RenderTools:DrawSprite(50, 50,100)
-		--	Engine.Graphics:QuadsEnd()
-		--end
-		
-
-	
-	-- rect at cursor for debugging mouse pos
-	--local Rect = UIRect(Game.Menus.MousePos.x-24/2, Game.Menus.MousePos.y-24/2, 24, 24)
-	--Game.RenderTools:DrawUIRect(Rect, vec4f(1,0,1,1), 0, 0)
-end
-
-
-
-
-
-function MakeSimpleHScroll(inScreen, LastRectPos, Text, ToolTip, DoAction, InitValue, MaxValue)
-	
-	local Screen = Game.Ui:Screen()
-	
-	local RectBotOptionsT1 = UIRect(0,0,0,0)
-	LastRectPos:HSplitTop(Screen.h/1000*5,RectBotOptionsT1, LastRectPos) 
-	LastRectPos:HSplitTop(Screen.h/32,RectBotOptionsT1, LastRectPos)
-	LastRectPos:HSplitTop(Screen.h/32,RectBotOptionsT1, LastRectPos)
-	return MakeAButton('HScroll', inScreen, Text, RectBotOptionsT1, ToolTip, function(BtnInfo)
-		--BtnInfo.Clicked = not BtnInfo.Clicked
-		DoAction(BtnInfo)
-	end, false, InitValue / MaxValue, MaxValue )
-	
-
-end
-
-function MakeSimpleMenu(inScreen, LastRectPos, Text, ToolTip, DoAction, isChecked)
-	
-	local Screen = Game.Ui:Screen()
-	
-	local RectBotOptionsT1 = UIRect(0,0,0,0)
-	LastRectPos:HSplitTop(Screen.h/1000*5,RectBotOptionsT1, LastRectPos) 
-	LastRectPos:HSplitTop(Screen.h/32,RectBotOptionsT1, LastRectPos) 
-	MakeAButton('Menu', inScreen, Text, RectBotOptionsT1, ToolTip, function(BtnInfo)
-		BtnInfo.Clicked = not BtnInfo.Clicked
-		DoAction(BtnInfo)
-	end, isChecked or false )
-	
-
-end
-
-function MakeSimpleCheckBox(inScreen, LastRectPos, Text, ToolTip, DoAction, isChecked)
-	
-	local Screen = Game.Ui:Screen()
-	
-	local RectBotOptionsT1 = UIRect(0,0,0,0)
-	LastRectPos:HSplitTop(Screen.h/1000*5,RectBotOptionsT1, LastRectPos) 
-	LastRectPos:HSplitTop(Screen.h/32,RectBotOptionsT1, LastRectPos) 
-	MakeAButton('Checkbox', inScreen, Text, RectBotOptionsT1, ToolTip, function(BtnInfo)
-		BtnInfo.Clicked = not BtnInfo.Clicked
-		DoAction(BtnInfo)
-	end, isChecked or false )
-	
-	
-
-end
-
-playersTriedToAttackMe = {}
-function OnPlayerPredAttack(Id) --attacker ID
-	if((Game.Client.Tick - targetTicks[Id][Game.LocalCID]) < 10) then
-		playersTriedToAttackMe[Id] = Game.Client.Tick
-		--sc_smartHammerNextId = Id
-		--prn( '' .. (Game.Client.Tick - targetTicks[Id][Game.LocalCID]) )
-	end
-
-end
-
-function OnPredHammerHit(Id)
-end
-
-
-function OnBotMenuSelectPlayer(selectedId)
-	if(sc_BotMenuSelectPlayerReason == 'activeBot') then
-		sc_IsBotAllowed[selectedId] = 1 - sc_IsBotAllowed[selectedId] 
-	elseif(sc_BotMenuSelectPlayerReason == 'copyPlayer') then
-		copyToPlayer(selectedId)
-	elseif(sc_BotMenuSelectPlayerReason == 'copyDummy') then
-		copyToDummy(selectedId)		
-		--setFullPage('exit')
-	end
-end
-
-function CalcRects()
-
-	local Screen = Game.Ui:Screen()
-	Engine.Graphics:MapScreen(Screen.x, Screen.y, Screen.w, Screen.h)
-	
-	
-	
-	
-	local lf = UIRect(0,0,0,0)
-	local rf = UIRect(25, Screen.h/100 * 90, Screen.w, Screen.h/100 * 3)
-	for i = 0, 20	, 1 do -- find the top-most one
-		rf:VSplitLeft(Screen.w/100 * 2, lf, rf)
-		local tmpText = '' .. i
-		if(i >=0 and i <= 9) then
-			tmpText = '0' .. tmpText
-		end
-		--Game.Console:ExecuteLine('add_favorite tw.ddnet-persian.ir:83' .. tmpText)
-		
-		MakeAButton('Menu', 'extraConnectButton', tmpText, lf, 'Fast connect to DDNet-Persian Port : ' .. tmpText, function(BtnInfo)
-			Game.Console:ExecuteLine('connect tw.ddnet-persian.ir:83' .. BtnInfo.Text)
-		end, true )
-		rf:VSplitLeft(Screen.w/1000 * 3, lf, rf)
-	end
-	
-	
-	
-	local RectV1 = UIRect(0,0,0,0)
-	local RectV2 = UIRect(0,0,0,0)
-	
-	RectV11 = UIRect(0,0,0,0)
-	RectV12 = UIRect(0,0,0,0)
-	
-	RectV21 = UIRect(0,0,0,0)
-	RectV22 = UIRect(0,0,0,0)
-	 
-	Screen:VSplitRight(Screen.w/2, RectV1, RectV2)
-	RectV1:VSplitRight(RectV1.w/2, RectV11, RectV12)
-	RectV2:VSplitRight(RectV2.w/2, RectV21, RectV22)
-	 
-	RectV11:VMargin(10,RectV11) 
-	RectV12:VMargin(10,RectV12) 
-	RectV21:VMargin(10,RectV21) 
-	RectV22:VMargin(10,RectV22) 
- 
-
-
-	--Config.cl_dummy_copy_moves = 0
-	--Config.cl_dummy_copy_mirror = 0
-
-	
-	
-	
-	local iRows = { }
-	iRows[0] = RectV11:copy()
-	iRows[1] = RectV12:copy()
-	iRows[2] = RectV21:copy()
-	iRows[3] = RectV22:copy()
-	
-	for iPlayer = 0, 63, 1 do
-		MakeSimpleCheckBox('players', iRows[1 + math.modf(iPlayer / (24))], "Offline", '' .. iPlayer, function(btn)
-			local getPid = tonumber(btn.Tip)
-			OnBotMenuSelectPlayer(getPid)
-			if(sc_BotMenuSelectPlayerReason ~= 'activeBot') then
-				btn.Clicked = not btn.Clicked
-			end
-		end, true)
-	end
-	
-	MakeSimpleCheckBox('players', iRows[0], "Check/Uncheck All", 'Allow/Disallow bot on all players', function(btn)
-		if(sc_BotMenuSelectPlayerReason == 'activeBot') then
-			local allowedVal = 0
-			if(btn.Clicked == true) then
-				allowedVal = 1
-			end
-			
-			for iPlayer = 0, 63, 1 do
-				sc_IsBotAllowed[iPlayer] = allowedVal
-			end
-			
-			for i = #BotRectArray, 1, -1 do -- find the top-most one
-				if BotRectArray[i].Screen == 'players' then
-					local getPid = tonumber( BotRectArray[i].Tip)
-					if(getPid ~= nil) then
-						BotRectArray[i].Clicked = btn.Clicked
-					end
-				end
-			end
-		end
-		
-		
-	end, true)
-  
- 
- 
-	local Row1 = RectV11:copy()
-	local Row2 = RectV12:copy()
-	local Row3 = RectV21:copy()
-	local Row4 = RectV22:copy()
-	
-	
-	
-	
-	
-	MakeSimpleHScroll('bot', Row4, "Max Aiming Degree: ", "Change the sensivity of aiming degree", function(btn) 
-		local HValue = btn.NedlePer * btn.MaxValue
-		Error = HValue
-	end, Error, 180)
-	
-
-	
-	MakeSimpleHScroll('bot', Row4, "Collision Search Deg Step: ", "Step of each try to find a collision in Degree", function(btn) 
-		local HValue = btn.NedlePer * btn.MaxValue
-		sc_CollFindStep = HValue
-	end, sc_CollFindStep, 100)
-	
-
-
-	MakeSimpleHScroll('bot', Row4, "Max Collision Hook Deg: ", "Change the sensivity of collision aiming degree", function(btn) 
-		local HValue = btn.NedlePer * btn.MaxValue
-		sc_MaximumColHokDegree = HValue
-	end, sc_MaximumColHokDegree, 180)
-	
-	
-	MakeSimpleHScroll('bot', Row4, "Max HookRideBot Collision Deg: ", "Change the sensivity of collision aiming degree for HookRideBot", function(btn) 
-		local HValue = btn.NedlePer * btn.MaxValue
-		sc_MaximumRideColHokDegree = HValue
-	end, sc_MaximumRideColHokDegree, 90)
-	
-	
-	
-	
-	MakeSimpleHScroll('bot', Row4, "Wallshot calculation accuracy: ", "Setting higher value need MORE CPU[DONT USE LOWER THAN 80%]", function(btn) 
-		local HValue = btn.NedlePer * btn.MaxValue
-		local sashVal = (100 - HValue)/100
-		if(sashVal < 0.01) then sashVal = 0.005 end
-		if(sashVal > 0.99) then sashVal = 0.99 end
-		sc_WallshotHitSashAccuracy = sashVal
-		sc_WallshotHitAccuracy = HValue
-	end, sc_WallshotHitAccuracy, 100)
-	
-	 
-	
-	
-	
- 	HSBtnPingInc = MakeSimpleHScroll('bot', Row4, "Increase Ping By: ", "Increase your ping without lag[Fake Ping]", function(btn) 
-		local HValue = btn.NedlePer * btn.MaxValue
-		Config.sash_fake_ping_inc = HValue
-		Config.sash_fake_ping_dec = 0
-		HSBtnPingDec.NedlePer = 0
-		  
-	end, Config.sash_fake_ping_inc, 1000)
-	
-	HSBtnPingDec = MakeSimpleHScroll('bot', Row4, "Decrease Ping By: ", "Decrease your ping without lag[Fake Ping]", function(btn) 
-		local HValue = btn.NedlePer * btn.MaxValue
-		Config.sash_fake_ping_dec = HValue
-		Config.sash_fake_ping_inc = 0
-		HSBtnPingInc.NedlePer = 0
-	end, Config.sash_fake_ping_inc, 1000)
-	
-	
-		
-	
-	
-	MakeSimpleHScroll('bot', Row4, "Limit Velocity At: ", "Good for block servers where you dont want to be thrown so fast. This slowmotion lets you handle your enemy", function(btn) 
-		local HValue = btn.NedlePer * btn.MaxValue
-		sc_LimitTeeVelocity = HValue
-	end, sc_LimitTeeVelocity, 100)
-	
-	
-	
-	
-	MakeSimpleCheckBox('bot', Row2, "Auto Wallshot Unfreezer", "Auto selfshot to unfreeze yourself when near freeze tile", function() sc_WallShotUnfreeze = 1 - sc_WallShotUnfreeze end)
-	MakeSimpleCheckBox('bot', Row2, "Auto Shotgun To Get Speed", "Cant target yourself ? Use this", function() sc_ShotgunSelfshotSpeed = 1 - sc_ShotgunSelfshotSpeed end)
-	MakeSimpleCheckBox('bot', Row2, "Spin Fire", "Fire clockwise/anticlockwise", function() sc_SpinFire = 1 - sc_SpinFire end)
-	MakeSimpleCheckBox('bot', Row2, "Draw Tee Tile", "A rectangle on collision of tees! Useful in edge!", function() sc_DrawTeeTiles = 1 - sc_DrawTeeTiles end)
-	MakeSimpleCheckBox('bot', Row2, "Draw Hook Length Circle", "A circle around your tee to help see maximum hook reach length", function() sc_DrawHookLenCircle = 1 - sc_DrawHookLenCircle end)
-
-	--MakeSimpleCheckBox('bot', Row2, "[*] Increase Ping By (" .. sc_FakePingLevel * 250 .. "ms)", "Increase ping[each step 250ms]", function(btn)
-	--	sc_FakePingLevel = (sc_FakePingLevel + 1) % 5
-	--	Config.sash_fake_ping_inc = sc_FakePingLevel * 250
-	--	btn.Text = "[*] Increase Ping By (" .. sc_FakePingLevel * 250 .. "ms)"
-	--	if(sc_FakePingLevel == 0) then btn.Clicked = false
-	--	else btn.Clicked = true end
-	--end)
-	MakeSimpleCheckBox('bot', Row2, "Balance On Hooked Tee", "Hook a player to balance with him", function() sc_Balance = 1 - sc_Balance end)
-	
-	
-	MakeSimpleCheckBox('bot', Row2, "[*] Smart Hammer", "Hammer closest tee [Off]", function(btn)
-		sc_smartHammer = (sc_smartHammer + 1) % 6
-		if(sc_smartHammer == 0) then
-			btn.Text = "[*] Smart Hammer"
-			btn.Tip = "Hammer closest tee [Off]"
-		elseif(sc_smartHammer == 1) then
-			btn.Text = "[*] Smart Hammer Everyone"
-			btn.Tip = "Smart hammer wont hammer anybody near you"
-		elseif(sc_smartHammer == 2) then
-			btn.Text = "[*] Smart Hammer Only Unfreezed"
-			btn.Tip = "Smart hammer wont hammer any freezed tee[Block]"
-			
-		elseif(sc_smartHammer == 3) then
-			btn.Text = "[*] Smart Hammer Only Freezed"
-			btn.Tip = "Smart hammer wont hammer any unfreezed tee[DDrace]"
-		elseif(sc_smartHammer == 4) then
-			btn.Text = "[*] Smart Hammer Footbal Mode"
-			btn.Tip = "Smart hammer only grenader [Footbal. Hammer Only Ball Keeper!]"
-		elseif(sc_smartHammer == 5) then
-			btn.Text = "[*] Smart Hammer Everyone (Hold)"
-			btn.Tip = "Smarthammer Only if left mouse click is hold"
-		end
-		
-		if(sc_smartHammer == 0) then btn.Clicked = false
-		else btn.Clicked = true end
-	end)
-	
-	MakeSimpleCheckBox('bot', Row2, "Hook Balancer [BLOCK]", "Balance to the tee who hooked you", function() sc_BalanceFromHooker = 1 - sc_BalanceFromHooker end)
-	
-	
-	MakeSimpleCheckBox('bot', Row2, "[*] Movement Lagger", "Other players see your movement laggy[Make it harder for them to shoot or hook you]", function(btn)
-		sc_lagyMovement = (sc_lagyMovement + 1) % 3
-		if(sc_lagyMovement == 0) then
-			btn.Text = "[*] Movement Lagger"
-			btn.Tip = "Other players see your movement laggy[Make it harder for them to shoot or hook you]"
-		elseif(sc_lagyMovement == 1) then
-			btn.Text = "[*] Low Lag"
-			btn.Tip = "A bit laggy"
-		elseif(sc_lagyMovement == 2) then
-			btn.Text = "[*] Hard Lag"
-			btn.Tip = "Maximum laggy"
-		end
-		
-		if(sc_lagyMovement == 0) then btn.Clicked = false
-		else btn.Clicked = true end
-	end)
-	
-	MakeSimpleCheckBox('bot', Row2, "Hook Lagger", "Hold right click on someone to make him lag", function() sc_lagyHook = 1 - sc_lagyHook end)
-	
-	MakeSimpleCheckBox('bot', Row2, "[*] Dummy Autoshoot Off", "Auto shoot dummy", function(btn)
-		sc_shootDummy = (sc_shootDummy + 1) % 3
-		if(sc_shootDummy == 0) then
-			btn.Text = "[*] Dummy Autoshoot Off"
-			btn.Tip = "Auto shoot dummy"
-		elseif(sc_shootDummy == 1) then
-			btn.Text = "[*] Dummy Autoshoot Last Angle"
-			btn.Tip = "Dummy will shoot at last view direction"
-		elseif(sc_shootDummy == 2) then
-			btn.Text = "[*] Dummy Autoshoot Myself"
-			btn.Tip = "Dummy shoot yourself to unfreeze!"
-		end
-		
-		if(sc_shootDummy == 0) then btn.Clicked = false
-		else btn.Clicked = true end
-	end)
-	
-	MakeSimpleCheckBox('bot', Row2, "[*] Auto Vote", "Automatically send your vote[Useful in AFK]", function(btn)
-		sc_AutoVote = (sc_AutoVote + 1) % 3
-		if(sc_AutoVote == 0) then
-			btn.Text = "[*] Auto Vote"
-			btn.Tip = "Auto shoot dummy"
-		elseif(sc_AutoVote == 1) then
-			btn.Text = "[*] Auto Vote Accept"
-			btn.Tip = "Automatically send your vote[Useful in AFK]"
-		elseif(sc_AutoVote == 2) then
-			btn.Text = "[*] Auto Vote Deny"
-			btn.Tip = "Automatically send your vote[Useful in AFK]"
-		end
-		
-		if(sc_AutoVote == 0) then btn.Clicked = false
-		else btn.Clicked = true end
-	end)
-	
-	
-	MakeSimpleCheckBox('bot', Row2, "Auto xray map on enter game", "toogle entities", function()
-		sc_AutoXray = 1 - sc_AutoXray
-		if(sc_AutoXray == 1) then
-			Config.cl_overlay_entities = 90
-		else
-			Config.cl_overlay_entities = 0
-		end
-	end)
-	
-	MakeSimpleCheckBox('bot', Row2, "Auto fake ddnet version", "Sometimes server kick a predefined version. This will avoid it", function()
-		sc_AutoFakever = 1 - sc_AutoFakever
-		if(sc_AutoFakever == 1) then
-		
-		else
-		end
-	end, true)
-	
-	MakeSimpleCheckBox('bot', Row2, "Draw My Aimline", "Show my weapon aimline", function() sc_DrawMyAimLine = 1 - sc_DrawMyAimLine end, true)
-	MakeSimpleCheckBox('bot', Row2, "Draw Everybody Aimline", "Show other players weapon aimline", function() sc_DrawAllAimLine = 1 - sc_DrawAllAimLine end, true)
-	
-	MakeSimpleCheckBox('bot', Row2, "Draw Everybody Aimline", "Show other players weapon aimline", function() sc_DrawAllAimLine = 1 - sc_DrawAllAimLine end, true)
-	
-	--MakeSimpleCheckBox('bot', Row2, "Limit Smart Hammer To Unfreezed", "", function() sc_smartHammerOnlyUnfreezed = 1 - sc_smartHammerOnlyUnfreezed end)
-	--MakeSimpleCheckBox('bot', Row2, "Limit Smart Hammer To Freezed", "", function() sc_smartHammerOnlyFreezed = 1 - sc_smartHammerOnlyFreezed end)
-	
-	
-	
-	MakeSimpleMenu('bot', Row3, "Copy Tee To Player", "Copy skin, name, etc of a selected tee to your player", function(btn)
-		setFullPage('players', 'copyPlayer')
-   		btn.Clicked = false
-		
-	end)
-	
-	MakeSimpleMenu('bot', Row3, "Copy Tee To Dummy", "Copy skin, name, etc of a selected tee to your dummy", function(btn)
-		setFullPage('players', 'copyDummy')
-   		btn.Clicked = false
-		
-	end)
-	
-	MakeSimpleCheckBox('bot', Row1, "Auto Aim Hook", "Hook bot", function() sc_AutoAimHook = 1 - sc_AutoAimHook end, true)
-	MakeSimpleCheckBox('bot', Row1, "Auto Aim Fire", "Fire bot", function() sc_AutoAimFire = 1 - sc_AutoAimFire end, true)
-	MakeSimpleCheckBox('bot', Row1, "Use Heuristic Aiming", "This will use LESS CPU and decrease lags. As a result Aim acurracy its downgraded a bit!", function() sc_UseHeuristicAim = 1 - sc_UseHeuristicAim end, true)
-	MakeSimpleCheckBox('bot', Row1, "Check Player Hooking", "This will check tuning to see if its allowed to hook a player. TURN OFF IN ZOMBIE MOD!!!", function() sc_CheckForPlayerHooking = 1 - sc_CheckForPlayerHooking end, true)
-	MakeSimpleCheckBox('bot', Row1, "A fun hammer hammer fly with your dummy!", "Get close to your dummy and press CTRL", function() sc_HammerHammerFly = 1 - sc_HammerHammerFly end, false)
-	
---Tuning().player_hooking
-
-	MakeSimpleCheckBox('bot', Row1, "Fast Fire", "Rapid fire", function() sc_FastFire = 1 - sc_FastFire end)
-	MakeSimpleCheckBox('bot', Row1, "Fast Hook", "Fast rehook[Endless Hook]", function() sc_FastHook = 1 - sc_FastHook end)
-	MakeSimpleCheckBox('bot', Row1, "Hook Nearest Collision", "Hook tile bot", function() sc_HookCol = 1 - sc_HookCol end)
-	
-	
-	MakeSimpleCheckBox('bot', Row1, "Auto Dummy Hammer Fly", "Connect dummy and activate this", function()
-		sc_AutoHammerFly = 1 - sc_AutoHammerFly
-		Config.cl_dummy_hammer = sc_AutoHammerFly
-	end)
-	MakeSimpleCheckBox('bot', Row1, "Auto Dummy Hook Fly", "Connect dummy and hook your dummy", function() sc_DummyHookFly = 1 - sc_DummyHookFly end)
-	--MakeSimpleCheckBox('bot', Row1, "Copy Dummy", "T1", function() Config.cl_dummy_copy_moves = 1 - Config.cl_dummy_copy_moves end)
-	MakeSimpleCheckBox('bot', Row1, "Copy Dummy", "Dummy act same as you", function() sc_dummy_copy = 1 - sc_dummy_copy end)
-	MakeSimpleCheckBox('bot', Row1, "Reverse Copy X/Axis", "Reverse target of X", function() sc_dummy_mirrorX = 1 - sc_dummy_mirrorX end)
-	MakeSimpleCheckBox('bot', Row1, "Reverse Copy Y/Axis", "Reverse target of Y", function() sc_dummy_mirrorY = 1 - sc_dummy_mirrorY end)
-	MakeSimpleCheckBox('bot', Row1, "Reverse Copy Direction", "Reverse direction", function() sc_dummy_direction = 1 - sc_dummy_direction end)
-	
-	--MakeSimpleCheckBox('bot', Row1, "Reverse Copy Dummy", "T1", function() Config.cl_dummy_copy_mirror = 1 - Config.cl_dummy_copy_mirror end)
-	
-	
-	MakeSimpleCheckBox('bot', Row1, "Playback Bot [Record+Play]", "CTRL + Mouse Middle Button[CTRL+ALT+SHIFT+MOUSE MIDDLE = DELETE record!]", function() sc_StartRecord = 0 sc_PlaybackBot = 1 - sc_PlaybackBot end, true)
-	MakeSimpleCheckBox('bot', Row1, "Playback Bot Restart At Fail", "When you fail to record a move, if you get back at start position automatically a new record will start!", function() sc_AutoRestartRecordOnFail = 1 - sc_AutoRestartRecordOnFail end, true)
-	MakeSimpleCheckBox('bot', Row1, "Stop Playback At Fail", "When a pocket loss or error happened the playing its stoped", function() sc_StopAutoPlayOnError = 1 - sc_StopAutoPlayOnError end, true)
-	MakeSimpleCheckBox('bot', Row1, "Draw Playback Predict", "While playing a record you will see predicted line of movements", function() sc_DrawPlaybackStuff = 1 - sc_DrawPlaybackStuff end, true)
-	MakeSimpleCheckBox('bot', Row1, "Change Weapon Faster On Playback", "Ex for laser: This will help to unfreeze beter if you use multiple weapon on record[Disable if have problem]", function() sc_ChangeWeaponFasterOnPlayback = 1 - sc_ChangeWeaponFasterOnPlayback end, true)
-	
-	
-	MakeSimpleCheckBox('bot', Row1, "Hookride Bot", "ALT + Mouse Right Button", function() sc_ZeroHookVel = 0 sc_HookrideBot = 1 - sc_HookrideBot end, true)
-	MakeSimpleCheckBox('bot', Row1, "Jetride Bot", "ALT + Mouse Left Button", function() sc_JetpackRide = 0 sc_JetrideBot = 1 - sc_JetrideBot end, true)
-	MakeSimpleCheckBox('bot', Row1, "Pixel Move Bot", "Aka Edge Bot! Move only a bit if ALT is hold!", function() sc_allowPixelMove = 1 - sc_allowPixelMove end, true)
-	MakeSimpleCheckBox('bot', Row1, "Freeze Edge Bot", "Auto stand on edge of tile of freeze!", function() sc_DoEdgeBot = 1 - sc_DoEdgeBot end)
-	
-	
-	
-	
-	
-
-	
-	
-	MakeSimpleCheckBox('bot', Row1, "Auto Shoot Who Target You", "If anyone target you with any weapon then will get shooted by laser[FNG]", function() sc_autoHitTargeter = 1 - sc_autoHitTargeter end)
-	MakeSimpleCheckBox('bot', Row1, "Auto Shoot Everybody", "Shoot anybody who is alive [FNG]", function() sc_autoHitAll = 1 - sc_autoHitAll end)
-	MakeSimpleCheckBox('bot', Row1, "Auto Shoot Opposite Team", "Shoot anybody who is outside your team [FNG]", function() sc_autoHitOtherTeam = 1 - sc_autoHitOtherTeam end)
-	MakeSimpleCheckBox('bot', Row1, "Auto Shoot Zombies", "Shoot all zombies", function() sc_autoHitZombie = 1 - sc_autoHitZombie end)
-	
-	MakeSimpleCheckBox('bot', Row1, "Use Wallshot Hit If Failed", "If we cant shoot straight then use wallshot hit[FNG]", function() sc_WallshotHit = 1 - sc_WallshotHit end, true)
-	MakeSimpleCheckBox('bot', Row1, "Use Wallshot Hit ALWAYS", "Always hit enemies through wallshot[FNG]", function() sc_WallshotHitAlways = 1 - sc_WallshotHitAlways end)
-	
-	
-	
-	
-end
-
-
-function OnScriptUnload()
-
-	Engine.Graphics:UnloadTexture(BlueTex) 
-end
-
-targetTicks = {}
-
-function OnScriptInit()
-	
-	for ID = 0, 64, 1 do
-		targetTicks[ID] = {}
-	end
-	
-	local names = {
-		--"algorithm",
-		--"broadcast", 
-		--"config"   ,
-		--"debug"    , 
-		--"general"  , 
-		--"logger"   , 
-		--"luac"     , 
-		--"math"     , 
-		--"queue"    , --conflict with either fs,zlib,mlib,bitser!
-		--"sound"    , 
-		--"sprites"  , 
-		--"stringutils",
-		"tune"     ,
-		"twdata"   , 
-		--"twutils"  , 
-		--"types"    , --caused crash with remote loading!
-		"ui"         
-	}
-	
-	
-	for nameCount = 1, #names do
-		local success = Import(names[nameCount])
-		if( not success) then
-			Game.Console:Print(0, 'Failed to load ', '' .. names[nameCount] , 1)
-			return false
-		end
-	end
-
-
-
-
-
- 
-
-
-
-
-	OnEnterGame()
-	----Tex = Engine.Graphics:LoadTexture("data/textures/game/".. Config.tex_game ..".png",-1,-1,1)
-	
-
-	
-	ContainersStart()
-	
-	--if(_ConfigGet("Configed") ~= SashBotVersion) then
-	--	prn('First Automatic Config!')
-	--	_ConfigSet("Configed", SashBotVersion)
-	--	_ConfigSet("JetRideKey", "mouse1")
-	--	_ConfigSet("HookRideKey", "mouse2")
-	--	_ConfigSet("BalanceKey", "b")
-	--	
-	--	_ConfigSave()
-	--	_ConfigLoad()
-	--end
-	
-	NeonTeeTex = Engine.Graphics:LoadTexture("data/skins/Neontee.png",-1,-1,1)
-	BlueTex = Engine.Graphics:LoadTexture("data/textures/game/blue.png",-1,-1,1)
-
-	
-	--if(BotRectArray == nil) then BotRectArray = {} end
-	
-	CalcRects()
-		
-	--local BtnRect = UIRect(100,100,100,25)
-	--MakeAButton( "som text", BtnRect, "ATTip", function(BtnInfo) BtnInfo.Clicked = not BtnInfo.Clicked end  )
-	--MakeATextBox( "som text", BtnRect, "ATTip", function(BtnInfo) BtnInfo.Clicked = not BtnInfo.Clicked end  )
-	
-	resetAvailableRecord()
-	
-
-
-	Config.cl_cpu_throttle = 0
-	Config.cl_trans_in = 0
-	Config.cl_trans_out = 0
-	Config.cl_trans_chat_cmds = 0
- 
-	return true
-end
-
-function scHudDrawProperty(txt, prop, x, y, fontSize)
-	if(prop == 1) then Engine.TextRender:TextColor(0,1,0,1) else Engine.TextRender:TextColor(1,0,0,1) end
-	Engine.TextRender:Text(nil, x, y, fontSize,txt,-1)
-	Engine.TextRender:TextColor(1,1,1,1)
-	return Engine.TextRender:TextWidth(nil,fontSize,txt,-1,-1) + 10
-end
-
-_debugInfoStr = ""
-
-function DrawLocalPlaybackTee(RectPos, inDir)
-
- 	local MyTee = TeeRenderInfo() -- Ohne parameter???
-	MyTee.Texture = NeonTeeTex
-	--MyTee.ColorBody = Game.Players(Game.LocalCID).RenderInfo.ColorBody
-	--MyTee.ColorFeet = Game.Players(Game.LocalCID).RenderInfo.ColorFeet
-	MyTee.Size = 80
-	MyTee.GotAirJump = 1
-	--if(inDir == nil) then
-	--	inDir = vec2(math.cos(Game.Client.LocalTime * 5), math.sin(Game.Client.LocalTime * 5))
-	--end
-	
-	--Game.RenderTools:RenderTee( Game.CharSnap(DisplayID).Cur.Emote , MyTee , vec2f(math.cos(Game.Client.LocalTime * 5), math.sin(Game.Client.LocalTime * 5)) , vec2f(TeeWindow.x+TeeWindow.w/2,TeeWindow.y+TeeWindow.h/2),false,0)
-	Game.RenderTools:RenderTee( Game.CharSnap(Game.LocalCID).Cur.Emote , MyTee , vec2f(inDir.x, inDir.y) , vec2f(RectPos.x+RectPos.w/2,RectPos.y+RectPos.h/2),false,0)
-
-end
-
-function DrawTee(TeeWindow,DisplayID,Size, inDir)
-	-- Draw name at the Top
-
- 	local MyTee = TeeRenderInfo() -- Ohne parameter???
-	MyTee.Texture = Game.Players(DisplayID).RenderInfo.Texture
-	MyTee.ColorBody = Game.Players(DisplayID).RenderInfo.ColorBody
-	MyTee.ColorFeet = Game.Players(DisplayID).RenderInfo.ColorFeet
-	MyTee.Size = Size or 80 --Game.Players(DisplayID).RenderInfo.Size
-	MyTee.GotAirJump = Game.Players(DisplayID).RenderInfo.GotAirJump
-	if(inDir == nil) then
-		inDir = vec2(math.cos(Game.Client.LocalTime * 5), math.sin(Game.Client.LocalTime * 5))
-	end
-	--Game.RenderTools:RenderTee( Game.CharSnap(DisplayID).Cur.Emote , MyTee , vec2f(math.cos(Game.Client.LocalTime * 5), math.sin(Game.Client.LocalTime * 5)) , vec2f(TeeWindow.x+TeeWindow.w/2,TeeWindow.y+TeeWindow.h/2),false,0)
-	Game.RenderTools:RenderTee( Game.CharSnap(DisplayID).Cur.Emote , MyTee , vec2f(inDir.x, inDir.y) , vec2f(TeeWindow.x+TeeWindow.w/2,TeeWindow.y+TeeWindow.h/2),false,0)
-end
-
-
-function Render()
-	--if(sc_IsScriptEnabled ~= 1) then return end
-	
-	local MainView = Game.Ui:Screen()
-	Engine.Graphics:MapScreen(0,0, MainView.w, MainView.h)
-
-	
-	Label = UIRect(Game.LocalTee.Pos.x, Game.LocalTee.Pos.y - 42 ,0 ,0)
- 
-	--Game.Ui:DoLabelScaled(Label, "Available Commands:", 15, -1, -1, nil)
-	
-	-- Real Hud begins here	
-	local Screen = Game.Ui:Screen()
-	--Engine.Graphics:MapScreen(0,0, Screen.w, Screen.h)
-
-	-- Initialize all needed UIRect's
-	local MainView = Screen:copy()
- 	--local HUD = UIRect(0, MainView.h - 222, MainView.w, MainView.h)
-
-	if(IsSashUnlocked()) then
-		local HUD = UIRect(0, MainView.h - (MainView.h/15), MainView.w, MainView.h) 
-		Game.RenderTools:DrawUIRect(HUD, vec4f(0,0,0,0.5),  _CUI.CORNER_ALL, 10)
-		
-		local nextX = scHudDrawProperty("", 1, HUD.x, HUD.y, 18)
-		--local nextX = scHudDrawProperty("Bot(F11)", sc_IsScriptEnabled, HUD.x, HUD.y, 18)	
-		nextX = nextX + scHudDrawProperty("1TempTest", sc_TempTest, nextX, HUD.y, 18)
-		
-		local teePosStr = 'Pos:' .. Game.LocalTee.Pos.x .. '    ' .. Game.LocalTee.Pos.y .. '  Vel:' .. Game.LocalTee.Vel.x .. '   ' .. Game.LocalTee.Vel.y
-		nextX = nextX + scHudDrawProperty(teePosStr, sc_TempTest, nextX, HUD.y, 18)
-		--nextX = nextX + scHudDrawProperty("HookTick " .. Game.LocalTee.HookTick, sc_TempTest, nextX, HUD.y, 18)
-		nextX = nextX + scHudDrawProperty(_debugInfoStr , true, 0, HUD.y + 20, 18)
-	end
-
-	
-	if(sc_StartRecord == 1) then
-		Engine.TextRender:TextColor(1,0,0,1)
-		Engine.TextRender:Text(nil, Screen.w/2-100, Screen.h/2-50, 20,"Recording Moves",-1)
-		Engine.TextRender:TextColor(1,1,1,1)
-	elseif(sc_StartRecord == 2) then
-		Engine.TextRender:TextColor(0,1,0,1)
-		Engine.TextRender:Text(nil, Screen.w/2-100, Screen.h/2-50, 20,"Playing Moves",-1)
-		Engine.TextRender:TextColor(1,1,1,1)	
-	end
-
-
-	Engine.TextRender:TextColor(1,1,1,1)
- 
-end
-
-function OriginalKeyPress(Key)
-	
- 
-	--player_hooking
-	if Key == "mouse2" and sc_AutoAimHook == 1 then
-		local doLocalGrab = false
-		
-		if(sc_CheckForPlayerHooking == 1) then
-			if(Game.Tuning().player_hooking.Value  > 0) then
-				doLocalGrab = true
-			else 
-				doLocalGrab = false
-			end
-		else
-			doLocalGrab = true
-		end
-		
-		if(doLocalGrab == true) then
-			--LimitR = 168100
-			sc_AimAccuracy = 0.25
-			LimitR = (Game:Tuning().hook_length:Get() + 28) * (Game:Tuning().hook_length:Get() + 28)
-			Vic = Grab()
-		end
-	end
-
-	if Key == "mouse1" and sc_AutoAimFire == 1 then
-		--LimitR = 10000000
-		sc_AimAccuracy = 2
-		LimitR = Game:Tuning().laser_reach:Get() * Game:Tuning().laser_reach:Get() 
-		Vic = Grab()
-
-		if Game.LocalTee.Weapon == 3 then
-			Gup = 1
-
-			if UseG == 0 then
-				Vic = -1
-			end
-		end
-
-		Focus = 1
-	end
-end
-
-
-function prn(inp)
-
-	Game.Chat:AddLine(-2, 0,inp)
-end
-
-function onScriptDisable()
-	sc_LastHookSelectedPlayerId = -1
-	lastHookAimPos = vec2(0, 0)
-	lastHookAimId = -1
-
-end
-
-setDummy = 0
- 
- 
-
-function compressFile(inFilename, outFileName)
-	local zlib = require('ffi-zlib')
-
-	local f = io.open(inFilename, "rb")
-	local out_f = io.open(outFileName, "wb")
-
-	local input = function(bufsize)
-		-- Read the next chunk
-		local d = f:read(bufsize)
-		if d == nil then
-			return nil
-		end
-		return d
-	end
-
-	local output_table = {}
-	local output = function(data)
-		table.insert(output_table, data)
-		local ok, err = out_f:write(data)
-		if not ok then
-			
-			-- abort compression when error occurs
-			return nil, err
-		end
-	end
-
-	-- Compress the data
-	local ok, err = zlib.deflateGzip(input, output)
-	io.close(f)
-	io.close(out_f)
-	if not ok then
-		
-		return nil, err
-	end
-
-	return table.concat(output_table,'')
-end
-
- 
-
-
-function compressString(inString, outFileName)
-	local zlib = require('ffi-zlib')
-
-	--local f = io.open(inFilename, "rb")
-	local out_f = io.open(outFileName, "wb")
-
-	local count = 0
-	local input = function(bufsize)
-		local start = count > 0 and bufsize*count or 1
-		local finish = (bufsize*(count+1)-1)
-		count = count + 1
-		if bufsize == 1 then
-			start = count
-			finish = count
-		end
-		local data = inString:sub(start, finish)
-		if(#data == 0) then
-			return nil
-		end
-		
-		return data
-	end
-
-
-	--local output_table = {} --strOut
-	local output = function(data)
-		--table.insert(output_table, data) --strOut
-		local ok, err = out_f:write(data)
-		if not ok then
-			
-			-- abort compression when error occurs
-			return nil, err
-		end
-	end
-
-	-- Compress the data
-	local ok, err = zlib.deflateGzip(input, output)
-	--io.close(f)
-	io.close(out_f)
-	if not ok then
-		
-		return nil, err
-	end
-	return ok
-	--return table.concat(output_table,'') --strOut
-end
-
-
-function decompressFile(fileName)
-	local zlib = require('ffi-zlib')
-
-	local f = io.open(fileName, "rb")
-	--local out_f = io.open('ex.exe', "wb")
-
-	local input = function(bufsize)
-		-- Read the next chunk
-		local d = f:read(bufsize)
-		if d == nil then
-			return nil
-		end
-		return d
-	end
-
-	local output_table = {}
-	local output = function(data)
-		table.insert(output_table, data)
-		--local ok, err = out_f:write(data)
-		--if not ok then
-		--	return nil, err
-		--end
-	end
-
-	-- Decompress the data
-	local ok, err = zlib.inflateGzip(input, output)
-	
-	io.close(f)
-	--io.close(out_f)
-	
-	if not ok then
-		return nil
-	end
-
-	return table.concat(output_table,'')
-end
-
- 
-function decodeChar(hex)
-	return string.char(tonumber(hex,16))
-end
- 
-function decodeString(str)
-	local output, t = string.gsub(str,"%%(%x%x)",decodeChar)
-	return output
-end
- 
-function encodeChar(chr)
-	return string.format("%%%X",string.byte(chr))
-end
- 
-function encodeString(str)
-	local output, t = string.gsub(str,"[^%w]",encodeChar)
-	return output
-end
-
-
-
-function findRecAtPos(inPos, inDistance)
-	for i=1,#availRecPosArray,1 do
-		
-		if(Game.Collision:Distance(vec2(availRecPosArray[i].x, availRecPosArray[i].y), inPos) <= inDistance) then			
-			local binary_data = decompressFile(availRecPosArray[i].dir .. '/' .. availRecPosArray[i].fullName)
-			return bitser.loads(binary_data)
-		end	
-	end
-	return {}
-end
-
-function deleteRecAtPos(inPos)
-	for i=1,#availRecPosArray,1 do
-		
-		if(Game.Collision:Distance(vec2(availRecPosArray[i].x, availRecPosArray[i].y), inPos) <= 0) then
-			fs.remove(availRecPosArray[i].dir .. '/' .. availRecPosArray[i].fullName)
-			resetAvailableRecord()
-			return true
-		end	
-	end
-	return false
-end
-
-function saveARec(inPlayBackArray)
-	finalFileName = Game.Players(Game.LocalCID).Name .. '_' .. 
-				round2(inPlayBackArray[1].TeePosX) .. '_' ..
-				round2(inPlayBackArray[1].TeePosY) .. '_' ..
-				os.date("%y%m%d") .. '_' ..
-				os.date("%H%M%S") .. '_' ..
-				'Rez1' .. '_' ..
-				'Rez2' .. '_' ..
-				'Rez3'
-				
-	local binary_data = bitser.dumps(inPlayBackArray)
-	--local copy_of_some_thing = bitser.loads(binary_data)
-	--prn( encodeString(finalFileName) )
-	compressString(binary_data, 'rec/' .. encodeString(Game.ServerInfo.Map) .. '/' .. encodeString(finalFileName) )
-	
-	resetAvailableRecord()
-end
-
-function isAltDown()
-	return Engine.Input:KeyIsPressed("lalt") or Engine.Input:KeyIsPressed("ralt")
-end
-
-
-function isCtrlDown()
-	return Engine.Input:KeyIsPressed("lctrl") or Engine.Input:KeyIsPressed("rctrl")
-end
-
-
-
-function isShiftDown()
-	return Engine.Input:KeyIsPressed("lshift") or Engine.Input:KeyIsPressed("rshift")
-end
-
-	
-string.startswith = function(self, str) 
-    return self:find('^' .. str) ~= nil
-end
-
-
- 
-
-
-function OnKeyPress(Key)
-	--prn('' .. names_male[math.random(1, #names_male)])
-
-
-	--Game.Console:Print(0, 'EZ', 'sssss' , 1)  -- 185.141.105.153:8308
-	--Game.Console:Print(0, 'Erusi', Game.ServerInfo.IP , 1)
-	--Game.Console:Print(0, 'name', Game.ServerInfo.Name , 1)
-	--Game.Console:Print(0, 'Erusi', E('DBC2852C65C470604DC2E41CB1BC2C10DF66B3CCA7561A804CC2BFD019360E8021BEF1A413224770903837BCBC16BB60D4329D7C955A9D38C6A024ACB9640480') , 1)
-	
-	--Game.Console:Print(0, 'Erusi', PcHash()  , 1)
-	--Game.Console:Print(0, 'Erusi', SashVersion()  , 1)
-
-	if(Key == 'f5' and (HasLicense() == nil or HasLicense() == 'ExperimentalTrial') and SashTrialLicense == nil) then
-		SashTrialLicense = 'Trial'
-		setFullPage('bot')
-		sc_ForceDisconnect = 0
-	end
-
-	if(HasLicense() == nil) then
-		setFullPage('update')
-	end
-	
-	--mousewheeldown
-	--mousewheelup
-	--mouse3
-	if(Key == 'a' or Key == 'd') then
-		doPixelMove = true
-	end
-
-	--prn('key : ' .. Key)
---	if(Key == 'f11') then
---		sc_IsScriptEnabled = 1 - sc_IsScriptEnabled
---		if(sc_IsScriptEnabled ~= 1) then onScriptDisable() end
-	if(Key == 'mouse3' and sc_PlaybackBot == 1) then
-		if(isAltDown() and isCtrlDown() and isShiftDown()) then
-			--local exactRec = 
-			if(deleteRecAtPos(Game.LocalTee.Pos)) then --there is a record EXACTLY here
-				Game.HUD:PushNotification('Deleted record', vec4(1,0,0,1))
-			else
-				Game.HUD:PushNotification('Cant find any record to delete at this position!', vec4(0,1,1,1))
-				
-			end
-			
-		elseif(isCtrlDown() and not isAltDown() and not isShiftDown()) then
-			if(sc_StartRecord == 0) then  --currently nothing
-				local exactRec = findRecAtPos(Game.LocalTee.Pos, 0)
-				if(#exactRec > 0) then --there is a record EXACTLY here
-					
-					sc_playbackArray = exactRec
-					
-					
-					Game.Input.WantedWeapon = WEAPON_GUN 
-					sc_FirstPlayDelay = 10 -- ticks
-					
-					sc_StartRecord = 2
-					sc_sendPlaybackCount = 1
-					Game.HUD:PushNotification('Playing record!', vec4(0,1,0,1))
-					
-					return
-				end
-				
-				nearRec = findRecAtPos(Game.LocalTee.Pos, 34)
-				if(#nearRec > 0) then
-					Game.HUD:PushNotification('You cant start record near another record position!', vec4(1,0,0,1))
-				elseif(math.abs(Game.LocalTee.Vel.x) > 0.1 or math.abs(Game.LocalTee.Vel.y) > 0.1) then
-					Game.HUD:PushNotification('Stop your tee before try to record[Zero Velocity]', vec4(1,0,0,1))
-				elseif(sc_UseHeuristicAim == 1) then
-					Game.HUD:PushNotification('TURN OFF heuristic aiming before try to record', vec4(1,0,0,1))
-				else
-					restartRecordAtPos = nil
-					sc_playbackArray = {}
-					sc_StartRecord = 1
-					Game.HUD:PushNotification('Recording started!', vec4(0,1,0,1))
-					--sc_sendPlaybackCount = 1
-				end
-				
-			elseif(sc_StartRecord == 1) then  --currently recording
-				sc_StartRecord = 0
-				saveARec(sc_playbackArray)
-				Game.HUD:PushNotification('Recording stopped and saved!', vec4(0,1,1,1))
-				
-			elseif(sc_StartRecord == 2) then --currently playing a playback
-				sc_StartRecord = 0
-				sc_sendPlaybackCount = 1
-			end
-		 
-		
-		end
-	
-	elseif(sc_HookrideBot == 1 and Key.lower(Key) == 'mouse2') then
-		if(isAltDown() and not isCtrlDown() and not isShiftDown()) then
-			sc_JetpackRide = 0
-			
-			sc_ZeroHookVel = 1 - sc_ZeroHookVel				
-			WantedPos = Game.LocalTee.Pos
-		end
-		
-	elseif sc_JetrideBot == 1 and Key.lower(Key) == 'mouse1' then
-		if(isAltDown() and not isCtrlDown() and not isShiftDown()) then
-			sc_ZeroHookVel = 0
-			
-			sc_JetpackRide = 1 - sc_JetpackRide
-			if(sc_JetpackRide == 0) then Game.Input.Fire = 0 end --prevent bug continues shoot after disable
-			WantedPos = Game.LocalTee.Pos
-		end
-			
-	 
-	elseif(Key == 'f9') then
-		--Game.Input.DummyFire = (Game.Input.DummyFire + 1) % 2
-		--Game.Input.DummyFire = (Game.Input.DummyFire + 1) % 2
-		--Game.Input.DummyDirection = 1
-		setFullPage('bot')
-	
-	elseif(Engine.Input:KeyIsPressed("f12")) then
-		setFullPage('players', 'activeBot')
-		
-	end
-	
-	if(sc_IsScriptEnabled ~= 1) then return end
-	
-
-	
-	OriginalKeyPress(Key)
-	 
-	
-	
-	if(Key == 'mouse1') then
-		--Game.HUD:PushNotification('' .. Game.Client.LocalTime - SashRunTime, vec4(1,0,0,1))
- 
-
-	end
-
-		
-	if(Key == 'mouse1') then
-		scrollMousePos = vec2(Game.Ui:MouseX(), Game.Ui:MouseY())
-		HandleMenuClicks()
-		
-		
-		
-	elseif(Key == 'f8') then
-		--Config.cl_dummy = 1 - Config.cl_dummy	
-		
-		setDummy = 1
-		
-	end
-	
-	 
-
-	--state check end
-	
-	return 
-end
-
-function HasLicense ()
-
-	if(Game.Client.State ~= STATE_ONLINE) then
-		--sc_ForceDisconnect = 0
-		return "ExperimentalTrial"
-	elseif( tostring(Game.ServerInfo.IP):startswith('80.249.113.28') or tostring(Game.ServerInfo.Name):startswith('DDPER - ')) then
-	
-		return "ExperimentalTrial"
-	end
-	
-	if (_G["PcHash"] == nil) then
-	  sc_ForceDisconnect = 1
-	  return nil
-	end
-	--Game.Console:Print(0, 'cpuid ', CpuId(0, '%x') , 1)
-	
-	--Game.HUD:PushNotification(CpuId(0, '%x'), vec4(1,0,0,1))
-	--Game.HUD:PushNotification(CpuId(0, '%d', 0), vec4(1,0,0,1))
-	--Game.HUD:PushNotification(CpuId(0, '%d', 1), vec4(1,0,0,1))
-	--Game.HUD:PushNotification(CpuId(0, '%d', 2), vec4(1,0,0,1))
-	--Game.HUD:PushNotification(CpuId(0, '%d', 3), vec4(1,0,0,1))
-
-
-
-	local foundLic = false
-	for i = #listOfLiceses, 1, -1 do -- find the top-most one
-		if(PcHash() == E(listOfLiceses[i].key) )then
-			return listOfLiceses[i].owner
-		end
-	end
-	
-		
-	if( Game.Client.LocalTime - SashRunTime < 5 * 60 and numOfSnaps < 5 * 3000) then
-		return SashTrialLicense
-	end
-	
-	sc_ForceDisconnect = 1
-
-		
-end
-
-function Fly()
-	if(sc_JetpackRide == 0 and sc_ZeroHookVel == 0) then 
-		return
-	end
-	
-	local eachMoveStep = 4
-	local moveSensivity = eachMoveStep * 2
-	
-	if Engine.Input:KeyIsPressed("a") then
-		WantedPos.x = WantedPos.x - eachMoveStep
-	end
-
-	if Engine.Input:KeyIsPressed("d") then
-		WantedPos.x = WantedPos.x + eachMoveStep
-	end
-
-	if Engine.Input:KeyIsPressed("w") then
-		WantedPos.y = WantedPos.y - eachMoveStep
-	end
-
-	if Engine.Input:KeyIsPressed("s") then
-		WantedPos.y = WantedPos.y + eachMoveStep
-	end
-
-	local Priority = math.abs(Game.LocalTee.Pos.y - WantedPos.y)/6.685
-
-	if Priority < 1 then
-		Priority = 1
-	end
-
-	if WantedPos.y < Game.LocalTee.Pos.y then
-		VMod = Priority*-0.75
-	elseif Game.LocalTee.Pos.y < WantedPos.y then
-		VMod = Priority*0.75
-	else
-		VMod = 0
-	end
-
-	if VMod < Game.LocalTee.Vel.y then
-		if(sc_JetpackRide == 1) then
-			Game.Input.TargetX = 0
-			Game.Input.TargetY = 1
-		
-		
-			Game.Input.Fire = 1
-		elseif(sc_ZeroHookVel == 1 and (not Engine.Input:KeyIsPressed("mouse2")  )) then
-			if( nextWallShotTarget == nil and nextWallshotHitTarget == nil and nextShootgunSelfshotPos == nil
-				and shootAtTargeter == nil and shootAllNextCondidate == nil and sc_smartHammerNextId == -1) then
-				if(setTargetToCol ~= nil) then
-					Game.Input.TargetX = setTargetToCol.x
-					Game.Input.TargetY = setTargetToCol.y
-					
-					--Game.Input.MouseX = setTargetToCol.x
-					--Game.Input.MouseY = setTargetToCol.y
-					
-					setTargetToCol = nil
-				end
-				--if(Game.LocalTee.HookState == HOOK_GRABBED or Game.LocalTee.HookState == HOOK_RETRACTED ) then
-				if(Game.LocalTee.HookState == HOOK_RETRACTED ) then
-					Game.Input.Hook = 0
-				elseif(Game.LocalTee.HookState == HOOK_GRABBED and (Game.LocalTee.Vel.y < 0 or Game.LocalTee.HookedPlayer ~= -1 )) then
-					--or math.abs(Game.LocalTee.Vel.y) > 0 
-					Game.Input.Hook = 0
-				else
-					Game.Input.Hook = 1
-				end
-				
-			end
-		end
-		
-	else
-		if(sc_JetpackRide == 1) then
-			Game.Input.Fire = 0
-		elseif(sc_ZeroHookVel == 1 and (not Engine.Input:KeyIsPressed("mouse2") )) then
-			Game.Input.Hook = 0
-		end
-	end
-
-	if Game.LocalTee.Pos.x - WantedPos.x < -moveSensivity then
-		Game.Input.Direction = 1
-	elseif moveSensivity < Game.LocalTee.Pos.x - WantedPos.x then
-		Game.Input.Direction = -1
-	else
-		Game.Input.Direction = 0
-	end
-
-	return 
-end
-
-function OriginalOnKeyRelease(Key)
-	if Key == "mouse1" then
-		Focus = 0
-	end
-	
-
-	if(Key == 'mouse1') then
-		HandleMenuClickRelease()
-	end
-	
-	Vic = -1
-end
-
-function OnKeyRelease(Key)
-	if(sc_IsScriptEnabled ~= 1) then return end
-	
-	OriginalOnKeyRelease(Key)
-
- 
-	return 
-end
-
-function Tar(x, y, xx, yy, Rly)
-	local ax = xx - x
-	local ay = yy - y
-	local ac = Dis(x, y, xx, yy)
-	local sx = x + ax/ac*TeeTall
-	local sy = y + ay/ac*TeeTall
-	local Us = Game.LocalTee.Pos
-	local Them = Game.LocalTee.Pos
-	Us.x = sx
-	Us.y = sy
-	Them.x = xx
-	Them.y = yy
-
-	--local tRes =Game.Collision:IntersectLine(Us, Them, nil, nil, false)
-	--if(tRes ~= 0 and tRes ~= 1 and tRes ~= 3) then
-	--	prn("a: " .. Game.Collision:IntersectLine(Us, Them, nil, nil, false))
-	--end 
-	if Game.Collision:IntersectLineTeleHook(Us, Them, nil, nil, false) == 0 then
-		if Rly == 1 then
-			if Gup == 1 then
-				local Zav = math.deg(math.atan(ay/ax))
-
-				if 0 < Zav then
-					Zav = Zav*-1
-				end
-
-				Zav = Zav + 90.001
-				Zav = math.sqrt(Zav)
-				local Fas = (40 - ac )*(40 - ac)
-				local Ini = 20
-				Gup = Ini - Fas*Zav*Con
-
-			end
-
-			Game.Input.TargetX = xx - x
-			Game.Input.TargetY = yy - y + Gup
-		end
-
-		return 1
-	end
-
-	return 0
-end
-
-
-function round2(num, numDecimalPlaces)
-  return tonumber(string.format("%." .. (numDecimalPlaces or 0) .. "f", num))
-end
-
-
-
-function SetAim(Who, Rly)
-	local anax, anay, anaxx, anayy = nil
-	local anax = LPosx()
-	local anay = LPosy()
-	local anaxx = Posx(Who)
-	local anayy = Posy(Who)
-	
-	local foundARad = 0
-	local foundBRad = 0
-	local startRad = -1
-	local endRad = -1
-	
-	if(sc_UseHeuristicAim == 1) then
-		sc_AimAccuracy = 2
-	end
-	
-	for TeeRad = 0, TeeRadConst, sc_AimAccuracy do
-		if  Tar(anax, anay, anaxx - TeeRad, anayy - TeeRad, Rly) == 0 and Tar(anax, anay, anaxx - TeeRad, anayy + TeeRad, Rly) == 0 and Tar(anax, anay, anaxx + TeeRad, anayy - TeeRad, Rly) == 0 and Tar(anax, anay, anaxx + TeeRad, anayy + TeeRad, Rly) == 0 then
-			if Rly == 1 and UseDD == 1 then
-				Game.Input.TargetX = anaxx - anax
-				Game.Input.TargetY = anayy - anay
-			end
-			--return 0
-		else
-			foundARad = 1
-			startRad = TeeRad
-			break
-		end
-	end
-	
-	for TeeRad = TeeRadConst, 0, -sc_AimAccuracy do
-		if  Tar(anax, anay, anaxx - TeeRad, anayy - TeeRad, Rly) == 0 and Tar(anax, anay, anaxx - TeeRad, anayy + TeeRad, Rly) == 0 and Tar(anax, anay, anaxx + TeeRad, anayy - TeeRad, Rly) == 0 and Tar(anax, anay, anaxx + TeeRad, anayy + TeeRad, Rly) == 0 then
-			if Rly == 1 and UseDD == 1 then
-				Game.Input.TargetX = anaxx - anax
-				Game.Input.TargetY = anayy - anay
-			end
-			--return 0
-		else
-			foundBRad = 1
-			endRad = TeeRad
-			break
-		end
-	end
-	
-	
-	if( foundBRad == 1 and foundARad == 1) then
-		
-		TeeRad = ((startRad + endRad)/2)
-		--prn(startRad .. "     " .. endRad .. "      " .. TeeRad)
-		if  Tar(anax, anay, anaxx - TeeRad, anayy - TeeRad, Rly) == 0 and Tar(anax, anay, anaxx - TeeRad, anayy + TeeRad, Rly) == 0 and Tar(anax, anay, anaxx + TeeRad, anayy - TeeRad, Rly) == 0 and Tar(anax, anay, anaxx + TeeRad, anayy + TeeRad, Rly) == 0 then
-			if Rly == 1 and UseDD == 1 then
-
-				Game.Input.TargetX = anaxx - anax
-				Game.Input.TargetY = anayy - anay
-			end
-			--return 0
-		end
-		
-	end
-	
-	return foundBRad
-end
-
-function InRange(Who)
-	local rxx = LPosx() - Posx(Who)
-	local ryy = LPosy() - Posy(Who)
-
-	if rxx*rxx + ryy*ryy <= 168100 then
-		return 1
-	end
-
-	return 0
-end
-
-
-
-
-
-
-
-
-function meanAngle (angleList)
-  local sumSin, sumCos = 0, 0
-  for i, angle in pairs(angleList) do
-    sumSin = sumSin + math.sin(math.rad(angle))
-    sumCos = sumCos + math.cos(math.rad(angle))
-  end
-  local result = math.deg(math.atan2(sumSin, sumCos))
-  return string.format("%.2f", result)
-end
- 
-
- 
-
-function DummyFireAtPos(PosOrDir)
-	Game.Input.DummyTargetX = PosOrDir.x
-	Game.Input.DummyTargetY = PosOrDir.y
-	--Game.Console:Print(0, 'Game.Input.DummyFire', Game.Input.DummyFire , 1)
- 
-	--Game.Input.DummyFire = (Game.Input.Fire + 2) % 64 --idk why DummyFire not works	
-	--Game.Input.DummyFire = (Game.Input.Fire - Game.Input.DummyFire) + 1--idk why DummyFire not works	 
-	--Game.Input.DummyFire = (Game.Input.DummyFire - Game.Input.Fire )  --idk why DummyFire not works	
-	Game.Input.DummyFire = (Game.Input.Fire + 2) % 64	
-	
-end
-
-function FireAtPos(PosOrDir)
-	WillIUseFire = true
-	Game.Input.TargetX = PosOrDir.x
-	Game.Input.TargetY = PosOrDir.y
-	Game.Input.Fire = (Game.Input.Fire + 2) % 64
-end
-
-function PossibleToLaser(inPlayerID)
-	local VictimPos = Game.Players(inPlayerID).Tee.Pos
-	if(inPlayerID ~= nil and Game.Players(inPlayerID).Active and Game.CharSnap(inPlayerID).Active) then
-		--if(TW.Game:IntersectCharacter(Game.LocalTee.Pos, VictimPos, nil, Game.LocalCID ) == inPlayerID) then
-			if(Game.Collision:IntersectLine(Game.LocalTee.Pos, VictimPos, nil, nil, false) == 0) then
-				if(Game.Collision:Distance(Game.LocalTee.Pos, VictimPos) < Game:Tuning().laser_reach:Get()) then
-					return true
-				end
-			end
-		--end
-	end
-	return false
-end
-
-function PossibleToLaserOtherTeam(inPlayerID)
-	
-	if(PossibleToLaser(inPlayerID)) then
-		if( Game.Snap:PlayerInfos(inPlayerID).Team ~= Game.Snap:PlayerInfos(Game.LocalCID).Team ) then return true end
-	end
-	return false
-end
-
-function LaserShootPlayer(inPlayerID)
-	if(PossibleToLaser(inPlayerID)) then
-		--FireAtPos(Game.Players(inPlayerID).Tee.Pos)
-		FireAtPos(Game.Players(inPlayerID).Tee.Pos - Game.LocalTee.Pos)
-		 
-	end
-end
-
-function IncreasePingBy(incAmount)
-	Config.ClFakePingInc = incAmount
-	Config.ClFakePingDec = 0
-end
-
-
-function DecreasePingBy(incAmount)
-	Config.ClFakePingInc = 0
-	Config.ClFakePingDec = incAmount
-end
-
-function setFullPage(inPage, extraOption)
-
-
---Game.Console:Print(0, 'numOfSnaps: ',numOfSnaps , 1)
-	if (_G["PcHash"] ~= nil) then
-		if(HasLicense() == nil or HasLicense() == 'Trial') then
-			Game.Console:Print(0, 'Register Your Hardware: ', PcHash() , 1)
-
-		end
-		
-	  
-	end
-
-
-
-	if(inPage == 'update' ) then
-		if( sc_ForceUpdateClient == 1) then
-		
-			return
-		end
-		if( sc_ForceLicenseClient == 1 ) then
-			return
-		end
-	end
-
- 
-	sc_ForceLicenseClient = 0
-	sc_ForceUpdateClient = 0
-	sc_SelectActivePlayers = 0
-	sc_BotOptionPage = 0
-	sc_ActiveFullscreenPage = ''
-	sc_BotMenuSelectPlayerReason = ''
-	--others
-	
-	if(sc_IsFullScreen and (extraOption == nil or extraOption == 'activeBot')) then
-		
-		ExitFullscreen()
-		
-	else
-		sc_ActiveFullscreenPage = inPage
-		if(inPage == 'bot') then
-			sc_BotOptionPage = 1
-		elseif(inPage == 'players') then
-			sc_SelectActivePlayers = 1
-			sc_BotMenuSelectPlayerReason = extraOption
-		elseif(inPage == 'update') then
-			if(SashVersion() ~= SashExeVer and SashDebugIgnoreVer == false) then
-				sc_ForceUpdateClient = 1
-				sc_ForceDisconnect = 1
-			elseif(HasLicense() == nil) then
-				sc_ForceLicenseClient = 1
-				sc_ForceDisconnect = 1
-			end
-		end
-		
-		EnterFullscreen()
-	end
-	
-	
-	
-end
-
-
-PlaybackLines = {}
-PlaybackLinesM = {}--Hooks
-PlaybackLinesF = {}--Fires
-
-
-WillIUseFire = false
-
-
-numOfSnaps = 0
-function OnSnapInput()
-	WillIUseFire = false
-	
-	numOfSnaps = numOfSnaps + 1
-	
-  
-	_debugInfoStr = 'att:' .. getPlayerWaitTimeFire(Game.LocalCID)
-	
-	
-	--Game.Input.DummyFlags = bit.bor(Game.Input.DummyFlags, 512+256)
-	--Game.Input.Flags = bit.bor(Game.Input.Flags, 512+256)
-	
-	--Game.Input.Flags = 1
-	--local res = Game.Collision:TestBox(Game.LocalTee.Pos, vec2(28,28))
-	--if(res) then prn('YES') end
-	
-	
-	
-	if(sc_StartRecord == 2) then
-		if(sc_FirstPlayDelay ~= nil) then
-			if(Game.CharSnap(Game.LocalCID).Cur.Weapon == WEAPON_GUN) then
-				Game.Input.Fire = sc_playbackArray[1].Fire --prevent start fire bug
-				Game.Input.TargetX = 0 --prevent start fire bug
-				Game.Input.TargetY = 1 --prevent start fire bug
-				sc_FirstPlayDelay = nil
-				return
-			end
-			
-			
-			
-			if(sc_FirstPlayDelay > 0) then
-				sc_FirstPlayDelay = sc_FirstPlayDelay - 1
-			else 
-				sc_FirstPlayDelay = nil
-			end
-			return
-		end
-		
-		PlaybackLines = {}
-		PlaybackLinesM = {}
-		PlaybackLinesF = {}
-		--drawing lines
-		for ci = 1, 50, 1 do
-			local checkForPreEnable = sc_sendPlaybackCount + ci
-			if(checkForPreEnable <= #sc_playbackArray) then
-				local preRec = sc_playbackArray[checkForPreEnable-1]
-				local nextRec = sc_playbackArray[checkForPreEnable]
-				
-				table.insert(PlaybackLines, LineItem(preRec.TeePosX, preRec.TeePosY,
-					nextRec.TeePosX ,nextRec.TeePosY)) -- add a new line
-				
-				if(preRec.Hook ~= nextRec.Hook and preRec.Hook == 0) then
-					table.insert(PlaybackLinesM, LineItem( preRec.TeePosX , preRec.TeePosY,
-						 preRec.TargetX + preRec.TeePosX , preRec.TargetY + preRec.TeePosY)) -- add a new line
-				end
-				
-				if(preRec.Fire ~= nextRec.Fire and preRec.Fire%2 == 0) then
-					table.insert(PlaybackLinesF, LineItem( preRec.TeePosX , preRec.TeePosY,
-						 preRec.TargetX + preRec.TeePosX , preRec.TargetY + preRec.TeePosY)) -- add a new line
-				end
-					
-			end
-		end
-		
-		
-		if(sc_sendPlaybackCount <= #sc_playbackArray) then
-			local TeePosInRec = vec2( sc_playbackArray[sc_sendPlaybackCount].TeePosX, sc_playbackArray[sc_sendPlaybackCount].TeePosY)
-			local TeePosDiffWithRec = Game.Collision:Distance( TeePosInRec, Game.LocalTee.Pos)
-			if(sc_StopAutoPlayOnError == 1 and TeePosDiffWithRec > 200) then
-				Game.HUD:PushNotification('Error Occured While Playing', vec4(1,0,0,1))
-				sc_StartRecord = 0
-				sc_sendPlaybackCount = 1
-				--prn('' .. Game.Collision:Distance( TeePosInRec, Game.LocalTee.Pos))
-			end
-			
-			--_debugInfoStr = 'playframe: ' .. sc_sendPlaybackCount
-			
-			Game.Input.Direction = sc_playbackArray[sc_sendPlaybackCount].Direction
-			
-			Game.Input.Fire = sc_playbackArray[sc_sendPlaybackCount].Fire
-			Game.Input.Hook = sc_playbackArray[sc_sendPlaybackCount].Hook
-			Game.Input.Jump = sc_playbackArray[sc_sendPlaybackCount].Jump
-			if(sc_playbackArray[sc_sendPlaybackCount].WantedWeaponProced == nil) then
-				Game.Input.WantedWeapon = sc_playbackArray[sc_sendPlaybackCount].WantedWeapon
-			end
-			Game.Input.TargetX = sc_playbackArray[sc_sendPlaybackCount].TargetX
-			Game.Input.TargetY = sc_playbackArray[sc_sendPlaybackCount].TargetY
-			
-			 
-			sc_sendPlaybackCount = sc_sendPlaybackCount + 1
-	 
-			
-			if(sc_ChangeWeaponFasterOnPlayback == 1) then
-				for ci = 1, 20, 1 do
-					local checkForPreEnable = sc_sendPlaybackCount + ci
-					if(checkForPreEnable <= #sc_playbackArray) then
-						--wantedweapon
-						if(ci <= 20) then
-							sc_playbackArray[sc_sendPlaybackCount].WantedWeaponProced = true
-							if(sc_playbackArray[sc_sendPlaybackCount].WantedWeapon ~= sc_playbackArray[checkForPreEnable].WantedWeapon) then
-								--prn('ci ' .. ci)
-								Game.Input.WantedWeapon = sc_playbackArray[checkForPreEnable].WantedWeapon
-								--break
-							end
-							 
-						end
-					end
-				end
-			end
-		else
-			sc_sendPlaybackCount = 1
-			sc_StartRecord = 0
-			
-			
-			--if autoplayback
-			local exactRec = findRecAtPos(Game.LocalTee.Pos, 0)
-			if(#exactRec > 0) then --there is a record EXACTLY here
-				sc_playbackArray = exactRec
-				sc_StartRecord = 2
-				sc_sendPlaybackCount = 1
-				Game.HUD:PushNotification('Auto continue record!', vec4(0,1,0,1))
-				
-				
-				return
-			end
-			
-		end
-		
-		return
-	end
-
-
-
-	for ID = 0, 64, 1 do
-		if(Game.Players(ID).Active) then 
-			local ptime = (Game.CharSnap(ID).Cur.AttackTick-(Game.Client.Tick-(0)))/50
-			if(ptime > -0.05 and ptime < 0.05) then
-				OnPlayerPredAttack(ID)
-				
-			end
-		end
-	end
-
-	if(sc_LimitTeeVelocity > 0) then
-		if( math.abs(Game.LocalTee.Vel.x) > sc_LimitTeeVelocity) then
-			if(Game.LocalTee.Vel.x > 0) then
-				Game.Input.Direction = -1
-			else
-				Game.Input.Direction = 1
-			end
-		end
-		
-		
-		
-	end
-	
-	if(sc_BalanceFromHooker == 1) then
-		
-		for ID = 0, 64, 1 do
-			if(Game.Players(ID).Active) then 
-				if( Game.Players(ID).Tee.HookedPlayer  == Game.LocalCID and Game.Players(ID).Tee.HookState == HOOK_GRABBED ) then
-					if(Game.Players(ID).Tee.Pos.y < Game.Players(Game.LocalCID).Tee.Pos.y ) then 
-						--on balaye mane
-						--prn('hooked me   ' .. ID .. '   ' .. Game.LocalCID .. '    ' .. Game.Players(ID).Tee.HookState)
-						--if(Game.Collision:IntersectLine(Game.LocalTee.Pos, Game.Players(ID).Tee.Pos, nil, nil, false) == 0) then				
-							if(Game.LocalTee.Pos.x - Game.Players(ID).Tee.Pos.x > 2) then
-								Game.Input.Direction = -1
-							elseif(Game.Players(ID).Tee.Pos.x - Game.LocalTee.Pos.x > 2) then
-								Game.Input.Direction = 1
-							
-							end
-						--end
-					end
-					
-					
-				end
-			end
-		end
-	end
-	
-	
-
-	if(doEdgeLeft == true) then
-		Game.Input.Direction = -1
-		doEdgeLeft = false
-	end
-	
-	if(doEdgeRight == true) then
-		Game.Input.Direction = 1
-		doEdgeRight = false
-	end
-	
-	
-
-	if(sc_allowPixelMove == 1) then
-		if(isAltDown()) then
-			if(doPixelMove) then
-				doPixelMove = false
-			else	
-				Game.Input.Direction = 0
-			end
-		end
-	end
-	
-	
-	if(sc_lagyMovement > 0) then
-		local lagReminder = Game.Client.Tick % 10
-		if(lagReminder < (2 * sc_lagyMovement)) then
-			Game.Input.Direction = -Game.Input.Direction
-			--return
-		end
-	end
-	
-	if(sc_lagyHook == 1) then
-
-		if(Engine.Input:KeyIsPressed("mouse2") ) then
-			if(Game.LocalTee.HookState == HOOK_GRABBED or Game.LocalTee.HookState == HOOK_RETRACTED) then
-				Game.Input.Hook = 0
-			else
-				OriginalKeyPress('mouse2')
-				Game.Input.Hook = 1
-			end
-			
-		end
-	end
-	
-	--if(rec == true) then
-	--	table.insert(Lines, LineItem(LastLinePos.x, LastLinePos.y, nres.x, nres.y))
-	--end
-	--if(setDummy == 1) then
-	--	Config.cl_dummy = 1 - Config.cl_dummy
-	--	Game.Input.Fire = (Game.Input.Fire + 1)%2
-	--	setDummy = 2
-	--elseif(setDummy == 2) then
-	--	Config.cl_dummy = 1 - Config.cl_dummy
-	--	Game.Input.Fire = (Game.Input.Fire + 1)%2
-	--	setDummy = 0
-	--end
-	--if(Game.LocalTee.Pos.y == 9809) then
-	--	_debugInfoStr = ""
-	--end
-	--if( math.abs(Game.LocalTee.Pos.y - 10924) < 10 and Game.Input.Hook == 0) then
-		--Game.Input.TargetX = -17
-		--Game.Input.TargetY = -294
-		--Game.Input.Hook = 1
-	--end
-	--if(Game.Input.Hook == 1 and string.len(_debugInfoStr) == 0 ) then
-	--	_debugInfoStr = "x: " .. Game.LocalTee.Pos.x .. "   y: " .. Game.LocalTee.Pos.y .. "    tx:" .. Game.Input.TargetX .. "   ty:" .. Game.Input.TargetY
-	--end
-	
-	if(sc_IsScriptEnabled ~= 1) then return end
-	
-
-	--dummyTick = dummyTick + 1
-	--if(dummyTick % 50 == 49) then
-	--	Config.cl_dummy = 1 - Config.cl_dummy
-	--end
-	if(sc_AutoAimFire == 1 or sc_AutoAimHook == 1) then
-		Grab() --colorize the hookable tee
-	else 
-		lastHookAimId = -1
-	end
-	
-	HaltLook = 0
-
-	if Focus == 0 and Game.LocalTee.HookedPlayer ~= -1 then
-		HaltLook = 1
-	end
-
-	if Vic ~= -1 and HaltLook == 0 then
-		SetAim(Vic, 1)
-	end
-
-	Gup = 0
-
-
-
-	if( nextWallShotTarget ~= nil) then
-		FireAtPos(nextWallShotTarget)
-		nextWallShotTarget = nil
-		
-
-	end
-	
-	if(nextWallshotHitTarget ~= nil) then
-		FireAtPos(nextWallshotHitTarget)
-		nextWallshotHitTarget = nil
-	end
-	
-	
-	if(Engine.Input:KeyIsPressed("mouse1")  and nextShootgunSelfshotPos ~= nil) then
-		FireAtPos(nextShootgunSelfshotPos)
-		--Game.Input.TargetX = nextShootgunSelfshotPos.x
-		--Game.Input.TargetY = nextShootgunSelfshotPos.y
-		nextShootgunSelfshotPos = nil
-	end
-	
-	
-	if(Engine.Input:KeyIsPressed("f3")) then
-		--prn('zz' .. numberToBinStr(31))
-		--prn( tostring(Game.Menus.Active) .. '  ' .. tostring(Game.Menus.ActivePage))
-		
-
-		
-		local meanDisToTile = (TeeSize / 2) + 1
-		
-		if( Game.Collision:GetTile(Game.LocalTee.Pos.x, Game.LocalTee.Pos.y + meanDisToTile) ~= 0) then
-			if( Game.Collision:GetTile(Game.LocalTee.Pos.x - meanDisToTile, Game.LocalTee.Pos.y) ~= 0 or
-				Game.Collision:GetTile(Game.LocalTee.Pos.x + meanDisToTile, Game.LocalTee.Pos.y) ~= 0) then
-					--prn('Candidate pos to rec')
-				end
-		end
-		
-		
-		--prn(Game.Players(Game.LocalCID).Tee.Angle/256 .. '    hit') 
-		--os.exit(0)
-	end
-	
-
-	
-	
-	
-	if(not Engine.Input:KeyIsPressed("mouse1")) then
-		if(shootAtTargeter ~= nil) then
-			LaserShootPlayer(shootAtTargeter)
-			shootAtTargeter = nil
-		end
-		
-		if(shootAllNextCondidate ~= nil) then
-			LaserShootPlayer(shootAllNextCondidate)
-			shootAllNextCondidate = nil
-		end
-	end
-	
-	
-	
-	if(Engine.Input:KeyIsPressed("mouse2") and sc_FastHook == 1 ) then
-		--local setHookState = false
-		if(Game.LocalTee.HookState == HOOK_RETRACTED) then
-			Game.Input.Hook = 0
-			setHookState = true
-		elseif(Game.LocalTee.HookState == HOOK_GRABBED) then
-			if(Game.LocalTee.HookedPlayer == -1) then
-				Game.Input.Hook = 0
-				setHookState = true
-			elseif( sc_IsBotAllowed[Game.LocalTee.HookedPlayer] == 0) then
-				Game.Input.Hook = 0
-				setHookState = true
-			
-			end
-		else			
-			OriginalKeyPress('mouse2')
-			Game.Input.Hook = 1		
-		end
-		
-	end
-	 
-	if(Engine.Input:KeyIsPressed("mouse1") and sc_FastFire == 1) then
-		Game.Input.Fire = (Game.Input.Fire + 1) % 64
-	end
-	
-	if(sc_DummyHookFly == 1) then
-		--Game.MainID .. '    id2:' .. Game.DummyID
-		if((Game.Client:DummyConnected())) then
-			
-			local MainPos = Game.LocalTee.Pos
-			local DummyPos = Game.Players(Game.DummyID).Tee.Pos
-			
-			if(Config.cl_dummy == 1 ) then
-				DummyPos = Game.Players(Game.MainID).Tee.Pos
-			end
-
-			local mdDir = MainPos - DummyPos			
-			if(DummyPos.y < MainPos.y and Game.Collision:Distance(DummyPos, MainPos) > 16) then
-				Game.Input.DummyTargetX = mdDir.x
-				Game.Input.DummyTargetY = mdDir.y
-				Game.Input.DummyHook = 1
-			else
-				Game.Input.DummyHook = 0
-			end
-
-			--if(((CGameClient *)GameClient())->m_aClients[m_LocalIDs[!g_Config.m_ClDummy]].m_Predicted.m_HookState == HOOK_RETRACTED || distance(Dummy, Main) < 48)
-			if(Game.Collision:Distance(DummyPos, MainPos) < 48) then
-				Game.Input.DummyHook = 0
-			end
-			
-		end
-		
-	end
-	
-	if(sc_smartHammer > 0 and sc_smartHammerNextId ~= -1) then
-		FireAtPos( Game.Players(sc_smartHammerNextId).Tee.Pos - Game.LocalTee.Pos )
-		sc_smartHammerNextId = -1
-	end
-	
-	
-	
-	if(sc_shootDummy == 1) then
-		if((Game.Client:DummyConnected())) then
-			Game.Input.DummyFire = (Game.Input.Fire + 2) % 64		
-		end
-	elseif(sc_shootDummy == 2) then
-		if((Game.Client:DummyConnected())) then
-			
-			local MainPos = Game.LocalTee.Pos
-			local DummyPos = Game.Players(Game.DummyID).Tee.Pos
-			--
-			--if(Config.cl_dummy == 1 ) then
-			--	DummyPos = Game.Players(Game.MainID).Tee.Pos
-			--end
-			
-			local lookDeg2 = MainPos - DummyPos
-			DummyFireAtPos(lookDeg2)
-			
-		end
-	end
-	
-	if( sc_AutoHammerFly == 1) then
-	
-		local MainPos = Game.LocalTee.Pos
-		local DummyPos = Game.Players(Game.DummyID).Tee.Pos
-		
-		if(Config.cl_dummy == 1 ) then
-			DummyPos = Game.Players(Game.MainID).Tee.Pos
-		end
-		
-		
- 
-		--	Game.Input.DummyFire = (Game.Input.DummyFire + 1) % 10
-		--	local lookDeg = MainPos - DummyPos
-		--	Game.Input.DummyTargetX = lookDeg.x
-		--	Game.Input.DummyTargetY = lookDeg.y
- 
-
-		local setHookState = false
-		if(Game.LocalTee.HookState == HOOK_RETRACTED) then
-			Game.Input.Hook = 0
-			setHookState = true
-		elseif(Game.LocalTee.HookState == HOOK_GRABBED and Game.LocalTee.HookedPlayer ~= Game.MainID and Game.LocalTee.HookedPlayer ~= Game.DummyID) then
-			Game.Input.Hook = 0
-			setHookState = true			
-		end
-		
-		if( not setHookState) then
-			Game.Input.Hook = 1
-			local lookDeg2 = DummyPos - MainPos
-			Game.Input.TargetX = lookDeg2.x
-			Game.Input.TargetY = lookDeg2.y
-		end
-	end
- 
-	if(sc_TempTest == 1) then
-		
-
-
- 
- --Game.Input.Fire = (Game.Input.Fire + 1) % 10
-		
-		--Game.Input.DummyDirection    = Game.Input.Direction     
-		--Game.Input.DummyFire         = Game.Input.Fire - lastInputData[Config.cl_dummy].Fire          
-		--Game.Input.DummyHook         = Game.Input.Hook          
-		--Game.Input.DummyJump         = Game.Input.Jump          
-		--Game.Input.DummyWantedWeapon = Game.Input.WantedWeapon  
-		--Game.Input.DummyTargetX      = Game.Input.TargetX       
-		--Game.Input.DummyTargetY      = Game.Input.TargetY       
-		
-		
-	end
-	
-	
-	--if(XYLaser ~= nil) then
-	--	XYLaser = XYLaser * 100
-	--	Game.Input.TargetX = XYLaser.x
-	--	Game.Input.TargetY = XYLaser.y
-	--	Game.Input.Fire = Game.Input.Fire + 1
-	--	XYLaser = nil
-	--else
-	--	Game.Input.Fire = 0
-	--end
-	 
-	
-	
-	if(sc_HookCol == 1 and Game.Input.Hook == 1 or sc_ZeroHookVel == 1) then
-	--prn(Game.Input.MouseX   .. '   ' .. Game.Input.MouseY)
-		--X 0 Y -256
-		local incDegEachTry = sc_CollFindStep / 100
-		local clStart = Game:Tuning().hook_length:Get()/3
-		local clEnd = Game:Tuning().hook_length:Get()
-		if(sc_ZeroHookVel == 0) then
-			clStart = Game:Tuning().hook_length:Get()
-		end
-		for checkLen = clStart , clEnd, clStart do
-			local TuneHLen = checkLen
-		
-			
-			--local TuneHLen = Game:Tuning().hook_length:Get()
-			local startFindFrom = vec2(Game.Input.MouseX, Game.Input.MouseY)
-			local maxAllowedDegree = sc_MaximumColHokDegree
-			if(sc_ZeroHookVel == 1) then
-				startFindFrom = vec2(0, -256)
-				maxAllowedDegree = sc_MaximumRideColHokDegree
-			end
-			
-			local startFindFromRadian = HeadVectorToRadian(startFindFrom.x, startFindFrom.y)
-			
-			local HookLenLimit = 42 + 17 --42 = teetall and 16 half of a tile to reach its center
-			local colPos = vec2(0,0)
-			local beforeColPos = vec2(0,0)
-	 
-			local startCol = nil
-			local endCol = nil
-			 
-			
-			local HookStartPos = Game.LocalTee.Pos + GetDir( startFindFromRadian) * 28 * 1.5
-			
-			local dirOfHook = GetDir( startFindFromRadian) * (TuneHLen - HookLenLimit)
-			local hookPos = HookStartPos + dirOfHook
-			local hokColTile = Game.Collision:IntersectLineTeleHook(HookStartPos, hookPos, colPos, beforeColPos, false) 
-			
-			--prn('X')
-			--prn(' hokColTile: ' .. hokColTile)
-			if(hokColTile == 3 or hokColTile == 0 or sc_ZeroHookVel == 1) then
-				
-				local positiveDeg = nil
-				local negativeDeg = nil
-				for degI = 0, maxAllowedDegree, incDegEachTry do
-					dirOfHook = GetDir( startFindFromRadian + (const_degInRad * degI)) * (TuneHLen - HookLenLimit)
-					hookPos = HookStartPos + dirOfHook
-					hokColTile = Game.Collision:IntersectLineTeleHook(HookStartPos, hookPos, colPos, beforeColPos, false)
-					
-					if(hokColTile == 1) then
-						positiveDeg = degI
-						break
-					end
-						
-				end		
-				for degI = 0, -maxAllowedDegree, -incDegEachTry do
-					dirOfHook = GetDir( startFindFromRadian + (const_degInRad * degI)) * (TuneHLen - HookLenLimit)
-					hookPos = HookStartPos + dirOfHook
-					hokColTile = Game.Collision:IntersectLineTeleHook(HookStartPos, hookPos, colPos, beforeColPos, false)
-					
-					if(hokColTile == 1) then
-						negativeDeg = degI
-						break
-					end
-						
-				end
-				
-				--if(positiveDeg ~= nil) then prn( 'PD:' .. positiveDeg) end
-				--if(negativeDeg ~= nil) then prn( 'ND:' .. negativeDeg) end
-				
-				local forSt = 1
-				local forEd = 0
-				local forSp = 1
-				
-				if(positiveDeg ~= nil and negativeDeg ~= nil) then
-					if(math.abs(positiveDeg) < math.abs(negativeDeg)) then
-						forSt = positiveDeg + 10
-						forEd = positiveDeg
-						forSp = -incDegEachTry
-					else
-						forSt = negativeDeg - 10
-						forEd = negativeDeg
-						forSp = incDegEachTry
-					end
-					
-				elseif(positiveDeg ~= nil or negativeDeg ~= nil) then
-					if(positiveDeg ~= nil) then
-						forSt = positiveDeg 
-						forEd = positiveDeg + 10
-						forSp = incDegEachTry
-					elseif(negativeDeg ~= nil) then
-						forSt = negativeDeg
-						forEd = negativeDeg - 10
-						forSp = -incDegEachTry
-					end
-				end
-				
-				--_debugInfoStr = "forSt:"  .. forSt .. "  forEd:" .. forEd .. " forSp:" .. forSp .. "  "
-				--prn(_debugInfoStr)
-				--_debugInfoStr = ""
-				for degI = forSt, forEd, forSp do
-					dirOfHook = GetDir( startFindFromRadian + (const_degInRad * degI)) * (TuneHLen - HookLenLimit)
-					hookPos = HookStartPos + dirOfHook
-					hokColTile = Game.Collision:IntersectLineTeleHook(HookStartPos, hookPos, colPos, beforeColPos, false)
-					
-					--prn('degI : ' .. degI)
-					if(hokColTile == 1) then
-						--prn('DONE')
-						if(startCol == nil) then
-							
-							--_debugInfoStr = _debugInfoStr .. degI .. "<d1    d2>"
-							
-							startCol = vec2( colPos.x, colPos.y)
-						end
-						endCol = vec2( colPos.x, colPos.y) 
-					else
-						--break
-					end
-					
-				 
-				end 
-				--prn( 'startCol:' .. round2(startCol.x,2) .. '    ' .. round2(startCol.y,2) .. '   endCol' .. round2(endCol.x,2) .. '     ' .. round2(endCol.y,2) )
-				if(startCol ~= nil and endCol ~= nil ) then
-					
-					
-					local sd = startCol - Game.LocalTee.Pos
-					local sdRad = HeadVectorToRadian(sd.x, sd.y)
-					
-					local sd2 = endCol - Game.LocalTee.Pos
-					local sdRad2 = HeadVectorToRadian(sd2.x, sd2.y) 
-					
-					
-					--local tempPrnDeg = ((sdRad2 + sdRad)/2)*180/PI
-					--local newTempPrnRad = meanAngle({350, 10})
-					--prn('s:'  .. round2(sdRad,2) .. '   e:' .. round2(sdRad2,2) .. "   deg:" .. round2(tempPrnDeg,1) .. ' ((sdRad2 + sdRad)/2):' .. round2((sdRad2 + sdRad)/2,2) )
-					
-					if( (sdRad < 0 and sdRad2 > 0) or (sdRad > 0 and sdRad2 < 0) ) then --if both have different signs then bug occurs we have to add one full circle 2PI to only one of them
-						sdRad = sdRad + (PI * 2)
-						--sdRad2 = sdRad2 + (PI * 2)
-						--prn('BUG')
-					end
-					--if( math.abs((sdRad2 + sdRad)/2) < 0.1 ) then
-					--	sdRad = sdRad + PI
-					--	sdRad2 = sdRad2 + PI
-					--end
-					
-					
-					--prn('s:'  .. round2(sdRad,1) .. '   e:' .. round2(sdRad2,1) .. "   deg:" .. round2(tempPrnDeg,1))
-					dirOfHook = GetDir( (sdRad2 + sdRad)/2) * TuneHLen
-					 
-					setTargetToCol  = vec2(dirOfHook.x, dirOfHook.y)
-					 
-					if(sc_ZeroHookVel == 0) then
-						Game.Input.TargetX = dirOfHook.x
-						Game.Input.TargetY = dirOfHook.y
-					else 
-					
-					end
-					
-					break -- lenCheck for
-				else 
-					
-				end
-			end
-		end
-    end
-	
-	
-	Fly()
-	
-	if(sc_SpinFire == 1 and Engine.Input:KeyIsPressed("mouse1")) then
-		if(not Engine.Input:KeyIsPressed("mouse2")) then
-			local testDir = normalize( vec2(math.sin(Game.Client.LocalTime*5 ), math.cos(Game.Client.LocalTime*5 ))) * 1000
-			Game.Input.TargetX = testDir.x
-			Game.Input.TargetY = testDir.y
-			if(sc_FastFire == 0) then
-				Game.Input.Fire = (Game.Input.Fire + 1) % 64
-			end
-		end
-	end
-	
-	
-	if(sc_Balance == 1) then
-		if (sc_LastHookSelectedPlayerId ~= nil and sc_LastHookSelectedPlayerId >= 0) then 
-			-- is anybody selected? Can we get to him?
-			if(Game.Collision:IntersectLine(Game.LocalTee.Pos, Game.Players(sc_LastHookSelectedPlayerId).Tee.Pos, nil, nil, false) == 0) then				
-				if(Game.LocalTee.Pos.x - Game.Players(sc_LastHookSelectedPlayerId).Tee.Pos.x > 2) then
-					Game.Input.Direction = -1
-				elseif(Game.Players(sc_LastHookSelectedPlayerId).Tee.Pos.x - Game.LocalTee.Pos.x > 2) then
-					Game.Input.Direction = 1
-				
-				end
-			end
-			 
-		end
-		 
-	end
-	
-	
-	if(sc_StartRecord == 1) then
-		sc_sendPlaybackCount = 1
-		
-				
-		if(sc_AutoRestartRecordOnFail == 1 and #sc_playbackArray > 1) then
-			if(restartRecordAtPos ~= nil) then
-				if ( Game.Collision:Distance(Game.LocalTee.Pos, restartRecordAtPos) <= 0) then
-					sc_playbackArray = {}
-					Game.HUD:PushNotification('Automaticaly restarted record at fail', vec4(1,0,0,1))
-					restartRecordAtPos = nil
-				end
-			else
-				if ( Game.Collision:Distance(Game.LocalTee.Pos, vec2(sc_playbackArray[1].TeePosX, sc_playbackArray[1].TeePosY )) > 0) then
-					restartRecordAtPos = vec2(sc_playbackArray[1].TeePosX, sc_playbackArray[1].TeePosY )
-				end
-			end
-		end
- 
- 		_debugInfoStr = 'recframe: ' .. #sc_playbackArray 
-		
-		sc_playbackArray[#sc_playbackArray+1] = {
-			Direction = Game.Input.Direction,
-			Fire = Game.Input.Fire,
-			Hook = Game.Input.Hook,
-			Jump = Game.Input.Jump,
-			--WantedWeapon  = Game.Input.WantedWeapon,
-			WantedWeapon = Game.CharSnap(Game.LocalCID).Cur.Weapon, 
-			TargetX  = Game.Input.TargetX,
-			TargetY  = Game.Input.TargetY,
-			TeePosX = Game.LocalTee.Pos.x,
-			TeePosY = Game.LocalTee.Pos.y,
-		}
-		
-	end
-	--
-
-	if(sc_StartRecord == 0 and Game.Client:DummyConnected() ) then
-		if(sc_HammerHammerFly == 1) then
-				local DummyTee = Game.Players(Game.DummyID).Tee
-				
-				local MainPos = Game.LocalTee.Pos
-				local DummyPos = Game.Players(Game.DummyID).Tee.Pos
-				if(Config.cl_dummy == 1 ) then
-					DummyPos = Game.Players(Game.MainID).Tee.Pos
-				end
-				
-				Game.Input.DummyWantedWeapon = WEAPON_HAMMER
-				Game.Input.WantedWeapon = WEAPON_HAMMER
-				
-				 
-				local mdDir = MainPos - DummyPos --dummy hit main
-				local mDir = DummyPos - MainPos  --main hit dummy
-
-				
-				if( Game.LocalTee.HookState == HOOK_RETRACTED or ( Game.LocalTee.HookState == HOOK_GRABBED and
-						(Game.LocalTee.HookedPlayer ~= Game.DummyID and Game.LocalTee.HookedPlayer ~= Game.LocalCID ) )) then
-						Game.Input.Hook = 0
-						
-				elseif( DummyTee.HookState == HOOK_RETRACTED or ( DummyTee.HookState == HOOK_GRABBED and 
-						(DummyTee.HookedPlayer ~= Game.DummyID and DummyTee.HookedPlayer ~= Game.LocalCID ) ) ) then
-
-						Game.Input.DummyHook = 0
-				elseif(Game.LocalTee.HookState ~= HOOK_GRABBED or DummyTee.HookState ~= HOOK_GRABBED) then
-					
-					
-					
-					Game.Input.DummyTargetX = mdDir.x
-					Game.Input.DummyTargetY = mdDir.y
-					
-					Game.Input.TargetX = mDir.x
-					Game.Input.TargetY = mDir.y
-					
-					Game.Input.DummyHook = 1
-					Game.Input.Hook = 1
-
-
-				end
-				
-				if(  Game.Collision:Distance(MainPos, DummyPos) <= 50) then
-				--if(math.abs(DummyPos.y - MainPos.y ) < 32 and math.abs(DummyPos.x - MainPos.x) < 32+16 ) then
-					
-					if(( Game.LocalTee.HookState == HOOK_GRABBED and DummyTee.HookState == HOOK_GRABBED) and
-						(Game.LocalTee.HookedPlayer == Game.DummyID and DummyTee.HookedPlayer == Game.LocalCID) ) then
-							local fixedMDir = vec2(mDir.x, 0)
-							local fixedMDDir = vec2(mdDir.x, 0)
-							FireAtPos(mDir)
-							DummyFireAtPos(mdDir)
-					
-					end
-				--else
-					--Game.Input.DummyHook = 0
-				end
-					
-		 
-			
-
-		elseif(sc_dummy_copy == 1) then
-			
-			Game.Input.DummyDirection    = Game.Input.Direction     
-			Game.Input.DummyFire         = Game.Input.Fire - lastInputData[Config.cl_dummy].Fire          
-			Game.Input.DummyHook         = Game.Input.Hook          
-			Game.Input.DummyJump         = Game.Input.Jump          
-			Game.Input.DummyWantedWeapon = Game.Input.WantedWeapon - 1
-			Game.Input.DummyTargetX      = Game.Input.TargetX       
-			Game.Input.DummyTargetY      = Game.Input.TargetY       
-			--Game.Input.DummyMouseX       = Game.Input.MouseX        
-			--Game.Input.DummyMouseY       = Game.Input.MouseY        
-			--Game.Input.DummyNextWeapon		= Game.Input.NextWeapon - lastInputData[Config.cl_dummy].NextWeapon
-			--Game.Input.DummyPreviousWeapon	= Game.Input.PreviousWeapon - lastInputData[Config.cl_dummy].PreviousWeapon
-			--flag copy missing
-			if(sc_dummy_mirrorX == 1) then Game.Input.DummyTargetX = -Game.Input.DummyTargetX end
-			if(sc_dummy_mirrorY == 1) then Game.Input.DummyTargetY = -Game.Input.DummyTargetY end
-			if(sc_dummy_direction == 1) then Game.Input.DummyDirection = -Game.Input.DummyDirection end
-			--m_InputData[g_Config.m_ClDummy].m_FCount - m_LastData[g_Config.m_ClDummy].m_FCount;
-		end
-
-	
-	end
-	
-	lastInputData[Config.cl_dummy] = {
-		Direction       = Game.Input.Direction, 
-		Fire            = Game.Input.Fire, 
-		Hook            = Game.Input.Hook, 
-		Jump            = Game.Input.Jump, 
-		WantedWeapon    = Game.Input.WantedWeapon, 
-		TargetX         = Game.Input.TargetX, 
-		TargetY         = Game.Input.TargetY, 
-		MouseX          = Game.Input.MouseX, 
-		MouseY          = Game.Input.MouseY, 
-		Flags  			= Game.Input.Flags,
-		NextWeapon		= Game.Input.NextWeapon,
-		PreviousWeapon	= Game.Input.PreviousWeapon
-	}
-	
-	
-	
-	lastInputData[1 - Config.cl_dummy] = {
-		Direction       = Game.Input.DummyDirection, 
-		Fire            = Game.Input.DummyFire, 
-		Hook            = Game.Input.DummyHook, 
-		Jump            = Game.Input.DummyJump, 
-		WantedWeapon    = Game.Input.DummyWantedWeapon, 
-		TargetX         = Game.Input.DummyTargetX, 
-		TargetY         = Game.Input.DummyTargetY, 
-		MouseX          = Game.Input.DummyMouseX, 
-		MouseY          = Game.Input.DummyMouseY, 
-		Flags  			= Game.Input.DummyFlags,
-		NextWeapon		= Game.Input.DummyNextWeapon,
-		PreviousWeapon	= Game.Input.DummyPreviousWeapon
-	}
-	
-
-	
-	return 
-end
-
-function OnKill(Sword, Shield, Weapon)
-	if(sc_IsScriptEnabled ~= 1) then return end
-	
-	--Game.Players(Shield).Tee.Pos.x = 1000000
-	--Game.Players(Shield).Tee.Pos.y = 1000000
-
-	return 
-end
-
-function OnInputLevel(Level, KeyName, EventTable)
-	--prn(KeyName .. '   ' .. Level .. '   ' )
-	--return true
-end
-
-
-
-
-function RenderTest()
-	--EnterFullscreen()
-	
-	--local Screen = Game.Ui:Screen()
-	--Engine.Graphics:MapScreen(Screen.x, Screen.y, Screen.w, Screen.h)
-	--Game.Ui:DoLabelScaled(UIRect(25, Screen.h/30 * 1, Screen.w, Screen.h/30),"XXXXXXXXXXXXX " ,17,0,Screen.w,"SS")
-	--
-end
-
-
-function GlobalRender(Level)
-
-	--local Screen = Game.Ui:Screen()
-	--Engine.Graphics:MapScreen(Screen.x, Screen.y, Screen.w, Screen.h)
-	--Game.Ui:DoLabelScaled(UIRect(25, Screen.h/30 * Level, Screen.w, Screen.h/30),"Level " .. Level,17,0,Screen.w,"SS")
-	
-end
-
---[[
-0 CKillMessages      
-1 CCamera            
-2 CChat              
-3 CMotd              
-4 CBroadcast         
-5 CGameConsole       
-6 CBinds             
-7 CParticles         
-8 CMenus             
-9 CMenusTooltip      
-10 CSkins             
-11 CCountryFlags      
-12 CFlow              
-13 CHud               
-14 CDebugHud          
-15 CControls          
-16 CEffects           
-17 CScoreboard        
-18 CStatboard         
-19 CSounds            
-20 CEmoticon          
-21 CDamageInd         
-22 CVoting            
-23 CSpectator         
-24 CSpoofRemote       
-25 CIdentity          
-26 CGameTextureManager
-27 CDrawing           
-28 CFontMgr           
-29 CFontMgr           
-30 CSkinDownload   
- 
-]]--
-
-
-
-
-
-RegisterEvent("OnKill", "OnKill")
-RegisterEvent("OnEnterGame", "OnEnterGame")
-RegisterEvent("OnChat", "OnChat")
-RegisterEvent("OnConsoleCommand", "OnConsoleCommand")
-RegisterEvent("OnKeyPress", "OnKeyPress")
-RegisterEvent("OnSnapInput", "OnSnapInput")
-RegisterEvent("OnKeyRelease", "OnKeyRelease")
-RegisterEvent("OnRenderLevel14", "Render")
-RegisterEvent("OnRenderLevel22", "RenderFullscreen")
---RegisterEvent("OnRenderLevel24", "RenderCustomMenu")
-RegisterEvent("OnRenderLevel999", "RenderCustomMenu")
-
-
---RegisterEvent("OnRenderBackground", "OnRenderTest")
-
-
-
-for i = 0, 30, 1 do -- find the top-most one
-	if(i < 2 or i > 5) then 
-		RegisterEvent("OnRenderLevel" .. i, function() GlobalRender(i) end)
-	end
-end
-
-return 
-
---[[ENDOFFILE]]--
+Â^Údº³%´Cg—ÉàÊ£H.[´¹ë“AÌåe+N»0wï8'zÐ?­ Vûë‹°™!V+ò@'ôíNDîÄ“·’ ‚	'ç&Uí_ðªóGÓH‹¸ñ@Œ®‰–KæIÈÛš‹LgU™?†G«¸ð©ŠH°0 ü«Jb¡5¢m`0Í=ù}G‘PžÛÆïŠÜ,ÿÆï›@SåƒÅ "ëC~[n™¢¡ƒ#·môPƒ÷&Iƒp…õê¶Ï‰Æ·X˜éÔ9¦+{hOÆ7í«úÅJÙu“*ÿ÷S	òbiðî8–ÊV+,¢V"†‚†µ—Zóƒ¥S/2ë ûX…´tö8í±z*†‡SC‘~?¾šcÑÄÙ
+Ö˜s3&&Ü\/ÑJ;Ä‚wNÅ~¦ìD0{Ïì¼všl&ÁÚ$jn
+ˆ»™„×`
+NÕœ=ÃÀ)3P³}ƒrNr›H”bQúYÌ6ñýésØâ$e¿wCehPøºâŠGï”)ÑCÕ´½Ê•Ç”gçÌ×|78—#,xÃ€ëjŒÀÛ8O7ß}è9øÛçXï»udT¶æ‚	é€èç^[óÒQðRmjwJ0)O„¹íd,FÛ«ÊQê2-µ±fPLÓ©?¢yTóúÃ×oÎ<²Îö’’¿CsLÆÀ€ª[Ð
+—îFË«öí®¿êæ×ü7Æ‹èšÕ"¹–™\Î¦DyP}U0u'vGúq~©´ß]ÎÞ3¦ì‰ÀÎ@vÒ/žŽ8]¥¢uˆq¯Ù±¢‹aaB‡%(å¶>z˜;(Ê~ÝÿMVý.”‚˜ÊÛ¶½a¿üÙl½øþÖ¤º%•D¿¹M×Œ­w'‘¤§ósõÍ(¸ÕúÉâÞ"×}»üP¡KÕMŒûÓnÒÇ‘i‹.S
+·ožP£ôþg"G&Ÿk‹Õß Òâ©ÞJw~ïEdíÃŽ?ðáý¡wšÉËÓyÅA§¶k«#ÀgàÓ˜àµrœBØf!+Q]ˆ·ÓRÆ·öùÆMè Í9: ^íÕÄ !ZN÷ÿ@=Û20c€Ó7[2qÌéHLð7âdXÖtBÂì´›Ÿ éwŸoN„ïÿ´NŒ[5ŒÝúlkëÁïüÖŸno388Nå†f£ÕÛòŸ¡²­«÷¡þÍ$ÀÅL-t €>»S€=#e,áhróT·>«µn`ŽÓŠ÷äý90DýJÎc¹&á¸|”äù÷(c ï'¬	™°’»àÛÍL\~€ÛòwåºøzíG$ëò?4)<LUµ‹3)@¬ÔKwÿä¿‹Ý^ÿúîIÜ{()ìjŸ[Œ›·_RKVµ5ðÊ/(§{Lk†H$ÃEL†À(ÛÖ„&dwë&&µ‘QJÂ
+!f/íëÔû+»`r5jc¶^±;°é9 ¼Û9¡XòÍÑ¬µú¥Ê_Û³UuIÒ#&ªÏyíé¦QÑ
+í!çÌ½”(ë¥ïÈ‹…Æß‚§©y•¢Ê:pyÔ€Ü*a
+µïÛ¶ÙL¶R>Î`#´‹¬ÿ+¢·®‚Rž¥þ©6ˆŸÂ‚s‡_sN˜)“,fØYÈ—aý®`/_,ÊT-¦¯¿ úÈLò<³¾úi¨œžš<wÂwbo|ëGÆœyõ¨ÜkÕ‹y¬ùZÐæ99ö2ODç"¶ÿürÄ‡–ÞKkÀ´ÕîF+®qô¯MªÖÖf€Ã/Á:£3¦1mªòp²øxtWùïµê4Ñµ—6–ô¦¹©iò²IƒÒ°ÿ7½E4¦
+_Ð”)Z/ Î,²ÌÝ…->¢rÒÏ¯¹ó^À°zç/áã'²ÞKÔÍ^ýÿÜ¶}¾cÄÁV4¾€2ˆ«ús=¹E#v›ÿu}ˆlQybì
+ zJŠóœY-´Æ¥žZ¸¦ÛøËËÏàk–Ô%¸²£|Ý¯º´9=XyÃ_g’ŽOêÛ<¡Ë±Ëh@YeõèÝŠ*ã¿±[éU†lG7žÕß”Häo2BûÖjöùTâ?bàœ”‰ßw¸~sÀB“|›žM5ôË˜3›íg~Rw~<.¨ ’ôgOñÊë÷?Pß‡½ñ¾Ú53™‰8V$„üû–d=Ê#-Ø8Þ¬:‡‡Îeô+pGÃÔoï>n—"ÓzôþŒx¼Ô
+wlçvs êµ7·²S*Z¤…CåÀz^Ñm*ƒúÃC‹Õé¸ÕÛÕT€sc÷n9ÃCÖ#á;ÿFw{ú®sp8_‘“ÎYø÷Á¯åý7ƒ×¸s!<¤ç:y¨£Î3¸2Ì)ˆÀ…ºxfj)ÇtMJr“x×•£4Ô\ÝK>|©bY}ocó¶4ÀªW*H‹¬åÚ\«ü°Í¢%q´ó‹h­éë=æcãµb8*À=£Àùõ$ÑH[¬|ÐëìüŠëKÛÑ,­Mô—ˆ”¯æŠï²²5ßn®wRt€ÿ‘úØµÅcE8:k|¨G¦ä>xTbCgP7V$Àa¢Fˆ¼^_æû€ùa°¡ @)91|ZØš!AÕœü¼‹	T†Ù¿àˆ#ì¾Qð"²”Ž(³%ØâGŒ0œ ìŸ¾ÞÉ>çMÙ=xÚq­=¬
+&†Séàø›Ž·Dàw´áb9ƒ.Á© þŸtAüÊWÃKæÂ‡Paž!rÁŽ&·ÄE8¼`½lÏc|ç÷_ôua[l6a ÕOB€ÄË~nê½¼¤HrüWPˆ„e@a„c+œ¬Ãz³[iêÜ%ƒ<ýoèÝ¦ªËÈ!¹þ—{‚Ë®AÜßp3µÇk6‘ÎÐáÞÔxÿRŸ—F®¥Ì5ŒOkò¼ª€„[Õ“.Ìm³z2Lº•h“*ÞN`Àâm¤Ä´ö³V}BŠm2'˜o³®æ>µj¨f]î z÷óÓRÖ}8hÖ¢Ñ7Íùà÷;[øìª¢°Rµ}ÐjU3ã…M’.B·¥Ýc
+÷ààZŠ(ÿÖ9?ƒÈX¤Ö­Ïz†ï¶;§%(~ˆ)mÑàíD†Œµà$mk9`Ø*í¼-¼}ªý£(kÙë~{ámÈØ:ºÍAGŒ¥7ö(×uEsì
+ãmè¼PRî;Ì»T…phd¹ha§Ï™£®—…è…xŠc‰³+R¼|¶'¼ämXAã‹ÿV³E•˜ç+¿?‹¢š¾B°\ë+šaZë¡ä{rŽ‡ÂJv‘/n÷´¢‡ÔµÏHcT$ÇJÀÐFBñRö´ÿ€à‚Éa©×´ËýÏehÅÀ¥eØü»í¾6ñrß:Dù¬q
+Ô»Ì˜'ƒz$ …ŸXGÑehOéëÄwÓìò,q×T6ÈíiˆåAeá¬V2	Ñæ¼n¬t°Ú9
+ŠD¨„¥Þø<YØ.ÙeÕ_ÿ[NjÑåŽÐ·\GŽÉšå ˜AWcE ²âýé*M>Ù+}±‘ðÇÈínjÄŒjÑð~ƒ 	 h7' GyO¤vÁ)F\ØbÓÚ¤Þs~´õ~D´ê8ÂšÍá¨))%óíJ`!ó²˜¢¦fuÓ©;O½`tÐ¬ÊÊÁÞÊ‡‚Ë¾|‘€ÎüOl’Æ…±*¹h[Îå|C›
+EœFˆêtÚpñÆ¨W+¤ü&²óî¿(ç:ÎÿŠhQ^rO©š
+Ø fz‰Áòæ–C%J:HÛ:íz¬]À÷-£€Yˆù[ˆ˜ÊEÀ¼0I¸û{G7T©ûi1×i³’bUÿ¼Ç5ûop-Á’ÅpoÏ¸0k+TèKor—¢ª§C€§ðÔ@3~írþâoDæE¼¾Fƒ›aé;#™	¨YõzK åX~·fI‘òÍ£M›—ê¼Îv¬]d¹éR6Š$$AÄ”WÇ¿qx™ö•Ñs	Ï!zª†€)«8`xiïì¥iX'e<†·cO¾`ÑeÀ[÷Q'ºŠ|öô?C:ây1 ä<[OÈ8ûCÐWib¨\ 3~·uO”
+×Åg2Œ4`sEuaÉžû[GÆ¬£”àI‡Œñ8Lûò±ýÔØT`×éþùŸ—	L¢-¦¸Q<8®vh:þ2°‚ýTÁ¦Lv§TŠÒ­c¬v=e·õƒÕàª¶¿†ãVË&íÇEùf7Œ)ç!@Cß²zîET‡6ù…½|ŒˆKÑÇ=l¸YXEA…9ÞùÅËM‘€à†âÆX‰ìþEåçã‘Ùá(-ÞÕzyûvKÀîHü\p#´	ƒy¨ùüÊüÕKntØmÈpÎÌn«Ø?4Ö±ã|€˜@'¾ªíd5¯ç˜˜qåšùÞOD!&Y‡¾‚”9i«j‰ø‚×xŠ"ÎÖüÔ‡ƒ]èoS`qN	ùíŠÙ@0
+Øí¨ÍBœx'c.äÍR,°˜õËôå
+6J•T¹ñÃí‘›²»OTã-¬å}rþò}¶¡á(ýÏ{åÏc‹=©<­Ez4_Q{ógÌj+­ŸÐ$„ÿø`)ÿrp$¦Ô<{ZC†êy0â:ÏtIxoQµÈÅ‰‘‡>°çØ*ö}¥ú;?tŒîc.|4†8õÑ€qÐÕ'žB.2[M\ýˆ©•îìUãÛ]í“d&%÷9dohMç†¯N604‘uØ×xXÈkhù¹f:á#}+ÇÝŠOÞ¼¡[gœuZ’Éäªº'òñÀÓ×ûÛ®àèµÃfŽ
+é•¯¬¸kf à
+ŽuÙŠÞÐ¹&†ÌÌ±6wz\´"1ö8>Cˆ¸I:>ˆÜª‰$™y@ª\afä¬‘·à+å›9£R/BºÍ„]Lq¥%Ý?Þ(î]…SÁ›µÒð®!Ïåš;MÅ‹/TÖûÇšîï-›› wg[pÜ6>ïMMx³¾èJÚtxu…Vdá‚à<Í¬€¹ìBA.©1ŒÍ3Î£a®Ž^ÈÊ®ËžÍâ)sÌ^â`%9U©fÐvôßu˜áqŠÚà¼,5ÚNµò»
+ü™:M^µ!b3Ø+äúùà¶+Ÿ=4‹+;¥qVá^% 
+ñÿËÂ%v€]AùK]ê)’\‹Ã¸óâ–™Z0 ¦Ú„i({þ. ƒè€1ÍJÁã©êNò·£ÇMÿP^ýÙ!
+ï®ÒL%©ÛìÔ«—l¥-AÛâÕ‘7%Ž‘Ù£
+mØ©n¬;-d6mÖ´Ž£s¬&röÂzŒÆšßFs^!ïyú§½ˆ­
+]Â0ÞoÚÈï-J5ñŒ£·2¯{m1¶È9A‹G˜ÂfqfoóÌc>sž±IqÑÅ+ ËZo÷C¿+91#œï,™«ÓálÁTç¤AaMOo+ƒ:«§ÔÂDñ÷ª‚×´â:=ó…¢ê 2)
+U°Š„‹|ž(¸éV•
++¹	ß¥¶üàhYGÙ4Mzzè¿ßíêh>giìßÒ›P½¬:OÂj;2L˜)K,¨hH
+ÞŸQ3:­ÝµIµÂ^Œ½6ƒÑÞFËJÔhÇÚ£*¨®U¤W7‰YNQõdl¸ø À*lfý.¼ ½nôµ;et‹Ð«¨.á
+…b3°Jç*^…mKv~ý£m†©ÎžS®%’/ÏÙÑÆ>úµ¦|¥&"¶.:ŠCÑYöŸ²+ƒö±»<ÿÍ2-C›¥K†^í*¼_HÀ,Ò„}f¥U;¯¸é1}ï0dvûv<Vn£NEõŽiAÀªöÛ‚dö5ã›Oó+˜\®Êî]ö‡l€ñ^Zwy ró4Jz[Æi	l‹Üº{ÁCP¾’rd‡¡íÞÇw5b&NìIªwÆÕ3€"‹ô7Â˜ =N+È3›‚5wµ?}&«sS%Ÿ`ÕÑgûâórîža®ç­âb¹äÈ0š+Ý†qÚ®ÞYô8pÄQà±,ªMâ±<	é„`fQ"'
+Íçz"Ñþë³"/rôŠ½(­[>L¼.
+Ð4Â0÷Ï|Ed¨•ŽnH¯
+_îÞÜvö\`•XœŸÚsM[>ãDþÓå™€.zƒ( m–)‰6xiÂÕîØÇ½A­4-yÄ4ÜTw%cÆ÷Ð¢qìíS³þo{¤f¿áÑÞìÞÐŒòÎûÜ„j€eÄdLÆ5Š|U’$·gÂ]Ç-	|²cÚ¬¤5ÁX·1ËpÔ,-yÞ3;?VÉŸ´ÒLg7°¾‚S.í—¬N¥ÎkYT  ƒ€ß]ŽºñKx[Ì—óˆbqÙc¯ ¡ò@Á9!cÅ¡Ä_à9?;kSÝåºÎÆ"’{ÃšÖ‚¨h!#Ù¦ûQ8é:c¤p0Í	‘ýìZ$3z6îX:ÕÈ£wQŠÝdïl¿6,ç?7„á5=¢Oç>lþ^»ÄòXÈôŒÐ¼JÔ?èCÇ Õ	Ý¼Ûy®+"°Ì˜(èŒ,’|Ýð¸uôf3Yˆ1ÿUµ`y9"_™TV<$v|¼Õî;¿ÈBé¼‹ðô	ÆâGBûäÔY(Ÿ'Ëîö_BÙCSà%‰ä7î“ÉÜY”Én0ÇosHÍƒZeÌÇ«û“Ž±I-kŠë„½œƒ0ÿúÎ•75e¹Øè˜D‘¿òË´Û…¨%¬KÑ»BY†ÝcŠc:6rûy'×·{µQni1ÔsŠ6[Ú>·ôcø#ÙGÍW‚ÂáàÉ'PÚ(Ž+³YáÃÆ¨a(¶s¬Æ˜ZñêƒÑ®ä*OÞ±È†‚Ošñ·¡5w’äìçœ •~XGzylÓÇº(ñ…³YÆL!äømÅÈþ]¨ü3¦,¸Î@óNFYh½í
+O9r[áƒ{<ÔŒ1ñþwÖa„Æ¤Y)Ýø¬!¹åz‡=)¡°>ÇvU/7…ÒmñÓ4j•(ûÃ:øJÍÛÁŠ·úÃ÷8#$ayÙ“ú­kF¯Cú™”
+&UÁ\}z2³:À™ÿ0d„ W‘iPÃª@ûŽŸã¡/áà¬ùHv`ß{9”Ù¨lƒ<÷Vðó¹™¾(·äNû¥žŽ£ûT}çZ†!z\O—ªÁ×B·ƒšã÷s
+Ø .í§¸÷ôþµÕA´Í†&{ÿÚLtàY–U
+„\^Bfbk*ŸP”/3?—žÄn•š¥°r¨cLù;ÛøÿS7O)ˆÝüš›þ-Y'¥&×¸°&åH#æyRõôš*48T•7I1çˆ§u;FHÉZÊ)¡ß‹qIAã,pžÜ>ŒW=É¨Ÿ+·™×$vD QþLÑ®…OPú-ãfg\MTÇu›ß’.F%áã,ê¯~(ï¶ø'ÊÚe.èë ‡Y™iÒ$-,èp|†+xzÏïpuÑqp4Ž;Z›0‚-c©øvª6”˜ÇuH-ô¨ÇÖ†!S)fP²uÞÅ,VNôÙK%
+øoq N‚´‡ÖCR5¤è7ÿ`\ªCGŸø~ëŸfý'¾ÓYk£WËIód•†ª~iŽA0Èl™K¹](z­!âÕœxÉ!ªb¨ºJ'*a›wÙÆ©-x7ÍËýøÙeãèÑ ¸ósˆõÓhR[O²§ÐŸu)²YáT5 ^š*oðg‘¯ÀIuŸš8²ê˜]gZ¬ 7¾Æv|uùùà49'äŽÁd™"í&”‹B,”êœ›WßÜÂB9‡bø3½J5~é–	AG«ÜžHÖ@d-¿Û™ÿ§+¨}ñ¾o:§½ŸÚFÕYÑ@	‹ê¾8±Es¿–xäE×LOVÕ;IQÔ<J(‰èy¼¶»%¹­oWA“±ƒE–~õÿ¤w˜tÓX¢•òŸûm•ÅQ¥q»1Á›%ÛÅ›üzXY„ýWXa‰õdú[µ°âÖkž~I~vÅ¨~E¯[¬tT—®`q˜õì±¿¨
+Žl—ª<ŸY©«úïðÿ{ÊÓs2/ããR¨JÏÍó\J°g¨Êh®
+ÿoK'8Ô÷Aÿ6µóóË—#­jÉMÆrºÕÔêí+”H¹ð÷È”‡©“AÔT%u‚Í’w²ÿJCA§ø¾ÀIì«ApG&ÁNTÌ¸ªç·–ÜçSiÑü1œŸ„H:Š_G€7*Î_Ê…L§ƒ™ÿaíìÔòÏÈWø¼^`¨à™Eþ@¬8½lËW†w²•ª%Hy‰‚¿Ú#¤Ll´0•>ÍžZ0míªçOÔÈÁ0ežªïäÛî¸Bá04VÖ,/søUúóòBçâÒyÞ!çP	Øy%¬R!ŒzuWà˜é„–?#~K Xdºå¯y/¢‹»5ÇÊKBj3DYNö¯«SÕÍƒÛæNGh2Ðæ€šÃý‚>±mƒf0Ô@-<VÿX£vUÐ,ÞÝÜAGIÿ¡@Ûv'ÈQ^÷”ÿ¾~èðáç"¾6Î¥’,ÐæÕQ÷B™@ÿ¸Ô€÷õÛöÈ©c\\ÏàUË‰…]`'¶1a¨)ôpøÂº¼ûøkdÛtXfD¿‰A y´‚pÔí’ØÜj?Hš)H¹ë¬Ê‡¤…Ñ ò/eúïåFîŸ®ªw·(«ºn°‰_MSf”|œ³¹®™
+|¢”„XüZ\Ÿöý?—ÿÜ4É'˜">oßï=>äž—Ì×l¸2n8|SfGà¡¡b…"·i¬ý#eù~` dÐµUµbêŽ°¦WpåœVî˜ÿ)ª]Ñ
+¹E°Tù™ƒÁUlX×í„—ïu°MÙñéÆû
+h{ËK†W¦®NRµÄ-J€5˜ËÎñPÄCp*FˆÚµxÚ‰>_>^Í§–ë\vj-)g˜ï†"FÞqË%Î%÷+ÞÞ¸Ú)•GÙ	¨’"ý]kòˆšøß¤Üÿ
+yX‹#Ö<ØD§íDcøî\öÒ|¬œ[Õ_ÍÉ¸O¦¬I•îÉÞŒøäsÖTÕgªÌ(0‚½¢²->ÀgÑ<Zš­V™©Hò›!ˆ~FÑä¬ÀÁ{å&NÔ²mƒU8ŠæíÜû¸m¼nvŒ!{õœvâ¿©éâXü&æ.uïL•4Çåóìaì+®O2±™¹¨×ƒz÷Àê4 #­X)MI¨ÇWæè/îB¯vg×'èL%Ç­ç3ãfDÍ‡wœ¾±l×†ž›¬xáŠüqé¹=ˆ]ÈÃ|xåØÆ[YÝý2lÙÀRn.Œl×j¸TÈŽhtƒ%oOã†²W‚ÃÌèó§£•®ámFØ¸|ÞÂ“"qõÊå2žrŽ£Vþö6¢&
+ô€'™›óWUí4ŒpCA}Å“~_x5 ˜ÀAYû`TŸs9oí3ë÷Œ ç¿]cš2/¼ÕN•X”ä (í? ·ÀK†$¥Œâ³nJ‰¶XHÎ¥W¼Œ%’ÓZÊ®/² ®¤o}Û°nAÐ
+b`ãÍr:Paµ#m
+Î—Ìvç¤æºx²Ø@¡N§|–|D¦°/T	 VÛt“®VSÝŸs7p}ÅÑ—¶Ò6ñ$6‰š/cW3Ñ¢XjÇ_\“¥|+
+7ŠÑ@J"´ß‚B3ˆTPÞe6VN„Ê÷=G®z‘¼ ãgâˆ 0¼“Êì1J‚•t(8ÿS™35£‹^w	ïª¼
+ƒ½Š#Lòú›o?"H‘}ðãÇ!6V‚÷[2íÀ¯Y¬ºð[ÔÉ%š:/Iô3‹º5P‰"Þâ¿BÅx>®Ó(}ªí˜žFßYbøÓyBn%Î*÷w¯=j=—ð27£D1b¿¦ÿå¥Ìm¼ÌÌøà
+0ÿÈ@3°~0?žò_ˆHi»É€êˆH%(©·µÅÝ¯rÚCß›þÿ]ïÐ™ìF›M3§—(â¨}nšáçêWRöŠ¼Þˆï@æ	–?&Ÿcqñ™UÉ,”k» “ÙËø]ÖoÏŽ"UÍ“dî¡xŒ>fC®Ð uOve[Ð“@çÃA4ô¬RUX}šB¼–¿ú#r	•.¯«’\`ÍÁ@§_Êý½ý‡“þvO,)Á€	®èžR«Eã8®tX´hâ{é¡}j+‘'q¥˜‰|À¢.
+Ó£šè¿&"yþËïf§Âêˆ>åïù)¨ùÃ÷ûqä¼£HëWGÑvWA7¤[EV[.Xóž2,y1£E	öÊ=3eœeÝšÙÐÓop<Ê¶W9}¤bÜl«7¾yKŒËŠ;•ÕáfT•5(ºŒzÈÈ0´áàÊ±jn è[…ê2zzî¦pxÉ5Š.³|~ŽA1$íMN¥Rkì˜;yÇÀ›,º‘ñ¤Ë†-ÁÄÕºÞ¬è!J‘sa˜}ä©K›¶<¿‘ó ë¦ÛØÖãÛçí@§Ó¶à.vGÜ žë¼ŽñÁ4Y™‘L
+žÄmŒE÷YU/hñ¿*s¶íŠËŽÍ‘:Zï-Š
+ÓT’+Û:‚ä±h*àÝT±EAêšR»Åuã¸ígwyÝÐo:ô1
+T¢‰Òürxäâº^t™4È!}XŠÈ›È*Ëá¹
+èäA³´O„^qh?¹œ†ÿ÷ÔÏès³hˆw,‡þë{7“;˜Jn)”-ã;Þ²z'"_%e@ŠAñ\Ë™âß¹.<©5ù$ÚŠ¿8WL´ÈvÓÂbôë³´´ÒmJ¿xŽt,;My2ÞS)$4òXu§#Mæ¾üåÜ­]”2€È¨3Ë úü \ÿÖ0PìÊ!¾cŒ§œì‰·áAÉµwùL¾ñïW³4M=$h7â˜äXq[Vt6¦B]Ôùº/'‹mÙ3âR·Aá¡¨ Oã¦×LZû±›%éÙ7´¶ú‘[]½É}¸7ùq? I·Ð:Z½0/ž¾ráÕ7xmhŽÜk0ËìkÑVÆ¬_+ïB‘O2@"où—A»ÖùHáÊv•:V¶^­ùòí(Nüî‚DßïÞ[ËAƒ³*~û•¨öpm”#P¬XŠ«ÇåZÛÔ³”ËIëqïÁ¤IJiâ+ŒUV4{n\™Š‘ãú¥mƒ%k7ÙGMk‹Ôy]Ýr”zeÝs@ˆfˆÂµmþì¶}ñU›‹œàhxÇÉm?¸2ß}ù!F@ðW/Ü¶Pì üÄÐÓðVûçYBÄ7Ëe žžëÏ“Ù
+†«(cñ1R?ˆ­QP´Øß§ƒÚ‰èPïë’R»C‘·ñ‚Åg „ä»’÷À	:
+×žG8Áp´o¡ÏÕWó0õ¥œ6Ë­!ÒÈ@ü8,´Š˜ÃÐ’D£K#	ŠÏ7<ŠÞ
+JÄQÆÅåæ¥xù/9¨^O±›‚Ì·Ôä¦e2qê¹qÜÜ¾tBÍ¹VÿÕ«Ë…&éS\‡¼ê—Ë9¯7WÌW>O:bgºÑ<â¾-Ô(v6Œ}yU’g‰!„®oŒR	¿EÝ T‡‘ª½íO‚%Huµ’,%Å3^²fëÕ‚ÿýÇ‚cü@~œw¼iJôè|NæIs
+Âvr,ÇË=¬‚¹íI-Jd<¾-XF:`bþÑ t#~u7b{îÀ¦ÝzWZ
+ñˆÕH‹¥ÊŒeÍõŠrjé %šÚnâDušŸû
+² ãÂ²Ä™ò+ìè«À:í-6ëeD©»y-ì3ë%YßàŽ.X‘í†N ñ¢YEÍe<U‘ÄÎ×Êmp‚ÿùG_ÝAÒ¸Üé©™ß0T¾ñ@øÖÀ_?/²"iUÕ"7v?^”ioJ!tšmÜèQ¼÷ë•@J˜€¹ø–OPj„†Ï¼¤¶NÃªa3¨ Øå®$ñ‰R/S§ÁÜÑÂMÜÜUÑ¬ÜÁñ’­Ê¶7pzÈv¬M¡u nbuÁ
+^Ÿ¹ÅtõñXÔ=ê>=Ó2.™•NfŽšúÛyû¯#©ýUÌôq»Q‚à±à—à%iPÈÓT#uYnK‰â ¤OíýÞ‡½Îy…a‘®ÈÐÈ	Ggš™•Yß/]…If‰†¡n.p¨›—5¢¨T^ÓëWÕkÛFgM”o¯ZF¼éÙÀÛ9ïðºñ¸à¬Cõ>6ðÑjÂq"µ(:BêTA£Qàî'´Á5á9V=Ï4ö{ß!C	ðøóV˜†=Þ%õ"_Í|~ ñS*Ãè\î¡FL©‘ªVì“Nðýîð»þØ‹Ï‹U_ó¹hñh›S×Å“*å'.x×ã’PÂ^F«ŒÜìŠe%X|Ëíl/ßÕ²Kò^ÆÎ\ï··Ê	J\—ÿ”Y¥¡Ã—Zk&QPP®ªžhŠì¡ÿ-Û[A°ÑöÙ~¬íûRñ‰»}Æû¿˜[Ò5@ Íñ`)A¤Ò½¸:ŠÀWrÔ»ÅOXþ!]kÓNô_’ãÖ
+ÞÓñSsX9-åÔGk$HG% öÏ ¤…Oëd\tÖ”[«"^^R`+:Fu‘‹kîfUÂaƒW©Tc>VÆÙÖ‹M±&×¦€«ßî‰;ÎÿËOÄ°—M[ÊßéŒ’jÍŽTZÀžòã€èÈªˆŸÈ•à#>You;¶wwØ¦}Ý&´:O¢;mŠt{¾épªÂòO/ñR$¥Y/‘Ñ/£ü[ðÞ>Ä0b_w®1ï|»¶oM&Ñ¹N¯%Ó&º±¶<‡BhH®X•§ìopY/³.K,1AÛ’ aÅ´7û¬ôSƒÕ³«#µêõ¥TñÌ	º0eÉMÕÖ³±À§b¸ÝrŒæ²N5þ±MSµGS»Ov\ ²†J×Oã9Yø; ÕÅçÅ>ùR`3¬ñ	q8ëRšŠúÔHÈ•*VÑOd,öŠÔŽ¤TààNP]¥¤…xïö*%ízgQOÖ­¹\kid^ˆc¡äñsA8—´+çðœ^BpœÃ7œMƒrœ¤mÜ ¤0lŽ¦óŠzTô‹Y•öØØ=hüÂ_Ú
+?5o±Òvð§Öæâb¹ÍuIÁLø„ßd
+ò»«4fbâ\×^÷BrŽ|„õ÷D_x‘‘¤Á/åÃò]‚Ç“@ÉòÚ2}Á¹Û|^¡!.øà	÷8Ð±›¯ð´°-´fY²®¼Õ÷¼‹¡àXÂS˜£ap”O”Ò	©•îxn[\mì„ ^&Î½*%©„\ž÷öçîÿêÎ™Ó5aŠ è¨=>âM[oDúúFìÜ¹dì0¦²ðþˆù;Pb7jý<ÆÅhpÇ¸ã‡öC8!¾¹&tÀö¨ %.(q¯•A§)€~6L”J6‚;*½¼¯íüÑëû>`SµvKH ºO¾Aß®i—1ôg¸‰-¿«º´ã
+ï%ô×ù"ÓJŽ•w?ŒÆ©SP¨>1JdÞ—Î…oœ³tñv}Ÿ¸Ï¼ÊûŠ6½:Î¨$ôz¸áhTÚ2fÂCS–gŸ¹÷ÿ†½PÛâ•Ê%ÏþŒòýž¤QÿÑož¤5¹ø€Z¡;†–|Ë•bxÃ˜ÿ7û
+
+â?Bv\[‡ª#­Nþ?ûw!Þö?áË	¨¶
+øÛÍˆ|æ²,;ƒ™,å„
+d}š¶lº×Ûü~›€êRÛ®:‘/Š.DË˜	Ým’àG r¦;Ñcœ¶‚ô;Ns „
+qˆòà?s@ãu]=ÄùÁfºÞÍý° GF<y‚†Flñù'XÍKSÐU2ºo“ÞxMº
+¥úfß¢†(òN
+†Ue%±•çB—¾1²ïõ”©ÏÀpÖë®2óÅ7K¡¡ä=ñô £ãØt§½<—Îç•DˆUÛþx\‡œ=7)20§)éË‰½É>I6±Ÿ0P©àÅ»ÀäŠaØuô³›J…Ø™7dû¯´±÷ÅèHšþeðä¨p²À.2ˆ·¬ÀÔPéíƒüŠÔà´B¼¡¬G~P°ÕÍ³Há!ö%·€{µ]z£°.',tGÑPòØnªÖ0HÒ„ýÍ´
+v`ÐÐ¤dCýÝU]¥)‹¯®NŸNAFçì<÷\^ª¸9
+]w§”yï-Ÿcè™a²­´…?%û=*J]?[unòN5ÌzáÁÅ_±ÚRÖ‹!Û^.Ü®N“ÀÞÔMtf“ÚóÂéÐˆ"–©ÔV¾zlD—‹/}™¢­†
+•LNÈŸ¶ë[z}ã0¬Ó²n™JTÑ]bñˆH“ÑŸÅ49¨Ø=¨á>ïÊõõœÊy;^š!m‹Î²”&ÑcÒû‘ª+•Ý±ÆâÛðTTû&oSp«ù‹NL4^!O5B&ÿ«œ&øv›'”Ç×s* w@™þ+y<Ts¥î}ˆ%ä]Ûi¹(úž‘ YKŸÁI¬F%Z¶Ûg@p’»¶\b†™¶ÎQ< <Ã3rúõÍ¥´I8!Œ†«~%-ê³C	¼›ã£tcb-Âéµì ëd&|NÍy²jƒ^Ÿ@ÌÂ5õ{æ¹r£·œy´9bAœBŽ8c+ @èõíÚjÍc°Ïæ"ÿª9Ó–6G}ðÔ7Ÿ"mŸH&æâ H‘÷»Î–öAcê|¼·½pÕì19à™pðô0§Ô"Aèïµ_->í—9š/žÒê ¥cf*íòÕw1Àÿ0ËÖtãýæo»£I	;¡Ó‚¿rW4-Öf¾K&\í¾ølQá¼Ót¦UjR!pØ¯$Û¨iO–E AÇ{WOb¼*wªnKt«`¯4‘j6æ|Z«Ø£°ÄŽ$‘ƒŒ‚žÊMUÓNÕY7o¡†®³,û:±ms¡,el±úO´Snîm;FÝ5Ä2låxÊyx¹äëFµ`¬d© ÖÊáVã#åð‰€‰úç¯}Äñö’JZòÔy¸[M=ZÃí:æwdÉu?>ˆhëG.Ô×ê(}à-GâH-2cSÓ«ß´GœÛ“69ÉDé<•í$úhTãp>ìJÌÙ+aTo¡¾ÖtÔ\(Ÿ$,ä¨¼%0th«ÚÜ9‹î‹ò§/û±¯Ì&(ØEæu.Ì’¦Y$á!¢ùM[áÚÙŸ
+‚Ä¨Ì;õŠ¤À’AÅ¾Ã
+X#ªÀAEMïßòBÖœêµ…ùØ|q8T{æä×À„Â¹Z„$ZÊ'¨¨&çÍ&Ì+Ñ\•‚øÙO7C6Ís»QÞõì8î•
+ÔP¬£RRP~ %Ù¢ÉúÛ6Õóæ7S(¤¢ùiœŠs™t2h¾ØúPðMR¿rD§T·'eØh§¦Ã\·"ß”,¬Ui‚Õ¢d ÌÁK5ú¡)tþ†~3×©7•—'éº%özš¦wŠE	úQð2¨‘ZÍŽ%ø‚›†ÍZö"½f^T"–ß	ìE…Ø.
+ÃÌÀ—Y7ë6öÈ¥n‹Ð—¼õ$»dG­­€ «g?r¼ŠS‡dKí>âo#å¹’\é(ïWÇ¾³±‚nGw;è{]ÀBŽžrR
+½AnôùHqQK6”¤KÊme¸«¦P]).5BþOžälÔrßle#CÚÙE¶ò£ûÇé
+ép1‰ÞPÐç••AÙ½êHhoèŠ®?È
+î&V‰ž»Y:	uÚ¤j©"‹²mGÖ€êöŠ»†,r|.ø3kH£‹z9à Nœ9›e™iöx ]êÝt8wŽ•sî_e
+¤[&bdl—;ÍØó¹ÖÄ}îègì®\<éØ3^;¶ÓîpG?!™3ÞƒÈ#^ø^)Ù[ÍE»päÙ?Žš¶Ï:ó‚ßœG6<	J‰wvÓ¶¤on7å]¼íþžÂ2æ$§g™F[Þ€TTæ…}ZM/£‡/]'> ê% ÕmÖP8ì}É{û£æ'8.„“ I&‘;"z–RÌ´ÌaS”,ó×Z|‡òZy'VÉ„'‚eqUW]¢U9°Õ9A[µaËxÐ%‰PòÿÆ?]SoÜ§VèU¥æwHþ8§"ú ê*Msù>DëÇë’¹14ØÌWÝÚVaI|ÜÔõùP‰ì±ª»Ò¬,AäÌwª’¥Ø“6LÄÑ–ozÎŒK­ /@jA€ÀsDy¬®áÄÅS»)Ø%Šø“IHµ‰× 
+¯%ÁÙ­ÿ•dK_Û¤à#éÐ"yh­0²þ;z~oÙ^Œ^gË?B?œ¦È%¿—a
+¾í¾·Å690”–³ùEþV®“D¦ƒËž²ª´¡_ÏøÀ[¯Õ‹#Ü%êPïž/\ES#Xå­?Â²mT©’E%!)#à–šÈÙâ ;¤SÂFÔ`»N3(Œv¨—L”H?O¥Ð®Éª
+=´û=Ë	à·Zë¾=$8”²t
+±5+ZïÊ:¬ñx"¢å Âæð$ Dy‡¬zû×1.mú2˜÷W”€M‡¸PŒÍC³HÙšä×x(kçò l¡èB
+žç|gO'©åKnˆÔ$ßîgØnÜxÇ¦óè¢œÙÈ„¾JMH•Ó”æÃ~FÓ‰¨ƒtú–àâÄöED3.Z<zo§äÆ€¿‚böé.µcàXò‚	^ýò›]sÒ"^¤HšA¦_Y³cŽª¨Áp²>ŒSÔ
+RbŠ”s
+Hƒ®ÑiÌ
+û`ÇÑLìýDLÐx »¤=O‰#ß@¨¤$%n;X—€5Ö§[4[Y)¿’_šØ ô›‘¢£8ƒklåÈrXl·BÉŸå™tMpéÍÌlHKSßïjgyÊó÷¬OV.0˜(†
+~B>kP”dX;¢U¿”xpiÝ`]ŸÜÃO¸Xƒ$vdˆuIŽ¿­É€ÿXr.ÄÚ-!¥\œv©9¾%
+Y ÖµgàêolßL_ì£œy£Ÿ@3Å«™Ê¬0Úi‚¤:C»9ÍÍÆüÅÍävå‘:½1Ø;ÛJ `Ñ‹à¬ØÓš‘ÅÎ¤»‘}ÚQh·»/å€G·>ö0|îíÉmÿÒX£¤pžìÄ8·ÝOÕùCBÖõ4¢ÐîÛfaRJÇ(Ÿ…jRŽŠc…PÈ{Ë-Ä€y{$t©ùŽÑ‡(uŽm{vÀíÏ£ÿb} K”ø¦
+P‘‰— xê°™®bÓEl#Å?ÁæÀœx	¬Z ê­ÔwÉä
+ž£—Œ©œžë)F¨‡>?Y€w¤¸"p}¾4º-¶ù‡ ³TäªùÌâfKšÁæóË§N/«Œž.¢È•G³f=7n˜°ëð)¯¨ð]ôD…iÙbüÖ¯?Û83k£šGAg™µì|d4žìûÙ]ß¾‡nÈ1žìÝ_5w lú¾æÁ›£¡ºøv"³Ñ˜7öt1`ÿú»Þ1YÚz¯ò“·òãV>ðÁç¨Æ{íX>!˜t)Ú=/±ôÂêú\OÏiIdŠ‹‹5šK!(Ø?GÅQ@ê­©­4¦^“å‘®‰ûAˆ,f–GÙ_‚’/Q[à=êm}™ÙG¹9B#ç°}{\îr ¢Ô_8WÅÂöQ¥ÅÉ§(JlGŸã¹ƒ÷²'@ëž*0{k0)î`e}Kdx=q›Š¸Î=tH2#“Q4*Üu„ñëùuLw]'tïIéò“FáüVf<ÐÁæ‡^„°b95M¬=W
+ÑUÏfŸR³á lWw ü°`¾c\™]:k¶1rØèuœ,ÈÚÖS.ÙÚ•‡Áý¾¢ÿ§EF—«P«@òK'ŠAšòÎoóêº¿NüôÍÎn|aå{ë=¿
+:zlä°‹šÝXõ;Œ;èÉwG³Šo¦±c†Š°Kõ‡éŸ©šTuRh!±å6I€i–Æ•9þò9º«4UÀs;=Ùot>¡ièsmÏsÁŠBÆ[™{šyRÜdÏßÌìšGZr	Ò”P´9ròÜ\þñ|ôROiÁß¤¿m
+eÂcŸêZbŽi–?aÅz³¯ø6FÊîµö¤R*›Ü×#¹ˆ*ƒåØ©šâYÛŒM¨Ý<
+XÍH4‘~K¤(¬©«úÅš[å	úÒÛYÅb8µw{‚ž‰­ëc#YÃ4ÞSÛ0µ5ÿõ(´ðtÀùy¤œ¦Õ^õ©Æ§÷ï5¼þöø®Ì"ÿ wÌiÚ>³p7úˆýEY†
+ËJH÷+jüý­ØìóP6r/hˆ\J‡L€­êÖHÓS$-Û¹ÜæV1‡šçß×‘îp®Sóã/ÔY"d3z$Ç¶¬K§Nqyˆ`a–q<M›N*F´Œ5…ÃÒÞýpÝ‰\«THà]öo-Hß”°Åª$Ác
+Ì=.–p_Š
+ ju™}uæâ_ëá$¸¶Ô6]çØå=üüÖ×)hŒþðhcóyüÍžx“ã€ƒk]Ë…¾êæ;­$tïä÷Ú&Á¶,ê³éûš#¼ÇÞ7§.Íb~KæØB¿‡`œcõ{œjâOtM§ê'5Yx²î‚M®Ìï\WÔ{ýÊå¿É´«3VâìuBè‚ÎGÂLêÖq­g“šh“IÝ­@ûöI*(ˆEö3.wxþ"ÃºýóŠ1ë+ÚØã­²Í?=‰¥Zsƒ	g¬Œ„˜!“±Þ˜CüRaÕ%áQ&Ø‡¢©0¯ÛoÀhýs;þDõÇMÊ=¶JãAŠD¤ûx»v¬b9–‹<lþHÍÝk‡ìwï÷ÅmMF[ñ'VO YÜý-ÃÐthºnãÇÆuÎZ*¢¦ÏsÊúÌÂ
+HDñ|bdìˆ‘pKuh€y%(!ŠðfXGz%$iè è÷2žŠ(N‰}Cè=¨²a€€e;ŸWšÉÏ-Æ°Z¢ŠÅÁI‹¯‡ÛŽü¿Ó}‘5bèvš²ÍøÔ¤ÔÔÔ'ò­¢"Å]¶¥Õ¸ ¨+3yEOŒzY„?óñ_ŒÌNƒS¨ÃgNO–‡,Ò¨í3&þíÀÄùú¾´ëñç¬»mñžÒšãáš#µù¹/¾Úuï¦X†c§ŒÇV®½×:Â©)OSÔEÄë>ÝN¸BKà|ÛÊüæáïàpñ•äÖ=¬ÄÜ“.øƒw£ð¬ãB%à.«ÛÃÁSMñxn·ú}ü.„OÎáì”Ö™uï‡£•ˆÕôjFê  Ó°ÌVB×…#kzÇùKÎ‡%iË?•7ÿúk†„ÿ¬FkýH”¾×DPºXX`žk'øÚŽ1?h("ÔNÁ@VMi¸…®û`&]’K"W+°áéIs®'Æwº3‹/ï¯}^OsAÃü¤ŸÊXÃ™“b"¿Ôy2´áÄ.ð±"<Žµ“ÕXèø4©&ÕR¿
+/µœX—é¾VˆßtiÄú£üìZ9áR¼ÝgÎr‘
+ež÷?\Añ<j¤)‚LzÇà¥ý''‚B©b#ÊJJm“ør§~‹'ÿNb(»É“™[ÙFØD›AŽI9ÔC7è@Ú‘ºû÷àŸÇ¢¯Å¹¡(’SÜE€Ç8’Zaßì|°ØºE,Õ}œƒ‘«z—ä´wTœì¥R\Œg2_ÙU§Âm•¸õ‰ç^ßP¿ÌÞÞñçè®óÕ"{€®sšßœÓÏ“¿‹‘öÁ>m)çö·V{»ˆ›
+¼.Ç:ÎÊr]ãnF®-ÓØ^¸{W]cˆ—®¸Lm¨úÛ®,€Nø* gíUOfcV3ät˜I_}‚”,æ¡Â÷ž²™cë¼¥Á%žz.x¢õ­†“,|è¼òkmœu™ã÷9¿IU° ïÆjnR¥<Þ8»Ò¡bd
+„;¨œ[ˆÂ@}{åœk¥×5øb=å,*²`%xƒ>Õ ’ZÅ™qˆ¢P2í<|ÍDÄÌI…D	Éº=\¢¸½N£‡z§y(²c#³ª8Ä)Ðn$ ¡¦'Â_b¯Sˆ0 û	áÅŒyÍ”u&Ö¶2Ù»ôá´P0­=H¾öÞ[º¨Ñ(SïÇl‘o%½ ²*Cg·0­1ÔŽ÷œ‘›¶¸©|]½|õdD6¾¢©0n~¶Ç´˜V¡Ùp²‰è:
+´‹ŸF¦ƒ«
+ÛËïÈñrö©J"(Y'Êqt$Rê°Ñ9Z[OLð„ +ú’e1Íó°Ž»Ü½¦nCºÞ!«‰tª]‡ÚhÇŸ3¨5ˆ%Ñ¶Æ±òe²F@ïH#¿¥òY Ke„\’Ç&‡û÷'he.fŸ‘Ír`âö©Ð(¦Å©ÝMzâáÓ€RÔ%½¸‹£ÍuÙ‚&é4
+ m¡:ÖÞ³ýØü…WA™%WÔîœå7”‹¹*1•lgýTt#ƒ@uB†8Ñá*ÕÞh0Úh!!®X³¡D”Þl’g[ê£ðR­ÞÝ¸…uPH„‘Ä(oÍ±ýúmÈâ¯ÃÏÓ@XÝÙ³íË!¼œ²Æå„ýBÈohr*2hw¾wi€ØâŽÞf£_¯%S~¾hÔá·¥öÀ:î[éNêÀóÈ)Š´1¨^Ô !où-O„oÈGÈÕsèýûv’Ã3ØzÿFŒËHIžf&âO)õ²íÌ{Ø¡;ÕµÇBÅDàÌ`?¨úv²c§ƒg~·}Ö4ôBèbŒñ žÆÓL¹KúZ…'¤àX	é"¦ÙÕÑ~gj Kï»æ?ñ^MzEÿŸÆ[àÈS±Ý•yªîôö¸‡!îÔ£”xþ7¸pÇ5´q#
+‘Ó<ˆ¬jòùšä¤×­ðN
+viãqÆ…ºFU®Š¼Uã%M#+2PNÜ®`w83‚„Ž–¿ˆ’N¦–åîŠF)
+]»pÌÏLû|õŠ­y¹E•D=ùr%Í]ÓF„o|”ÓWŒŸÛæë n(xžh¹™1buSY4 Øpæ Ä’ÏÊ	w:Â/x{½ü•]°nÈ„°7ÂhNÐ”C­¸V„ï OÍyv¦e ÏÖ7&Ôw–>ú¾c³Ü'Ø^LÄÁe¸ò^"›#–½ç%9ó÷©wäŸ`Çý£¶m×ëF£n-ùêMâ!›éöß²£¬T=¯p%ÈÃb¬pùtÜ:(	2íJõü’J”†^+/”Ã LÇÁx®µ{Á@ÕØFœ„zü¸ 
+Êáù09
+<)âyKä7}ú±7ãù¦ž…sÆñ÷â:¢0ñæFÜºÙ»°utè¸ë/l¿R‡j\%¶ûÕ‡.šæEîßÖJRñMH³Ÿâ¿ù¢e«¨¦ê±dÂ,ÝKsU“î ›]$‹±ÉN U¹ãÚ×õÖ`d2Òü®Û;–‘ñxZÖé¶ã±*Çs•Ù‘gq(çñ±ÈÕ}U÷5v¢Ž3¯~
+% /påŠæcµQ¬$þÕ/÷Y›Ì¢µ€NS ‰=Ë€ýQ9¢žšfqåE¸ëŽáHà©Øb1ý,PXU¸¹ªO«Ry+§}Q¼e€k
+;ZàIn…"6€šï•~®#ñªFç…ÁÏ×¤\²âš+ž{"!šG¢4ð»àgÖûwå¾ÄMZ,Ÿ«·l­_ræ»È5ÈHÜ-q÷Ø¡.#zžK0|µ_ôæîlT_P{NÁÁ²vž*²%®ÏÝ èÆ9ð¶#ôy¬üäBmÓ„Íšý®8lIÎ¢9ðäc¨#0yŠDúEÚÑ<¿“òæÛ,‰ÏæwÔéæ6À˜çt½¢Ýü@§c³£{u‚9…E¸ãt01óEÙ
+é;Fð|”ÉMƒÕƒÂÀãüÖØ»ú‚ûq¼ýÎ²‰0?Šg_©„ùÏÔpšÄêÄÞ*ä#_èôs¡ím-Wz\‘t7TÈqÍ¦‹—oo|—c”ö¸a@¸ÉÎÆ¡ì¨ñý‰î?K*=kÉë÷ú1yÕRá„ï4Ž}zbx¼Ý9a[³ŠwxÌªXÅU×²<Jîl……^t Z{‡”!!ê¹=Í;Õ…ÃKÀÔY>x[âú<õ‰ÍÁ ¿Tjç•è#
+?#
+eÀ'C/ì¡¾ÀÈ(öFØuÌéå|%¾\pXÌ2g cäTWm×¿À³ÒL34’Ä-j€m®5;Up¡$ŽTÇA.='ºB`µðîÊPUþhpà[MÜÅZýN…Ð¡Ÿ|Ó¯†6éí>f ýá{TÙæàû«À­’S¼ŒJ
+ÉA{_e2Œd¥*G¬vëá‘‚l[¢Xï&ÅöõÃ-Èd°ÙMï
+¥üS¶ ;&HúdÞ'x°c¿°„˜\1¬ ªÀ˜oàVkæeZºá—{xŸnÚ-]<µ'#Ôô°[xz”Â¯X¦À®!•j‰ŸÛDB+zÈ:4B^Ù¸Ï…3’BpW6QÿFÉ‚‡¤ùAFãê¶±Ó¼XH(u—­°Œ…pÚåÖqŠÌæË />†úØÍ}æNÉTNBH4ø{+<%»;½ÙtÁ¿{˜Ž" ³¯]!¹×mÓðîJ¢ÇÈBþ„H$’6E&1d»Â‘*v&Õ¡´·µ*ür)êa0’¸Î6˜+o.&ÌP‘«Õ¬6e<šnFæx…Ã…õcÓñaÅõxe§Îõã£Ì,„³åkDd7US“ËÖÃÞÓ-õO‰d
+wTëô”Á]›ÎõŒˆ=(,§?U%6˜ú™¤»å¢LÎÈ¼Zkk×ú½úp­f©HŽÜãèaC6j^&™V²x]Yâ‰DÝNnxø'
+î‰Ôý~øe†t
+@Ÿ”½k~çš7¯¼ç@È#LäÒV¤)ItSÐRËñ0Ø…Û˜1q!xÚ¶£·3íî(¡™y4ðeÐ\©|šû¸PÞ6© )ˆ°5-¨­ï—Rë…(<óñ7Wš3€g–—y"ŒÔ°þ>\QJ`¡Ÿ}Ùuæ|»1%ãM‘" ‘Ÿ5©#7:¢ËXù{½ ON™ÿ+=–pv7OÇ®	7JUºoD®ä×	ú[t9 ¾õµ²‡®
+œ
+Kjãº··)º4¶8c_ò‚œuaßËŒùÈIL3‡fÊ2¯dµS|ý‰Ì°SÇŽÇˆT–jW;ˆ\yÛ á£V.êPù$¢ÂÉ8œh?ÂQñ8‹Èhù}¹…JJëly|Æ[˜ÝÑ«	÷ZjOØôÐ4~CÍ‹¶«efDåõ—+àw4t³(M¾ÛcA©ºŠ~”|v¾/½/µE¸J¶ñ”MÅÜÂˆW?/¼úô{·‚–7›Ã[†öJ+°¢ÖÝÆÜ9S°C"6†ÆÙ˜µ~ÆðŒÕÔ8
+fo+=TÊÖ±ls­þîºy†5ð–°§ï*ÍyÔ¶ºÌÏ|Ç5õLÄ‡V}3”íö¾[Ía?×¡)ª‘±$ªº²ÄFÆç¯Uè<+ã¤gÅTTÎé¹—æ>làEhÛ£ÝÂòcLtþrXÝS;Ž^Ô?oÔmtoØIyX5x/A(:ƒãÈaÆ´ÅæœËÔ„óÈCÒÞ­°áÙ€¸<Ì2Öb•ß»jú		fÙÏ£Ý5w¥Ž'žÂyæDŽG}Ì¼¸|ã‚©Úá×IÿÿŠŒ~ºv¸£áá¬Œ’Ä×Ýdc3ÅâfÝ+¢TíTŒóqSˆQ'Ïó¬kS0`âà’E9ô_¢ŠšåyûYÖoÈê—(ó.øY¾ÚµžÙÿ^v'¬/¹/SÇA–ß›Õg—ÿq°¥Ñ^=/É(MÈ*$‚õÆÇÚ¿ÅN¤KÜ[Âäjež›wß³¸<q5@@î,÷^Ÿ@Ò`†„õ¸1ÒSµÏË¥ì@¿V™bˆª—Š’±µæý}cÜR@ÎÇ¿qzæ+6î;E5?Ò›O_?5ˆöógŠf©ÒØ%§‡*c‘Õ—WkI÷jäTËn9\ÎA»G7LA‘Êú†'ïëí@ÈÏS
+¼g ße¯IÞ³8>™YKðMaé«k˜1ÅxËX!„Þ
+mòyŠFÂNSŒéô÷,vƒ§:Ö{ø
+‘z`oãæ’­ñ¤¤)DÖl%apt|ú: ãŠfRkƒ‡×uÞÎ§„&“XGm‡b)B$È`]ŸY¼ÑöÒ¡`M&¹vü]‚öjÁS1 ú6ÞìRfþJÓfomY÷¾Í›WŠüÂõÛôõA¤µ)L³…Vjãì þqk@_P ‚B\ªpöüQ-õ–5îèÈ“ÁÒAÇ‹ÝÉá˜ûÒUõ¾ÑXœBnÄf™uúÈƒ‹åíCñ«>’¹Þ82XÓ¶‰ˆÊÖl@Þ|—¿¶1"óz—a7í¼š!òRøÌª‘¥³	øI%`nP@‰¾}Élt:!kš=X©VeÜ[ð®EõÛi6
+‹8&é”ß+^HÕ
+hä¬ðNö•_¾OãjÂ‚z*Ò¬QÐwñ+r~lEj° á
+s*
+ïàX_åtÐÄA7-6™‡²º}-°ZGîZÙgÇYß|7xúä6ª!v	Éo*VqÍGGÝV²ÿ¢ËWæÊ­CÍË*˜Rï~1Á„ò©uOŸå_áöšŠÑKQîàöLÚ;ŠW7<³$,rŒe§tÃÿg9ç*9!Du[è ?+ì÷¨“öãFkÎ29‰ë~0ì¬‹Ð‡
+ã	„D«b3ˆ¢-E/ß¢×@ð©ŽÍ–÷èÿõþÎæÁä¦Ý‘½aI€â’À¯p1T@×Ù'm}àç¯‚Ú3Q#i&²:S„¤H‹­GNîY ¬m¦Óßn3‚L ˆÑ4ŸA2èªªCÇ7Vœƒ¸=òÁ£)SË‹ ÔryuÏÆz~Ù‡½c%™+¯üË1‰ÉkºµkÔ½wª™2Ób=YÁP©¸\«¯ýOÐ5ÇhqÎj«	Í×ÅÞaH§Î%$´ñÖ#h‚ Dlu8\CN“´6£XêHœ<bMûèW=L3hÍ¸)Ð UÕynÈää
+W# 51Þ‚é×y=vâZv½/V&NªêÃcQ.™cƒÙ½¬•1Š×í»–Ó€Ä„
+ßH[ÏýZÊú©÷É ?Vâb],žð@˜ô†)ã	H>Qó5¯Iiu¹—Áôh`:çH‚¿0%‘þÏÚ#&çñRãï°júÌalò¨ÜyGO…Õú?f¿ö¹þ=¼,éâPÖ-ÈKÍÅ”
+î›Äâ4†öü g¼aÁÁ%CdnU^kIX=Õüº¸ƒ¬ó0A¶ˆh_T4B°ü™®†VŽý‰„#û}×4£=Ã°bÎµçƒÇâ\%…\¹éCã>
+sªlà©XëµˆÃ¾dv`v§š
+¼ßÑþ&Þûj¶C^Î½“ëš³õÏÈ£š å–{ÿìöÍ>]Â‚CgÔ®a"µ¼Ff„a‚6^Eÿ¢õî=«ŠsÛ½7ZÜRR†£.Ò`ö8C«¦ðèO­ê]p9ÇÃÖl&ûÞò)µ:öÿÈãëzVm8•; "«m ­ƒ
+>cg
+—¹Dä×±èw`3þÒ§ÂKH<€ÿ®|.Œk¼ cÞÏ!Ð¦S®ö0Öú²Å²ˆ!FCôg4Ã‰<h:Z_ËT¢.d_Ý™¬L\ž4;ñ,ÉÚûãh‘Î3§šmäÕ`AÒ.³îk®j•>O·¥Ì)-n[01Ø&b²ÓõÛf	R{ÜªUz»>îB}ž¤õõ‰õÆ2•ºë‚˜î8ÉV‹¡z¥c/Ú­Ò¡Ãþ}ÃpÖX¼¾óSMy|ù6ÆSØ´Àæ"TÆaßBÈÏ]ÌƒE€\0h,	üÇ'®'<JFˆjQ£‹g·ø˜ ÎÕ=º”ê;õD*¤£‘wÊôz>Œ†®÷¼Î£+bÅ¯ Êß"1 AìÎZXçùªï@2‰'‹Ú—,”zà§XâânœOìcª¼WÍÇEq?»Ð~Tž ˆS™¼†8IœºþzÄû6‹½.•Õ2‡‹Ý¬þÞæwY7æQô*¸iÿ›«'%rÁ*°¤iàREÅy=Xû×{^´“ooì/ònãþÌ£B!¿éfþ¦~•Cx=‚¸¢¬ oºóz…Å»Ùae²¬ÔÀS È…ºÈÂ3‰Ê²†˜»”ú¹ú%Ö˜¨5[¥ë¦v$DËçÃ F,|~¼·góþ ëòé7}-‹ÙkkuT=žà`º4dÞJ·JÈî9ìü„Ó™d±éwï… ÀeëG<C
+Z-SÔ–$»RÃÅÞba9uÓU M™º¥HüN;eé³<³lxØ,ÏµZôÿ4"‰_Ïe¹¤ˆœÓ\8ÿóü
+°ÐOó¾¿wÚ‡áÄ‡rŸ·@=Eóû"?Frú\v‰õ‹IÎ5sãzaS»«6
+tÆ(ò“BëzšN ‚žjõÒÇSÇâgWÊ%u¹4SÍ Ò™Î¼ÿm§©;§0žL™IÏPdˆœI+onBFõö¾ÃÚ«äæ·g˜y*‘v¦„°œdÝ²÷ØŠïÑcXÒ¦Ü‰P…È¥L AwUë…x"‹þ÷mñË%r¡‰%ÖÂÔ$ÂO®BÂòŽT{Ör0Sß.e™ý;ùuÄÕ½ïÃgÑ”š¼²ÅiAëž2ï+-Â!ÐYÃ><…tn\\F%]æ©ä•Ù\MÙƒ÷Æ`ÉÆ6Ñ€wØC×Ã0«ËiÛI0ÐÍzÝ`s.ÒÊ‰Âu€…’^ï2R}¹¡5fáÛ—&>¦Á"ŽþSe³<RhÖPÑ3)à²:1 %²!úÐƒ@'U¨ ËJ¢êçìÝ}ÇlœþÂ,
+üV+·](¯èÙpÀæ5}²œÃáMã)¤iéBŸw«7£ó†Äì±/éˆ)ö*æ“ñûô¦Ÿƒµ¤æÔY€G¯ƒö7G^xß_—èNÓ4¥Ñ\ ïÂƒÅÎ mX_Ü+ü[¡1PCn:÷ aÿC‰>4þfl%&õ¡9Îs¶Â¨·?¤pÓw
+`¡ŽŒMôÊ¨q¥³ß_:Ó_\pÇj#¥©÷.
+ûüJ‘g=*ïÆT»}RÞL+Žž²L<­JÛÂï_%qIspß#$¬P0ó¸Ú%)âWkœz±p	ì­Öõ mþP’ªá{@…lèô¼l2l^z5©ÜrªUG¹û€4‰póíÛúÚ*|Ó¿) u¹ý3Ë,"3Wm–#ÍláOBR·^§‰À¼ö1Ç,G6£ù¿¯=‚²x°úã>ù£,U«°öY°²Ìä%8^,‡ÚýÙD2_DRÒSÃM wŸÊICÕ}¿)ÅxVîJð…’}àGðÕ`×¥ÁB´Ê™«¶ºñ}b%(\Ø¢·ŸZpŒ-¡ÓŸÂE±ðMézEÈVÖïçÿ7Dc5&Ýâ )±}âð´Œ¿¬'†_üé
+Ý¿©eD&¤h­çÊæ*¸Äiv1´ê—§²¹Åÿ!ôôÑYÐK1Sqq¬érËýkLÒõ!.Ñ³{pŽÓÂL¢Ôþ‚ìyIXw¾1Š$/ûJ_Tô’3øÑâhã8éSÇSñ:'µ6ù\õ®r^ŒJ˜ñJ
+uAiÓÐù..!z—HVécKÖñ˜+<	2ŠµÂšÌ;³˜¼œ‹‚z`‚eõD°g1p'7ž
+ Û\‰ýÎ`†!å—ëB%i¥™V6q}Þ4]=™D°´9ž‡{•BÖd€2Dsv¹ŸXSëÀÝÛdì1¨:PX-Ÿ4
+•+ÚqQÖ²oÖ³, ÐàÝÌnõµW_WVê÷,D?iüY²žáÀ“ŠxùÊæx
+>Û¬íÉ&µIO±ÓB‚tdfü!ca•¿*XOºwÒžjÁ½ky\…ÆŒ7gUÕËÒNÌ;<¦tG–âw	ó-Rµa¡Dò½v±×,0Î-¥w¥S»n‹&ï­A\$å¾×ãŽCZ“’.E–oLwÖyS8¿õêl#ñÔóO²ƒ™gRÔ!Ñ8w”@I¡ÚÅí
+ðe íé™ÅpÐ&²²ˆ0M~²	eÖ",Âé‚Œ0„<s?Öq={ÑUnT‚Ð³¢ÀEÜ§©&aÐG_™÷®Ž‘ôªFÿ¿3rßZáUŒoAêHiž˜Ó=Cv˜ 	@·.¬oWSí÷•ÂÅï£k”‡jæ>DWîÑOÅÈŽ`<>0G¬™KV`ýAÙ ð
+ûqjOD¹/`„É‘«AŒž ¼l‚]uX$`t« °1oº>VŒÔÒ	Oå½šèÝ†`É¬9”nN™¦2g¥ÅxM¬¾Š™Uå6áë¯JõÄÌ†c_#ž [dÑvK«³ž‘#ž%Ð†©É°®.·°þ2ñÅŒ³ùðí·: ä–«ð$!>gpÞÖww@ãÁ;O;S´*ËÍbîªüMÑ>nMþD¶˜cìJå‡†!ú÷²xá;³ŒêÌæ}ÒˆsEiºjYvæzbSKqØí…5ªmúæXcÏÂ±ÿŸ„½#LjÜ-1'.ùÅKûÊ=€#6!4‰¼[="ÞÈéð=K¶e2rÇÙkSDá)Â«àÐ©í‡þ¯&ÓØVE| tIüäZðÑÉ‰á†–íi,t¾˜_…ç1®qÇÅ¥úÌåßàU×4!ÅD_¢pEÄJÚo¹BUu¦Ø4óÕŠ"Ø'ùBItDå¬(djOm§º¼KÎ¯Žâ	7ÚŒLQÌ‡Ì¬‹WpZ;ÙýDJ„ŽcšXR_ßQ j¶ôªCÀGXÑ¥N²-H¦&ƒîÊ—y]Å îUŠ€E¢Œ¹X† ð'šd#„Ï$IÛbéå›góÀú”7Õñ÷©9ÈËö÷­l›‰/	ˆ­‰'h¸>Ô¦·Ú3f¬RÈÿ¹EŽà!‡éj
+Q„¨£|QÜçþ¬Ç<ðj•LÓá×­-‡ÔçC-§Þ¬Cpƒ¦‘UsÍH§e6Ól³!˜†r/YnJµ\29'á±eä°ÅÀˆºÑìIÂ)‚1ÇO"·Y¸yïô.ÐvU‚~qãñˆA„u ë5G_0±P×è|s>-ìª:ûýTñÂÌùlÚã¥’ÎnhÛŽ)™¤Sú[8ŠN=‡î®`ºJ¡(ôç™ÐðO¿nHÜnÜª//â‰ô›Ã}›íØxÁx‡zÉÒ<â²è“³W66J[cÆv)VëŒ>¶
+¨‡ÚÐ¡`Ø2&Êl<þü¶¡ÙðyO:êèL˜Ù ¯¹«—.×‡Îz÷v«t†µ,(Ž×±ßZ-Ä#ÜÝhgêkmààþø@&¤Ho\®ÔxbáÀp„x{ðZé.C¹Ò{<99Õ(i
+tg0º^ÒÃ%ˆ€`Eƒ…ÐÚþÿÝ(&Qú‹9gß@RÝ‰yÆ‘ég®•JÉu†òÒ{èØ£ò[ôß½»ïáy õPÙh¾Á3ŠäKáüÓpJŸÏs§ |‹‹H.dOé Ž@¿'#ë¬*­ ¢Lú–âvÔNVü ønë!°,61ëqàl»y]¼ØÁ®†Mvð‰ÄmIµj2|:Ý­6 ®3´K{g
+Ò4à°vÂn½cB°¥õø][ü¡.z’*°½XÆ×ó<™–˜ã¨¾sOVÿËÁÀH?+gæÈ~¨$)ž(ùÙ¢(ô`“zÔ&Æÿ¹iëOÇÎÇ¿©‚„4•IýÂRô®^ªÃÇFô…æRï­ŠT–U¯Éã}X_¿/öîdQíüodhT…†wt·d–Ëq¢70ŠBŽ+Gû°¿ðq1Þ©
+Šç-Z3R×¬vÌiÞDñòWÈ6ÁÂ
+áÿÀd‚^,Æ(¦–Æm*¡„
+[š9M‡¢]8”Å"TßH%a6Y"èûwÆ|£‹‰zW[¢TÁ¬ÏàW_² Ò¶iKºã˜
+)¬œKÆLIÆ8"µöàö€±¹³¿_ØäfoÔ:éD¡Qˆ6Röþ´›ÀüÐx¥[Pz2`Xnƒe­ºèÝËàCÈš²öàäe™rdþ²Vƒ•’™­•ãÇÎ?ÂmÀÑB¾ží^)²vWJ›xã'ëwëiÜ*Ëh—Ew†
+©žk5ñ­ë‹+¾.Kúk—DÑûa0aô,\Ã¨®2™ÄV¶)÷¹=+½—/Ñì‡0µf:¦”&ü¶™ºœ–~¦›‚Ê“ñ-€—ÎÏ~m<èÉ‘~ýê\wvÊ W)¾p„U§U6ÓHd}À¢Âükf
+Gf‚#0dÁJ0¾âA/¨:u®Pscg_©–F,–ËÀBµÝåƒð©SzŠ^Ñ‚j$§	õy„¿<Ìrò¶$ñÐfÉ¿,º’_>çìØ]øÔ›
+*£Øjzø@­rÆ†‡É|3Å¡ÝÊ¿n, epa5ªO¹ð8Ts,Ý¥òƒ‘.X0 láØ4îÿ9(ÂUÒ{’ŽH€£gÚ§!8ŽÔÐ½3)~¼ßTÚ²tN¨±þ³úlX	Á9Zmõá8:$AÂÓ,w¤ö7ìÂczMçÄÉ«&¯‘³ÍX»ÈÜ.Ž$K ¾wN]Š!‹*a…s7ñÒ._!ÎÈoÚ]—bs\®|‰‡¬qT©çþˆOâ{Am˜•ÓDêóµ†|·“årˆ$9¿Ï†±Wá9Åéú¶hvÄ6”¸9•nge÷”)ýqBæþ8»w5bŽ¼Ü_ØêÏeØË~ŽŠ]øÓU	†? p/RÊAmÍ3¡0I—×Œci¾e”jÏ$ß¿Îáâƒ“~Ö§{öP}§-I·¸q¼Ô ÀðM€iÓ¡$ŸFŒ#Œ¶nKÎu‹ÆHÝï¥WŸÎejz+j<„œÝþ«eâŠŸ×-ø?gŠ.Ô±ˆáÁùëd±Q‚¦HDi‹
+a¬ŠP‰VÆŽü9yØpˆq^ŽÉÏûõU€&àVEåcÉ†´àe£õŸƒ¹ØÀq­áïAÈî­ÿZ½ûŽœ’z€N£Eek[u.ìy>9¹Yo¥z“YŽÖ\pO½²ŽáÂ'hùKƒçT¸'Ø¶ OFµ¹Ñàçü¼*“tóÅã·8Ò\…^s	VZl hg¾iäûf>¹Ž‚Ôìh§ÚÒ¦pÍFKÝ½>Uœ'WÄli}¯W»ÚÈ9Y·pî 9S[Cô§Ì/!ñ/Î2D}£^OnPíÐ‚!LdÍ‹ýZ•†“¬VIN…v^ïÊ—|õÄñÀÑ§Þ$ºÙ´·;ü˜:	¡ûè|Z(ÁQ”YBÝÍÀ‡3£›(c$@œ¹©ói$Ëþ<´ª@£ÄíÈ{ÿ¾bîºjs23;AŠm îAˆ”_‰7ŽvíÙBÍs­ØC¡4
+‰æíî"‰J‡¥—ìuóx´þRâ­­þ»ÁZe,ÃJl”*j ñv¹3-,ðV\Ö¸ÞØMOLT,Ñ>¼A“‡NÓÔðö"S ã*¹/Ý]$jˆ.“4\ 	†¶9o_²HV(ÜÙ.„ÓÜk*q8Ÿ½ŸªIûJXSÚ*ZFçgP\v¸h˜ëcêc:÷øI\q…ÁuT%Ç«Ç9·‰A_AùØçšŒŒÖ4VÑµÃ×&™bÖi_^	vryV:nÿf|¢Ë6
+¡ìju8ó¸&LrIqró¤F«’ePî+×3,Šµ"x8ÝïÙþç=9žØ<ß	dÀæ‰Î÷ñßLœb¶.}Ëaö³Šw‘ÞÇÐ«ßÞF@çä]CíÍ/Ï	ÁåöŠX`éXé&8%!|»¹E(¨³˜8;}ñTËñ4Üâ–ô Çß(öÊ_ùHå€F2d¹ eÝá|u÷†ÀjL;Kja¿yK#¶“”"Vû’ŒÜ.|H»ƒTŠ($Lƒ^dò¼dsÉì_ƒ¦'5ÕOÉg4jð:©òÍa-ˆÎÖg¨EŒ’5x êS™0…pàíˆn*Øgs·õ F0úòÀ——ÙbîÜŠéWúõ†60É/ÎÞ;Y^#õŽ·Üã-â“ÑöÖc˜ñÕÈ“ê–Í"ž0˜œ’,@b-òÕÒÍ:ZO·Ü“D®oßØ`¯­…¹åÚ­Ž³››£¬†Oyxå
+Hœôµ•Œ+Znu·ùÓ»©—Á»þÕÔâÌœ  ñÊ
+¢øZBÔsw	ËÁ[ã·
+ËO‘w…®ÙvM	jô¢±z,—MlµLê)¤_úøˆ+¤‡þŒ{›:GÔIþ‹€ÔËM¼—\ÝßÖ|é€µ’»9vH¯Õ³»–7Düòè3®¼Ã…SUÿ¡e7S,±’&!^£À‰ÿÒŒÌJo^óÕ¹]ýe	'þ}ÕÂ“s6/ã–u§ìT&°š÷ÈÌïÌ\Šx@?-kÒ­ ¼VAz³Ÿ¢_Œf,pDºŠÂs@Ôÿºf *´±é0’r~æÆË$¹Àx¹#„ ÉÓz¬ÞS”mºõ“ÙÐÎœo¥‰´é†ÝÅ—`È Ó$&r­¾çb×è€A­ú˜‹Pâ#®šMýÓrÙÂÁæ¿0b¬‡3í¬ßÔW”°ç*÷¨º
+5àˆ°µv$+HAxX*é’ˆ¥ÔùŸHŸU³Dâº;}Çj_T`jé
+A®< |-CüŒ7´Yð¥‹_¬¦Âý¨4ÉXHMÀåÄJÞ¢y]¯€teiÝ¡Þ”²AÂVux—$»Ï¼GSèF¥-š€Žý6ýª8’û ÷OBv¯=a_¿l]œ…T
+z€Ë$)£NJ&å¬õM\¡EXoî´îÉŽ"I1_x0Ý™pLØ…d@™‰ˆÀ×ezÕqmù!¥d2qLi$|ÃÌÂ4£ÄòÄ<iq4‡3@ç1©Ñb«lÊ÷þZùy»»'~øÑˆ0Ôëqà¿¹ùŠ‘M\è„ú&ñ²;Ê‘€¦Ùc1ßÖÂÒTƒ8B´'‡>•Ct‹%?À_«ù´™úºÙCYhµ&K”h©5´ü›ÅŽ?›¡H‰Úà‚ªiÉ™ÅœIioÅŸuepÌ%.j1ø	R›ub‡œ"X8c;³jgfûñ½NÐ*M«@Ay´÷2¤fæôy¢é@U¨k,ÏOo°AŒ…1Ú£¿{_Ôé)¾a…xèòïš-YŠ$"É“EÝå€ØZ2¨Øngú™ïT'/1HxŠ˜ ð{+cöf*Š¤Ç¤Óî&¹ò&³%Ÿ7©©ÕÃ»cwŸqïÏ{:˜€-Âó^Œ'ÝÑ:²jÁw!žºÕ4Sø'G«Þ×(fëÂdàw¦˜rRs„³NÔ?ë­{³ ¾À
+v-k³«ËÐÃTê?\›F©SÂ·úŸÜ†íÒ¹¼›1b¡‘:wi+Öl¥
+â”$E	Qï´ÊÚ<4Õ1ª17YÙø/ õü#p·iüÃ•œÄ¾ ]ªR;ÂÉw•åð3ËO,%eîôƒCge–cxuçT(uÊÕÿ/tsÇø~~öØ¤¤ñOdäÈá‹Ä¿Ô*	ß°¾iûíÕD2ž:gÊô»àŒë%Œ©ŸÉâŽ“X(=˜¢ŸšpCûÑ4ÖÙ[—é=b›×¯ú7CC3`þØ%¾oÒF¾W—öjÑU ÁUÝÁŽ-ž“l28^$º=ò"‰ä,3…¨©žÑ[NÚ[ŽÉuâœ‰3œ¥¹P½è•kÇ`Jî’Ñl'ÌÃE›6SD8ñF÷Ðçk®„ä$‚¾nv–W¥Z¡­MEÒ†æ´i™¢Âr@Üš9êŸœý>°êºE¹/NÀýÏÃÕXl¨Ž‰¦A-<]W†	ùABV»šH¶¬Ì›Ùës3ÃœNSO€à&x¢#—$ºÏpÈÈã¤§Æ‡ân®ec¦Í‘Bxü€?€©;;ÁÐä}•Ž WÌ*»)5ë‘ó)çY‹;Í¬ò0èM_ ÅìVçû–ê8?RþÒ ›
+ãÁS;³hË“LðSbg¶G¼/Œõ˜'vÕgþÊ#œ±o¦¢Ø6„TÇcé	Ua¯ÒÌ+5”t2ƒ;Ú[ÊŽß&qBÆÔ SðÚáA@·ûýBPèF“'bÔ	Q¨g»ZÁ¥Ê±’è&Id´·©‰­?Ž…üÝÅj )Oí>Ñ>äÀ)„¨«œÑçŠÕ±Twc>e³ð«§Ðºü²fl€y\yÎXù9€–`ÝèžFü²¨ÁƒzsfHÊš“ S³÷`.£+º|ÜXOr
+|â#©G|Ñ4ƒ ‹(ª¡"‹ÒøH…+ v9ýØ˜‘ˆddž…â±>QžWÓº€'ˆ*­F?äkðáß[aÓíGÓ{ë(	:kQ¤ì½Š†éÕô#~U<jØ%³Ë—(Õ¤ñ<L3 ÂÒ_üÑsŸ÷{”HXÊcû>6@UdZŒåwJ™©š`£;8};ÛCÐZBè;ª3C´»ÌªÄ¿0oC?–ÚØe´xÝ„‘X?ÂP}„¾MkDæ{(ÈÌŠ°ªÓ%
+ZÎøv †6ü{¿“ÊZ0*¿¡Y;Ä+I¦iÀãí;V§¯š
+g¯È:“n\áv15ý ¶\éÁóÓ˜Fw¼Jý¯@~‚•âÔûÆ»Å=…{ÂÌ{°%,	­ujé:´e+ö«¹Ý4Ø›kóexøÁ4¿×1 ÕâÍ™îº¿ñÂ$5·Ä~Jß‚(\üÕvf>C÷e©Äcó‹–õoªÁ?äõP5óXY@cso?9¡*>+µËf/ÊÑªÙQ1Œ\g®x–Ù‰þeÞ8O=ùkô"ßÃ±¨é°/†ž—[#F'ð.	ä¨BÁ§ž@F`{ƒ1YùšÁ!š£ñÁ‰DÔ$‡šé•ÎxzŽ,vwrë†ú°Äýp,øÄ'EÞÝ˜—å?Ú|Z/‘8oÒ•…;ÿ—íë›=Žü L8^ë¡@¿Œî’{jG5á¼µD¯Êœš n’MííáÐM;Ï…Á‹g@‡žžápæÑé\’-?sMÿxˆujuIÜÀU‰ÄÇQŽvÒËèFŠ§Ã=v¼è­É`àÂfU€PÃ9HÂÆ
+¡t†|ˆ#©½F´tEbèQ­¾„ÝÔw¾QnGÕ*3ièwx#†U^?—Ë<Vâ|¦ZT¤š„äÔ($>Ÿ¹-ØmoÍ5íÈ–q
+‹×fÁ„•‹j
+Î(ë	Í®jË@®ÄÄÉy—ÉŽœv
+3?xöR®*º…18Z%´ì’×æ)Ñµ1?ìýBÙÚd+&Ô•
+SúÿŠ›Ôì’P,Â´-Š0üA>qGäóÄaí ™æñƒíˆ– ÝÉ¬c€[qpkÀj„âGs½Ûý	…4ëßÙkh×sÁ Ë©Ve,Ä§vq“â®­×xM(®aïØX-§²œ>‡6Üeâ«ÑIáeÏùœ­éììú¢åßô;K¤…Ê€:šÆCjþ4-ðÊ‰ú›NsK~ˆ
+Ø“5
+êV”å´)ô~((À\{GP<VìIþgc„a²ðKÑÀA…ÏÊ¦ö‹î¼EJÒÖrØqslÃ¨3g@´êÈ+mP:ÆTv®ùHÊº­ÞÒJ•ÛËÆeÎ5“Yíº£ø0YÍ… ÔñÂ15ñZh&,JŒQÒ,íRÉ¨>Ó>x„\/Ãípþ>!¬µ·D¤!+¬áå_Yêåïµ,[ïAaTàõáßÞbê3VEØ&0¯0Wò¸ØŠ· ˆTöÔS}e½8ø[QÁèÔ‚µ£å£Ãˆ¯šnÍZÝ´O®ïmÊ´Tä‡ôØðTÞd(Ë0œÒ+y¥Ó½@ÙÇRÑð¯<$+¬\|ÉÁfmP”?'+nx;Y–²Š}€HB5¾[vM\Tÿ÷¾uü,Ò™ÂÓ+‚áWFk×;SËïé<ˆ»rpShŠ•/j^-«í`˜Î›b%´YÜÄT¶0Ë)f*ñÆiË’CÏ;jÆÊŒ¦ýÀ¸Ç¿a1è¦ìàqOã4ìaAÝ¶,dD…‰45*â=Ó„ó=³}·w´[4öÊ¡¡8ý¤›Û—ä²%nžï‰©0 àµî”t~	iˆMXF´¿”º+rÏÜ$‡•J+Ö<x…–,×½:þ”YÙ0_‘9Î=¸Ûé~x‚a;lïÉ©…“vù9ÈËÂ’õ–ÔiÆ«R°7•î¶ãÉâ8C3azáQ'ïê÷¬šò™"’ðšÑÌ©ó“)äfŽcçÈãà0ëKEDç|Ô¤%(áKU!iI	‚œQÆsë»Ôsª»ÆmÄs,ÐŒu4<ïQíVŸ·bÊÿ~,ï;–(_Üú'h þ»ßÁz(¯è¥bÄBÆŒÚ²Ö“…+íBÃ—¹Uj?;—Z=¹úžëzhù!ïÂéÆUYøë=„Ö€¿ò\EÚ(ŒÐD]-­	 Ãã\pÛncÊ9ŒHÕ÷µˆÜ¶–mú}ÁŽlWx~JjC[|n{8ýs2³6¨¥G&s¬S7ØŽþÞº9Ñ¯O¼ò¨~Ám¯y3w@ôçUêÕáå`e¸8ò±Ëv¿ƒÉ)TŠ/õÜ>AzÊxôYJ#ãâö!€ÂŒU[ÈJ[ý+¬{¦!_ßÉn^ Þ2‡oPÑjéÓhQ	.º(w	cm}§‡ÒÁ˜hH_5CŠ
+8ºÊy&«J§“;~â©uXn¨=~íYRð­Û•;{HÛlJ¦B‡ÝÑ-gzOT9Dÿ8@¥Xµ­Þ[G’®¤»ëø¦÷¢,›×Ò±ž¿=ñHg#òÃ­'=ÐiÿXöïu{a¦ß}Â’IK&€.Á¾KëK…oÛCô9ƒØ—SÑAp1´Ù¹úøùµ<b¢¯@ßì¸q·DÅ×4èµ&Ô”VFªa—Û¼Åâ'1<K8\úV%õ²·È¢½2]±ÀZº»¢Nl›;	]Sî"'$I!¯KÌÁ›»M¡Ë‡{¿~¶Ù4‹HCKW!Ö´F*I@¥óû¹’v¸ß¡g)4ƒ¿*]É¶3µ=pEc!Ë`¦¾ª_—Ä¥µ9ÁøÆ¢ì³¥'ŠA—ï#§d®’åÐ…réògÃ*7·À{VkôÎÔ
+[-•Cµž5ºëÝy+Ô[77¾T‡Ç`Í 9Eø;c¾ìÕÂ‹ÐŒ™Ö‘×°†äAšz²¢ 7i–À÷G³5¼™rhfÁ"nö˜näù:Ê!Ûm›“+ko&\£„®øŸîP‰(™.CU¦5î#I4
+´s·
+h¦Ûå@ÔØ°f­ÁéÃåYýs}7ðpf(†­Qiã€l –”ãxPà:ˆ¾z½f«&`³×¥h…Óö-CúáI7QËví
+ÞQÀÜš™’œ¦µûÑMjý
+Ê=8=êŽ4º¨¥½ Ò¨w´‰1„ÜGBÛãôºÄzcAä¢¹Û¯´MöùÖû¯œ¬hWouø1aÊ¥ta‘<©”ø2Wª` EÀÙ–£p=žÏÙSêƒcšk4]=B7X/š§zœ&9;]8nÌ A‡ß&ná·$[­É/f\$¡ž²r×‚%šÖ¼EÃ¨Œ0Ò/d™MQ|¢ØtÇX¢
+Åû&;¶;‹‡¶eÒ1`B¢
+°ŒBâËŸ4Ñ©ªI!Å\Ö4@kiVkÏ(Fì˜É7Ô²½iÄlE§ D™•{¼¤1+ÊóÓºL;¢â+À)’|·t®éÉ\Ã¤Füûa”:°A¼V„ãÔXÀý—‹‚hºmÒ¹o‡Q‚fåüæa›ÝI1É©µ,éÄ¦Æz@Šn'@àÓ"$@H³-ÒIïì‚‚h{8`‹r6ñÄ=4èõ§¿è˜ëâ0pBµáTÞÍþXÃ¦Z³ÏµíõÓ™ã 4P‡¬’³Ze(*›´nóëÊ„ í²ÕC…KõŸž¿0h¼j¼­2#ÔÈp~Ü™žGcªYI¬§]Mª¾”cj°x«F›ÙÁÊ>ðÉ$'é· Ú²Ï6Pä¥¶kî*LÔÓì™±˜·ç{…ß‘wMµ!zÕ
+Â½TBÂ,Ÿ¾ßôÀbez™S§ØáE8zˆ­xª:pwRV–è½Fû}»S°,ª¨^»ÄŽ]¶Ââbý€®ÜxkŒ?#±å– ©îQ—¥ :óN[6|'´Zhcªò>‰Ê!.ã5cÞÕ=:tåátÏoïš£ú,4Aäºz®Y€‡Á÷é0Åx=o‰èn²tÌõN´˜ï´¨S+î{V=¶Tã»e¥€‹WÕWfÈS3;¡qˆst¡³[Æ ü}(h.Ø‰h¶'E²ÞËdÚX”—w‚ @/^O9ÑÁbÄ±n&Hý#WTfºF·mÛãòåË\y*sQøÀm¯„6‹A~æààñ5S•âÇ¾˜h*Ha‡[]Žþ»›—Ç÷,qtªd|”BÑõñ¹”‘†¥0$OýOêM”U8û=zg–ÇéÄž°h„hy psS‡|M<hÐt‚!Ý]7Çü‚Ãµ’ÿÈ:›ò1JûˆØN’€ÑR]ó{
+C‚Óq }‹FµÅè‘ûuÜ·¤"çö—fE.º] ¨¨Š„	­so.:«+'·¸jÿÞøGLæ#©ÌNPÒo€”öz9'd3"¯åJ.Ï{0z×Êd(‰ƒú°KS ‡ëü¾¸ë«ØÃÍÃÝÈ4Í	åÒþPH¸^fY÷8åšö·ÐÿHïý¸Žx„{¿f`ÝR³i†nÇü! ’k1Ã="ÍŽ2$ ¨e·@ª'ã4è€Àq5‚z±øß8v²ÏÎß“Æ©áóÑÈú_Vàë`'NCZ'TgÊaVVžäv\`·w: 0^LRÆµý7TÞ)Ûr¥"¹§¸8½‰,×'aÓQÍ½hÙ%q» ´™i¼«cåT”¼Ï­Ýe@¡SÕÍ‹7„Ë§ÍZr&ÿÂ-'!ãoBv.P™Ì 
+0ì± Ãý&¸bš£©á(×fOÖaÆruHCTGg€|Dïéå_ê¨ÛÑº±¾ÖÐ
+.«HÇ*â¤oC!æŸrÜEÄ+3X
+T$¯‹kŒã.ÐÖ ,2ËÝžC¨0º»LQ €G>,“Úcõ}ÍqîæÍÔUAT¨7&‚¨w‹òM»Ñé>#¥y´­x‰Xˆ°¦]£çõh$¶òi²™Pæy³ì 7«Á{õ‡*A·À1eþâVÿ£¤f‚d
+P×*³:ew)(‹‰ 1¤.8Gk}ÏùeýQÔíðá–Þc¿ÛürÄSvº±H‡Ó|)°#Â}ˆ¿}ø“åC®œÀ/f7z	¼¿kVµÀU2t†äÚEÎ*Éê5›Ç%)2ºvh"®$Xg½•ÜCÕºå_uté	~¨ÈžHôÈö–ôh+>8|qZ¢‘è`«ÝÆ7îTÙÀó‰IÁ<B­]Æ«ƒ–K(W^>¦æ,ÀÊ¬™ìöV±Ôe)Ÿí»Oäù3u ðëÚ½& çë÷™Ö ´|ƒÃñ<ÊÏf©ÑÄð	ñ¿ß	nâ•Z*š°…Ñ	¼¡õ$•ÙØEgŸB`Y¶šÎ·Þ[Åö˜ðí"o÷Ï‰ënäaIEÿËæ¦M:¦œë&¼1^4ó¸˜B@€º ÚLTWšsÂHšs)þˆtòü0§0v¹Ü±%†+Ò´ÂI)ý}gÑWÂ0Xð™!
+U&Ï{[°!”ŒvÉø¾'­þoÓKûà`¤¿¼	µê¾3t ¢W:ùÆé2‘9Ò$yÖ=ƒêüÑBÚÕšj,r¹«SA‰ócNµ;…Æ"óa‹ÆXœsãÌa®ç×,D±RîÖ+V’·²æÅ¥ZìÉ~™ªˆÃùÚÄ(SÚDZB"\@îq?éié˜ƒÛRé¹ÔºS4e¯Û°sÕå±‹‹ÚœSuëGÙ²G½änà¼Ü³ba‰Y¼Ù@ÿ¤$3Ö:	Â†;l¦aÐnì6.ÍœW­¬ÄZˆ*à:©rHÄ¸òd]ç¹¾õ²­Íð˜À-	~;‚.´M‰’Å‰ÉñƒWÙÐÅ\®˜ÛéBé¸¸“
+Øk›ÚdU›®•A¬:FÃ¬“û{™’œ=µpÝkÎj5kR¿F6aíœ_z¬ÆSó-$P°¥ls¾“Ü ÈðYÍ÷±¶4X@³–Ž¨½jhBBn¹iÉ§?p=¢ëéhôö%jbÅÕð—¦„[åpi•uÃÌ)ºQÉ×ä[0Oî˜ÞÌ·;¥8'¨ïÌ¿…Ë1tã¨w˜\(°Nz÷wµ	v‘BÎþüôm)SËqè}ÈF™…´&Ï›éÃc„ ¬vgßz…¾ú} ¯ !ewKH^“U’Ý×OÕ÷ÁNÊ…ÏƒÏ,†lè¦«'pla7_ió!µ²Ë¡§x×¼µ²˜È’›Â±T’Jy:!ú|;?/ãß-´ªz¥¶ýWË`ƒÊ;_Ú*%¥ïŒØ,N×]KÛdÎªU ^E6š@*s8„p£;/:¶A¥ëÄëâk*u	÷y¢M–,¶˜·×¨ öˆFÛÌÍZ™c&êZoìEÞ­ÌŒläŽá+…ÄhWãÅä]5„ CØr=ÛÉz’ggº‡f¦}?úuœ¢Œš‰¤Þ¿rAÅmHÖ\(¶¸Ò£A’ªÞqÙª1ø¥…*þLùéx]moÃz5/täû{µŒÕ ôô¡HMØb\¬Ô^h”^'hníb´ˆIvv²9mãG_`0ÿm)ï»2 üDÄŽN#@£ùïæ“zlIhÚÆ÷ë®~ÂÝÿx\(Å¬óízã&wÉÎVàÁ·ŽsEÀæaÎC®˜(Ûs‡KªÙ]b/Ÿnbˆu¶¹ƒß¦KY¤(ýµè¦w¤U<0 ®ukkx¿s ß‚áÏˆÙ¡…tÌ¡´Êrf]ž“‰žì;Ù©–Ð2:Ó‹!ËK¸˜6Îú(Há¨[î·ªÁ^b
+^(„¹]µ^°)¬ª‰P4[9Ã*¶Ø@T¶=ÿÀo§Zºè2¸ù½;f5«tøý¤]ÝŠð«÷è)-U±|Êc¼Ú„ú¾ f6ÀLv/k=²I™l÷o#øbŽ£’]K!½îF=ÚEï ÖÎc³`Ëc¹Yü'o$Vìîƒ¬ÀÉYŸhPî,Õ†I\Åóðd!Ý/å9;«8êâÎ¨¦f^¨Ž0î!
+÷)Ž/´Š/ ¤«fm»-`³õ¼ôŽEÓÆtm`.›1›íüö1©^>ÆeŠE×%üÐÕù¢Øú—_Džÿ¼Øúw6äë}q¤M•Š/—GsIÿ[ì>)Á–R'ûV
+Å„­_fæÍ`ÍS‰,Ùp¾8ÑJR
+a¦’„}*ÎýIt"ÎÕÍû¨'yC(§¨s~6„‘YO¤q%Z´Ô&ég¬5ý	°{Ÿ3‡>ã•Ï@Â¬™´¹ýêâÙ„»=õä@~ïˆC7*‰Øh5õËLŽ¸7”õ‚ž¥‰ï“ËMÿW,Â™@¯!â¯º"¡(;~Þ­ÀJÕq¯gö¹ycá“¥Ï)€Rî±ÝæÈãe¶!yº¶¸ìç|WMõÖ=ÕãˆµÊtF®G»ßúò¯Lf'@uâïø¾·ËuF2x·Ÿ[ðžwÑ¹5ÁOVÊlµË¹’Èðü†æìÛ±Õ‰ˆ¾:ôY%&•Æ°7gâ ›‰%ëÆ¢É%–v—RóT¼~ývÖ˜]Ô¥}jJì3lßH6H–œQ¢Dë®œÎ¨ø¥‹ê!fc	',YÜÔ£ü½¿daóé'zÈM‰,“K?§Æõbw¬Z/Ü¬€3ßŽLh€Ü•©h`_@GûÄœ§}Äªja:éØ±êù¾Žú-ªvy9¹U#˜ ÖvîøüXÑ¼'ÕÿÉj¾R9¹+t3)î£÷ëìu™'WrBü¿e îè(‘dTNÍ®ü­Ù-gÔ†ß¯‹€Jµæ’”6¥@jÏM
+dŠU¥W’Lî›-S`é	mkc.‘íMf/ôWbz„L³(ì@¼úD2e(´âÖYó/&¶©Uò<ðûðz\5ƒ]£èénÃ“vÆ#Ê•I¹Eîn‘¯ë4:%"$?%§)ÈÒÅ)ß?£Ú²HÎ/Ñ?MïÐ5¼‘Ta^;ÉcZOK#
+wôjÏ`5sZk‹IåÜyMæ [Ì©ÓÄW×›ôÜc3Ò·†—c>¢¶fø7°*d0¢”fÊ)¹õs±.Sš÷ÀšYR MåóÝú…–öÖòò:÷Ž	‡yúÈùOÇ§Ø¡‰Ì‚yÛ·å Ó,61tþ_õ¡"'–"xÞÁ´p"6˜sÜJ˜ŸˆÒnóK”Ú	P5“CF}«TÕ„
+œÍ eh&,ºÈa–ø‰{2¬Ÿzëç+†½K¯É™Æ»åh±£J=û»yô1	³*u
+¸30[ÿ¾®`”¦WrÃpÖÌYÁ¡J©DY{rRyi‡ckJq¾ËŸ«ÕNÔ­±dþòS˜×'b¶KÙ¿‚ÿTR±G+¤ßÖ­>˜Ì¿[makÔ¥ˆáÍ†Û[è÷sjÿÌ:#gT8bwKiËºsOâ8#BÞyÓ>èÅÝr]—«…{Óí÷Ï¹oÁ^‚Ÿ^Û\êÖ0VBâ}=twJmúx¡ï‹º ŠPÎp*¾å‚%>k
+çÒIiÜ+6CÕ^«û[5E[%ÏœhE±'æK‡ÎÉ (iBŽRûÏém³"³üjD›kÒ \Ì]ö&™8Ávv{'ç²²šD)UNL¦Ç[3aÛÑÇ.¯#—	õßOšq_`…aÊTà[ï»–•`›ï9wwÝ(ÌÎÙkñF33—›ÏÌ•¯0úNg„ôm´‡<y'Fs©¤CÄ/óŒÂußi@:qcÍqLu•­¿Md
+ ³_¦½§ÌqŽßàSFÿÎU´+	žÚ{Þ½ôJ¹	t‹YT"¾KÓâì5btæ,|q]'J}ƒæ¿³sßÐ™f§«þ<›³R€w1YÄÏ
+I;&$¡à´OêyhN}Qäã¹rø:Öö#yÛÖ‰‡}ÍÄo#P(`t‹³¡×£Ì‡¡r@¿mœ½(/Mß+ËOGi«~È·	ÙMié)!äÍ (½}þzFe	D_ª¯ŸpJF»P®³PÄzm¬¦cÖýæ{ÌÀs2zL÷*à`€1uY3ÍûDQÑî¶³—ª%‚YÆw~=×Þ÷ËR
+Æ“1–’NSFæˆn´ÐðšsòÉsÝ§—çà¯¹ÑI+{äý|TáçÓ…çˆ$TD¨6„'„q4¤]ÚùÔ«dÒ­LfŸö(§ GÁQŠ!ú*(v °¶@ÿRó+_žù²Þ·Å{Uñ’9=ÍªV|»ˆ€–›D¾+j?¶å—ãú÷Ï´ô’c„í¯oÁòà‘ßÐ K¸‚G}«x6…]µÞb9pªëšwA‡ÉI »^…Ò´v±kdËþŽxÀa¡Ì¢¸~µIRò_þ+\Û2¨ÌIö]¿MâFü¦Ÿ´¤bºâñÏ/Á¤ÎÓ»`Ñ‹[@[ÙÖðTzÍYuí}¡¡F,§Åª—`ÇÑÎŠ!¡rBµ<‡Ÿw•âuÄŽqd
+}ÊÅƒåKˆ?™NœL¹†ïN"–C$Åo1ÕCƒù*ë"ÆOÀŽG¶Ç $}1näªNÔÖ&l#|Q¨ex)u­ yl½tHîö´ËNârøï•o™9±øeÜ?ý°¿"¾k¥gGìÖƒù"2Å0ˆ"¥
+í¼ÀŠAÔô2À÷xÚLm¼l#VçžI³îƒZt‘T=HdÁ]º¿ë´)(E!½[ŠœwóœŠ¨ñÚL„­¦ÓÌeYä–“zZ¨öóØhd3‹è‰£@ø¾ÎHÇíaÏGÕù‹XhÚŒVÕ}…¯	çyýÀbíGfa*Çh‰MM5•¼UÈë¸Õ›ÃT7šbŒá¾x+äÄŠgÖ¹ÖN;ã~Y¦ð€ÀiÆ.#]}ó¸[’Ÿ¶N#éãu† gÃOTð$˜ÀE!ó›ÔÞ·ñFã4žŠpöà\ÈõqB9!¿'WNL5ÚnBæ)àDÀ'_oW«/8V¢„w9ª]õ£‘hûwµ²E¸vïæˆãØ†j‚—P…— ¬KIÅˆw§Î=Ïx#.g)EÎ„€¸k4eµ¦?þÅ6„xîó¾Ø8ÚÝ“žöçÓåûú4IEæ…Üß«ÙÑ^Ïn4‰È'6ä-Æ
+´¼]}fÌ³ø„íê®ŸƒUÛ#Ê“÷ýêJ·r1^,Á¢œïÉp …iö>•a¢{y€÷µ` AüÝoùŒ8uœ®”´†še¯­µr³›Ë§:è-r> Ð¶-x•›7½Ø6eÖ7H7LŸÐ}2‚
+HF7:h Q©…v%dˆ^ÑÓ?;›$žfI”…Qï:x<ÅÃ¶ªŒÿ¤÷®*!ç[	/y«sÁ“·ƒéû¨¨çËåSNe
+\?}Z`å1>Þ6¦O1°ú£&åá"‹³¶ëvRo˜n¤Ø~…(QZZ{kà÷Ç*¯†ý
+ãsx+ëJ‚xú-[œž_¢Cfx‘;Àã~õ°õL£@ˆ gÏ@`Q¨v^:{Üàl÷<Ôô©}$ß@-îÇ@‘Yæ½)Þ©é#ºme9éÜ¿Õ\52^cìçóÒ<ã¦.ôå´‘ÃÂˆOÅÈ““TXë¾÷œF·‡ŠÐhXviÆ>¸ßË™³~"‘·8“ñ½5*ly6Å¦è&ÂŸs9C
+˜ÓTµ´¸•r£ê8yÔ§–$¡Ð7åø¯/ï»æDŒn.'4µçh¯éÔ¨p;ŸÖ™˜,œIßIŠ
+·žß—¹Ò¹cA™Ü2¥2ik§öSÝ¸cQYy¼¾XDŒÎg±šmÛw×Q]v»¸n{Î4Jïû²«×ð‚Á‚Ã|RV>)H¾ª…Y?½¦Çø ·‚NJ+wVWõËVtkX¾ý>»6;è©ÔÐÑôrßKÍnÉµZ)%ú	ÁÖÇhðxŒýŸ ^Y2¡oÓ#ƒ•“%4½F‰k±2òIÉŸd¥Ù,Ýõä“ì£@‰.Â˜ÁF†ß°NÑ[tÇ›¾\ŠšÂ¶¿·ð[ÿòÚ)ICù•=>I.?(.Uf‡Éù^¬†O—D­3l('3Çó|&qâÊ4ŒüøHäºa¢%ØÅâèrþÉ°€dkÍã"ìn—ýqê'–«S9^’%]ÜUü)[ï×
+ÎqŠž\(æEïK4±fëøB:]äAUL¾Uå0LÏ
+	ßå{¨bð]ƒMB¥!·FPjÍšÇ¾MX/[ywõ]cE[z¶£Žâ]E¬¨ çruæÂû"®8Òn¸½¡>
+MŸ¢
+,‰¤?±¿Ë
+­œ’°Í£Ž¦™f¦,ð¢ªß‹ùQð‘\?œg[DÚ¢åµÊ§ž\C{0À¸}¦‹í×ò%a}æ°>Ü,ÁM{ÁÞ¤Ba¾gSæÜ›-K4I¤,®ÂBxÚ¼WÛ;¹»pÐÚdi=Ï(U>]ˆµñ ‚}èŽ|‘ ‡Ï«O2›EG¯ÖÓi™/BŸñóõ¶IbS€,áêÑˆ›rwæøúå§Vá-‡ù5D
+A?ày4‹P·NR‡ãå=ªã6Ù@ÖšMÁœ¸‰ò6¼’«:b"oí24÷§6&{¢d¸aÁµÙ'ºàhU½p3TÂ¹]z­9¥¹§ÈZ@„°Šg64™ª“%ÜQ Ú¾cCŠÖÃ±QyNó÷‚H)q—Àx3«{!JlîL.î‡h
++;€ ¦dKúÚ!T»™ š÷Î¤RŸïÝö
+L$)tÝR)SBÖªçÕéPNN³åxŸZ˜)|rGpèØaµÇpeäUÉegYå,pæ ­ªI\C´!Æj³¸Êàåf
+(I+øE|«˜åð²À³šµ^êÓÓùf ÂföœÁ¦Þ¸NÔ÷+§AåQø4{éæLr0×¦[Z¡¶'Ùö¯cÜÔô“ÐÜ®ƒ8àV]2Ö®Â¢„±¼Ò—4u¢žÏpºÒŸw|UÀëW×I7Šn‘zmþþU‹ì>î[áíŽK¡ÎÝx“ßüu<iS‡M%Ïà±i²_Ò÷Y[Þž¢¥zºX¸ 5Jæf·ç9Ž²§•  V¼!@z¾cp‘q8ôþ/´	øE-òyÜŸtn”¥„ùêS‡¸ÁÓJ'ÉÛ¾xy_¨KC—]¸Þ8è,ä“BÚ'ô^³¾’(­¾á{Q”$£6B+ÚÏð	²Ó©hj¯ÅÄ~³#ß{ãšÿTù²³É
+Bl€´ÖÎ´)FÚ”™Ù#ÇË6@Ë)ú=ï@ÞÚŽtcÃ’‘¹½ßu\í "u¡Ôb6+TX‰™ÃŠõ
+°óHÙÎ1ê¡ˆQC
+"'âìÈæ<üt²µÿGañª[Âi”	¤]ðé*ŒO›
+öÀóÎòÎM`Õ½x„”Š¥­½Z€›PƒDdUúólœéë,×•qÜ»MÝf¯F÷”sµ÷?|gí ø¯oAŠ«Oó³#¹
+ákÒÏx¨†»¡šâ•:ÁWî2LVœŒ¡”‘àæ/ðóZðÚ37RØ„dv$Nó/ô„uª”8ŒŠKö}M¼Ï¼Ü‘ƒ´îbGmd ý~ÀpI!§SÔ"Z¤°à¾_=±ŠöÈg‘Ùß®CˆE—¥[»Y°†QnYœÙåû ¿`){É=©ñsô‘©j-áïœ	ž+¬‚º‹)eÇ>8GŒ0ñ¦Ýˆ½_xÅ‚IÛdžÎˆR„}}Õ&s™òø}ÁžÜÞC™‡Äæ:ý!ó¯mŒÐ&Yú0Ý”ÿP»3_€A ¨gœ)ŠCÆ¸ùüÑäp“]‰®{w«cü¯T Î’”‹:¶³WSM5['=rÙKcJ‚ÚÊµå»l|’‹<Ûqô²JÐ/ÎcKÝ`ì\4¿æÌsµlØ¿¿ßi¾ûÕc^ùæªNœý€iÄ:Æf¹nY'=v,´¹fÞn"²@RÆ=^€³tŽžÆ—‰<C¥¤¤ì{ é!xAÃqš¼êËvZFâ$ÄÊŒ¼ùçs7Ô[Ÿÿ¯ 6ŠˆÂàÏATß¹Ö÷ÕUiãuß¾l¨ñë;cx(F#@ýh
+É[®Xê6¨ÄmÒäMÉBÚ>rç|®u8wgä¡ ¨FÉáïe/<e¥h‘ÔÏ\ÛÂ-cà¼QOIÃ@‚TþÔÓ·:Bó7*½'’€K¾„ü£g<nç ?¦siÌ;òQÛú/‡.¬‡Úß®äýU–Èž>S'âãw¯èÚºã!‰ÒÒc¯…4wTÙ¥SÍ+íh¿&aAÀÅ#7"ÔÿiÞì’Î^"YÊ2Ç¶Å_]ÿ:b‡é4Ppá05dè87ÈöSá+³µ 9T«fÑÐå"çv!&ØþÛ¯á¸,¨.7¼UMÊÉþÝ)~ìt°‹d`¹'Ú]Ýi9oòh×\KU,F££+e/#|IáìúUD
+½t]\ø¦VEgVE¢+LšœÅ–ÏvÅ 1
+Œ@í¿º³$aé3éçoÞgžX‡I#Ïýíì¡7+w´o<EÚUó‰‰ë­¹/:ª$WT®`%vÆà‘}bâ+‹tßúmØ{±¹.%Ýr£(•òáìÎWâ#Id>Žð¥GÝg‹V¡y©^K(ÿ¸“Ð¾î»VB€>Àí÷´*–x=K‚è ©ë^Úënªæi>Ðaëaá7öÝ°­;‹¦G¼#^c¦"b£c9wÙÈ‡sÚ×Vß·…ùæê[bœsÍE´÷+d¦)¦…f½¼bw½Õ‘µƒ$¯ŽgkRå‘
+2Ýf‚‘ZÂõ²ÂÚFpÌíOMMÜnòT¢”Õ];Ö >J³ˆÇA¿p ŒÊ¶n¥n¬"k¢Ð„j»Fý¡}Æ¤Œwh["Ý;$†éåêðEž}9³$'àc{(¥»ùÃa³Ôê’’¦TÛ>+Þa¡N«Ñþ5š¦×3ŸêmWl5ÍbžÆ’¡oa§ªÛý"‡vÍúöƒÖ 9^Â/ÈÊ¡¡4ÙZöe‹O¼Wvû“IðdìáNG–žl+ß¹Ê$ïˆæ #v1ÈëW­KÛ *©¹.Íâk:ØÏá+OjðûÍNœ å`qœ8>©¸âÓõk:~ÛÇ.%uWymZ¸P)6E
+Ê^Å•¥~|†¸ÑŠ]w;/NuÛÁ:Î*	4›8€ŠöìlÑAßW¤
+À‡zQ¶²ÙçÞÉ;½º¦É•vß¯S	6ÇØöå­ˆhñÚò{LeKðKg?5/âOº:gŠHG3TÐ=ò¸(ÏÄiÝñ½I õ+Íf£|”Õè”Žc¼Bß¨–ËÑ¤½ÄºéK
+²ƒi(JrÕâÄe@ÖŸgøAýëÄ«õ ©9Ñô"³yX|TCÕv5•á=§Äg-„š"f¤mSÏ€CË'Ûce9V@²±+|/n4^_"°{å/6X%ð×ürÎyLLÏn¼ŸT3Ò^QÖ#Ð¥ß‚9ñWíÈ(çÊgI­¸aèóä˜ïÒÖ›Ô8ÕZÞIOcÖ€Ž‡*ž£,êó`ô|@Ñ‡'$]—r²%¶áÌ_‡¡¡WÌï+8=P\\Ó*¬gÍ‚3z-Óörg-†}ÑáÔ¹ö"ÎÙÅú[ÔÝF«ñFÉÊWå±ð­jE¬Foá‹ÄNòºŠi¯ãö<wƒ¢Oo®âæPS”¦ÿóÎLZQÿŸ:p/Kþ®†ØÃÙ#öœï±6êP¹;«¼ø(Ï‚I÷O»ó™PX ²jÒØ«±œ¾rºš¤‹¬kfÚão 5Àœ¶rÞ“öxM‘®•æž¤•¼Â !|Ò*M ÄºU\˜JM?^f*e­®•Äõj˜ UŸ¬8x	 ÞÄC‚ƒáúÁšŒ–Hê=Øñ7ñ
+¿á,6%âhc¸qXÚÃð»&Ù+ežºólá•ì¹PYÆÂÎ½“á8z¶ê
+íúuHÚI§¼Ã¬ë6éuñU!¿ÿÍìÚ7Q”HÇÃ}¼Ô]uÖ>þð#xù›È?ø)7ª·‚Pç¢€äýößÜÃ­»¦-ßñ—!ˆUQî@Ò·a`,…Æ"pÚ"ÖËÍ™p eIeOÏ7)sàãØNƒ·†Z½,œ@ÁNVqOÐ!u„`!ôø~Dà#ÆÅ´§ªeÈ[ˆ
+CÓº°¶{‹H	÷•Tí×gEn¡u
+ý²{£B)ÀÂÔÛÁp¡™gM‘Œ_oÆg< ¯ù‡%À ÏéObœHtn6T¡Ï; Q:À€Ò1‘MVCª—vk™´>kÃµ‹DI~žâ©Í¨Ÿõ£­3RGw¶MrEClOA—Š4L¾Q_a;÷†k@‰?1Œp{a6ûó§Áé)—:ã<J‘c¤ƒ’£ëänç–ÈÒ6Æöð!ÈÓª;)l”\JX“
+-¢
+¨ ¹Ôò4¨\Ìºµ¿Á‹°(¨çÛ~éŽÛ(7µâ&(³“;Ïçom"—ÃN,{Åt,±ÔÕÀúŠ	ÅŠÎh±ÿ„š‘‹Þ{¨7`ñ©Êdi„×ÈÖEò-Gž4ÖÃ*çg~…%Ðó@úAáÙ@×L£fLÿ_ ž„àñ–¹OhÉ
+±Â’ÕÜNÁÔüPÂ¡‘ 
+È»YÊì»ˆºÛ7"d'‘žuö¾ ¯.—÷%/ltøhXJ5ÕG’‰þªä"°îñe
+UªFí‚¨‰——™up9á!?”åŸiæÄÄ&µ¥&<ÓQœ
+¯…hÒL|½qÈÿÊ#ixwø9 „QH
+3m_y·Fýí”Ÿ¡Qì›õÛã.pH ïçVn¾`Ú3Êý­ÇÉþéÜz4FC'î‚ÛmˆR¢ÌYF	/æç¾Ìïâ±åçènttO•,!Iñ<R/mYïÀõ<x&¾`N¹þv$TNË%êvæe‘Ç£àvüúk+ôSí]fO~a: Ï[J†}j ˆX¨Ê^H“GÍ,N®·,«|}Èš´H–Ë;é‹c3]Õ­oæ4a”k®¸(vÈÇˆ E¯×üÕöì¿¹súž«›F·’‰f3ò"Ý©ÇpFU¼Cÿq¤Æ^…vï•‚•a²Ÿ‡!	bwö¬¢°Ùç$6’?ú^ƒc-ÌD²!«:ÂõÜŽÆÕ©Í[ßfÖbPQÉí…Šw¢}ÿ);îq·ÝÍ;Œ> S„±+÷CEjD!îi±I·3u­šãÈr]èñ™×ŽœZwó6‘Ñ²
+`‹*”¡ Ó×‹E/¹Åx‰ýsrM6RkH›Ãp¦Ž‡õÆ­³S^%¦á>[fó~~Îâ×P°	Æšm¶ÕÝ»™ª¸EüØ¸ì¤´É¯»ßÑo•QôµéžµkVèM]Xtc¡43ë÷o3xØ¯D¶Dx²L’ÌƒáÇE÷¹NSaFäG~¯Ú)–öpD1"E£8ÃåUêsŽ?qûR.#®¡´…ÃìÃ+ÀÛ²Í¿àT‚þþë0teâ·.ŠÆÏöYl ¹k1>ºxq9K6ÁJæ«<1Èh£xWhç>ÁüõáÞä8Å o5Â.´¢€Ø)†QëŽOá8Œ¼.²[æßµHzÅ¿F_P.ŸzBì’ö ™þŽÙèv‹|e»g
+szê´#ÛƒÈ6âMîò\ñ£lIM’/tŒ_><Or=–×`'Þgóq‚3; Ðw* »ƒp¶*aºE…¼ùú_ß
+‰l)é²ƒíHFŒ›{©¯‚ÑëvïT¦®Óè¯ëmS}gÆKi¯éåojR-ÔxfŽ…BÁìS¡‘¨÷cˆ’™v“ÿ2–HËÀMç+Ã‚h\Ÿ[O•`ÛñLMCVº´Òr%ëÒåš(‚YBnfpSQŽˆ2?I›¿^·>î?2ÕÞÆú³ù§0ÔÃÛÈùäFzD¬c7ât±þôöÈ0¨éi¡…6î“$2Óæ{ØÙ÷Ø¼JPð’·§á"P_Už’ÑÉÎ´ÍÏÚâÿÎáÒ‡ÙB8å·­ÂãJlh»]ëŸÆŒ™–¥óÿœ\"IÖ*Z­š
+ê61Säx'hùÈú8˜ui ž£¤¨H´Ï±%›Çû¯‘°‘>oúèßpEƒ¢'cãgºY0YZ‚L]Ö¥ZS§í…ùÁ²ÐöMíMg×4·,Dè+©]{uSs’J|—Žx\ºŽj‚™À
+; ³?œ­rýÏÂ›è×¦7´D§‘ ÐR9s²ðUó$O?}LÊ’bÍ"É{r×j„Ól—mbá¥^Îf‰aà2 $±‘îy™Ž·1dMØ
+©o±ðçöÊžü·°Ê‡å‡uÀ…,ãXfwü
+F}Ä¶œŠd~Òžê£†<!"jyŒŽøBX“éT®SúÇJó“Ôš›_„î¨fdk¥Ú)ë8õ)
+D5ÀðNÂ5•,"h¯Él¸£žØ„ˆum°ÝG¨Úˆ©IÜTT¸Ã>¦O»ËÝ‡'‹
+ÄnMhˆš%Ç«+wÇDæKl>KiÃÜ:!ŽÜîC‹Ü,p<•T;‹e–Ã	Gá$eø­åŽ"Ñ«u(ïÆÝ¯€´³]f ÚÏ à´ï¯°?4¥JÚ|+·DTxY€½ä/‚ÔF³±|ûŠá-9WlôDDZyE_œ~è ·>ˆ6«ÈÐÁ¬;£(Gåb(õ©]3"~Ù:òv“­Á3F»ã6òv^t²K§²ü'vGàs4Â¿Î•ZÇ›5.ûÅð›“÷åÅõÚ ÁÒljIMIiÔ&Â|jO$dbL«7[CnaÍèJŸÚÇ:ê®Ã’‡æû|±Õ=Ä[%8ÎÆÓXgÀúy£úË—§lpßQžla£7H–¸ÕQÒ_÷R¤ÒŽh«AÈðuTŠÖÏ?r^Õ:¦©ÑÛ
+Wv/¢ãy¼ÕÄ¢ þ¼çãî”ªÅbw¾¨à¨ÃH7:oZ6iõ:jL Î)N˜?ÿ{¬€`>Í¥¢
+«-žÉ‡×Á5(Œ¤ŒŒûv‰¬‰1C!ÖCpèQä·ììþù´„¨ŒÓ°(·ï-!’Äã0çžå,¢!°ÑJ"™í@ÔœHù?‚­;kÐmqB X˜=/þkõÆ”¼¦¨ƒ„bÖ~8µ,Èk§JM6Þ%3U_÷„w-¬¥ÕöÓÜŒò=4rm,¯ý¤øFQ”“ƒ
+oÎÀŠþ&_ØYFÙ:¿+# U€íë|·ºÐ.få„¡UmSkeª]eÍ*YÑ's%7"£”ÆõÉX<•[²l÷
+a§LÔY1¿«þ”0ÜÒÁ)æ/ÛÕÒµÒÖátˆ¯¢ ZZªeÒ¹VqW4òÙcç€ySz†Jù“nìY«åÇ¿C1*5˜¼Ôÿ
+mïRÑÁl·Æ@
+íiLÁ¹=Î™;šS±@ÂM-¨¾ÂÕÛû 
+%~æµ¡ÌüêôxQè.°
+ìM°FØÌ–Ä¤bu:_jŽËáO$ìëý©»Sú@“çèÕr”æ’E!Â
+.}ÁC‹,HzÆƒ?Kù@°vc
++±‹ø.›¾©ì‘TíÖ7 =•©8i=mõÜ§ÛâóÄbšXoÆ¡ÐRÏ©Ëßu`½¡.ú€Iø+îZLŠp‚\IÄ]ík=ýÌìÛÏW3Ôvƒ’?-ˆ¨I~íØæÛ
+ÔíÜp\—LôöÚuó²ÆPÚô„]ÛÈ5mzÔv!p(×¬²f_B5,~Öý+"ýfþ²S`Ø"˜‰þeëŸ¦Ag‰Ì­'çF@<“ªÀˆDéÜM\û:¶ìí4å§ãF& u9XÖôG°Ì¡ýüøÄØ&Î=™ËN‘~&»næE5õDÀXWÅŠîx7M²ð@f[_s
+åOmWØÊ‚°·Î¯ÙY®{r¨)(K´Üò¾‘÷#FUí*ÆÌìéra‡6uš2Áq×¬}ójÎ>fÃ,l\¦mq‰éeË	š®8í×*ýYÑß@b‡Õ>´éú>ÿJ;+%±ò4«®´ÚFs»‚àt&|ä,VÀ2¹¨ŠcõÖ½ÆºÖÛf,µQªüBãºÜU`Ôiðýñ íqÄHlu]4ÈÁ±!–¤jK…J–C_=¸Ò C‰Én°ÏúÛŸ›¶Ý“”†¾\
+PFTX]ðrm=/ñOpeþã#
+äX"Ï·+v'ú»ÐÀ ÔÖCoi÷ð5~°ì¦|¯õ”®zØ
+±´§Ô6Í;o'þåsøö~-Ó>ËÐ¢-´Ý®í3îCœ°©ú$Q`>‹Ž%º§]bPÂ2e·®ªsÅÍÌÒ³w ÔK
+AÍÙ¯^·Áö˜e[1_œû·ª4áá4ò»Âz‘Zbz-¨‘acÛ<Ž–uÜ²‹(±¨Ê? mÿ@ŒæÆ£¼oš×Í¯ÃÈêˆ»¶ÁÅ©[4s&­;&´Ü«ï¬ÚÕPž×Ð¯›%ÜýmÞÖkœÈÔí}ò“/ØÛb–”Gb÷§6~öþ"I^ñw"†®8¹Ê×NAÜ†1¿ÎL³/…bvC-ûAL¦éqÑ´]d=þ\¬p½x#*ýí¢ÍÁWÌ¥'S¢†*%ÛIT]…L’DR>AV­‹?T¡-õˆ³Ë5e³W)ƒ^}/æ1wG¾O¤.×åÆ‘=0èà	Å/*¾uÈÏš'Íô¢ìHŒÍ©Jè	{_¥RHÏCÕøp{eŽÈ:ÚVÒÎÙÛ*"#S£b¬ŽÎ°§, í9z‚²Ù>ÿc£íÒ!ìès*~äK8‹#Á1È{;ïH3„•ñÆFRÓ
++æ­CEßVƒ%Î=øF’o<d‡ÙY}ÒÏÉßëL¶Xi$SwšÀ}¦úl¢­G¾QÏÎ×m‘Ç»m¬ÏiF)hÓÂ¼QäÚ«)ZÀz"ÙŠ,fšD†ò¿zwUv0
+"@èH™\·ŠÂ¢50ab²	×ìÛ‰üþÔt'Q<ü®Ä³˜ßÂŸËS°õÏÄ.• íŒSáÍ ¸Á-6ÓËZ”òÓá8„`rM€LÕè(–ê@k¦'˜nÿU˜¥äÖò‡yëyž(A%pËço®¥J0hÎÄí”¢½˜ìžX“áÿ3å{eAýÓ§‡}fô ì·_~#Ë%Òpÿ” ˆ—œL‰Â¿ƒ•“éÂ°(>ÕM¬à½Š#ïÝ
+ëÑXÝÛG}VÕ›k˜Ï-÷W>ƒ}DHÓ¾ÃºÛwíuM»“s•oN†6YerNšøF•©Üió*à¤T"9Á‚:gâe-Ï—€
+7ú©md>¼9=m˜°P
+¥î¹`ÿ†"’Y<wg†Z~I0:sïÿ7})¾U1	Å­µ¬3¹9¿‡Û¢:o[¼$–z¶}ôzAXwc}Y*µ4†JýØ
+1ÆôÂP7T<¨†WN^(0uÅœôèdH$GÊ]J‡t<aMÈµ£›ußÓü°hRûnñQH€!<Äôr¸žn&Í,äg-&è™é
+MHHÆ…¦(É–÷ì¨Ð wÑ¢—#¦Å~ÄíÛ=« }ÍB:€,;ýí†Êxö¨
+Ö·ì¡îr2zñ˜Ë~¶³o„¹NeÂ7dhlÕÅÑÂ§²7Ý´¤Ä8e]7ÿ6”–æ½ÞøU6lêý¸dH²G$rUPã@j»˜ö®ê8×ÉJbÔÉŠPg{*©³¢ÅÂõ9ó^0ÀoÔ»eKƒzZ÷ˆŒ"|2H­a`Þ¿lÉS8þÑ,»,|†¹‚"gœ‹µ¼ƒn‡ùýÑ0¨`0ö—€¦‡Ò6fò#a¡óÔÊ	;ÓÔ.¢C dsþ7]„gt3´ƒ¤_±±gÐ8oîÀ-œ	
+é½i;DûBäìX ÆºÙ¨Ÿã_ê¶z`åv—˜ÉK
+ -MÆÿPU8¤°JŽ´ÿµƒ2âÄ(i{)Iã×ç‡Þ3² ¤ã!z@Š.ŠF-PúZEéç»r¦ ý´kâGFQrmßÏõv;ö)ÄÏˆÖ¾‹÷C¨h<]*i€ºjÙVH$·f=?SW‹üdždvxØ¨:	>6èªNùiÂ7§ÙôªJ"›.–Õ+¡þÁ`Š¨1¯æÞ¼ÉžNåû>ÜÐ˜«Å×ÕKj”
+ŽáI¸˜êŒ7ÅA»RVTh¶¹ÆzëÊ0­r¢—31È˜Aoc¯2 XÎ‡lÚ>‚tLç–=+Ì+X‹¾ØXFé}×áHˆRJ(Ãc"Ô—€—æsbl‡/Ë¡»Oþ¤Ð!³ãá¡9gèÚ818;Ø$ÁJÞôW˜r°ZËÞIKïÕ¸[ÀE9”ü„Êè÷‰å‹Æa#Ð VGPŸŽxºXª@	ÕÛ,Ì1Ã™|æÙ°5i¯ô, „µÐò©„½|¦õ§=:=?ÝÊ»_ëL-¸¸Â{†mp0Ù””ŸCŽPÂgÏI†m"×ßØs^‰•LGkÊ$‡ÿk¨€3‹~Ë’J6N£™ZóNƒ U‚‹\©–Ú¹¼WòN?·ùæ$+[PÙ½ƒ]K7åÎm(¢´ÕæšAL'žŠÂ‚íª“ÏœYÏ*zCú?^¸}ÅÓ1p6ŸG’“Âˆóï…S­+HÃëæ§A‹ï…ÜN­P°¦
+põÝ©#hÆbRÚv¥øÈiþÒÐãb ¹ÿ‰t Á
+'B´‹P§½I1:æ¼÷(!°³k=ö ¾}ct¼èâèè_}N0cg¿Ze|HóB$Õ¤ïmaÔÅ]êžáfù
+Ñ‰äêÜ
+?5?xX:ÝC+6Üy]þŠR3ñZã¹
+ÔPöçó¨¿ã×#Þƒ|€|¾Záµw½-™É-ç«LElÜ£Ë;qã·»þ’ïö…~$ó/ü©nò–Üù4l ±&³ryQ“‹òOVGûœ@’ê¿®z=`H@_9«î•êñÇ
+/K„ëäQÊJ8¢~ ¨öÃ7Í9¦PVjùÅa|4ŒÖ-/è7 iÄ¸ülJÉÙJàÑf-w…Ñ}²T&¡7åÝN3•Ë
+ëNEfŠ1<«êãkmfGCè¡ðÓjPÔ¶è h¼ö&/ùSh;ÍS †ïT¡èŠópFÍé/óD¾sKÐ¦[‡‚å-«¸à:²&¯…%‘V|ãË‹öwäV'»öìŸµÞûhýRƒ‚8Ò©ÐëÌ	°áªÖÐÀÙUcä}+d3RWa;ß”ÃA×Æ¿Z=
+I=åŒohcG ëª¸VN†7uŸ
+sÜâI¸½í45ñåf§®"ZCûÞ¬×v £ê¥¥ÿvËGý‘ûÇÍ"Ç&ïÂ(¾	àv„=Mƒ:±å¥ ­ææ86Çn$4It.¸õãÙ.Bü—V¤ö?Ó8š`3óFqdÕ	¾i½5KïIsì6
+Ùb|z[)#ïœðØ—–:Æ˜¢,JE€ûà‹IüqÍ£ú¿tŒÔâÎïÇX¡Ù‡2 eó$PEËàK•ðrÉ¼ïà kt3•ï•Ž/¹–§½”¥ø·ãê3sªöÜ²§§1»“ò#’ Ç²–ø½j[ØtÕ:ñøé˜v+Œa÷zù
+@ùVøbvo`rStä["H<Î³ó;&íÂÕtÄÎÓ$á«nÚP8{¼-Æ³ä|™»†qï@ÞNß›ÕÍB«m–àG—–Sg[é¥’T<A‘mÝš1'‹Å%Ö_©å7¨­Î‹CÃõÂœÜì’ÌV‚s½3};'ý*Wðú´ÁÚÞu ’¾“ù²ûÀ½ÉÐ ðâá&c†oí;§®'‹`÷d3µc_v7:@¦Ýä­-Vsó—Í×=ÐT%?GáèÏMÏü\ÚÓïiþS¹¯WnñÛ&é
+G1×;hÍ8OÎdx…Ž5 Ìc“.êµÅðZ‘·"HË‘/.p¹–šùÞ¢©´‹Ö–„þ*ÈQÙÒÍÌ¡,#¯Û¯€±°ÏÄegmoý?]0Ö\,c^@~FDßÃÂ’‡)ˆ1Û^’°ŠÚ?I"±äõ÷Éþži‹¥š,xJÞ¾øBX¦fÈët¬‡c÷#"UMìŽºFòÜé²•ÒBôÔK!{^á÷¤­"x§Uà®1Kq¥ÇTûNORÆ*Ö	*€ ÔË,±4o‘™{g¸(®¼QS[q©šzc› ÿšì|dåº©V.÷ýµ9ÉAPcm„k§*-ŸŒîì€f(¢ŽÉÐyCuäM1Q_‘Z ¦Fû^Ygör]ž±«ß=©ÀšÜob6æŽ hH/´òÿ®F"žm‚4Èàß¦F¾òüÕëa‰W>.‘›i‘M£´.W(ôÇýû×F4ž­7é•Öù/Q,QÂ‡Š£½ˆeÈOƒZƒ³;0â¶1Å4º3ç[ý›ë$n¤¯¯âf,¹2ÔxýA˜‡â§É`EÞè5gØûlÔõE)í¹Æ‡ÿ¹L4w`! érýÛß$>…]cgo³ªÇ;"Ê£H²"ˆ“™:°ªˆ;øí'Ôa†bé$û«Ïžu¡š5C|À¼®~Õ@šè/¼/Qju„$WËæú3ë÷T)¢Ð :XB×…?¿EôþiÅa…Õ FŠ¤î¥ºÕ¢€§¦¥ötéÆØElc?Û¯é‚¼bÉb›ðîèHôúþâÙ†ÿ¥#K#2 ^WŒ¢w5}žÏ8ŽˆP«wZXY°=Ø£ð÷¤WàìR…?uBÌbsó«”ÜŒqMÏ>¹X¢´28>ˆHÛÞ^‹pÁš%k13sµz3þ+G :u'²$z(j5¾·
+t®8Ã‡ö¨à·þ|«ã©®L}›´j–7›´@ê
+øÈ 5¤Õ:
+ofmõKÈÕC]#[OD‰›³†ž’žØ‡!¢¶Y®mÀ ÌÚÙ}íAÄ©TþIÎ¿éü¡||ÍßQŸžÞÝ»XGûÜ¹"‰¥=ƒ‚zTô“ÞøK6í²ñþ’1ØmÑÂ¥À¾øÂ*!oh=DjÈý‚«(ØŸûýñ69u?ÅrGª×ÜbÍ*ïp‘y-ÑŠ<Xˆ¿PØ`ûKäEð³wÉT¥ Šäõû 
+Ý3‹u|þi¼üE­ýÐª,L3¿Gvé&µˆ÷Lf¹/kZ2Í¨Ÿÿ’çZ*KLsxv i½m.ç¹-*àÄˆ,ìf“	ßˆI	G3™3
+¥*Ò6æ¥À‘jq™ƒÍ÷éXP1kY@¥z9N7‘n"AŒg‘!bB™Z7ÝEbsOËcY€GAv¿×ä´“ü‡ðïÀ†«úí`¨H×\ü¨fLÛÆråzPÝÎ¬!£Íš`µÅuÑëþAª€Š`”ÝoSß;rQFE®ï#%ûÕÁyÃc¡3¹˜ùÇu&_>º»«›ôˆfòŠŸaÞKî‹Û 	Ÿ¿Ø‹&ó‚í³œŸõ†ª®æMÒ7áÿîÛ°«k	æ1À,<P\b"[½}.<¶+(•¯[â«ðnjvF!=Ç€®<œ ¬!'@é`ß$èzÐ¢çfï¡T×™¬-\})â¿8Qõ_ç)Ò­·o7“nhsj ùF*/2ÑËÀ›±+q™vHÑ¡ ðø ›Å+Û¶“Ÿy1É^HáÈ7s¨{fäF)AÂäUX—@©>å9x_ûÁx˜Sá,[Y¨Ë
+‰ØluÉãªû¬†W8w¯‰Ï[kÓ…¶2>8jéh‘2æ`\,¬Ž+!~!Ž’½È´»nqAÒ»ZDw•%g‹5€æŸ`T»Òm!T±òÀ&}>J¥Õ-=Jk»ðRÆ?ÄŒšbIÊû)vE™"Ä~ø1¦‹¥­k¸Rù‡²7ÒÉs² Î.i¸ënÞ+†ÉRžjÏ¯ûc-Ð¡8\¼AðI±µMŸîñ¨Go06æ´¢ÓHuAülsòÞ¸Ü1[å$SòúÑBD²™oš¦!ªdœº hj½1fªZMÄÿNÄ.«\ˆÿŸskµ]ÍP¸Ö;²²æ‰ïèR=­4_¼•'¿[z%O‘±Óùç¶$Å3Ýò|….´ ½ß~Ü%µM‹	—h“³Bê&{½{>!Ï—tNxOíƒ’S$[lsû.D²82TÌŒÚZ;“(T·©'¸àØP®î=³er‘ó~‰»v~5Ôý€ ¥¥tgÌÿ;XVp—L™-•«F5Ã›Ssš¡aãëé.—xœ
+ãS'’3˜ñ ¢§ÏÜ©Ÿü/Ë
+ÓQ§Ì“¿tãªáŠAu4ávn.4®0ý$>¿'dLÚQéí(Ž,TXýDØDÞXÀ[Ðª"æý:¬pŸ_ƒÅÅÔ#n&âÙGÚóKÇ
+¬Uš<ÈJG¹Ïì¶ˆ$§åó4P]®–i¶þiª•~¡¼LÿÍÙNì•Ž¤LÔ¯rA)W¨š@áíª¯{X
+Ó‰¢ó4DH“á>A–˜ùÁL¾ú&®íwìkÕ «)7´Ô=ö‚Ðá}³`´)Ô”ÄP ¢…û=
+c€Ä!Nìh2Ú²©quÕ¦rþ7Ç©:
+¡	à)µ àÛ\O³à°#Ämä‹¶\îþ
+@lV¹Ø0Â ªv¥teCÿ9f|Iþ{Z¬÷ËUhWOô»Ù4M€\pm¨Sèñx.Ê¬¢ù²Æpð¹à)ˆ£[&PÚp¤ûÑ˜Š¥¥#òwäì>{/Á8¾`‚>øÓ{úÅ|Eˆ	XdqÂk¹dùîéƒw¹vCU¢»!_æ’é­
+DÐ“&GBulQ¿öÞ¾vÄ3†ŒIô€Ç´Ï”Ä.y£Á_&~P\2YB-RçÐ ¤N®gÅâ§%\#êye®<PÇIç¯"¦‹Öï²íqW†àÉ‰u-ŽæÎ%uÉËF›TËc][=P´û†qn
+„o@í·.€©)^Å?ÝÞœy,ŒnÄH2,U“z÷©õèwbSDê¡9ÃNTž7 QÚH¤Û¶b7T1$¾TU6x2žÿå›‘eó’šš[\Y¿×ùÃ‹®IÔ7Ø+ø¡Ä¢¨°ËdÔüž­PS"ñOíIÙ®buD(Ûª­Dö/¼Ò…–;9#£µ#–Ç?&Îœœ‚ˆ·]¶«m(E·Ó—cÀÔÈ±Íq…˜O(Fu²tS=}ÜÀ$V€¿`
+¶æ#«ÍÏ¦$A:xÊ·û!o3xÕS¿ÁJ]ªX«˜þuqI«ç‡	7¼˜«‚.à£Æ/”ãðøØ¸wÑèóË+ÕÕ›IA)¯(&üÕÃí-ié—…2õ&A±?y–ÄH b™
+,ORtªëÿåËü×X+nO›“¤"US•tDÒ1K0ä@Ðš®Ö*L?§ö£“€Ué]}èmÙ`™9igSÞò’d]€µ"‚fÍ-©û­W4Ö°ßtæîÛ¹ô\Buh4©€«âbÛÄ–tj@®{>4‘Jl\ûq™'Ð·ñÖ±Ú¦¨H:ØzÒì Ñè]Ö~ÐÛ¶é‡áôY×Yÿ;uð{§ØQ§$Ò»™j¾óQoBÚ$uùQœ Ús|UèYñý¼£¯&nÍo‘¤8zlÎ)ý§±€¢6ðDvQÃRgGeê*
+çúž.j¾°ž_3Mmð¸AÄF^'¶1V/V#6b)RöëÙ©¾g@~Œb8TGò=S¥ìS[ÎÅ@gGúÁ­®YsFüt®ëpø¨2Dh«2äo3×Ê\sFÚbæqJ1z#h5Ô­2Š?{8¥.Oê¼TÅY×ã0^…ÍU±£9SÂå%V½a£äý%Í?Í\
+ù«4v’ªÿ?ykÑz8é0¤i}|£Ñá‘B»ž¤s%pí{f2ìÀçéîöCø?z¶KŒV+¿üLMî¤.qM¥c“$=Š‹s¼®j|×Ug‰Àj9FÙjÚ¿OÇ ÿ¾¾Õ÷åX‰ËMeäføïý™yÂý×,ÝK0CüË:°È?üw$»Ö,{×+<½Øck/ÉÃ{›&HðâjhÓÒYMâÌs#‰¶dð¤-Xdã*<ªczä-5\½ú•™2_9<´Š3Y›Ì¯œY"¾¹Ô¼"~3Ìhe<-,ôµø‰ÂˆÍ‡^2¢HÝ |%Ÿ‚V:‘àLG–’çM›•[ ›•Ðu:DZev&8ûì›çô’ÌÍÉ
+6bú¡|Ì¦¬/?Ò©±ä%¡¾R›[ ·Ø
+‚O¢õô¶JñèhBdsÁ„0ÎÛ"õƒVU]Îkð
+*zI*9Ž\¤ý®7*õÚi.¸ûºÄ¦õËt}Õç(A…A‚M˜Er Ä¤KBÐ¼ùÉ,£Ò.E¬í¸¸Éúyƒ¼Ùelt¥m.f1^4æ8¶Ý ¸ò­Å4–é u_›´‰VJ›9Öºê0üÓ#l²ã±)Úá[²@Ö7È18Z¾Cûg¡R*¹^‹Ï'»9íkU¨”ÍòÔç}ãdÜ{4á ÍüžùÑÔÙPêD?ùŽ­¥(Y|[vÓê¨™dÌ
+>ükówÓóe-Ž¦a°15·‰µ·cØ=Û>_üdç@H1;,náJe`„ÛK][4Lö‡ÓÙ¡ô+rÑy†Ê•š²¹9‘NÃ(ÅÎ¡z3@Jni,„Kù4g2‰ŠÀæï©Ä’>~ÚÒ´¸¨<³	ì¸—ô]ä£J[
+m¿F6ÁH"†úl+r\'¤Í“õˆŒý•XeÃJùg ÖcR9œ³;u‘	ä¥<•m]T	^x¶*Õ/°Á	bˆY(~ÓùGVÎöÆ˜¤<ç° ‘ [¦ù¹MoÊÔ·‰žò)+½Iƒ·$A€¨q2R,6ßßW’¶ðôþqÓñGºÁ:h+5)³ùÜ˜N4½…ßÆ;5DÝ‘¶[¥…aOqý›…É+‚zq=ÉÕ¸TT•eïŠ´¼cÇ	¡›–`ê«‹„!sû£ìykõÚc~,ÃJ´d8Fþ][\F)Óìœ¬YýÝÃ[¦Õ+î ´7¶s8¥9-3á Þº´Ö*—I ¦L.ŠÞÃùÙÉÍkíÂùXL¹àHòpq½‹Õ´¾È[+Çç´ª¨Mz^›r%¢¼¾:¹#bK{§-ê~¬þu=ù$$NÖý~6GIN(ünHiÖ˜7?T½û°l”:,-m^x¤ï,=,@8,fHeg[¨”SoË7Hë‡Èc†[iWìTá†‚’
+\™29µJD@ú¢)äœ8Jœ‹Ú)f“ÕÅ§„Uh×=ÈÁ”Âð:"é¶‹+lK"/à_~»”M÷?¤pê–'?QÚ¼´â/7EÜ¡•Ë¿ó2"!J,h.÷]j I¬yÝk«¢k©ÀžØÜ±ý…‡Ðz¹Æ†tß{"Ñ‘«à"9È[$Mœ€û'¡!.0@H-Ñ%fwÍûwôÁñˆ+¿¿žWiæ]8‚èÜ¼§ÍÂòžI5ƒÈ*ÔxÙ~SäóWb71î:.Òûžë¸w`Â].¶GŒWjòfçÚ¡àJj;ÙVy“òk#;ŸzG¢H˜ÊÊWÈcZÜÅ§‹ÚNõ!ÊI€¹[yÇ>òèà’6¶I E’‘Å_É|š‚Râbõ$®¶_n:ƒtž|ÎAu:ua„p\gŸÐas§òÌ?±ÕÇ,T‡ÆŠ™ößô¬Cp0º(Ë¡VkQ5rÅ•~C’ÁbªÈã“îÜ’‡¤Ÿ8¼Ž©ÈcgF-·„Ÿ¸u‰ßªš~”TdD,k¦¾À¥
+¥Ìã¹BPù1ŸxvÅ„/üâk˜zšZeã}s6¿:ùîË]–Ó¢X x1àg ·&érG7ˆÀpÖ¤Ï{„©ƒ£h:kŒ7¡ò“ÃsöLhèè&ð_½?Ò·ÔùHw½xdw/»ß`“zA}íò…×aÓœA1d¦.$
+s ìf\qWL”¨’ößZl!ð\kbäœîºBýú¬õ¹ ßYý›„M‘žO\Ú ½ÛŽgŽl„’öE#Ñ®ñ½öÇ÷Ï•uÀü™ª@k
+¡ÿZñ„YšñÚ7G,Nül“Øê_òìjµoEÊ("Ð÷¡±0ùo­kºÝˆŠÐgöq¶yHØm*~OªQœ€Ã}pa•‹CsÙ;¢E !¼.È.½D:EŽ1hP6}®Ã.îŒ˜°;"ÃÚLžÍ¿œ°+>3Û¨®#ÊïF÷k!Ò]ú÷oKCÇkÇr—u¬íÚHƒ—\œÇ
+,tø[?z½šŽv‡ö<b°ßò0</*· kÌ­ìä²¸I_Ïüh¼ØÇçH•PÍZ2›`2÷²Ví•
+Øp±­Æ…t€E—SS’,õÅªiºiºz£q›$QÎ¼ü’#ð[Šè²A_ëÿ]—%ê¹uøÿéÌƒCYãAã?9éÖ±]!»®˜ft)Æ’|=GöÌû~Þä¬íytXÂ5äq²IkHW‡†yÅÃÜjVH+á²¢dÿÛ[výk’> ügK.#+ÈÊ’:]ýìwnM¿5’H„Òó<¦K§_(êyaþBþ.úZ€ã!Šçûç&q h6èV†tPÆµRpù€¦‘;»¾S÷EŠ+íÖñôÇf‰(Wôæû Î›ÜàcÀÙ²×à1:Ì}óçV„-*ÏG h NZ¡U£ÂUð%HÀ°5bH/N•°ŠD
+‡ú÷Bõâ’â*ñÈ‚^ªÜËh:ÂC—VI]Eµ`¦’‹àüô|OéÒÇE:GŸ·žÜ ÓWBº5©·D7c„PÐDÂ6ÅZ>Ð¯ >…‹.IÅ3š´hÛåå€º›{–o—f|Øpï57q9WYÉ§èm–ÿ„¢c'»v
+T×‹öäa1Ÿ`ÛŽY|ÉÇ$ë®r§'±<;Ã³8@}ŸDÖÝ§!hõžjç¦‚;¼`m×ê|¼/õj"íß["ÃïS^±ˆ6Žû½ÿYÖQ+DÆ_éÆzÎFŒ«/¢íg®œt(­oÎãwÁW¡_–™*kÃàÔ6î.R?&‡ë*à	W	¼¯aófÝx ·¹‚/N¦.“He©ø5gÛ¼i¨ôî…g’ýœØ¶)W<_«ª
+¯´«À™µïû–¸ƒ” øo8•b}ÅÚj3Þ•Ù–º;ÏEö²Z”kŒa;,Ì‚¸C›å´¶ª4KeÉB<º?8n<uCX¢-ð´šáè6RÖGèøêü©ß–Î® ½žŒêJø4d“CE]äàÌs·áB]tsÃKQz%è*Ñò"þ]§Sx§A Å .LLÿ³,Çi¬|oèe€dolV1xôB¥z´Ð]îéŸŽ~Sú¶hÿÓßî@ð?$²‹kµß Ãy%dˆË•‚›¹ŠeÔzÌ>n2í“C@ÚbÉ¢·ˆ=¹s•×òÉæÀÓ¯JþVÓêå©ŽúÉ?W5ï‚Oš _†_­=î7 ¢—í<Á*(”–i•ƒ-1Èc ³é»Í~%ñ”a)v‰ýc¾–âžðÆ¶—Fhüí°o=’õªg\èÚEmÐðI,S]b ;½³']’–÷Š&ÂÞ¾S^ø“'Ñãø“¼T°”n9~mN>æÊ\›î^äq«ûq“ÿ©æóXc†mð‡ÂÉyl<bçwÛ¯m“g“5-÷î‰€¿ÙÛî)8°'šu}ÊlÑ8c\§ãé_æ¡{~E™ˆŸtævBþ'Ì»ÛÃûœÈÿ+Pæ•Z¸}‘…Ž !¿Ž­_elÍA/T³ä`ÉYq¼²`ÈÝ|(âö-•6@åõv?æxŒ—°Åøgçi¹ÿ1ŽË&0çï	ÎÓO³ª²Òv"™¡Ë–ª'L€RàK_-BÉt?•tZØîÞÓ x·ò8úÎD)-ÁˆDŽ!¦œC®MOñQ¬O*,Ï|yPì–Þ”„$w-p¤zŽuQ!TªF@¸¸L×³êGØœb\)(1jðm2¿ðµP
+”†C«‚–¼Ï´dWFu÷R	³¿Ç‰éòÆ7‡“ÿÆSúØÒ´böØ¦³“TäHðQ#ö)…×\¡‚ãš&0çv	¹P=Ò-5?máûZ&2<ƒ#® 	5jy%,?úYQÕbÎP9+P4(C_ÉB7Ìq&™ØúÌ/Þ‰«ÍÏ1%e¡OPor†¤ŠY­¬AîŽmƒØnTnRzå©&°ÁÄáºh©¾$M7“LÆ“ajg­ßÉ³`“:!Ö-†b"Pâgx WŽÂR¬‚UàÒUÇyR#Ÿb?!Æ„ÄA"Y(cÆÎª¶ÅÉ€¾ ­Òñ~‰™6`¯Q¹KÄ«p¿ªÔçfØ0þ¬rÂöÄgkqóüÏÓlŽŽ{´Žh€Ðn³à[Gé»yò9½8Š…ÿ‘¿3uTMÖôá\Gû;ézwqQF<"±
+>‘êöÈÿï=¶;íiƒpÉÅ²Õ/%9>çºû®dQMVO«5Ó©nãIo…Í©€?«àLgº€?¤Í¢q*Ój¥6°àù¹FU„ÍÕ"=C¢§îÓ“—Õä¢˜¼CçG6C!á…
+„	“3í€k,àrHa‚qã$j÷m 6bÆ˜Mâ«œ¶Jw‘pžÞrÇu(Oûz.Úh]U¥š][’]É\…Ù9WÙR­pËêlì1”Ù¸ÚÈ¹ÖÄ5l)ô{4QÈüïPEº<&Ý#põbGMÂÜùðP‡ÇÛ<4JíÂ â¦¢’`Ôì¥cH‚¨Æ“Õ“/6iÐ–Ð5°“:žÈ!ãb¡ócÑXo	ÊszÊøÊðõxÃó”º”Ç[°”~@=‹äžõãâÿ´‹¸ë°lR×¯:Šcº(XP—š¿$ü#\9T>­ÆŒC72þ³¿¯>A„¼8GµB•Ÿ3ÁUyd‰ž{¸ò¯^@²ËîíEg c XQ	¦d4*ÒN·^{í=\Ïzù­¾{B<WDy0UÀ“`¯ÁÕDÎ¡\øÕ`Ó™ýË•xÕÃ^ÙôˆÐ"	ýÅMY‰Uå|{DÚ­ÑPšArÿà3°å8
+çÉ²ïb™„?XËœ?T\ôûÛù«è%Ú+2éŸÛíHZ¹/À?çÉ¤g1o;È|flÍç4Ÿm½o^á¸š8VDé‘hP’ëx4î©zºýsIØ2Qÿì¡2Œ¡mþ0Pÿx,i }Ù[³öd"¯6z«u*ÈuÅQéåõ¿œª×Üì¿ïÝÙž®/!(95;Ì5|´PoÄ„¦ýÝÄ’×øšºÜÍå$üÌ³Š}APúo‡˜‘›©xÕ3]òßý(4cO–Õ	xRZçP…wEºˆê
+Ä~c­–‡ŠW{ë™|D»
+Â×Â÷AŽµœí#U3Ew¢}¢7{=°y ßi5™?¢ÓìVm!V4.m5LµÜâ‹wúàÉ´ðd>Ìn£n¥áRárvõ®ÕJ]ÉNä¢BGõŸp ØþéšP°‰»‚<Ê€l†¹ˆ9ŸÏ.Ì¶Ó]:ˆ¼MN%—ÊXlyQñ¬e`åÒMçîÊ¿q=I&®ˆºí–1Œ)cËW‚üN9G·ÈÈIçr`úŽbs“L%~_Yï¥ÈV5r«÷<\ƒ`Z–Ñ‰MBb¦¹ÊÛÕÖŽ)óiJUµ“†}†ÄÌiŠ©÷ifì p
+ Æ’žèƒ’Š  v´J²: éÞÑ4•¶ûÿkÏ³ú/
+ÇIòÿëŸ? *Ógn­c”D0¥ŽLá4Ugæê¡ÀÆ~6bH:Ø.É“ð‹Û#'ë€ÍòÜA’>V²6:?Ü¦èwTiíþL”¥ïð9HoKKa)È„å²ÒÊü ï…ó+ä*F“C]F?Æm(äcŽW:¬–0ô)(.¹—Ò¼1ˆä@!Y•%J(2å.ûÛ™‰èk'ì¿BXž®¸ÇbfáY½¡‡ðuà}nÂxG‰‰Öñ†\Œ”Óv‚¨k¯«P’HA’>:’ôMc6sÅ±ã½â	}†Y½è½.W9p.Õê›!ªò˜Àk¿yù1’×¸¸Yå¹ö°¡_>\"ÀéõöÆ9b)c²õËO8 rÇ;æ°ÒøFóþŒo÷¦ã±Å¥!¯ÎºÊ2,ë‚ØA°(žmæ(ó¶gq¤¥—õ>ÈÃÅQ~‘oÆÏéZÏÇ1^Ö`§ÆðÏ—QD
+ÜÏ¼®ž#ßÂÒ×Z×ý5¿˜äò°E>h1·”ˆb¶N«Ç3R0{GÁü$T€]ÿS÷Û2ÜuBVÐùW©wÈDºˆÈCp£Âš'OŸ˜W™2ó
+ÛœUÊïÎ$·²iG%5um#|ÿ:í:,ÜzÂíc¦‚òo‹¬Rl÷%¡Õ3Ú|VÓ+]î®VáÄË0\ðT)Qâ¿i¼;–k™3y]:û§Dþãâ: nŒ«güš¹…ýìöº5E'E;§ò±óy úú®OXóKª]/–j.BY¸<ò_{¼ŒúÓ„ˆ°“E` f´…;ÚÜdŒK±
+þfîƒÒáåØj#4—ú)o‰Â'«…êŒG¼ä)Iù‰Œcmz›ÎºÏÑ-§‘§´¡ÏÔ!D:§,Õöe¦),¹…Î
+jÎ–ØS?¡«Ìy+eÓ¢––ûy50D¢a³Ø„¥—Ê½ÈÑL¬Še¹ÞÊ4\	b¿3áx]0ò±v½¿½Rúì¸°€ù;½ZÞŠSìÆUŠB›»—žªr¶”üçGý2á¸o•|ÂyaQ—£|K8aZÌ­Û6ï¿]>78‹f¼Ö8¹UÕ#9·bïéÀ>kcæòñ^‘AíGG£úƒ8¤I›ãpÇ\=dÖÈ!s´d³<mNá½p³Ú+/ñsÚ<a®Õ©‚ñ›õÜ²þÓÁí-ÖÀ–âi—ûpY—¦ÑKCÜµíž_’£’¶í¦ žÌ—$Í Ÿv¡0Ü»ë(ÏwšxÊeuÆnïnùÁœ{?du6Ã;4PÐXú¢^öÓ¡uÞ†‘G¿ÐJKL:¸£;S…LdÀÎ&ÒvC€’ÍRáŒ—Ý÷éÚ"ãÛ²UŠR:µ!R)_Ÿ ¶±¤¹tÍT~	ŠÌyB}'Øö‘ßîÂ…ÙIm9Ò›¶|®’àYªö£>‡=fÝù„Ã­£ºßÔV†ž†„ÄâbÚƒæ³Ê†Âåöì”ºÓ]º\fæg“Ý”®‘w5´‘C8Åø4éŸöZap& rÕ~Ú¨4¬ „*’t¼3Ü?÷ê¾ ¤ÐÓá–~ô¹n0=š29n]Äû·½@C6Ö".uù[1ÃQ/$Þ’Ô/_ÈwTKš@—ò¿ÎÏ·¨ò«îÄy.—´TÀªŽÎ{…IÀb2>ŽÛ'ùüä@ø
+Ôofu‰ mÚ,š!Yý´}K«Þæ¶@jâ.áä²<óü†U¯³ôâb^œí1í -÷£d_åwA]z'ÀÚòu#–@
+Yyáí2ôUÐÌóÁe˜	¶o…ïÁt3Fåô	Æ»yÌI>ùVü ÇõÞº	ÈìãOWPþœ,Ÿ~ªópaqS½7²ñÚ?ónþeÁÿ¡oœ;–€‰Ê9Ý'Læ7(O³öaÝRC›9Î#¦%Û·­4Æ=¨1B‹T—N.åö>¾Iõ°l¯  ñ³‘Í‘¯èUÁIJ	—¿ù…ZnÞx®’Ìêì	ù¡kEÄ×Oe
+×–=ŽàFë\
+×‚î‡@¶×%Å²Ç4Ná ˆG»¨e‰m;²#½|{rÁòÙC¾ÅímÆR#géHÇ,]XÉÜ\Ázßd—×ºÂR;Ï©ï˜ÍB"S1ÏÙÓ9	¯w,0‘‰-A}2+¡èmôqŽŠñ,÷sÝ[c2üÝøw‹¡O¨Žß0_¦Gâ§jÈeô¦DÍ
+ÿ–'›Az@œˆØ+z÷ø__JhÀùP.ÇK ÅªHåFaAV¼Ù±çðvHÈFð‘Šv$Ÿº‡í´ýì'ƒ˜ÏB¸†q«“ÿ×„Œ•Ú ê$%ÙýºWCµµ™N“š–õãdâlèq1n>Ë}Æ‚›æNÀkŒ4ò×‘k}Çèßá+œ™ÍBò®è8gŸ„Z[ûk<:³ÈÌ$¤f¾Äž„l“h½…Å^¯¤ÏWnØ”­
+šÙèiÃm;£!Zà˜r¨q2i„f•¡G¿³BbÕËÉ¶ä`|ÀÚ@@¶{ï
+ ÍØho–!Um¢‘r`¶ÐÙd…Ëµ:ðôÕx‡¦«¼ú”\ËÑvvò^´_Y»`„	QR\ãŠáÒ$ kv	[s›¦ÃêU1cÄ+pNs›û/Šèú»ö¸)‰Yvº‚‰(ˆrx‚}ç~„mý#=[,`	6ôùª^%²TƒÐZO7ç^*E9,ñ†:‰ÊMwäU3³Êõ!eó†1|yB¯yêùn—³G•¥ŸD~¼ZÁ‡-ø+1ÔÔ=)h'—ÌJ¡…ËNœóqÎ½‡ãaÿÎBcóÄÇÀZŠ3¢–­Xsx0Ì˜Îc¨y õõùh{Æâ =P¾¬’¥¼£ÞøU¸›Ãw¥ ‚Þm™Žsÿ3×ü}ñ:V2­û¦ú;´ÀrX.ì°™$xŸ€ÑDO·WÝvîé•2b[–}ÈÂ®ò2œ³!5šÙŸ°EÚÍMúœÚšL‘1´ót*\Ø®Ó.éœÿ£³ÄˆÌdü¢a7P­¢#](åò;wóàt\YWVª›ÏòºWèóÍÀx¨ñº°G£~ž§‹÷È×ñÜq;¤"ÃÿÉ0¾¡²qØT‘´,.d‚ïÙ›­Ú5âˆa¥Œµ(ñÒäÚ¹âóš!ÈÓ¸ðžkKÉ`y§R«&ù#ëÃƒôö^Oe¥—$ ™à~|ÿâÀ·	ü@¶Ì…¿èvO6¹ûŽcßÿÔÂDÿRˆ¶ëÔŸ2‰*Ï> Îsäö™Êâ ]é÷G@›…,†Ïó/¯"¦G†s
+¤’“B«™S^®¿ûµxèÕhœ(Ú!c†3é²ØæFúTÚØ[á×-°¦‚4¤óÖñÿJ?‚jn¤EJ¤\Ù­Å¯¢œÛ¦ŠØŸfR™EÕe˜ÂyÒ¦P$þ_}Lðìaƒcýâ Wá]Å,Cô—7B`i)lO¢ /=|}ûº^³_Á_CFOaÊKºt ŒáÉÎFhugrµÙN1ã»&ÀcM.ã5úO£âÅšÎW}tê}f`c!0yÈ»öÁ9±îÔ—L»6òbµpÇ(’di<Ý°-åêÎKç>ä
+"±ï÷üäÀ‰ßz]=	µÚ"ÐS¾¶+ÂÉÄÖ¼fâ ¨X›g?coæº
+äJ¶{‹$°90ðBuðW“/EÌ#œ••êÆÉ•‚Œ·°78í‘z“•WçÄå'.I‚°¦­×‹õ°AÂØÁ°ã#Ë³"µoI%§ •î\Éˆ[=âô ™s	e[Ö2P’¯èÐ›p]~óÅ]›À…Ô
+Lÿ6P¾
+½B%
+»Î>"ì³ô}1nX7ÄY«ŸÚ×òqa’Oùzâ—B`_U3ÍcG®4qÜÆ‹(!
+°Y…BªÂ§zkyüÖ°bvÃ~¨Ø`
+íõñºÑ[‹|t{V7ÒëZù~KÆ„¼g^þ©»·3+…š<Ô©KÃ•Zg¥%ÓÅRlËàß¥¸† f¢ò.âað—Yn›{¼4 ‚yªž%{i D¢	ûÓp£þä`ixh¾ŠŠ#><5CÇ¿ù?t“ˆ}oy‰ÞFtkÆÛ­õÒ¹D
+KàÈ.œTD	 {ž?÷ò+¿Œ*DÉà)DÑÉ
+FÂÏÃKó³‚hb?FäDJµT€äsÞ¬<»/Àu UT:ð‡Ÿ¼ÑòŠ6+k'åÎÒßžMèáL¹!ñ¤9J!9á^ØìI’nBÙ’™çiú£F>Äu¤øó#˜,
+Ÿè‹G`à@þ BËŸÁ©}ozkúŒ5ÿ&;Rš¹À ¨¯2¤µwö?7mZzçØ«…–®ÂyP¶ˆæPd6C­`ÜP¸qšºß}ñ}2£<´SŠ_ÅEgžR)¨ëÇ÷î¿L3³à7ô¤ïÓ~â,[¾»R¹ËÑcl¨ÙfðàF* ]–;“ÔG%´oq¼Ji*Â#MIjö½Q2Yò3ä	lc¿}¨$q"°ãIÒ.Ú¡ÙYÌYìX¥FaÏ?¤-Ï‹Ía›s‹Kø²Ë¬Ô˜À$kk‹´Y›NÁ/ŠÆ5C†¦`¨è†”;c^¸¾!åp&Ý’¦Ö‰õdæ%1ƒPÎ
+‚úž­ž÷našÁåØ1yƒ4ª.¥6©ÞÜÊg;½*á²m{Gh
+\|á4±¬}s0õrË"»DäE%¥Ø	À
+ìG8UÍÑs@U”=`À}¾è‚®¢1 -Îc6Õ›AY^ïU,à/Ø&œ½ù<'À!•ÓqÁ[þ¨Ó7P¨ÃÚUb{d~‡ßé•øÑUõ¢¡¸&i~k“Ï0fEKÍ(¾3€ÑXÄ(«ÐfåNAËÝË1GÑp°.´?JßðË
+ö]–ä.êàüD‚åpôÀ{!æ®©ÿ‹ok)«“T"6á“õ»¨¨ÉÝ„‡lhõü§Æ7¡¾`A¤][4|DzÿHp&%ÁNŽ	DIWJ=MÒ%ûä Ô­ÃAS+;× ãëÁWàžþÁŸá¦CòN7˜+Ä/ªÜÞ¼Þý(ž‘6;©Å¡Ÿœu½l_ËA¤¡Ç…ºÿ˜Çªkã=hÇ@ÛÇQ±…;ÏxÍ§(5œZ%HøIwXj]ìJÉÎû+Íq9. ø(4Xá©Y@¯• sa"Ž|2á0
+ö'ç’AÎzyô‚3(éiûšî3Xæo,FÎ¹ß'Ý®=f¿˜©x²³ÖoÿQk:ƒWæ$Þâ¯ÒQÈÜˆÛÍÕ(ÁºÝ~¤ØZvç vÌ“îÆ	t<+¢­po§²ÍýŸúíàøOénW
+0ÉŽS!°™Ð†ÿ§¯ˆí~Øór³èÐ?vhµgØƒc1ƒ¼óy KÍsœ}½µ"~‘j~ùýgÝôHh? Y·ðRU[XŠ£_¹B%JÍ†’ŠÙh1hBü0ˆá]˜®úFÔœ®LäON¸iºûÓ68/'=mnæ„âÎv¾ñ	°…ˆþ…{QèÈ=¬.ªÑ33Õpa8©3Uê
+î‰5“âû„JÆ¾ÐÔóus… tãìô-½[ñÙ’4¬[„I²qã­1]ÑMRû¨>‡²YW„ßp(³˜qÃO~û‚6 ¿Äã’þ:\ï‡€Ù^ó›Ó²Ÿ£ð1¡Áz¤†½üU%ª1”ëë^(JvQ¦Rœ‰â£â„Ü£Úƒ`ƒƒë»žfrºx-Å™}#ãˆFƒÆ†ÙÉ ÇÉôiïÃîÀôƒ‘kÍÁl¨)¸˜ÄïÖuºŸcSºªˆ3¨CTx¿‘A7QòÈ&ìÁ©¥|Ô3tþÅ¾M‚"u¨O}¾mí­ÚºÁÖÀ!JEgH Ó³^&7>ÞzYžpþIà‚ßÄ^D]\šƒµ@´§e];é™w–=?zäÂR6‰EÛU †™=^ÖW1mAûï•ÞAû†¢z×S–h5ï¸™:äSóÄ_øeæ9ØÞ0Œ„sEVöÒzÛ™«wÕ§Òÿ
+Âtƒ"ùZß@ým†-çpNNØÉžÐSS==
+¤´:x^ô7µö-d/FŸ4]vB‘zƒ¯ü¾á€b·>ûN•:®cwx© »<ú¦}‘Œ!fÊ<ÝH‰ü€¯½Çö\Â©öÓ/Ÿ÷ˆöß%?¾=–þd¯ïWÞÙK£+Ÿ¶ôi¢ax6‡Íšóµg@ñÉ	?Ú.’wêiÓ:z¿Åt¼ÇÀQ'#®0›Dn©=øäÛ<Â3m O5ûÚÐÊfšª>0·‡šk£fó<´G\{ö-äÙÊèB-+<+/ÃZwäá¹ÿN)+SÏ†ÉìµL‰ ²CùC;jEoU
+ºÐyÚßæ\‹©ž3óÄ4.VøÂ›O¶ìØ ®ä:…”®F”E®µDlgç¤?”,<¿À)9–Š5*N^[‡'š)’Ë€6<T­=Ñ—/opMrÒÑÚÅHGV *ôf_,âÇŠo]–tàö=bÒ‡vRWÃ¶V—çŠdZK‘²
+ú
+ûŒš*xb½ŸÎ'Î¼~v¢»IU,¨'‡Õ•ïÛÃ²ì]"‘Môýæóë=½MÙvì£Û±ÊÇ`ÓûŒ¯)GÆ¾r²²ƒÆz¾Áø¦gOrTDš) H@’ÆÏef›Á¯F„€.d*ª&;uÂÁ£cw­t;Ø¾…¿HÇ¥\ÃªŸ`¸<ê[I
+»
+	©wö÷"ÕÛy_ZY2ú‰lê.?gP.1ª†…Ö*ê)g=s€3´á-Ÿ¹Ô	ýb75²ãÞÎwjý8p³þ
+Ä]z¢…?YNYÐÝ/¥W	˜ãR9zeø´…£{[W’mË§U¢ü]¾DÜ¢Þ€êšŠ‰ˆ_áÁØ¨Í<Þ…[å`ÂÓ¬(G	zœphÃxË›°%tÝ§h@3BGŒ.H¶³2îÂh¨»ˆíÑùµ¸OØ¦U}ýÜÉ§I¬-A”…D
+Ì;P<y-Håfî?#ÄÏÏÍH‘¼l½ +º"­sµØ!¦šš±QEƒÿ‡¬Û‘ÝÏE·»qF¹ €vL€@BÅf½®_ÿ¢­ãd»a~ªßl£„¼ÆRÊ¼áÎ•ÌÐ!äUŒz
+ª²†º’–ê¬ÚÚ›pÛ–¿Ðc9Ëà5÷K–+B»
+%°˜­'ñqºþjw%&J7tØŠ—šÖÔô^ù#YÂ:~RÇ
+«]ð?YYwá2€Ó?ø¡H+ò¦ÐüWbQÿÄ![¦á;Ðô¥¼Ø Øt^8k˜xwÛ†žû¨7-ÿ¾ŠtK&ß¶kmp¢Õ>P|×Ql~é5špø=Õð±žÏ»“°.ÌG”‘’^"å	QÏÃ2è‹/¡ûÐÆ>XFœ|âd!Z¤;¾<t%Dˆ~A¸Ëû•×(¶À6ŽO£EAhÓr$–ìò,Ý/R–Æb¼1®.»×Ügœ®EôÀo]™±eÖ]TÞ[ê’œÎ„PA\W»ÊŒ<Ý®ýú«Õ£
+"žpÀ³fE–\‘*Ò'âÿTçf›ÃÍóŠ¶2@‚iã9é£+žƒ(9ëTÒÈY¸q°X‹Z[=ÐaY/'{šL B¨5ë«ø¬±_Ó  ¤‡{käMß£Õ„¼SQ!P¹.	óûH<»@RjÀ8¼
+f²Q«+‹xºg‰et¡ÚË|®¨Iø®Ù–žFmþîÇ_Òùøpy¢M
+ºèÔæ±UüØ¢E|½ïü7yø>PGieŒiaóÉiÂ9Ã÷ËmŽÓvŠ}ö#aÜÿ¯p¢Í6ççIÜªdkÒ†…¶%ì|^x›nˆ»2‡‰™}J`.F]Í„åÁô¤k:vÈ÷2XG<æ+hÃ]uN’è5jÛ‚¢,B´êË§k¹»/^º –ž[Mz¼!HŽþ"ëÒ1/VßÓ¯	ÉºµÓY¹t%ðž</®rä »‚"–.kÈ([H˜GãýµÝ_1 þÛï0$æxß«F¤%úå,êmòj^b»aÃrçäe°õ-üýu
+ÉÔu$W5|Óš~z&à7	ßGç
+POùŒa}D(ºŠ7sÏ”¸ÃÀJ@ä#Ëv2"5{oBµÐˆý_½53Û‹t“€—)‰èèkÒq'œˆáµµ¶Š%×¿e¡‘$Èûc*ïDÆ‡L9Sž ›5í’|~Œø"¡
+ž‹jr™™|uU›
+ ‡Ø2¯]BèÌüíJ¦f1)MP|w›–•èA·gyøE½•dY˜¥Í‚l¬°´év{÷³&xï ªãž±gÏÀø	¸“„xæ4¦‹õ£îr0Rè›a\¡ôŠ:4‹N²}¯-<Å^­N R½®iøcÃæ£„ñ_R•ÎÅ1·š!&ƒ½-·eþ!õÿw?Ôä¼§*êb+ƒâº’  TZ°nh"ì'þh]\U·jZì(¤ži,wøM:¢TïV”ôÆRÊ•[¤OIùè«2h1š{Ä”¦
+14¿îÖ‰•xš„–ˆùIŠ†òÚZ“ÒD§!»ôn¿Ž}\Vö œoI¼ÉŠ.\¨/c‹<£'ÊNvš¢a«!fârôäE!ƒ:U%ú-cðgb¥,Â…OÙ)7ôrÆ¬QäN¦ªdÉeYWŒyïáÔ“y‹-]Ir£XW
+Ib±=¿?'bëqi8O¢´0tëÿB3Ó:ÍÖÃöÐ3Ùï?¹ÁÆ=Šs{3(´ãBösß ´;îf_2·¹¢av&K2ú]ÚQÏý¹©ÚÉgôb¤i”øí&¯9î!+ª¸åzYÂæ¾½¦Âd<	îw’2ÁÓº¦¶!]D·¹%HÆjƒ?ÜióÎ²:‰XÑÈÙ%Ô'«(©¼•8”Y­%èÐ.:å1_©#Wø*×®‘~œ·­Ø‹qÇÜ$»T{§>Ù	…n×—™Ûp)ò–RÉþ½í×–b¥Ê–	ùäž©u`‘}è¿ë/ÙcAt	l`¹ÕÅEô&Ð#˜fA2Àˆ!J895Ûß‘À¸#J}óÈï‹3Ð£
+ûÇKŽÄÛ-j§ŽE:ñ }–¢a£Ìw—¼i}cZdžÒˆ¦EÖU~“‹æÙ{äîwÍ&JÎ{›DJ–Å]Õ×Z¿‰ë©Öl¼óFëä=Rv?&Kþ™4`^µÄ¼â9à|¢QD
+Ïc•ÝMÚoiÂV 3K}b¢¤©\®—26èUö4sž¼Û©Lè¤Ý¢7ÈÈbfìažË- øïšwíUœ6ÝÍ*"[;£5yf‡žÆ‚[(÷6}Ðk‡·=„¹Ê14d‚OZJ†9íþJÜ6ÃçõùQaaIØ†sÖ›œG‹_VôØA$³f‰õ‰µ­ò¹â8 ?ÕºÂÒ½>Ðÿ¼á¹ã'7¹…
+þynr
+Ç}kX›ïóJèÃÔAœÂ+@•"i;ÁÏf£.ä‚jµ§ÌØ”‡¶~½•G	<p‰M¤ŽÅ–Py><@Mj>v~!G»;bd{¨¢ÂÆ“ÿû’ ¢ÄÝÕ"Þ‘”ßÕ´”·_>G8[g‹¼r^”£Ø6eB¯œ ÖÅ05åãÚ
+ûò1%í¹)o™9¥©ðÒž/x~ð5r‹ t`DÂº„ÐæùJ©O
+XÚà,Mu6/˜"pYµjMlÝM`Ÿ¾FÑ&*ZNœ[%%¨Â9U®Žš¢"]i‘Kü5ˆ%M¿rb9C&>0fiw'|~&Æµ…?—p[€LjV—u¶&!iøä¾¯…|ÏðÇóÞg°G#Ô9òC!6û’ì%Ùw~ýòiÇÑ÷/`äÜQô pn¡mÖý¹ŽÓõ*­ÝÀ[„n1Û/Š`¤c,'¿Æñ=ØÐ´Ó‰è³œA"õèQ¯‚ôv¾¤ú1~ÈŒ”Ì‹j(Ä!3!u×Ò}’¬]ÐlÎ’Zê·çÎüô„—Æ¾ºÃêÛYfj¾ÿd‹³¹Ž ˆÛ¨è·ÍCò"í©`+Xp;6ï€•–ÜÎ‰ÑRÐØäÃÛ0é—Ñ`¸‰­ÄX¬
+K²LC<Ø°nÂ}x2žT¹ÓÊž†ÝQz¤n\•pêÀ‹’,¤ˆò·bü¢|{¦¼.S`
+:ý¬„»~ÉT	ŸMÂ7:‹¸ú•b­ƒ¯XNÃCPåyU>åU@É®Ž›Øÿšª¡®2È7Ÿ¼än? ]ˆœÈñBŸ5gŒKª³'‰˜˜ºp&£0¨¸û“±â+Ê,½ÔiýÄev/²ž <åÑŽŽœOÐR¾†Ômì£°Ø×Û~¹©¹ëï¥)9 I¾Fÿ©<”Z Cˆ+êLcEZù¼„m6ã=ƒïªÈ‹Õ
+Ód“e²"ïépÀž™ómG¬oÔjP×7ãÄS¼¹MeûLW 4cÌUv“Kbç.Ðµù¹ÇF¯Ílõé…UÛK»LuP©ëv;jOÊuåuNL!	q¬cö;ŸôMì×ˆýòøWi‰öÈ” ¢˜ä„l«ÀH˜Ë|¿þ4Ý¾˜ø5°jÛ¨}»†[ÝEâÞ	Eå
+JœdÝîº›4Í–@6º/fEÆJ@Öä =˜õépnP2ú›Í%×r`òJÇ6%BÑ´ÛQG[åhagÿ9ãXeÔx“HJSf1Ú˜,œÇ/iý¿–~‰šˆÛ‡ö†cŽ™Ð[9¼)øÕr+¹‘bj…>;0>D3‰~å[yÂüm[
+£ì¸|6 HÈ˜
+ÀÊX‚à½uq“ü6pÒI­JUõ˜yƒù¹å¼Wì=c»$óx1­HgRm1-S‘³Æž×xÜ¤¨^Ë¼Œ<E½èñßæÓKs/FÛaá^/AYV…»<N(}ÕR®ˆ4›¤|³«söáÑì§–àk 5ù’í*í·ïÇ'­ÊÏ™kŸo<‹ÉG#Äó¬ö¸¬„fêÚÕ¿²¥Lô‡÷YwoJÓóH„”ë@{®Òù4}8°îxã¨žT¡= 5ŸÒ ‰î¨$ÓÄ@çÁÜ„Yü–B¢Å6{DàDuÔæÂ!r—+žIOë4Â´ÈùU'[½8àºæÚŠùì¬’ˆÏ†¥&rçáÑƒ£} ‚’!ÙR±õ2˜Ô#òf·píç>¯þuaìþi‘ïÞ5Q:ˆn	Œ+	<»u—<±,ª~Yr*NÚrW	UJ!À/Õy×¡Ç±ô têèÏ)\ãº×‰¬ûþ-.w’êCèRR¡Y"W}h¾Ô`WQoÆ‚tõ\Š±Ëu*¯Ês5ŠAJ’…XNûÉ,k}ù`Æ¤OÕð½æ±Æ8¬^Äpx?|DÝÒ%òeƒJ¶ÒKœ™=ÇlM¸CìçkHÇû­ž~—¿¤™®é³ûÜiHUBE@: Ì6DMQ!wŒÜÇ{k¯:»=0ù`_&$R–æSu¦œèÅÆýÑ¥q õ‘ÿ…ö¶¼[îVóÌ2Ðã‘‹B@­P˜á™ÿgÌq©´ð[w±Ô@Ë·wÉf|nèÎ*9øÎQ¶—Žî˜–3íTxX,çº)ÊMÇ&GoÅ ¨ºê‚Øóû³1(òœÜH’ç@JëBùãÝT›u‡LßÃ#^ÈÞ7ï$ÚQ©o%1ÿL:e†ÔœiŸj(ZI“Ø;žIéçù¼e,£Ž­ñ>›UßòÜ*‹’ûü¤ì«ïd0,d×—l”‡y'gT/Öpbkø”¯ä9î±Q<¢Ãs¦M3
+Á)fß!h@WåGÉBü&Mç›{
+nÁjú`tÿ®8i«R˜6žÎü¡é¸+¬‰¸@Ã¯Šè†'Å—ïSÄÁS"B3žþAö!¥e_%m Ö7o·ÄÚ¦ÈãÝ²€WþÝ7N"xÕ'¾VÎ{{mAm¬½xº¶¾4Ì²sÎK<¼>¬oáÁ€±ßj’¼€„Fs8˜iFKÐåkã5'ñ¾Ji«M|»£5¦ýf@
+×tÐ–™'w×ñ2Æš|£D÷Ûø“©Ó[0Czf©7è•éÙl¿G¯à'a¤ÿº~œ3D2ˆ·06¢`ÃÆÜÛQ‹u(s‰V'Í…)3†*†µg4µae~n‰©9Ê˜že†ÇvyŒ.VU
+ªï°Sð·ºÛDåøk’‹	ÂZ*M?D4PLˆ=7%)ljJ"Ü§sj–3h~È	Ãî‹ˆ6•FÏ™#¸âLï+GÐ)ûP’¼²ËNÁ!&‹¹
+O×¾åÿ“HNavOy-™…¯ös™ÐYZŸnçÎq¿÷UüãcÖ<õï¢¢ùÙJª!Z	ÙS_‡d\rÐšð¹ðXªÑŒÁ6`V~4ÑSí?«ùH´³˜ºÜ.vŽ.jd!qˆæÒïÄ÷°W~HË²§Øå"7¦ã—˜|v"£[Ô;IÓ¼?6f%`?âÄTÆöåÃÒÛ±q°ø©M¼˜Êðjê¨óë9$—ý[hî§(Ûæ$¯º*kžÐ¼mÿoŸìýÛÚCX&M…¥Ì\ð>ùdR¹•ÍE^ùßß…CÁ^´tyèl|eyØPvA1oO7Øœæ„KÅ-Ñ*™G±ñþ6µd¢dÒ_+y¸×ªYð+9·‰ðj©«³%¢$˜‹ËÐXUáË¸\gŽ5t’\ÁÒ6Gm3 ¥ÁÌ{£ý37X«BžËš=RõÃÂ,Mò[˜¸ÎýNWÑ¦hí¤SÐ,Ø ¥³± ÝÔOhY¸~H¸­$®®
+Bf—ÊÕ¨a}TCÅÜ£Ô”œüŒÖñ¶òî³RÕ¦„K‘IŒÉ
+öçufB•>¨5pñ_±^±C²Áª¦<lBÖ‹ËÃFCT€…S,ºvH~šHqpôt‰ˆæþÊg}»«F¶Ã~C+WUðeþ¯	µ©¢ýü¬›r„™Æo¯\=db7npè&œ×žeAïÞÚ=äoC‡Z‡Ë4o
+½õÿc#‡Õ¤±
+÷aÈA1zXÕ¦ïµÛ=“5ï[‚î«
+i‡Z$r›ž•êlätå4¢<rq‹€¸	S´×•cm=©RÛZ¯)´Ý¤Ïy'M2&†ˆñäúšlS0‘~t
+ôk‘ýå}pýlD$|9„‰®ÏëBXZ¤2á»wäçÇ-yÝUä²X¾n‹5@Œ“§œl¸Ž¨ö´äAÆi‹ÀD
+ÌIS\h†®¨0x%%†pÞ’ÊF7“¼%êÚÞ÷10µ¥åÑÜ6¿ÔC æ,f…bâ*ôÅËÔªo¢## ‹G>?úI¸Q«ÚIip®[I+¯SÚ
+_pž5ýRTúgMZ‘ÛU>ojsÙÊ4ž}Ð˜Ó°5†Ïn4B8‹M<¬>¹™Ò´ó|íe{¯Õ\’›ù€æw½Ö”DƒH@3=
+7ýÞtTñ€<xSM‰A'Õò$ŽvžÃ¸…´²‘†hD»Â$êÈ¶?˜•b:D&QlØTè~ßÒ'ØkL!ŠÃLá64ÊÀ.•¥ãE>˜Å
+ˆa²…ÖjÄÒ‘[½+'íË®$2!ëRpo”ÉÏD»åW?vI9Õ8añ’@H¨ÊÌªÉ´Ý¦7OÝXP3¸.óUœŽ
+A‰j‰í²ÂQv#<AúdàÒ
+¥š`¬!™«ÖÎLE5òò»ùEœbC¨eyËžÞùÚ.þ¹]Áæ:ðq2ÙÆFi¸ ÁðÑ|Ñ:ÃnÖ¥cN¡V!þ‰².$Ô¢ê#ÜÑ=g	‘"Õœ°¥Gúã‘]Öd¨„s1¥Œ<ÿ;fÐP:YŽ{ËÙøì°pM¹ª2™°úLIùJÅšõÚÔÆŠç¯víÝ4kÙ_*'Ó½§šQàÅºÿ*ØCSj°di>´ðDŸ3Ê>Þ”þûšíe©9iÕ<ÂÂêï`¥Tk	\æ@|^ƒR\Âð­œQ(‡ Åø…)ƒÒ!oY-ŸÛ,‡‰I"²`š–ËˆÈä!|hÒ°¦å·#D^
+å²I%¾sˆgÖqÝåãz´¹Úe’@©îø”^ñ§µ‹Íj®++ôÓt²
+£[ó7\Ø²ÃYº#y‘ú6ƒ3w}ìäø
+†Ø
++Rß8íxp€aY}¥¼>þð£Æ5»`¨ïKÎ¹È$°%8ƒ–U×Ô
+Nª5ßÔKŠ§$ÕÝS‡.ˆWht}]añ™'êM—÷=ÖZŒE½i„rVxµ„KGô¦®
+èüœj,¤ÒÏCT‘Fñ{Ð[W+E¼N´§ùÀcf”|BØÁç1WçÚºëærz~qàê«£+Q9Ë¼Ë¦n]Tê?`¯‰†B}üNœ’jõ05Z{Ø¥I|á/î~€y;êR¥”ë uß´NÐˆ+ÿh³èYWÛÛƒÞõÒÂ·ïÀ,µ 0ÕÕÇ¬ðñß¥:`…­Háá>0!VøcÜõÒ]P_¡é„Æ'ºÎ%Jc-(˜ˆãATŽªúqr•ŠP§vç0'óóù—u7¦éj¹u´tyX”*íëd×EUÜš8ÞÕ!£i[q^óX
+V‰~Z³&Î ‹K‡}Z…d¥:÷]ÌåÖS
+z÷ Ö( –¡£¹àö¡!TcQSæöíÔ`ºêm|uv3^>`~ÏÓÊÚ´ñ•ª2&Ø%žLxê.|uhˆ]ø¸ßŒ³ê–âà¬
+v®Ú!O2®¬€™Ž@.•jzÓ
+çÙðÝ[C;–N$ÝÜ1Õ™ÂNA}s	ÁôÛøIÕ±Ck[Ûs…Î®Ö**PFeŽÒÔJ¹z†õ÷BWÛÅÌFÔ—²¯›MØFÈèˆÆ¹58"	SCe6–h¦q¨y–ñ“º6v9óâÙÈÎÙ~0¼…v0F@6·¾t?¿ûNºËœB©-PöH ÔÔ`×áªhxº&)kÞÄ"È±ˆnÚÐÏß¹cÿVJÔ3Z<ð:9¨Å¦ÍäÁq¬ÓbÂ$üF'@â ÓQL
+LÞ–f*ò(·aGTû1Ú¨9‚³Ö
+î² W2ÔÛÐò3nò5tˆó~Ù5ßd>˜f×çbÍvë1$‹”¾i à;¹¹½Ž)Žy>±wntïÖ]§ªrœBÞÊs˜në)q™\{•÷K=4–àåå~S>‰5çYã@•ï‚‰ô¨å6äA‡2Ýï©SUr­ÈÀÀîÿ›pž=åA0È¡á¥8ˆ¾u\€iÚL¤ÚÏ\þpT6ï»DJÚ˜]î¢Ð¶×2Ú7ƒN0q ¢ÃE‹|¶Tü4¤Ì³sA†2¼¸úÚ„Zµ>Ae—µ,
+. ¯Pä¿ÎNAâÉØ9xÎÑvõØC/ìªkc‰%±e!½¡ÜdØ
+Ö‚ÝÊÇc_j#®“Ð	•$ÅB ‘×æßY¹À
+AC«à¿µîÖ$Ø1Öº(´7Ú‡¬0¬a˜4þ/ç˜ëeKË@)Óï¯ìm3ã¦žw²|ˆüMµõBÉ®ÖÍ:Y„u PÅ¿$úžû¤=%_§(ß—X“¾Ñ‡N§ÍÑÊaûaOé0r¹Ê	Ã‚þb ÂBcPô6ôim¥=Ú´Ze[ÕpDàÔbèÚ"·Å®·ü˜Ïì÷´p±¨u;wÿš©nÃÔ}·g'çuë59ñ(€ì3º  V¯@Öüuú_?Ùö\.Ìpo‚úôóê3iˆêÉÛ‘&V¥`”b`è…¯2Ñ@d™‘G‚±LcNÐÁüþØo$LmŠTÂ~‹ô¢òØv1f?:¯V7Eòe’+Ä
+¹”MOwQJ‰ACÒÈ‘ ¥õaíüé´9ýÃÔ,ƒä'ØØYåú?N]LŒö— M[”zì¨tÁ‹ù¬¨T¬YvêRø²\
+mÅo¥ÌSýÚQ©­–t˜5ÕÎmé'Y—\‚€xèTÜ».1,2ûÚ–ó\LŸ”*›Ç\qt Y@¹ÄW) Ž{Ë=\<µSõžlý˜ Kîò—(Ù-ß°	@œfègÿ4jE2xZôfÐnêgä²ˆÈæŽPœvDt_¡øš8÷~ô8õÅ—´è°Æû'ž$º&Kâ:Er*×$BÉ
+Q?öÆ†+Vãª’€pªš¸¢õµQòH
+çx´pþ=I½DœBŒ¿]½Š›Û<Ï É=OW˜º‘¤{iy3`)+²à™j¢(:#œåzºGÐLûtyYÀ3”¹å±…Ð~Zmˆû,™Û
+Ywä†U³Ûv†Æôü/‚Üš™¢¸–B¡â¥N“¦üÆH¯H…å	¾Ü	L,Tbu,{»P'ô ®ØnY“Ä:»F{¡Qo*¼­Ù"†§Ÿð×Ùwc:)4I
+•Æø{],+?!ø¹ÁvßR‰©YÈ!ûºì>Am•Âpi«óˆ;ðáIi¶BOó`>7‡P.õâ¶ïÐ¨š*uñÙÏ(2Õ7líX¬i6¦G0BdumP¬GBÄ"³Œ÷(S°ò§Ô3w›P€ïZ"ï®ám&¼oÑ«3{od÷Ã¿:è”Ÿ„gÙÍ ˜xËwDº†Ÿ¾Z·§¹YI
+At}§;m©§á.X‚wm3˜
+¾ËZO­Å~ýŸ:„-¡b„v)s°J"NZÚå}ÞÈx¿ÜÊ/[ Õ^2 ;‰û]Uã
+k'×-ò *sA@BâÔ&L>ù4^lš,	’­ÖâÓA]Å%÷DÊ‹ž'ÎC]¯“„®s™’jñÓ×„4ÓJø´¨Ÿ5bˆv¶¿Õ¾3…ç:tõ¾¦òÊCTš!^Hvç‡‘$ð®| †˜ªUM·ÙLÝi	MD Yè°Àð%R¢õ-Aq
+ŽgVÎ~Õ”q¾ï1ñ=Â¯=._m&ªŒ‰ÆÑË¨çëa\ÝÍ½•ÈÞTugÍ£AŸ‘Ae:ª}MÉ}/}­™Éîã$CËJù9—¢±Sþ¼†{ëA¨¹ŒAÅÇøÙ¾T>I1„·E3BÝkèô‰"’Ÿ˜Ž¨ï¿ÕzKdÇˆ°~Ù­º‹ÁÏw“ˆÎ%Pô7}yc"B	¿17Å˜¿†Oum²©!F¦M7JF €X}1é:»—{!DÕæJYyõq/`w,àÏ:PWò:”Ëbà©8‹Gq©€gq7x=$Ý*qmsK•#þ0a¸~­ë)©‰4R-ô¿zdiX v1 ƒ7cT¥ê†G	ÀJTËÊR/Å0ôx­ˆSwÖ_´Á÷	D]{°‡=™h’yã!Êu?w»7**°ÜHGÿw…ZÉèÏÀÂ>ì~)£Ü´/œd|l0'ÈîtèµÍñ"eQ]öÞŽ ñÐd˜º—gÑtÀ¼¥qŽ’ÆŽ[t¾6 D1H™ËÈœPxï[ƒ/o+‘®]œ[fCØ¯â–Ó8²Ö$¯(<ÉÊwØ…‚ƒû
+'©Ø+ø!˜mTê¿ÒE…0éù1qž¸_¬cßÆr–Ä… TÍ½ÒJö?ßjOõK¾\ÔÌfß}»¸=3îÉ€à±4qóS Ü´˜TecuÅ‚ÊJÆðïò3m²ì(dÄçÜ
+¹€›Ñ8°
+íÆTNÚÏò×ik=0@m
+TŸï«—)
+c½%À;ôW^VÖÐT¥+ŠÕyx[Ê×WïT[Š–‹í*ê» M½ïrÂÒÇ‰ƒÐ†)Õ¤	6ðLùˆ«Þõ~¦ÜÇ¯?$íZ ìcO¼Zy¾HÍiÅ`–CÒ›ö:' éNºÈŒCþ…wM"´ÐÔs³R“Œä£ü‹Qð“OÑj	t½þ—Íò‚üuÆ®Õõ¯¼ÿB r„Â³ÌÃª·ÒNŽ¯“ôÆçÖ0-6Wö[{<MÖe ºG µj»Ñ è ›«6¿žEZ˜©b˜©S¢Ïwtv¸Ü®£gI@s’ÂÊ–ÐôûÖZÖ`«ÓÁÖ›Ó­õÖØæ¦’ËülÀ.àìÞÏï1øNáˆqö_…VÄ”`Z)'ID’ï‰"D¸-ÇµÔ¿D»ªúsv~Ž‡¦ø¥^Ï‰@Ô/):o‰GÆ½åLdúðÕ-ö	?Or;¾ƒyÔ“0<hCVBS¬t8¥ãäTš!ÔÔœ—kô/{mù ûXB&˜ìÖ¢Ïm–Ïe³)©R™dxú»·ü>l)².â±ú\FŒ¿€-´éŽdŽ¥Ú6õ¯£Ôö-$…"¿Œªõ–•xH×ÝCÌ¥½}¨?sÄI8ùrLÛ¿®ôêï—×É.)ñ6B+‘‡]Î›X[´M˜	bÏÍ§íZ£":´1ò:† €î&nRDçÉ k_<ˆ‹yF¡*¨¬žŠYµ³ú[§*t„á#·­émìÎÅy‘p¸ÎÌÞCÊë/÷­ì¾„‰=aw°·Þ?|Ðcø[yÚÈ]J<ÞÇ½Áì2òºªc$_'eO¨¼‰D2Ü E¹y+Jkí|pŒäh_òTÙµTwÕ)ÃªvŽ”pçÑïâº
+a6G>Ëj¶Éê0½šR«]±°»€Ù†ÌœŠöZÁœW•–ø·@$Æ0=²WÜõ#‘Aœ.ccä#®Nœ¢¨ ó0×_&ã’»~ÃÈ~&·Û¥:V¸Í‡V°é£}ðÔäÆZ3©a¥E¾.H{VÞmYÈÂÚó'ŒÀWÐ×—î7OÙëÝÕ.W¥-ó
+?\ÿÔ?0Ãõ¬
+NF2É
+ê1‰ª¼Ö_Ê¡Ö%þ£*=×N™´Ÿ£>‰ˆÓNzsëSþøñ’wÕ´Q:Ðâ“Ã½9Å½BíU‡AÃUYÞžÆ¼dø¬“ô‰þÎ5/ì¾-là-?îúÐ[)9º«µ©8ÐÌíÛl9·Õfä@Ç’z»Q2ß{‹Õ«“JÇÃé â\-¼0Y9ñÔ69L¥U	‹ˆ¯ÈK3Ôüä„ÿ¡¯#›Äóó¾-sú‚ÿ$¤q:˜Î(_U)iÐL¶tø¢8#î)†4ä›jÓ¶&gÑìÿòe•YtjX ½þ%*ÍŒ„Ûc?b™fÂîl o°½´¯?ut±ù;ÜÆ?¥kÖ~&Â†1+ÚRš²v5ËÛ
+6óIA£EéçCÞ\—½¡v#*·¬ö-å©\Ì‰_>¶€ÙÞ:¡TÒöùÆ/kO5ˆu“ûTR–m8Ö);é8sôð—O‚nçC«aul²ŸAéXÿ{Cò%ƒ°ò?OŽI4¿è€Ú¹´Î”}Yð…ðnDŒOÔ‚ìç+þÖ
+¸<›ð‘Mzjîo€ÆUì§°à	À$K¶#Ÿú©„­N¾K~)Ï#šÖWê{
+r ‹íÔ‡Ã÷UpŽË¶E r¨[(…Go@H±é¨uÛæ£oñj9NÓç±®‡—–ó/ùú¿„Ê€°ÑFzóX “qQî8‚“ðÝ4üèâjÎkSGÒë˜ûÉ!
+˜Aú=ÖÂŠÔ“[Z¶ÓE+Ò(#ü4•Ÿ[	KÙ$ŽMõ);´™8W˜NsƒhÉá){¢ŠA¥Þ¶åµ¸ü¡±ÞàP/‰Ëµû—;R¥&=èøJMéðm$+gÕHÂy~çy,U$´ƒ¨X7 WóúÕÄÐì‰ïÍå½¥î|ðß*60‡"Kã'ž¡Ó“ô˜ÁÈ=0‰•uÜ37ˆEfbÍë®`Ú÷€¢‡ ®lM%¸®«bXQl¥ÂÕ¨éP?}2¨ñ9Ò/›™PfY´ëñ­zFõ"
+N	8 «z t]žá}$ l'Þº:É%?7‹”;vÜœªžˆà
+îd·ëþòÏóndº¼‚ø/› ÓcË 5²Õ3B-„"[Î¶/}ÖØi|øt$nE°MPh·
+1ì®ÄtÊ0ƒòAnÓÞ§å7ˆt±\ô©5VÓú†]°ÈUÃÄÄœ@¶&•OðmÝY6ÂÍ‰ßÇ«áž¿oº60ÎE<Ä,ãTn»_!Á>tf¶¹A€óíSZ{Óv+!>ß#µØ…B²ÝVÏn/{ µ–}2Wßi¥JU¯)<bQè=±€Úi°Æ}<hA•½$ö(¡â6hrávñÈ#ðßâAG¾JÊKÏ¬O¦yrZhÖE«=„€&÷ëãdOP]r­ëNE(Ð´Ñá–nóZq	¬Ë›kÈØ‹T§?$'&"Në³pl±šf.›üÍ¢0y´€¼À¬ùRnï%·	V!tÐ‰»Iégó€wy¶¿JËJ»×Pë–&”)2¼ê†OKÜÃ
+½);Œ!Ê‡m­fŠ(L±ÈåÃ¼`çÀ÷¤aLáF¶š>ÍýTVóÐ|F ÏÆà5å¾#	ŸàDÛan7ÔƒÕØåˆÿAq«Çå`ìÙ3>2‚zh
+~›"žk`ÐdÄèî |:’9Q‘½Û[¦…ÜÒ¿®’!‘IpçQ‚{eÆ#BÐ÷l…@žÙT
+ù#Ñ-–;º&àºýô*ß©àÏõ»ÀÏàÎÆaà0ÁÊãîýöGÂ‰+ŒÒ.­dî2lœ@—bæÏŸRÚI¼Kˆ§ÌK{ÌØ
+wyí²'@;¦&gæ`ùÛ†„ðñsE}€Ñ®ê§á''?eW‡/#1 "´…h¦–ª‹þÙ.O üm6ÌÌj¢ŒO« qÆqéñ}34OÍ‹VÛ9L9o›âNÌÕ/ðøÁ;ô”‹;<Jð¾¨Ÿáð}ÜÌ_,ßŸ¾ŒR&K¿vÎ€¿ÿ»?Ì>wi5Ô2Žõ3*!lD™{0À¼?ó|&'œ‹¬Aßª
+Ã‰öëjWM©GÚ[ä©´cV‰¹>±ngR¶Þ‘‰hƒÉ5Þ®…(ºò‡ÇÜ/l4k
+»Äà
+¥µÔ}ÖÍ%žÏ ïMÖxFDûþÖ|Çò	ODë’—Ÿ»…°=dŠËn¨™àÝŒ¬j\ÝòdœNÊ„À¹oÛIwsZ;¦ßc!wJåT»óþå2é}7ú)f¯ô‚óU–fvôšwqtcŸ=…~çÁãü„síïâ'WKçqºªJZÁíª/p{ýéùÄ6
+«rœ{¨’:·!7z`>eÄ\ŒàWž½w|ÚHþN0ž¹…W·>;+|ªœ"‚â ÝŠkêV*â°³%”Uq¡×ÌÔé™a),kê$ãõD(ÿŠIÊ–gŽCåw§,ÍÍ»Ë‚õòh)A©£9Q›Æø|ë3lžÈ8#as§8õhq•™uŒ(%êu/æåc/´fà¹>HÄÿ5àž*<¶2ªƒ¬½æ"X7~Vëµ,sf?õð m!¶+…	-ßÛêy1²ïÊW 2æÙ÷ýÒØ‹Ç‘æ¿—ÓúDÊIÃ~ÁP$“ª—Í…1WfêFˆtŸ$0¦ç†à
+ûîÏ3%7RËÚˆ1ÛYF¤LÎµoâ¿´!+\ùfôI8žÿîÍ…hèÜƒ~4È SãÐøŽRUgNÖ>a¿¥7ç8í@/¤v¿;`,¤3›jƒyÒ6¼ne	÷1è-Ûžm?2ìx}[Ú?g8î7ódÝŸbÛø	jná\îdG%;{-/½§À®÷|œx\ÉD$”°Çi¨ÇïÏš¹ƒ†­ò9|AÄfFÝÍß`!O;þGñãŒó¦-ìB»²/B—­ïØŠlÁ(R =¬ýä!J©ã%3MU‚ÜŽ”ÄG!}¯Ÿüµ†îµ·àŽ”ˆfÜüï8Ö§M8ªÄ:)mY¥D})À·ò‡"$rBèää&ä÷F=&I<CëËÙ}l“Up-¸o4Z^¦ÚÉ(wå-!Æ´BÜáLmz¦ŸŒœº•s»@ã‚\´Ù~ßÇ¯§X9ô½úJ{¥D¤Pè]„yËª­´šm) WU<rð4åLÅ1Y+Ñ„ÏõUö÷€?tæA@ÖŸ:O±òY{¤^¢œÇÂÁ:5åŽ“
+RËl+Hfìtõ!“NÂq¾¤!)âIz:¦'µGñ£¹7ËdtÊzâã{;–¯-{Yó¥1L¡êdb[œ˜ŠP˜?' =wBkAxc)‰ªwÛaèŒÓè\¤»ƒÐ‹¼÷‰ä˜F3µ~Ø ó	=6ä{rîzÐ€ó¯×z$bT &¤º,q^
+ý›oáo7Úe@IÛó€O½ì–6 }Ã&Q~u?´©EsŸ
+úã6
+2t9ÀR³ä ï*”çAÿ‘IL
+3Ü0 ùÇífJ²Û›kÔÁì_dc·_[íçâ;À’´ê¯¥Î»¢0K¯ÑJCFÅ£N¢¿Ög¼áÂøKX4;&Õ= ü=£kçh¢¡=™(ëiÝÒf°ç¶þ‰ÜÞy×ƒépÌ¸KºØáYW 	ßÂDH†ÿÄKššÒ“Y‹þüó÷1ãÙ«ñ ßzgÉh(šðä3º9·ÿQ€ŽzÙ‚œ±nÇŽk××xÃ•õ$ÔD0w±·ðX	¥i½VŠLX:…y62ÃkÐš)ãg^äØßF{j]e‘è,É"|HOŠ‰±&…:ÚReÚW'1~—á—@#V]Ú1h’Ö¥†Ä¿ÎS†¢†NUýee%LïdšõA‡0‹¾å1.¥Œ‚]$b´çÌgBƒS öPMÓ¯ÂÔ‡NÍæ%ú~‰Üþk‚+GØW…(,5jç§þb‘AÑJ•o1tHì8©k'yl·uªL²µ`&7Ò@O¥Þª¼‹FÒ˜THIRú³G1¾ìüGgF²ÓµÖ·6¾ë•KNA_^XÜL¼Ì üÉ™ÀPü8ùg%h°³;•*  è(Å*•ÎJAUíu<š	Úká«{Ç½‚l°õv†š’*î´¿&¶ù˜ù_j0;l.=Ë'eÇÌùXÛg™'×b5 _x^óf`\Þ%Ä}âµz†eíÝÆ‰o 
+ô%Y8Ë;)ÐjBùGÖŒ'Ý)×¦p	ÚÂxa
+ÝÅñ†æ™SÊ;æ”K›õ8=±Ì[—‰^N
+ÔI]_ ¡Ö¦³ã¯/9†#ë5îàáÑZKÌÈbNéç±S¬5‘Üó‘oW–ãî—zeñw8X5NlIyi`,Õiêã8Æ¡Ûd˜:õËT’34.îJ/ÙC¬`]0b…ìKµ½špÛù/L²¹ÜQ~Š›`þØ¸äj/*æÛ:-e[ÛŠÃ¨wƒôj-4P®µöù0rcd1¨êl’0gô¡^J^ýÂ†<ª\‹Þ˜*ƒÅøâ4[=ç€ºs%åQÿ<t™Q—H‡´:˜	†T;GÍ!.#\õ-ÈçÁqchª>r$ûûÌ§r7É@Á<÷¿hµê<ù¦…ps°fÙ‹U^èu~JÂÌ†Kx>ixžõ|ò'dŠæ™¶A¡ºÄ žÈ±"Vv¿g—«kÜ6ÍºÓŽvQ>«¨
+×
+ªšö¢
+Ú[ %ŸÒï0f[¼dÛÜAšaû¥©'ãÆ+ýÛèC´uËòHµÚóÚ;(”Ñ#
+zð¶­2
+ËbbÇŸLó;2³‰&»ð¿ª á»èÊÑt¥Ò;Ý×;k*­i;†qnàR{/Lèù'ŠNH>ILÐýzí¬Å±WÂ¤þs=Ì=/ Qðþqe0Šëº~çe†ÔF‹‡^Ïòìa‘X¶‹J ]ó%«2[W™¥O(¬I™-¾¤x`Ô®¡y/H*ÁH«€KšE)xƒÃœ½Äø§!ã©¬êp)DÀÆ(Zá8z8Õ–ó¼êEÓ31²Är;°)‰;Û.'¿JcÕ(aòó¶Ù@[ÝubÀ‘x!>¾"Š®–ó÷AJ2`èÁÚZhž2mÝ¥Ïk ‡? Ýy_å§õ?ln]OÃA±Émùþ€’25/ÄZëÜKfÆqðëU.—¦b‰ÄIežJª¶R”½ö•…Ä$uB»¨ú‰\¡*²»‰¡Æ‰”X¡NŸ
+3³ík’l[˜¥J_Î8Õ3\ù•W×Óõ
+¹Äš&qmÛGæ`žA^Ólt—p˜‡¿eT?Ç^(Ã¼f×Ê}º¡‘´£âðwœê°úÑ÷Àm•1G]uªYážÕŒ|?Uÿ›QZÇG_g(ÎGîÞÛsÿKkS¼ÝH'ªêÓŒäœzÊÝT>
+&SŒKÂVôÔ¥ pa@A"Þ`UüçXÓþ@+2»£‹P‰
+Ó´)Hz üô¾/PweuìàwúÝ¶Ófi³ëÕ	&M°Ã`Ÿ¸‡‰ø© ³(¡KG·Ö¤{*Œ. õA™aÀ%¼Qº¹Qzy¢“ÌÄézÂo¼,=Ön¹·ªÑ×VšÎdLq“\¿Uïõ;Ši„-Ë`‰MK¥ö’è7c²zúÛuÊzZ¼i±96‰¤Wb÷æÕ0Ç)äóHîù$U®ÿEÅyHm`¼ã…&pKðÎ­Hžo“COL·C„ˆš URlüèl}5vdûaÎ 8^,«&–(÷ƒö¯kaßþÔrÃ"O‘kme×ÏFDaøý úa2û
+¿z¦k¾Djî	“1ÿmM±·¬€_|~˜ýGbßÞ…W}„%%'K&³Š/•ë/YÀR™Kiœ¢´ƒ³ðfÄ7î~°hp‹ìgôŽ¡1_;º”uá×eFÏ„æã²³N®–X%ÚøÏNkÎ1r†E°*·úúEº„—D,€øh×±9¿ŽO)Ñ3 ‘_à@»ŒM•ÇìÍâÃî Û•ªÆ3{ÇˆŒ)y|º`êÓ}ª$Ö|›ÖWÉÕ;OTÕ¼e‘bÓÆ<žïàÍÌñd¢Qß<èÛouêUø“Ý)Ú&ÚeÉZ5œ+3@¸!Ûr0¼4¶èf»•§÷–(¿r(a¤?PÒû‹J˜õ)~7þ£în¨bJÏ?ãÊj(ÏýösQN4	C‰|´l°}¹lQ«7`²rV<#ñ&î¾#\gË¢$W–qEšÂËÜÉØÞ<‚4…µ?Üæt³EÁŠ¼à*zÑè2uY“€"R^ô.þâPAê]Q=ˆ?¯“V¿O7ç;<Éíaçñd‘kZÌ-¢méÝ,œQãGMHÈ²ÿ˜ÊÃ%Ñ{#³“qu0;kå¯‚?²¶aPtÈYå†ßÕ]l†×.êŸ“c5Ãñ‰‘Ã>×‘$I•J»Ã2fV2‘T€ 7/Cc	þº[#þÍg:‘²¯nµ¸<É2¯ Úƒ£Röxö¡Û»t™öMÔ]æÒ¬Ëîônÿ/‡Q+Ñ‚”ˆ©‰lFx“ŠãÉ.YÂžn´èV´<ÇþdÓHZl™Ry¹03¸µêÄñÂd¼ ùSÿÂ’¢Ü¨½¥†~:Ô<Š£&*e„ƒËÇ5´[ÎËÄ@³6ŸÇ—É»RP…‰~R)¶Æ°i'/ög'­Ip]Qò¼ìÀ ê–?_Ð¹*õ$yÛ
+qbŒ]¤kF¥³÷z¦”ž!7™³I§Í±sn½
+<P†¾~Ê!Ýc¿ÐˆowLßÆÖÇ±oß$êëÂÊg×¸Ð /%~v*A[¬Ûd"¾™
+ô1¾™ƒB•7[
+h$bý9´©ë]^5¶}D)ÊûŸíƒåùi	ßÈÕßµ¦÷v[‘„¯ø\˜ûzÃÐ…œ¡=½óõQ©]YÒpTT58-Üz>47G½51U<zm’õRVÉrkg&ªgƒÿJ pßßpn}zD]6•#òÖ_‰îòÅ
+„kQ6¨ÊpÕ“²¹¿Û"_ž©¹w-ƒ±©›Müz·2?”--“ÕÆÉ·…(?Åó]Y°å ou0¨n¾w¾/t¤–ÆX_wß¢Ü	šËÙù$ùÈÏfÍ z”¡z-{÷àÒˆ7˜ÄðáÆ¢tØ†é×žrEàk®
+ú’†É%Zý^[D«L:_Š›Å¡Ú‘ñù:Ö¡Y¡UÜUü»U¹,—lÜ·ÏÓÜÏc“KQÛ¼ªù`w³uÛD’3?Åp'è¥¥˜ÏÄ„ÏWºl#åŒ÷åŽ"Âñ{òÎŸB/?-{|‘_v­
+sEÕu¥%¼‰!$‹"È,¬,.œ/Ë	„MšÍëŒ»´6ÇâP×Ÿ®‹Käf­¸ýé£D‰kä qá{â=xèí¡@œSŸâ’Ð˜¹í¨Ç,a§Út§[Åw\âŠ¼õ6‡ÎÜÃ°—jùGÓþú˜O¨iŽÝ÷ÕD]ri (Éµ¥ÉˆaŸÚ Åvòmµ-Jz|ÍHª2 ¸Ð‡pw•fÔQ™¤JUs™:ë©†~ôúhÇ¡wW®?ä%ÝJ9î)oÈ½åúI9íD–F¥¥ÈäÄ•‚CcÆ¶q2wü
+ütdØ‹´Ëø32ÔmçŠ –xx(?Öˆ@—F®wGOA•Ñ~ò¨`¥ôõÇQ7Á$±°W’U„«ñ“jª&_
+ãÇàÓ7ö7n,#
+k¡ÑµÙ5/Bw2^;¸Ú$Gˆ[|¡¢Úxƒ˜ Îš£¥Y²ºY˜—KÿÈó&*/)LzÝÈ<ìâmÜê&ï¨#x ƒtØýÓË™—“?Ã°½”§ni³rõIjÖ|eÂ¶Ñ_ìzc^hßŠhù¡k%1AŽÕZ‰‹2wöàÖÔwJür+´½ï
+nð×‚J6\iEªbœeÞ|˜!<Ò#2#K£W#ÕR'Î…èj”ç
+òiƒ)%cÃÌ«@ü¥¢?ÐžA!E9˜;Ô	¢Vá|D_*–,ùÛ‡"Kg¥˜0¤Õ)È¶ñü›ÀaÐá£vk@<Ë.IÄöû}%~/Tó#— ÷ü]{¾É·B»ac.,èº
+`"£+Š:J6§LÉ|»·sÏôvß¬"Q®‰ÇQ^g¶@ëE¼WXÞEtâ— n×áè´AIç1±Ý¨†Y¨]Aôów­Œª‡Ô(ö÷,–k[À¡ñ.Føx‰VmN4wØ8Ó@ô¿UO~e"qÐUÑ¶Þ\¯ØÖ‰Ýn8ÿëãýÜÑîÈ]œ®¯Me$·[Àãò9hKDV:¢×ñGŸšwPJ‹x×S;ÏqBZèwŠÙž›pû&8ÚÂ1vI9Å/­¾´›»ôý7ÿpeE?ýõõ‡	h¹šÙätØµ"~©]®\/Ía„Üf–A0\þî(&‘$ûfÆd29–­`}\ôVøQk¢8Hûßíó¥Ò˜ã3]F›µS¾¹…Xàtx6‚MR`ýÍ3ÞuV\v¢Oê©ªI-štmŸÕ¢;àÚµ
+â+5p0¡©TYÚX
+£Dtery±ÃÃ´¤öj8L’)=BªÆæÄ§}`0®Ù”†`á¢d
+…T¹lR7
+Æ¤¦Û ¬¶¢&F¯XöcÚÚ8ó
+ ì?‘eûœ¦v/çHmÃˆkáž"ŒlÍ©éJJ†IðùÜSƒEw
+§Z˜ºPèŠªxÂm ‡B^c¾(ÎœŠâ¯²ŸE^zåM¢ly_+Ñ¹¶°¤dPrÿŒ7ädâr sž`¿;èdÃº¡ö`f1#BsJßLvEfÑ'Œƒà˜2†¬0Z	@çÅ@¿%Öhéù+\ZÿµSÐaØŒì%OeŒ³E¸‘Ñï’Ä1Èì„\Úyèâ(y¼§ò‘Ýe9Ç\hãQÖÝ¥+ô®å¤\™t¢J'÷
+¬…Øû(8lF4¯ˆ]+¹›­¦ÙÿÇ98æ³½>>25jÀºÊËþ¤WHÀëìAå3ê	ö™N;™CEË½² ÛCÙÏ%!Hä#’âÂ¹ òÛÁ´:Iž§¹œtOæ9Q@
+éh=©rûÞ}
+;äNè#Gê
+ã[ÎËÆM VcIZÝ“~A&$÷-Ròä_Aõâ¯‡H÷~`¦1ÉÌn©æî?7ÄH“Rˆ<u¼ÿ€‰è\¯:äaËS½áxäF"ÉYJ}3aOÀ<èt‘Œ«u¶FwmáAÁý'ˆ¥à¾r´lìv2;ÐÈ{ãgþÃ2Ô£%œÐ?6†=†Ùær	ñ×	´~øùrì=Ÿ?/Õh÷ÇË¢<âÜñfò?Âðò/X'’L:ŸÕ<ñcBr’GÁZ·ÛÝÚžJÿÓ¥cû‚Q4™&0MLû±°>ëù¾ûíˆçBvêzH|CL*ŒµÊRÙÁÜ#7´þÙ žì_'ýr>“½šÏ9-®©·)pÓŽÉP½Ñ€Ù¨Ø´µ5â=sR9f•J!û%¥êïgœO¡ÝÄßÁÜ:Q5µ7 ¹‡O¿lz‹œì²k1(MÂ[.6èä\çbÂ
+M	¾a„A\ŒÎ<Ú ‘¤WÂ·È
+ƒ0CÔ„]®0sç/ íàjvÓu«‹¶íe¶F:¬°îÜ1ªR†h!éL
+Ž±ðþÒ¼ã /Q·òY£@£ï@XyšÞ;&Ÿë¥X	.'<ð¼hA <°!åÄK|(ÊmÞ¶Œtþ^¥*ô­VÈ–l„Ð™”RõgFƒõì5€3øÎ¼Øj&OR©¬Àž5­F1â «ÿ¤âÈ ’ÓÕ5¤ÏÒÞ¦6»êàÏ<|µ›­×[Ÿx”å@$^ßìÒ`:?Ý\ ‹
+³rHs	EÎSr"ÒÂª~K´ñ„)ÂÂYJÈÃÑÒË‹< áLñ:å¹Ï©©wGI¿é›¾üÍŠ¥©ž±žòš~ØbOR[ÏüÁ‡·‹Š^"üdXyýõœ0y¥3Žè*‚6–mdW¦
+KÓ
+ŒæÉ+	‹—NøVoÛÒÿºB"£ã{æ²w×btããÜÌ÷ì›°CS¬ÒÜQÒÀ*$ìH>Æ7°ª´ÞŽÿ¾+Í˜²È3<ƒlgáOCˆA {¡Ÿ¦}‰½ßÁ˜èD<C^XÈ‘ŽÔEßhO¶‡T'ˆ¿'+QÒîu^­^ÙXh
+•ŽÖåÚà¦×†zà‘w²^Â& 	#![‚øÀ 1!Ç…”{ØÅ\d¨Eð‡«.UnöOÊAœ~:½‡Òðí¸Öôšé}ëÅpåÊÇYVWÍ6B;©•I³`'ST¯ÞŽzNõoœ‡å­Â,üOñFv	5 ÌâuÜç!8xIÔ\Âç›qÃ ¤à~ó‡ò
+`ÚÞ6p'H/˜¹Ð9àÐ¦¢>,< :ÊB´§—–v„qH½f'L´BìÇI7ÿàßSFâÈµk¸þf}r‰5ô«m*~¯
+6WÓ‡e"™µhÜeÃ„ÙAÕÇßÚü¼ˆí¼šÙð|Þü'Žf‹¡¬<5ŽõKŠ|7}Ä˜Õ&7l÷;›ë«f¥¼ónÛ}£y–ËZr®í†RÇ±"’ã]½¸T1=OQø±ä6dé€]¸åy÷ÍÒ#.Ð’0p¢<yžJSa+R&w`Q£v?<>G0ÈÜÖ†Iœœpe²öi{UÆÊÛ¹©#WŒ4Þ‰4Í%f}ØzBìÉ˜‡ÿ´|à·÷öÏã{òÄWþ6÷$ärTP÷â0ËœèwªÓ#Wè»×»ÝÅðNX¨yÀö¤ª«a“ ÕDÔ®DÎ“æöÐJþþ{4öUèÆMÆ2*ñ7Îô\£ÄÒœ*U¼	ÒÜäÛÒÔaªq äqû5 „Ãjíd³.°NÚíáÖcàå
+ŒCÎZ<Å]«l$1·^{„h|(‘ägñ
+vJta¼@û%Ìû5HaêÒ{EÛù;‚÷+óUÕ1hÖÞg¹{¶á¯§}¾SUyêVÅeË¬FQ[5t.‹æmê×;ÏÅì8Ÿwû|'†ÄmŽïì“†µ©0¹íª·=D/51ÍØ/Ê_±÷\µjiÈÙoÝ*îö(ð_!
+
+ô*|&VÅ+•V±·å5p—Üy¬Å&`×Ø'Â˜ß–€‹é/¨}ïZ–:±-´uŽ¨be?_m§G]†ÜéæŠœÔw“áo‘Tm®·mdµ.en§^˜¸O1Î`Õcø`—w±ëjBáó4gÂË Qß¹Ù:#®˜ë´}îcŠ›Šœ#-ŠŠ7º˜£ÈqƒœwÑ—IE%
+Ôf¸ßÓ®ù>0âîŠÝuî«‚aøFÛç¯ÞiÅfŠ¤„jõ7þ Ñ†¸“É­e›ÇûS"UÛ¡@—AeT¸f è9â+êë2/ød9Qúúñ“Ó®Òößén©)úÅSÐ”zÁo@aÙ.M¡å§É€•¾lõÆÞB–v.ýÎÊ&ÚäYËÆl—bdf¾˜iÔw¶ÿÆÛ;›(2Á>ÝPÊÊ9ïQ'=°ìô…“ÜDx¡. óJº{ö@Ó/hýªO#àØ%Ýäa¤ÒyíAÎVô&üºc~‹°
+6Ì|´Ôç©•¾¦J•Í#OÃ>Í$K–í“œL¡ÂG1\àäê :‚¯m¯Êä:Py¦Sx®zÁwªä¡ÏôYm	ZÃËÀâ€l#¹p6áÓ ì¿gÊù±'s7$›J<Å$˜Z2ì·ÎZì0Þ«8À¯JYÞRº^ëëÞÏÁdmaë£åŒ'¾3•Û©.×"â2€öóíàïŠsÑ<2O^
+¨§·Ï/u®‰\¬ÀWê¾ýjb£&x©5µ1O°mp¤4¸úã¬òY¢PÇ·R›Û 3Wj²®
+ï[ÿ`CÕžõjux ØCÕ8Üˆ?&Á‰Cïßef,ôØÇÄ$™?ëCJâ@ZÒçÓõŸtø¾DÇ³ì²š•'!>Y‚¸®´+
+@ïœaÊÞáËxp¾
+·ÐwÎÀêÏý]?<f¹ŸZ“-¾d®n¹ ¡²Paµa‚hšðÏìgô[bÁ(»9†§f8ä„—¸MÎg*ÅS¦7­Pc÷·ŠÛÞG<y3ŸJ\ý!ÙZ
+ŒÅv÷MÖ¸b"‘ß­¦î±‚:±U´ÜQ¥e<í?@Ñü(F¼M¶OGŒ"°Š˜6*-<§“Ó,‹ãöºìR7Ÿb~ËcaxíQO‘½œÑÍ‰Œ4–ËßûŸ1ÿ‘’9%IËˆóÆ:õd^S$cÙÆãá û¿ß^›ÔX|Ý¯ZñâTSŸ]W<~³‹L
+)E‡k™ÃŒf¯±vˆŒÜLw­qÞ]ç8Úç>ÕÍ€F0'ÏžÛ€pž&»gž¡¢$Ë˜<´ìÞ’¬=7Ü#÷4ýÀÛ„œ’âww ¡ÈŒÝkW±
+›f³%ÇL~²ÓC”)«rYÍÃ<8bÁ–¡ü+–ÆýºÃZ¥#9óZÙíý·ÓÕBº†ž—~Êå@KžÓVÃ
+…xIÇéŸkç
+à¹š¤TC3õ|Nš×ù`]¿:œpçYIˆAAPŒa½#aFO.ýVüTRü|K4õë¬4Žm•ÜK
+`Ã5Ž{$SŸØÛ
+­ªæR:râôÑÔqã€hÃ¿³?™êÑE/c$*£ëßfâbŠöÙUi@E¬Øß7çÿò…½ðö˜B4!£E ’M|~Í Up9ÎýÒ€É;p;¥–;4ˆ~ÛÌlÒ®ôn‹ušöˆo¿6ø‡, ±aô}4êmw5rmšù5\fKcßÐ­t‘ü¹¤ÖXGd™‘ôÙÔA±‡Ý§5L€6¥l'£Ôë}±¤º˜zÊˆ¸©~yô8Ý2;7ó)c6[³çMœp®³>)RÊµj?ó°˜)øië½ðîŒôV¸j|`‘'«9ØŒäœ{{€žRÉ=ÎSnÃ™WÐÂWs"´…0¥mõÌù©·—[›l+-Î
+	”þ¥Ê‹¬axrÖÂ1kãÄ3w„uìc=…_K• ÌP=wRx-ÆGˆ‘÷–›ÆégëÒ]fY«­IÙG¿ÜÅcs§Óâx¨>  "Ø0°ØýÊ ¥ð—eX ²äÞ&è:õªãÔ¨
+C lƒÒ_Î–t‡@‡Â}4õIr²5¬a'$ÂrÔÆ¥Â4µ°]#LvãÑ3kô4ÍJ0§’Â÷ûÝGì‡ôæl&`Îh 1‡ù©l f<MŸÄß¡<§œKÿ;«ÞÒ2Nlsšú’v6×uFOqþ ¦Y÷-`ñÿ)º1z‰Ç€CkúXˆPPKí
+åž”t[={
+€Q.Ë!ÖÜN†’ã+U˜
+Ó ¤§W÷©öþŠ/Wã\|$˜ÝñæÕìÛ‘¦êÙæH¨éÝòá Äü9kÝ6€H|SèòápØ4Ös€ Q)²Oõ»œ¸÷i™îL{Ssiå±#  ë¯øE0¾ Ã3²nG|Ô[[”áä›Âlþàs	0';ø€‰äáJ@;ŒQäNz³äï§'“v+œ6>Ã¤ùH‰»¸Ð øƒVYÈŒ‘j&³hÇ&RcAŸh2¹Ø‡¡ñ™'õ–~¹±õ
+iÁ=5mGˆ@¨¨Jý–J9çþ‹_õ Y”µØ™ôð¥;Ýácçt’Âó#Ü¶þü4ÌŒÊ0"ø æ~¹œL„ÙWãñ×¸|ÔèöM3=–líâ"8VRw°¦ -d¦^ù›“vR³¼cbV¼OãÄ<ÿµ.7œü&ÎD÷[Ò›§Îª¾ðP0È¹4Áõq@B*‹Ù&«Ïê‘eb!ÚÉ·Ä¡M*Ò•¾åÚ®Õÿr«RA^À ©Ñ¡Ø óÆãéÄOžˆ¸ä–^r«ÀúÐ9 |#-úªéïG$Ûå!¸|~$	9Ay|D‚Oõ›üäŽƒÅ6%l‡ý‰õÏPÙ²{òÌ‡”&lwîAìGÞ9Ë‡ù|UØ¾.9ª	øcàOQy…Ð²Vr1_þcËÖ‚v×4QxbïÀ@÷WN·‹0J9®4y÷iÓ=¼Å«Š—ïlË”âÂYT´ù–Ù"H¼Â^†@5üó*pa\µ¹Cj£N½8eìG¾¯§Gœº‘¢Hèv©þ€y~Ýé‘t"ìXeD4T§”ƒ»dÈ&ŸçÛeÌÎ˜’=:i2¬ö[Óª†ç*NTo¦b×ab_Ð©M‡¾½²÷J¾³_¬Ý"
+"‘þWF;ùì4$lH<gšÄU_Åû€âLÑ£SyU»ØHz¾Å‰)êO ¿J‡NVh.ðO\~åí„ámXVu{§³¨ ’AÚ1YÔvb;k[gf˜³1E#ÌS2o¿PˆÄ¬¨ù¯o%N`ßÈÔ”1d!&ó;¼¶"2OÕQüwKÉ Ú{+ RA$Éè±(Z
+‘FŠ­{¸«J™>4CãóûO„¢v°˜¦.2Ã
+ñ$(ñ Ü{ò²EˆLùÒÏ%­œ:0Öù
+‡¸{çr¾¯h0ÿy¤éUxæy’ þM›nñÎŒå¡Gt»šˆ!B¯2ø® …£ÈØü¼ÛÀvGßE"¥`àl£=“s·÷[ƒæ‹]|L¶¹¡ê¤@;ZöAx»8£¶Ï]„’qI=[Ês²-
+Ó Ô{H¦’T!b˜2µÙøÂDblÓÅâWÙ¬V¨“q)3rÿn¦`Õ˜š4h†#`sXºÿÒÍ¹†wŸ	š|Ébõ22¾!œr£²BþD±&rü1í2 ýxëX#ÛÁ[(n¦tv›ÙßUØÂJãdk5EúN=U”$m¸Ûæþüu¥Œ<$Š~…ÇÃÿª=:?Ø ¶þ^3Ö—šê‘±n[MQ9Ï\gÈjOŒ8åèMv4Õ@‘âKY§î(@²ÚóÄoŽÇ(Q¯Ÿ”Îo—
+Xr@—ðNOsÔ<ÿ°ŠÈ˜4¾ñÊð?Œ¢QƒàÐ(iW’Ü]±/êÃi8@	Ú…éù°ô2î¡d3âZ¢nR‡2\ÝÝRr‹ì…Ü	ÒãOeqâÔ!Z·QáÌÁÖÆC<9j“¾ó†6³Ç0	¨3?7åïTÚ†»n†‹_¹0ˆÃIAãÑDÌ‰ªÒ‘³ßô?Î:Õ<E7ØÊ‘_¥MPj"ÑaüpöÆ(Œ*Í{ùDïÖæ7Ó¶êE%zbNÌ÷`:žêÝ"þÇ©ß0!ü$òL^Ëçiõ=—ÓÒ2»A¬yî<øX¨(úäÍ»öd¯˜m.|)àæ8FBÂ	5TÐ½¡Dè!a³×‡
+-iW%VóJç<3äC“¾ïðúŠµ[3A*ŠŒP¼³Ãðås\Q r
+)†D=Œ§g Å´=¦rBìiÄH²Sö\ìk¸âÇ
+ÆÔºn®Ö{»µÑÚz1„ ÙûãW‡«-fŸ\Fþ^"õ»H¥Ùë=Pá[<|Ò :A4v§û þd7*.	ÛÖ›£Pœ@n“>ß‘ž®>¸øÁ0yëá/ ™±’`6½Ì§›/…§—dê·Á›õL|a¥ëßŠ9ú÷X®KD9BüQŠð®·¿Mj"?Å’f”É¤¾Ttõj„Ú±kßb¸<„vw;Ú%›)l@N…^LG ç%ŽEj0\›aÎ}Ç
+4•±FŠÏÃæ»['×«ÎV*£:OjÚÃr­{Oúv
+ëÑ½«¼äŠ2’8H©Ñƒ¯1é­»#KCÌ…gp€ú¯î£I!Nœ÷­gSºí†¾—¹wÏ>ˆ9úÐ,÷l%¤kƒio¤…>=u¥Bf¿Ù•Ž@ÝògÈ¡GsÀE01@0”ç	—õÏ2ß6Ž¶Tj÷°µ‹õuGI%œôÓ£à„”ÒFÁ7!dMÔÔµÑì2mŽS-Þ§g
+x}
+ÚîõõÿÝ/„vr#d
+"ÝEHdT~tC–)XŠ5pBÍ½}£™Ö)zÀ[áž1bC¯€·äê¨<÷ÿaq1Âvkl¯büi^‚±²Úd—ê¸uý³~ˆó¸ô÷b?ä“¤Pµò„Oð÷7|O›Áî§µÀý·/wO½/8éÒQÓi*…Ú&¿:Ä¦l«þN£âÔg±ôëÑ®öÿêân‹P¥jþ6›XÅ[8§/wK¦ƒ³žˆÆ,©
+x
+¢9ð{€¸S¼ "ç	$K@CÙc“’ø1ò+=v
+.»”ñ37_p²~YùòíºêÑ¶Ð„%hjý)vR:Œ3%{æÙg¸J¿v^³RÏã-n`ù•…‚ôßFaOl¬çÏ6]rH|vU—¥ùE&pcÔ^OîÒ’éJ¾55•r¶1úiO¸ŒNPø÷F¯]£*î}àißáAêp¥øÑåª"½2ÐÉq*¤ðùÿ·ýÕéã
+ŽÅ%„©vˆ*a…¹|ø}ŸËÌe€MF²ºh«5Fª˜ì¶·ÎÊþ°½z–­[À(CiÑïèÇ--2-)mg×š"â÷¯[mÏô´n6¶,ÁV;<ì÷(×ŒÖ*9[6
+¤!Qÿ]€Ð?t/!WðéÆZ)ûAeÛÝŠ‰YØ=ânL(øB§vý@ÅüTÏ3Ÿ~æ¸A€üO½i¥ã‹»jä/`îT”n¦‘Y÷[ÿú‚èÙu!ô3zBÿ“&Åq`MÞcYKnL±Öç(çDËëwM<ÝÅÃó¤rë6j™âšv@
+T¡ŸŸ-èU 
+Çºº²¢ Õ~MäŽ?¤WØ_ZiëŽò¼ÇÜi
+,çº§¨±Xf+b¹‡»ûîç|Íò=!Ú.eÊŸ¦šØ²³¶n{‰rfšì®²wN7L…~ÒJÿñ…£ ã9YÝb(US¢µ9ÇÈúj ˆJah[× ™ð>ÎL¥wuèÞ.ýÈBP™<ÎãÍ-g !Ý¥Š€+Š(L÷j”E—¹>dÄü±Ž ôÐBªMë€ºo^"¸–C°×#×ŽÄÃ
+¡K^t°vÉ´Oè=6¶ºä [S£Øpöm¼"hŸ³{LY *	—cr"’
+jÖ–S1¹21,²›¬ÐGÏ¡ÎgRÊtåŸ\Y–þSe ¶°gíßµ†:xq·¨udÀDw›…=j=š!¥}ßëxy%o­¢£émêyfï¥ìö§¬•ò‘Áq^tw"Æ`tWLŸt‡0øF 8½ŠþCS·F£çBÃ	Fí)D#dQh¼©hŸk§Û}%|AÍÇ)>?œ	l¾z3ìU|”€FÚj)©¯b¹IAþÇ Ïœ§IåÌªètÿ¼n@\òÁß¬oàÛFu¢»¹
+§˜°YQTGçÛ¤–e±²—B›6†nÿÿKZãÊ£ˆB¿ a¤ÙÎ|½FM:ZÐêÁ ]½ë¼ Ù
+ƒu9ÿÀ¸ºœ«”~‹#ªaû~ðÝ	S›ÿ_ýMrl¹¼kRÀìØµNÜdƒ–R¦ÌYUrsø&ç$xwêü…rv‘VÃ:—üzÖ87ä3êN¯„‚¬(Ÿq‚{×Ìyg¸¨6‹ò¡%@FŸóª¤/éi;QhÁz!RdVÍº¹BÂ‘ âµ‚ëóŠ’·lq'(ü»¹qÎ‡
+ÛÐÜFoÿãÉ
+Ú½6jÊÊj¾¢çÐ¶’
+ßp>…)°‰0*2!xXõÛgQ$%Â«üg)"ÿÜQj•Å›I¸‹Ì‚-'„cü7·/‘,ÓnN¥Ê¾GÀ*\
+&Ö“d5 `£ÔC·š!wU¯Ãõ-dÍHÿ¸¯0_Õ<1ýcÛêßÛzË8rÉfÄ"¼BB/,e¶!Uî•»³yˆ6DªÇg‡‹"iÅÀ^húk±ìÞ(
+òS9=Jêî³…â<-Ôëw
+m(ÚB
+êØU¢è}Ó~1ïmâ3ÉpÁW+©ó Å$Ï[(.÷#˜,TlÁP"Ø¤8Xé6eÙñ²‰BD˜5MSõ-ÿž\³.ÜJc¾B‹ÏÁæâÏ³öo@ŽÞÆœp~¶)ªc>çŽ7}>G©#ýç’ØÂ`¸6¾Ñ¦úôÚmY¥ÅD&êçy4Â€År@rÂÈÛk–ð™ÖZ¼5üfÞkšfåÀc‘ˆP±dÓäbZ&²,l}‡‹¢¼xáL’~ãû|æé­o°Ô!QmÈ¼cÿZš/¬m­ä$*¾ËL:´']õŸH%Îíb
+UM˜'ÆèÛi•ÎÈÒ•­pß
+ÌÄÄà-QÃ}LDþÙYóÔ3®¨Ô¡øN—®€Ôdipq…!Ž§‰Ü<èéZ)ªÓþ¨{¯bÞØt=&ñë,6Š¯þ+³å½ÍQ³Ä¤/‹_â¼TvÔ›Ì^Ï÷«­ÂËçµÓOnt%u|b’DUÞ›å&—Ðy¾žV*Ÿe»O—'ê°™Ç‹›ÿýÏg5Ÿ´¿²„:uåz^z`¾:CâîvÏÅ«5	eÌ$°T‰œˆ5©‹k:SžâÞaÒ(P%¨U/í¸<ôÇ NØØF[­:UB‚õé?í¬ÒXé`ðBÉžØ¯¢¶&ê†oL©™:j4@µ>Ä¼ú¾ÁµÉ:%VK4
+I’°Ý®À€¤Å¤Ç–bêš÷9#4§—’¤ðdÏu#R}‡²ºk¸hÅÉ{Šþ»	Nž\ñsF!–E¤Ñû¾‡TRúIÙ©$;u´.»ˆ£@æt‚igŽ(ë´OŸ’„|Ì5¦§7$
+Ye<jž3¬³éç)•Sº`”ÁÍ&†ö×®’+a­"–ÞÞ»ã—÷¹©ÿÏ…œ‘å’¦´"Ø¿qïqXýìþ‘)d2UŠ6¼Y½ä¿Æ6ž†\”WhÅ³t†¿cä>æÂC¦“7d&ä£BWTöN®	èíƒ)µ¤ó˜
+ì3èÎ]Äæ²¯Õ_üðJÔ˜‰×i#!¼VÝÖÿÌcX©÷„“ãtP×^ÈH¾>ÉH[k
+ÿ×heK
+ÝÙ¯¸©Æ^ã„Î{%‡kF,³â_|?Æg ŽƒÕƒ—»òÕä-úÁ~uãS^è{’O€Ü3:ý}­›]ÕëÂg~-#G±Í¹¢Q¨$€\¢OÏCVú z”¯¹;bÒ>³7„U‡ÆE]&9€á5«£«Èª'4Ú³"›Ò¡*Í`ºNÌkÌ~N+~Oô¤²©2ÎÞ+jÞ‚¨øH‰ÄÏüÇLªr„ã÷{Ä£®ú5ñ&Äx-‰í.¡ÉsÝõu-Òœ«º|rZÑ/Ôcbjqê³U[å>n|l÷Â®ÏÑõëif—î*Öx¡-¡ìôe@TôËÈ•Ö»ZTä_X†á‡ÏJ¡P÷I›ôŽÆU3"‚Ä­œ—ÖuÆÀ¾o¾šž9)k?~½X¶@à‹N"Là	+™/P"âb{öu	`@ŸÔØôö°¦ïgôæEäEä ¸0žéê¡_óã~Rˆ"«ß¯p¡üò²OÊ\ýbý›Áð ÅŸãÓ¶3 
+ŠÖû³Gé>-ZR%)š´ãÄGB÷|¯kßvQýÓ¼š#qL{÷{,`ºT€ÈâvkÖ¦F
+þ‚5^çÈ‘Æ÷¦hÒ”•y7õëAT%iž9lif‡^ý¢uï…‘˜˜Ëøc¶¾ñu’_·WØwÀdm,ÚhJ½ó PÞ¹,õÏ¡Ã.xHGý®énóFZŒÌ5ÆWô}¶È@<uøÚökRßŽ¼«ü§*óeµð¬Û¢çkFÁ×Œ?ˆËRýã›YùU½õŒý…iºôMñg}	ž¨ÞÓ60½M%óšÈwÃŽù9)@«³QÇ—¼ä¼Þ‚K›õ(cQeR1%×Ùž;¼âjju$A	¤$XÆ®Â×ù-m@‹£5küÃâ}n>¢#Dxún¤#_†×ÛÂiEfƒ½Üø&øN–Œvwh‚ y4è*‹ÌÝ}d@$òF£ß£å €ŸætùsOáÔ×<ÜT×÷îÇ/y†Ÿd˜™9Î}Óà/"ÎDò –4RfZ$)?æ4(¾»’›f¡â°VºÙ
+ùc*˜æ¼’ÝYÕöŸP5šC>‘ØÉíbà§Ò?AˆàuëÎiFê;¿]Ø \!‹ŒnJþ¾þ[ë¤ØO©ï®á±Â!.Æµ,«ÕÿÊe©Ã4Ì¾P08€Ö5%Z£¯ÓÁýM
+0Áa¢|ÑxçöíJŠ!{Å<òÏ: •ÇŒ¹fç…î
+ˆ‚GmEt„‰ø/•ì#æµ{yÔu`2.žíÈ·*ïˆí;ÏÆI£§•=ŽmŒ*¹UFQm_ñ–Ì‹›ø7o¹A©KI™m›K•ÄAâ.³ydQÜdFðƒ¹j™B
+»•€Ñ––˜™F|=ÍÜ!:p/oE¨ú€üLiÆf€Jêxÿe‹= ÇFá_'ýÕGÖ4Ç>ö?êvQ£ÌÂZˆeý"m+hž8Åô ý{˜Éy™A°¤^È¼z¨¾kM¶ËžGŒ®ÒL°ò¢6Ý;ý™æ·q×å^€uLãyæo³ÙvùÛy™1½@K,Ûtàœ€ÆóÛ…žFÌy‚mûÀ¨|âuÕ"±–òßlÑJÄ²Ïe>µŽ´¶P œƒÒ]Oú
+)êœØöÓMõ>L«#$à0Lµ%êL¨úHVEZß-w{•øòè³9³C{}b_p<—Ê²çd‡ÎsüíÆ£*ÔJ³»&øÁS;é}£Vá—‹›Ïm·á©}M	”¦2„¨Â~3À„$Œ"ƒ¶Ûsb,_{a„Z›ðcìÃ÷ì›Ð[mFž
+º|îÏèó KCKjCÙ¢Êp%âáUpŸñ™ì•¶·"ïbÚé@
+`Ž3ìŠqœµq³µ×ý»TÁ¯×8×ºyŒ3;‡u/Ò‰á€ÉÅŽ­.J³žÏªä~|'Ž[ÖŸbÆØiQ$™î„ý/kØ‘ìxu×poÌ¸Ž.ð#(ê˜Rðêm9—Í)†¼2G+ÛÛ}ôæ¹³Åcîi¼a3ô|–ùz~`ˆ°åÀ³ÖÜ-ð…±‰[¥Ú È”_Iü¼d÷F_;vêBFê²jr1JTí²xI+ÂèR4û4â;Î–ºê/t%˜ehð ÅHÀˆóë>0¦Z×©gw²è5)/Û„qÎ!Ayáì0 »“Wx4¨Ÿ¯¨ð×wÀl°]¥ÅO¡gi÷?ò‰œç=dçyþÌ×Íš×29¤ïj	áñš Ëªiº39µÕ€ˆ^¦üaz>Ê^¦äœh•+y¹ó	Oa•–×u†$‡ñ%6õ“>ëA«²sœTšwâÉ´E$\àuÛ.h¹ ñGókHó õ%™b’3ÓÍO§Ct©bøx‰1J`4–5iÿ.T~”]M\”‰·l³GW¦öYü
+óÙk+çCBJ=J¥
+Ìq¢øª S²k2ÑU™™b]µ?ñôªúü¢â´ñ²…U-Ë•úÑÚ“Ê±î#6Riç
+ápQµU²ÌŸ]\“íáD„3˜A{ø³_ãyŽKEÁJœª¬É$æÉg¼Kªa¶@$0	ÅÕ½Bÿ^Ÿnzœ«‚•´£íý}nÍRmÉ0J{5˜À’Ö¢RúÈx0ì’ –t7á¿M (R˜Þ
+@˜äfsÚMZ4½?¯
+–o³0G£n5˜q­Â‰Ì>§1êÇö=«¯¼K=Ñ=øŠØ†TÜ.µ)/øv%Šg'I‚Ò‘ÃõŒ&Ml&yØ'<”¶iîêÂÖ’qhøEa€Þ]ÚUºDœé(…ñ:]“å€9¢%pgB-ï~¿ú<ÑqóÃÔÈz 	äü—ù_póEÄ¥4ß
+÷ƒðk×1
+(&ëñÞrÑG$1 ‹î˜,ÀÂA·Öøôpû©ìwaÎ½•VGÆ?üÕ¥î#ÊMllo„ßŸ%½èßR–nþU›Pk¨À<Ô–^¶s´È4Ù°‚á>'£å™Y7ÒLðÖwÏyÎ<zTÐc³ÉP8éÌQ°4_õYeÏUwæGŸ^å­XNg²ß°%E;`i}ýªüg’öê&=µ§žGÌÂ¨ð´¢à‰ØµóÖ»öÔC(Y#ž”d\ËÁ‚öšÐ«Å eÿ‡ÍKÛ$_P\ÎšxV'1ÎGL—H$NÉ¬ð!ë-ï_Ô‘º·ŒÄ5ÕìžüõÜ?1\™F'™ž×\ÉÄ¢C©Éæ×1 óÁ(wÂ»…VÐp¼=ƒGØ0ñ6åoMëC…Úîˆf˜æ77/qœLšã.+MMGl'Fª®Iká, Y‡±ì„mŠµU×;ß:5àkó(€é6r
+Gµ!Ò¯ûO¯x¸<¸§xÑÜ¬U"	xØ“ßŽnWû5×Vr¨{È’@CØ[ã ÷ü9[nÉ¸ü¦Å„Œ°~V¢‰GïÇ®è|ìÞ;Ÿ‡&\e’æG™<rkF!:½ýçw– +ž÷÷nÄwñ»­6„™±<Ì´?|Ör~æ¾•Ârƒ-{´¤×RsE=ÓY2¡³>žìÓmÞþ«+Ü#u
+…†ÌfPéIyFŠÁ‘ö ´Ãñòæ¿d¹e¡}åÁC¡ê¶†Y–K4ï§ êûJ³›'ô£}bS{¡Hû¸;ŽÜÆúOÿLOe¹Çh÷ÜbXçúGdMÿáãž.½-‰1»ThÀâûžº´êÉWµQƒ*³þìŒÕ³'HJ²ààŽ,È.æº•Ò…ÖÆò¡eyŠÛcšz¾¿Œ7ó‡´6¡Ã_W‘Å¹ˆþyˆÕÂ.ªëÉôªîòº¸kÕ¸:7"çîÀ9%\cXTÛ*}öÜ£I-ÒqIIw«¦„[¨Œ—¡eMö´²šŸïåŒ;ÝÒ•žßK
+6é¯D 9xÿO…½ÇÊÛéTò(¥¬õ;­3½j”yÛ9ù7Ñï•ßj’Ãó<Ž€}uå¶3áñx%LåhLÊ?ˆAT„Të88í½¿­€$± k8¯¯¦˜Ê´nÁô3M»ÈÜ®é™9¸éÇ91Ø€¼Ö´y¶×¡%I
+Eª²Sv¯|Ä4]÷ŸQ'­S~ö¨ÎÉÊ¢î„µ‘m´
+¨ÒåX°q·×
+pVD#£ä¯ã°±,|WŒ¥N÷K!EÏfª¢>Xeö®¯³ûÛDJŒ'
+‰*k“ÙI¥5Î
+& Ù'Þ–£¯äpÎïm ÊYö4ÑÕ¤Ë&í {ƒ ¸1*¢YLë˜\RÞÙÞuAê9ø/‘|4§*Z#êòlÜ©d
+}ï|øÚ^@õéB¯Ëíáø€Xë‰ã¡,?“þ!n®|c´(¼£œüKH_é³Ùˆr&.¨\nã¿§Ë![É_’)ðãU+nµFkOY4.ÐšmhÆ9 îË¸é÷k<^ÃØÇÓnÄQ\¸±¯H>©×ø:ˆƒ
+d÷cµïtI<>Ÿâ3t\¥ÄEíeð¦ˆªÅÞû{8µÓÕ&,CÎ š~~Ç³èùî‹ÄtlÂê¹5(uE>ð.F„¥ÖXšŸŒ²j“d…Þ‚ÑÝ3ËeL©‡?£ÙçP"ž'üé…¦NJ»Ê•œTÙ1£•”òÑnËøü²Î6ºx‘KEû¾³÷sJîù6døQË²W§3rßÌàâIö©£áÃTËìÍøB­"!Åïƒ¨â¼Ô·«-gª(óÞÉ–þjúÊ°6Ô¨E¯kûÕêC6üEË“F|Í•§µåAûB#ò‚H»
+¬õ‚¼›$º«h©ÝV‡>®w„‚Eë¯æÃøºYEÝÕÒ…eé\Bpd=¯‘5ö(hÏ†M“=ÞbVôG4ƒ¼‚ÌOnþe2(n”AgÓ€%ñ¨®ã
+´ç¦Åf,o}
+3œ\¾ø5ºhqí^³!ã£ed8ôlE±ü³6<Rñ›_Ö76a#¶&IçS¢`o¿œXc`#ép«Lbžã\õêµ—U’E
+¸²P-Eð¬­ò¿˜Èî¼•Ç;Ýˆ«,Sq®;¡ÿS;ªò¡€éŠÛ{q‹/†:vÇGè©v·Þ"JÆ>› uÌ{ö#aK«Ò”Ž€ØˆéãéFD ¸ü3|»×ªŽÅ£	Ùÿ	©ÀzÚ ¥Q‹ÅÓ?Ò×”rZÀàIêc`Šjà_&›\£ì›îÎ€
+|ÜT[g÷é2`N&QúŠÉZ‰2…I[c³àjÍ^I
+§”wæ×ä|¸ìo¢
+
+GÖœ'¡1³þâD·›uóˆ_°µ J #6<|ÀŽªˆeÉ±ÉI&ç`ùÞd}­™8w´h,³6†/«5û}‘ûa_¹öÇÕ1PèKYwyƒÕÍþŽYØçúlI¥pþ{ÿv»XT|Ëi&Ê½¢+SŽ<±ý GÛZTNë>ŽöT;Hlovô† (¦<T¢oöá?ª¨|J-u²ú}e~Nû`lÄq«P&£+O[ìÉ ‚4	¦_
+
+VÑ9‹Ó–E¤\í™<:Xöõ%ªI}
+ñùßÂ¢!·Ë|$›£0ÑëC|˜U8{Þ&|‘ë,U-Ù|8Õ¨îPgY!„)È‰vLà¥öúôƒFß¦øÍØF%ˆÚ;b‹ÿV”õ´ýe4O²8•5ÁÞ®%)G$#OÓp?üeP'D­0ŸÛ5Q|Úñ	¤åŸ²nßÝ™´ŒI´ü%‹áÉŽºËÉ/“½U9›U(ë›zÎƒq@ëúé7X0(‹ÞâUÝÆ¬ÇÞ(0’›Ê î¢GÌÃï+ªÔ–îHttw¤Yª1IæÜõÀb‹È2'¦)V—ýé¸“  :«VÅß»öùÄý¹Oöao_f6k)ú%þ{‚~“ÑþqÓì÷ERaIK]2ôÐ¾Åß@f–…×3Î§M&îPSUçC.ñŒ/~C‰þ
+G6º›BL~làÚœ€^»íÅŠIbf´™ë‹Ë¢f£ŠQÜœrb«lœ*.…)ãÎ–ÅMk¾qL„W€¨Mr‰êP×¦©ÌMÄ§]âZûØ•i	Yªþ+ã¨z¡¬Q2L<_`­€†Œ)$i'/@ê„DŠa“pÕ~(u3Èp²Uto„P‹ïèÅºEÓ¦„2ŽMÄ'2gRŽ§ü‡©¶Ë¬NñkóÃ¿Itµ+P±–/’8±xí(2ûD0rg8g/ù[Y²„ì`ö:×Vþãæñ©ºð]p¨^iÕ užÿÁ¦¢if£Ü]•rVÑ½‰íÚˆ¨%­“Eq]–šf2Íg³é;ïa»ìn²òG%ôQ•ÁE-ƒWlnÎãó%KiþzCí‹£æo.â°ed
+ÈºÉj¿üEŽ­mc_˜Ñ"O9r·]õQ6…¾#2¡1ïy}M¢Ö/üHEë½UŽGªj¿GÇÏø‘‡(§è)n)"ˆ0aièÀFÏçx“U.o{–,‡À_È®Œ§^ú©´òPFêü¼#l£ÒX>Îwz
+qÂŽhÆþ¶€|6áë
+£P ¼vÅ@	mPT¥itÒ¢ê	¶pÿcHN@ïŽçò"dEk½gö¼Gó”1ÇEg¤éòÐ¡žÝsï·°dì’Ì(ÏSæŒ³x¾êÕ¡þ‹Åè»^ñÝ†Î?ÛŠ©¾ÉŽa¿Èbs¡¤C…1Þ\¹‚ñ^óFR9¬h2[9y‡ê;ÓÐæçeµDÿmÌˆG”ç#ý	_qò:<Q» {tt›ŒÍ—)SºèöJ]¿´Å4!axê÷-ÏÕ˜ù­+ÎQ¶c¨òHæ|=…º;‚HÄgø¦éâMáOB~…Þœ)ÌP)#W–3ÈÏ:c3G¯CÍö!¾ žp/{AË]8±cw°ƒîg	8Ø8mF>€ž§GÂëõDS°@üImr¸dOW•[`N¯«åèß¢21¢’þÀ—…%ŸosZ[rK†yöë¹vtY•–!+F9EJ‹øéy	pµ¾‡UÓP×ïKE5jÐÎ~§o|ÁûªM£kŠ:ÉRwŽÔýØòIc™–¢ŠàÛûÈ¿´~Åuóñ¬f{¸|XÎ«Ž¸¬'™µcêRoByU€ÖEÂ­[â_(›oˆÑ+w–4.Ç½eì”Ì¨7œô¹:et¤·	5s7¼Kë÷…+š$›9\ðÛƒø'Zs¥’]Ûqç:Æ”•˜
+¡ ÊmT`J	õ®g3AÕcÁéq®Õö˜:eáˆ¥øŽ"Âø¨~a½ ÿ%Š8Ót¶'Õ°¿Ñ‰Qþ&þHÛDÐÞº=0Xf¬ñ®5¤óYÞáiQ+L´è‚ïšÎÐ‚”"ÖÊíbìF~Ry
+ë­)˜«t5ÉŸ4<ö}úB‹ÑËcl(–ƒbgMØÊÒ×‚2 äŠŒDÀ½ýaÞ'»f'[êßX_Ðd1±½Ù±“XA}þ`¤¶G”>ÜG•Õ–Ï¶T¶èï0£¯YŒ™|x(J@°/?ïíg6«Ái=ÍÊ+Ç–9oG
+ $ÍÙ½þÏµc‡ákú¶2å4ººâê&”³,Ø„mŽôºèåt_Óg8IxG[“3½ÄàýTÙÔ*rb½Ü1éüšª#±[†ØZÜ•Êlž1A]‘Ûr¥'È
+Ái<f’‰¯tV¬`'—Q²t8G³E¤]ùÃ`¤jŸl•ÊLky¿¡j[ØÞ“ÛØ¿xdL¦Êwb¨5µ,ú$:}ñ¤€8ó¦žý’å¾u»®ŸÃ…`˜îÅ ˜ýkèE“p2*»({;¡ªkV6õ•4O^"v8ËúSö49ûÏäãÿC`FÛpGËTÏ4Ç×ÊLŠú.*è<%Òc_ƒ´wú×ÍÒüÉ÷ËªÛøÏÜã.‰c{y£Û\=’µ8‡îé·1f}AïýYšÏèW)
+‰;Íç4säàØüª"Î2]`¼ã§ï¿»~7"i+ ž"$áÒåŽþEBRŒËz!°–þX q¤9CÎL–:ê¯bâZu¡mÕ{/žÃ1ÂÒ¹¹³d¡zAoQ¹‡Ù6ÇM ÆL®IwGh’£ˆT&û*„Ëå­ZkÉEK0%rß.r,K4þšÎ‚dW°íEFQ!/aÃnQV˜á &+gvµºMðiÌda0;üÑD±âhG›Öï$™úu!u:oŠN	¯EXÎÉäµ¥~>~ìšß²jHª"+ŽR2êlŠÖÙ&©:°
+µÎÌ|U
+mB­i…†–‹ñ)$ºÍ±H•ÌÆ¾ä\Z%[ þ9´™T ôgÎh9å×^@U4†žÎç£wÇøc«¡<J‡O‚;ÇÎÝ‚ðx«¢XV½fúm3ƒ¿õŽ«dJ˜9ž#`«:Ç¾ Î\ÌÎ?ÏhOMj©¾‘¦å‹†/š©ƒÒ
+NÔn$¼4;_OoFs$z#^ŒiÍö›BÕÈÑ ›"œ©ïŽ(åx&™Vé‚@Y¼µÛLû»êMø—œPð<n{íluTþ›&Y,^g¢ô¼‡lÐ4ÌçÝó”&êJÉz][6ÜTþšÝÀ¡T¦ÇˆˆÙl½þØ½.Ó…Ö£q=CYÎÊ%ètŒo'61À@ÊNf©Ê|.,sdJeœøÉ QçRmb·'tÁu¹€¾ 7G­ Áÿuy"7¤5Õ¢X|¦M%Õ˜ß‘jùè-í¬‘Ñ×Ee=u(CES4‘ï²@7¼Ü}„Èn¡R•Øk_RE£âöÄôÞ%öÎ¥jŸ”¾›ë#²-¾Š HþÈM3ª€
+ ôÈ}ûT™óøBàŠ®ïò¦‚-ëÊ¦ÄJ“.0$!ü}Õfzž
+ ã…g ŽIH9½—Q†îáôdïüö¢s_2ŽYòh	"ÆYqiòº‡‘[.‘‰Íeæ<å¬yøD1d¢JÐy½i¬iŽAúb0»C”ì—…Ê­>~½ì‰ÏV¡¢sºî9M
+OÄ&ò*˜>­×Dp¹¬Uþ¬›Qôe08
+õ
+Êïu7UÆì¦i
+J6x•z¹¶®)yâº»¾s—g…Ž[‰%³Oòª€S|ÀG )ÀPébnþ!€ðõ­WßÆ\‚ZkQÍ×€ˆÊE¨æv{ðYÓOM´Ï(å¦F_¯µ& hyó/É(–ÿÃ#!Q²Bò,Æ:$øæ‡­r†ˆD™VSgã%Èy’€.mÃë&Ìèþ™Í€ô ÔÊiïÕ¹“ækx<¢µÞL}3…÷Ðòn†^ãZJ±Àœóe"jrA¬,¸>åÿŸ`G}h¤ŸR£˜~‡÷UJ;O²Üg€:^#Rµ÷œ+RW6éæÂÈÓì?©ü2oy,Àðþ~9ý¿«µt”{øÿ~„Îó¸„kLÈ(ðù¦e*Jtƒï©ÑéPo˜‚¼Í¡Å[u‡µ®Ÿõl°ˆbËÒ0"H°„Ó*ªa=»8q²'hy!™wJ=ÑC\PMEuL‹ýh¥±LXR‡¬ŠÉ"[ZÔfPo¦ÃÆT•O¨+œ;"å,X…>+Ðm|V¹‰
+ì)e_#´YÛ.Gº4|qóã%ÑÌ‘¢égÔp•áÇ?E´½…W»šBëÌS&±Ò[AÄ<hîµp¨í
+ Ð	v>®ÑsÙU@éÙuÙŒtÔ^Üjùš–,\Þ}¨èè¾R†{Þ.)@ÉU×xNúûÏxq{å7)˜ÎHâÑ?¥Zq³Ç‡ÝeþKJ‡>¥ìªˆ‚ï#~Y®Ÿ}.(Rãí~5Íœç†(@ $Z	¦ 7{`«î.ñ‰‚˜¨Ç³‰ÜuÇ…+U†¨óÃ›{G°`Rö”<VT‡caY*úTd¬VòK|€³Ëª'Ëá¢Au	Ç»
+-kHdÝá
+fÝ|¸·F»7/¿ñ©Šš¤2Íº¡"Tª~óÜ
+ˆ"[Óó:¢sñ”ÎÉ¡OfªÈ®4[yÝ½:Û§áÔa—[¨Ôy4¬µ”—Šs|'ŠöÌ3\Bf—ˆö‡ôŒiÞ¦Ù­ÌÝvêø—Äè-À4UÔâ¡º"ÓÀ}–‰av¶†Õ#œ9dùjƒýUak(•%:Íy}â9"ÍÐZ÷èNp.< 6Î¨1ÊùÏ•ýN\!§EW>"–5”èƒ;ä<(A:µÉ¡M¨BYû‰QkäHhÙw$SVÔƒ£_bGlÛ^S¼s‡‹Ò‡:òIœûHõ#L‹À^,Ç´‰ìp’‡Ôi1}Á°‚DIÆúÍPÑ©§ÖC	R$ìÍ^æºhëv8l¢£°ÛÞr¬5Èÿ°þ·Ý'Àk¯ýi¹SØÉ~‹3ýX/¸cÉ‹	…èí^SSŠÖ;4ÜÃu ‹ÕÞ­ä†2Num Ðß6X/|•üePàþ»wõØof9zçS <±PÈ~Ý…éÇÄ€üú+2¤S3Œ¨áÛ¯œ‘ÖpèÊšêõ¶Óšã&|u•Œ‚ÑÞMàwOÖ
+a·‘„Užói_hã¡Ï<ôæ=öš!þkgè84Øÿfé42tŠ'_Å.ÎÜÂúÜ$(iúhMf;M¨;Œßë¼æ‰ K®Ï˜¹Ç]ã}ð¼g=N ¶"édàª>Šâ‰ž!iØ–£½".,ªÈ„¸ûPÔÿÞåU°†qŽ«Âé×)©÷·Xj¥_JøÁ%v§ñãÈ&¸æ.®ÍZ:Ý³>ÄzH¡¹NÖ»u$Ì$Á\’'wd,Ž¼À0$¼{a¦ !Uû0]w<¬Åne¥ºGÖEÞÏ“æ©OÄ—èy¸¨ü­“KÞ÷ûŽ¨„o±ñ° O¥Â®b’°ð;^.À‘d-$žDvçëSW®ÉÊ7Õ¡6Äø)À0}Ê3Ê3~±!±¸z‡ï‹ÉË}Žw–~@@-ðGÂAÀ„å•pÀš:¿1ÇË ©ZIÈ—~@a°Ì5[Z¿ÆÛz2ÊMk5u¦Œ%¢Û’YþO‘ÿ@”no,wÚäOV	>WûFa‡YÀÞ—2;wÉ)lnÜDñN´¡À@XªkŽËöÏ^:£*¡_òV¹­(bÕ¤=ù,l¡6Þÿb–˜DóÍ.27ó:¥[ÁGšG>8Ó¹i]çáÛþZf©0YS×S¥¼/S#!€öILA=Ý­BÊÿlOœñ­ONþ.Q,þ9!Þ­j‘)H£¸Îù4˜ám^åÚqSÝF,Å|6ŸfÉØèqPû©z½3†ƒôò-Ù¼šÁ·Åoæ"B¯K&)´¼Ç¡©Œ{7‚°´%PWN9å~î1\–:ãÍÅi’>WŽÉûSß`B³nÍJ¿ƒJFOš¿2žÃÁ¶%ûÛ\÷ËC±{cç
+Ö•Má¦ÇÐ(D5pNŸÐP+¾“­Š›­èˆý‚àÀPÀZ¥§G‚ÿEò“¨û¯]R8ÑµÑ9«# ô”Ô|_Ös!zko’KœélÒ‹ìitHŠ5Ð&##6ƒ!ÔT²ðB^•$C¬—½ß+™‰±8Qv¾
+hÿ‘ )ª…ëVÀž{L/+¨JŽ—N×§µôI–ŒjòRn)µN³1ÿåþªÒuÆFüÊƒ¢:‰F_cŒßÃ*‚gÂð’óPû¬»Ðî½Ð¥Á”Q1²ä_n%Ÿ‰µ}ñZ`ÏÉé£êý¥ó”I[o(Í*ì'…ÔVÓËË·¡Ùœùë¬w¹ªè…q*XÓœçÇð¿Ó7
+¬€ÀÉC’‹&²€m¾;„÷eRôƒô¿zúPojc‹â/¶¡ø
+¹ã-†—ádIý–ì?ù€¥põ+¼
+X-Ìúµ¡êHŽZÚ³‰öÙ,qè8½3) à/DFì$Ùtº†ql¸‰<‚2WA-pñry>à{9¿iÏS& Ê"Å|ËV€{½~df	Ž”A½Ke;WþÐÇ…nJg`ŒWæ£éd‹hwhx
+>#ì¶¿g#¥£ÒRC(ÐçëUM
+¢ ^|þ£U²[jÐá
+g»Uù~g>@nÊa8ÁXR9yßÕŒ>o–Ê¸«ßÈ¿ÚÆjÃYÞ=Ü¹N»œjòë­5 ú
+à»‰’—“GrØ¢Î¿±=h§»æs$ìð*fûœz‘{‡”T†iGvšZ0E
+wcÊ	>9\Ä6¤¥Ãô!' (z”“â]Š=bû¦
+ýò#¼Ñç-s±†ÒÒ—eÁeÍyOÿV»KæJZé„Šæ‡k*Äs†YÝm~þ,Àqöé%Õ)î(Ÿ’Hc.RÒü-N'“§pBH°!Ãç(Qbh=OV”Ç{+Â_û¾®ßÐÖ3íqsX…ú’~Ûp2£G)Í$Ú²ó‚Õ¸ô—4uH:•dMhp_l§µÙÏ¿DL
+¥d3—FQ¬tÜÑBN¸—–r124ÈX
+*æ±•Å2¤Óú¬12S¿…YÄ.ÿ&¿>1å •výóùÅ/ß “€¼Öº¾G¼ÈV6ŸL×BG­¼“{4ÜÓ4c¡Zé`÷(-Í‘‡r¼
+»¼²ð¯ºõx†XÓûŸÞ/ä–A’en
+¯q63’mj
+úT¶-ÄuÅ&Û%"Ð‹7šRt‡û§Îox$˜ÕÍ^6…N¤JQŒ2Á©¾Ì:ÕŒc¤yØµ5LDÆsè{¶sîó§âúÝ¹ûe£û¢\†VØÃ’.ð‘g$Kt×Íân^y'±)~¡@8'€µdd+½ÄöÿÊZÅl&‹å‚žz]„ªÀŽ¨)BE¾@°“¯²¢8e9×@Ì_3ø;Á;¤ÿCWPµ|’	Aæ^NJ˜x:kKY®4]°-Ï-nù±±MÎÂŸs†}QÔ]t+n¿½’RT%–«¢	l‡6Æg‡|Á{*ê›ÁøPEbú‘rª²T”˜MÝ”þÉOÃ$VÝp¼ÎÝ\!	¦6¬Ò!Ð”+"»)•YÔ®H³©„£ÿvXòómï
+´ïYæ¯æƒ¸¡þó…%ÐZLŒ­[(ÊÎÆõ¬7à8GÛ›7ñxÜœ€8=gíOÅžDU·ÀL¸É'vˆ­xü¾eu¶ûwÉÅùùiÉ84‚zDýÃÖx=°GÌÆ¶¢z2” _ Ôð+íWž¨—£oœpãÁ£ô3ù.+øÏ%pœÍbÂÕnÚ—_z‘1¦ ¦ú©rm†Œ‹µ"ûž3Æè¾f|!Vð"å…ÌŠ /l ƒ“G­e¸lù”&Í™BÛ>)Áx­ÐšûË`ØyÖìí8™øþ6›/Îàç{÷zÝüÚOd"¤?E±ØúB±p¤i\€°q“×³yPþ4ý›O2»|Ðz‡JàÌÃWC]uÂ³šµ(«o@»€Ž-Æ3×ªE^rÍzxs[fç´­0(hI$pš‚Çp©A9Ô\$%)y’5:Ý›¤/–-y‹|XÑÇÙnÜ
+„#3ftìƒu[xâ7"°MÓ›òžÌï’¦yŸÏ>^Ï·!ÝÊW¢ÔÑo´o¨¡7û«x%ãÒ †°Á ó¡+9Ž ‚,1öÍ#O‰¹Gî¿byTý)^q´êa8þÔœ
+ÖC—¦N_³mCÉõXžâRziéI¶Ä.][?žúmÓ–ênÛ›BxÙu¬øz™½«ë4üí×&)acu j¾a“@™Rà	ËháÂße¬Ÿ‹_w7u•ÿ‹æ
+)ƒlÆ%gÍ]Ý(ÛkënÆwà,½ÜˆWÃ¸ù73²fP\È’ùÕ6­òK5&ÈŠÆQ7¸ìpÈ•ÞfÉ&rö§XzbºXà™ÛBÇ+Ž­!
+ÛÀ|/pÿ‹Z‰ u4p7¡Ýs*Ëw+!¦[ïB:×‰±‘O\V¥¦¸˜;ÖÃ
+S‚ÿ|Š’âòÉ†¬4÷ôYu·CC‰OŸALz:U‰gÒRŸß.7ð©¢¨¡Nð±÷%Äœf)É½1ÜÃ¾¦æ;Eâ³äŸ™ßV¦(P
+
+\J¤€ÕöÕ»l×]¥RÞ”Þ‹ô| /É§­‚`WâÇ’d"‹zlkÂh|½¸÷OoîS7}ŽüwøÝ{*Ë‚¶õé¥:%%–)`Ê§ TÛôïu(Õ,s¯Ã8pä¹ bÙª;IÊIYeÕÊánï1k6H Ž–Áû¥8>gŒûQþ‰=±÷?®rÌ¦êb%ÚšÊ›5…ò8$e‚²¥ó>Lt=b“ã82ÀÒ{$Ü‚«Ä¯ûÒµ=ÄÔÄX©ë,À7ù0€Ó3!¯—ê[PrÊÀ™Dö£í§1ús=˜€yùÄBÔëöö¹U¾øO€%ÐyL¨Y¾ëúó2}u•¶^Ôœ‚Ì€§¯0dß˜Ð›ù,™KôÔ¸ÄßµcO7P1c6Í•L
+)ž€æ.¡1Ç@K'.°E%«STŽ74…ýÑ!;:¬Z°Jµãb/
+m@	I™Ö@‹îà]„#"·6E“Ô¬ú+÷þiÃÖA ÃlcópÑÜÃ3ñP½WB&!a’½b_M‡WPG ]ëPHJ¥Z•ì‰ÜÚŸ<F„oÿWT^×\"²"Ê5©é“+Å ÁŠW,Ühí–úÔ´ÎBˆK¡ö*áÌÅ#JåfS2žžv¸Žª‰LwêQƒ58ùÐp<•ëoÏe+¿<xÜN«
+.ã&â‘k*½XÆâiˆ?ÈµúÕw=°ˆ.–ÝVÆ‰A˜RðOë´ž&¿+Â²¼´MäµØÐ*²¼_3eu µJAÛ,ðŸ,S!aE™ö|ç<kFºüP±kOÁG)Ã–HŒWŸ «WiGÖè3ezþ|ŸXú·¶T¨5U”DR~ö¼ü¨—
+òP8È©¬-cO}Hº7–ÏºD4Âé»$l%Ž‘¿u^°…¯æ-w?ã†{;‘†Zž©qŽáõ¢èåASµKªOEq(Ìƒÿ_:«öŸI\/üEÿ&¶~2d¿†èk—´Tò6©Yz0Ÿéê#÷0ZÙ–xP6d!d‡ú<VA³Ä6
+Ûÿª×ÏT1=KŠ¶ášðù¸ò'iíÝ3ÔÛ”ûÏ	I¦»‹Õ/Š³ñTMñ¶Óú$IBÆoâ“žnòÀðÇÓÝÅf›dwèÄÖhqà<ö¹Ís9O[W?±ºSÓÏï_­9;½]¢¸UÃjêp”YÇø/£ÂË‡‘l
+—Üõ‡ýEÅí$~ÁÔS¦®ßÞýÁwçÓØ7ÁÆ¸Qö_¢¬)-·×¦‰dä‹©¢+sX›Í,CeÅ¡ä"'„˜«NWé}<|ì}Œ¸uê/<J}I³Ž¡I“s:÷b&èf0—Î¥=FðŠú
+Ô/±9˜|Å˜ÞCI}ƒ(…€Û×tIIÖ^ú+IBÇÜà.6bZþ‹C~
+2‡Óðüœ}MîØ?ÊO6´€‰B	 UÍ½IÝKwÑ|QèÂ`¬îŒ‰i¯§ªæÑe}ÈÛ¯„“Q˜tùÀ—Ú^bÖQFRnXà9YC˜«ƒ—µŽW¿oî}ÛRØ°Í)Fo­‘ŸËÚrÒS0ò]~”¨¬Ï²ÜJ†žŸ?Ûý÷¤ c+3ˆ½%s÷á8ìÕrÉÝhÝŸQ€®Jà@ªv-"p8j·XD×‹$¹Md™µÊ'§óÐ;5¹·DæŠÿ¥|Sor¤IzZ,<Ûpó˜‚Aã WŸKj8»­úÚ:
+ñPêøUBµs¯z.8µÃebŽÝ¤k\üâ8}ÏT¦0…—º¼“EÈÅr4¿j®üì‚Ù³°ë†®Õ'ò‚6Íœž…‘SãA¢cå+géÜááXR=TeæîsÆhÔ…LZ%yá>{ï°Ìu¹Ðvøò–S{¢º\œ}%L>:®¦‡W™a‡í¨ø8ÂYº—Ûê/ì~øÜ•+ŽÁLV³òó“èŠª¾yî
+åq`”*òç5$ð,Œæñl‚âah [\q„®Ç³ï{®#ÄhvzFq®¸¸´‡5äînÖ˜¤ôý ²ytT¬ó¨êYèË‚ep~œ£^æF¤
+¹åLUÞå²p&zŠ1®"„¬%ž%ŠáŽä ®èC½àü©†Ü#dœ24OÇ¢mQúÏ„×xi5;±#$‡fA!:F&ß0M¥]ýþÒmãZ¬taûG1ÌÜàùÑˆMÄAÙï­G Øô8þöÕh7<üb {rÊ#jJQJ&Ò™Æß®Cn?rŽr05	‘9nJ”:*ª=Ç$'”™sýÿ¸€ˆsÇn€A4tqê®›P±ñâK÷qu}ßTˆg¹QÜö-#ñI˜{F½COdÞqÉQÐ¼Ú òó?íáO2{W1}Gå¸5ÖusÚ9Ò`¶ñç™Ô7rxŠ9×Ýsu÷¹â…V:ûS©Ó²F¿
+v£ü~zÑ¬É8àöÃæ—Ò“ü÷—®c€ue˜ë8¥*4HîWÑJPÂ§‰ËMï}ôóÞ}°Â­{åÈ rÄ^öÑKÙMk~ZÐ}­!a¦ååòóoj=~É(¶´iëÛ*aÄ˜`5Ñ@/£Ž›ð£R5{d…$Å5‚Ë9Ûhð9Eo©àø8·úÞ:^S
+†ê÷}¹­-€‚ $µêÉ¤'²úc¥@Ûxpí-fø5m'Ðáa™…sç=ÐEp.=Rq4kÇÝOb_+pNZäó<R´AÃu…÷7‹PÔ¬èä®V6ég§›å“–Å—\>©†ÊXÐµ8…=|¡»]×8ƒ“Âãµ¶»¢ˆ<9Ð’š_»c§b[‹J&5·zñc×ag&ëø¦ë_rú¹ÿ3M™8Íá"ƒäéàýÇ£…ƒç­›'2†k73€’Šß5úÖadò¿[û‘bv„#g‚ÜV"¹QŠ£+ÝKŠD±fÕp3Þ§;’µ¹«å,¹}§Gýú>Åé¼k-©‡1 Åz!žkò[uu½9êÂ¯æ¹åòÍŸ]€wÙ˜ÅS1ÆŠgS1NóÿÐõE¦­DÔ?%¤ê]“u
+8à£Úi0W,ÿÌro+@¤þfðHßsa½îg=b‡å‚Ù²˜L‡Cö0þ&)¨ó'ÙÐ0Ä®Îáƒa«EØ½…A¶Ú5YòÍ ZÚAû©”Çµ˜–‡(]Í¾åiª.W\¥©¿ú£,w
+ÅÖÕ²¸l·upÆÂivÔcºYá±|ä?
+€c¾yé TRÛ¦oÐÏýZLðZPÙAŽÑWpÀ`ß]»ú¡ÅTðh…_j¥ð (&,í*lÉj£ø Ìô?Ü´5ÿÁu×¹PFÛèSš9Ê6¼þTØ´§sNž3ÔzõÁ!ËÌÀ²gdùE7Ý"NÍå/•¼›¡ðÞç¾ã¤§Ï»¬4/Ìô›_Â¤îw%s+Éï°·„)êen–Áe~ê˜cà-CÑ}Ê]"!%Ýr+(‚ð$²Õ°PùK*ï-R
+R‘Ûä.·ï‹¼™ŒAéÂü1É%ÏœÛVø¹ßš§½o?CG</¶
+II§ØÉp¢»+ts~^vãòjËzjïú÷Ë/Õ_LÝÝå8V‚©f×¤¬`í!(–6øÙCmiÙàâøÆwo
+µdžÞ3=Ž	­ub<¬å¿·=¡Aøï‘bAlÚRËù!í«Þ
+‚24:6­lÁQfv»m(V¯)+ áç-†ABñc>°:@·+.¨]MDó}yäÀ@Ð¸dÙÿ¸[¨Z6Š—’ËÖÓ4çÁ¡Ø‡žÎñ?órŽ4Á›Ì\çlÇÒ[÷ŸÒ^¹T0Ö`áÕRužÆrw6“®¿•‡XYïªIÛH%SÕý²ù›DW,“²K¦2-µÜCbæÿ>‘ã¿Ù2R
+ž’Y'³7× òäˆÇ¹1XŽ*‰ŸÐ“U)(5*`·0ÀÔè»[r!§˜pÛ—ÑÞž_
+LÛ!jÊ{¶',2™‹¦;ºû˜;bOý^ ×8ÿôßäu{zDJêÜ\½š®æšàÃ%Öˆ*Í”ò+9È3
+ŸS„dŸ¾CÜÁ­^ð)Ç*ËŽRˆîÂ(|¿²ZÃr¢
+8ëæ.Í}¨°	Æ§ú]%-`	m7^íÛÄ7hÀ…Vw$™1¸½k/²˜¾3)7£<=«mìýS–¿D‡ªº^c¤Û”9—Tè`ëyìS¤ŽAò§	{'y,¥Oia%v /êñ\¦ýè˜Kåó~æ Š ³žÅ”MÎò$›¡Sx&«q'ŠÕÀáÛÀ¹±@˜ÜãÎV´?‘"C×Û¨%¹/èÄ ûüÅsCVÆ]÷';bE\¡êæO­åfÔ»nYpº€ßgŽ+ó»ËÄ°·ÇèI;šÐ<¾)2Œ¬1õz"˜¡ÆÇ
+9œÈÅSù°à!õ‚™°ECFo¸Ùøe“œ]l—§ÁÞ¥Ô^¾ëZŒÈZóû¿£Û´]gV.ÕÐSý{ÝüæJ}â-õÿ[:¬ñë¥J¤7M4}PâgTÎ_rOÙâö)˜}>yéWZý’ %K¤ø(Œßr2-{W~ó³=Ê¬ƒ¨°&3
+I(M6ôhãäWÏŒß¬.wwÓ¶{bÈUcó­R£Af§Ùôè÷(,d^‚œ™¨Sà/n]3ó‹©:Bú[cTºÕJÊ¹Å*þEýÐ>y–>ªð kø×˜^o›‘¨£€þÔÔ24Ã1§È$DáôÛ‚Y–'Ë8v¦üƒ¡Þ¯Œ»RéœAv‡zÐÔ`þüá‚š+"Í‡³ˆ˜~5¨h)Aäƒ6÷š´àÉúè;v‘<Gc–ÓÿE]Ò5ûÅ_e'°ñ{L-Ó­¼œt_U»]-òoà/D:½½—#b_£GËÎtð«3Xé÷SYË¸†ZÙ“½Õ/ô£¯þ^EAˆùAÿûÈƒÛ½5,¯‚&åô>³p·¡™Íµ‹Þ?ŽW‚Üs“Ú "×MË_­`
+=æµ2¯ÈÄ÷Ä
+°Žï×é×(†ˆ(ªÍ•Üz‡i2uúIõreÇŠæÓŠ‰­N¡€R©_ñ`SVLq1oAz£õ’ÿ¦óÂl±Ÿn…­V¨®ã‹
+ÐvÎ»EN	ûÞžï
+©jðý”‡4í=@Œtr‘½2åOyZˆšôw¾ãÕ«â¶+»=Ž±{
+èA€>"ˆì’/Åã¿vY?Ù–Eé=Ã‹¹ºa(L€
+µ„ ÝÇÝMãêö’{¹÷#51·‡2–OE‚À>ðY­´qWk
+ì²Œ½¡… 
+`²Þ	¶xçÇ`W^„((“_<¬¡º@Fø²Æ4ÓRˆ|,<Ñ&ë
+Ë¬Ë—£2xû¡¬4ÕÏ1ùáðßÅ %†F?œ†h ËÄ–É ß0£ùo­_¶8 Ã¬Ô¤žT”l@6Ùªë§]ÙMö…ŠF¯©k¿³ZŠ®•ó<äö/¸iˆM3	)ê2å7Õå‹-¨vƒi1ø¾äcQÿ"À’©«BÃÉ”gÈà›c}UßS#Éüàayì<æKBÉû»ªA³èŒÌ(_”e(CÊh2——üJ7Wâ©ÿTÒÚm sƒ]ãÄ?Ë¯G ¢à¼±„Z„_–ÀÂ+¶§”¦ªSÔ’(à›äHtƒÉ>ÆC½Wç·áýÍØx÷›ô¦3§q¯b@íX“^HŸ{ý·CQ¥ˆD‡»Á—{­671Ä[>d*	æ¯ì+3·Êq½ÅÊ€ýî¹-üÔö#1Œn´n%±¹OüÍ¶RûÑ;*Ž023Ò*€ß»Wt·«–XhË	Óî3Þ·túÕÂ¼eX±d×áÍ;>¬çFì5ý°Yé±²éÇ³þ
+ý—p}ös¿"åÌÜEfä²UlêÑŒÒÈK’£ô¤B³€·/¬däa¬¼zlŸ$”}ó•ÀƒÀ“<NüùJâòÁXü‰swÿ5°Æ¹L5LºEA X;ÂYôõéû–]|ÞjÅ×	/ã¤é·3á+× MžóÈÊÏÝ&½íWöH›#Ânåãû{” 8·yÐwÍV"`¶cL¦^º]˜ù>þlÝ‰—&fç/39­­ý+‹}O}D”tB‹Ñð1üåŠ•ºÆ²Ò”,!|eù:h’e\ü‰‰ìLaR¼ÖY^>eÜM®? ëûÝ-"SÙlƒÜ²¬?ÞNöYƒ%ÇŸâ/m×Ýx÷+,Œ»:YÆÅä•kDHÎ¸õ]öª)¦Ý$k±ñd=ü¡í«¸©—ƒ!;&A§ÓÝ\n1ï†úpN’öìaùÖ~[àÐ
+¯çŠ¨¾¡uÃß§Ha÷âH¦ ÃRm3‘g¾ï!{yqâ2‚f‚³×ð¤eó£Ú*†h¹§T¦ÿýÛíá4.Ñe€/&CuÀMFlËvM°•ï`Ë6Ìe%Õ°œFHZHpOöE´#ñ]Xßc`=¶¯èÅoš«
+lØEÖùxÖ´‰~'±Ì½·k­£¦9íéoëêPñ›®u¾È÷!Æí9íÝ‚Y
+~ño›³5;@ìK€!Ê†´:‹,løS@þ­cÖšv,rw_³XßºSÀ¿ÅI¡£*¯ª!B×ŸHEØcDs¾¢×¦2ê–dÉ *¿nsê¡ZMÂ¿Á]ÀŒ> ¤ÒÖ•öÛèä„ÓôNw²ØÞ†1ÌÞ‘=§É(|µÙQé*_A–¦Òç‰Y«P[ð7lóäè!‰<ÑËî¥4V¹¶ÃméPÌT’î1šìÒŠðèd>ëŠÕ{'nÄ]åKêåÇ=ç,GÝeÍ¼çÐ2ç³Wgï´ ’ CdÐÜ/Bh-(@VnåÜxñ;
+ˆÈbØ[Còš¤¬©$W³EÎæ™Æ?NÝ¡Š+Öç¶)GcÇF·ç².]Z!oøíHª"º¤N¡­îb
+[ã!æànF8œVÊ†iTÙÿ£d r‘Þÿ3e†bVy“Þ—ÆW[ÄéËµŒÿšXÿ±èˆuÍWHñëå2EÛziÚžd[«¬…À…ð™ÃÄ5~ß$Ø MK„2¢8‚)É( ÿ] @¦§¯÷Ò¶#€©ªŸ)ü_,Ùþ§®ƒ¡gžèh{j¨=5ä6/~Ë!>®Ó¶›¹)h¤ˆ­óp^§CÇ%Z“¾öx(%FyÚnØ120¾WG8þ¬.!ëL„'(E
+áFé#&>‰£=xµŠpÐÃ‰)UQ¬Ç@ã®"F<Ÿ@ÑKR×û§%TXLzŠòÛÐ€ÛÞÙ¬šâ iâÚWµ™íÄó5ƒ]að#NÛ^/B¼k§Ë©˜E±©´£³²JÖ\
+œÒ1º;EX<à(àœI›&è<7T‘×ØžÙ¶KÏ€ß3}?LàÉ¾W9ÅJIó¹ûî ƒ&9aµ9ôïÝÇ»¶¨òŒ¶8G3fæè«Oƒ¥2í¼ƒšé86YŽümêÃàNEWÒÀ¤±‘?³Ì“í*Vˆ³¼ò ·XikµÚ¿jOê5ÜJ›1³‘Œ$¡KwA/0+ùÍ	ÅlÓGx.¦ãJÛé°#ÆL)qz3qAŽ›¹ó\f¯.,³¾Ó·µ 
+½7Ñà¦ç—Ä²•Ö>jök*;Eä…:{jaËø ³Žâˆ!Z¬wê¢:H4ðkKàV‚d`@?L
+Q+òH
+ÇsòÖi"D1£›cô„ðqNí4Lûÿód‚ÉEÝ‰ãÍb_ðtWF+oëDà| ¿ÌÆÎåtd·Á§½
+"ês ŒŒçÎ×ÿ–'~*ÐþçOQGŸ†`-ÊõrB¥M®¡G2u1´áÁÚólX$#1C¸¾·Bß
+$@ÂfTÝ&(WØ›ÙO(ÌX\íø9E
+£°¤÷£ÅÇý¥y¥ªÊ[‡©¶5ºCòêóQ>¸nw³ÿ¬or:LäÔ6õï. qmëšZ, köŸJ[7ÇúÍ°Öû¤oŽÕÃÞãDÏºŠC5vweI6×L6XC“îO C—”0çlþÆ’¦K¢]ôööš-2”Š©%Y…ÌäØ‚6>èä??ª»ÛpùæûH’…Rá¨è•¦¤ž:xÌwr»”I¦¿ÊS¼ßÙæz/XüMO=Gî8-P°ªÕ´R¸ö{bÒ%N›<Š/ê#õÅÂ°UÅÜnR_º¥wK3ŒáR&w”Ào‚hM¯	Zèˆqü_Oðš×]Ì,ùFCd`ö7Ò÷—"«õê<jé–•þGÛ¡–ï!åïÔ&”É‹šþNI@•KÆÅ}‚ð"‚4hn7ÐVß»R9yîdNÆT¬Á½
+ÊG3ÍÔJfÇ(¬ó9L¶z&Ûgßõµxµp‹ éÍé#úoa «Â
+™N}èÂY–
+£úÚá)Þ[*]º”j‘6æ
+FŸÆ?%÷eeÊ*V kÌklEQR¬µ8ãVÝà-i×†Œ¶qò§‚ãtµŽô‰hÏLüáè–Üoõb	°8ƒ,8g<†P¬GòüzÉƒ¤RË¸ˆLŒ_âIÁxÛLd‰Ýlw¯À¢å„_Ï±É°9Ò¢ßÐŽí•eÀ!ðpcA
+Ò¿K¦/½€ÔÚY(-§ö¨‘½†$ÌTÄíu#¥Ò‡ÖÅßkIŽ%gæ<—›¥àkÅJŒæÿ”ºŒŽ”€Ùêv­GMZš´s2®a#÷Ò“ö4+Z]9´"
+n8fs=>0›?7<(ÿ·Ö" óÍ<ÊCy­ÄägT:}ýBÖ¤ŒAÉz×¨,©ù>DÛ„öÐ¹Š‹>IãHZ·ÁCùØ®“/$…GÚýXò^˜_àüPPh’ßô«M¯Á˜!Ò|(çBõˆ{
+†ªC/Ã Ûãüºþa‰b²©ZA³1¸âƒ¾ ë~£‰­|ò¡”—Ÿš§VÿÜÈ¾ÄÑÒêíÙY”sé2SÈµË&“‘ûùèå¢ÍˆòcK^d¥qòk¬?yq|!¶ñ(,x.ÑäžYfµGô’=°ð¯¤0)WÁ¬ù
+¸ª ¢imªR"+d¥àÈŒ²7µÜ"|k`‚áõ…Ê]éÝÙ
+­ËƒÙ.hWÊ½Œïû6$ÛGÕy^
+Ï¬Ø6ý7yë¥Òôi´Ãß¿Pu«UW‚´ø¤:ÐÐUý/ïÄb:	Åòzj—l1E#2/ôâäÄÄøQ)dy¬>òíg&"ý?“¡.Q„s»,ýÕ ÑH}p*§ïé¥ÉÓv¬tµ´ñ¼Ìlf]û$;ç"Hr;ƒ”VSÉÎªsÔXW¡Fè£ÌÄ®œÿ ¯4¥ø×ÎÒ*kÃFÚT¬¿½ŒAþÐ¨ùÍ¸\?Ú•!½dãÎ—†–|{­øn¦”‡Þ¡åpö›ûA­-ÞÉby.¤§ˆ
+¨Tn>Øª”ÚøèÏzjÞB1r†5ÚP_EÕU²ŠrH?3ý3ç×1fôCèüíµ­°´ñ_o±M¤slR¾6_`i¯`óÇóH¶-<Áéè	Æú 5¢’cÑ´È”µlŒ‚èùî.–ßìF ¥ç>HÊuA@àB±"F9Uëh£ïÏèf ‹vÎt™ÇUùÅq7(Ôú¤¶žÌ¥oÅ3eCŒ 4~þOÆ²;ÿªS1 ‹‘Ï›ý#vö¸«ÅÊÅQäV;˜]
+¸ÃWPÙ3ý6hí¿š›¢OÌ™™äOK>ÛC³ýŒD_zwîa#X0ÿ®Dôa=«€	ÚbR
+[áífgášòàÝ\C”"aè,ómZeþÊT$Q›IŠïH€˜pŠ*—ÿø²ÊüÎ¾Ÿ$jíxÁ¨ýu¢ìƒÆQUÃ£ÈòRìµW9á‚M2š0}±ÎO	xL>¶x}0LÓag)€Äµoµ½›!©¾CõÔòhÄø¨k:—Ú£¯r·¹Ñ”˜Z£‹db8§°R«pÚ–ÇÞP M
+³e	;§%¿¨L7aZ™Ch5M[X*6¡5e F(=Qîä\S3VÞÿåBDu±Î¸RïX(ÅI°èÈû™‹
+Ÿ„ä€„^Šf–%?
+«"&ÿ9¡ØÆë•J‹ºˆºñ+‡ØaJý•k[RFñ«¯ˆ0ÉòIÆ8kXì
+”–<ÈÃ)JÙ
+DýîÁ2.ø.ëLrNZsª›x!'Š{3Š¿µ^Óp„0G©:‰@à©ôž1q=¥c±xÄ\{é’öKÓa¸zpÜ¿Ùfj®™fü¸ÁˆbI7ŠAˆ“yÞ€)Ï×è›á*q¨VÏ,áýŸY’kˆBÅ¢°ŸPs¢L0àr‘õjè„íÈ»"­·{J0£©#0ìæSn4G¼zë½‘@ë©ØÇóú¶h5b"(XAàqæL^§GÉÇ>ôcÙ¶0	µf•:ßCìý¡dÐ5^0ÕÌzÞyÉqz7ÊÕœ·Òz(ÿ±E³IÍZxvªñ–?‹;M.Ã¥ä¯GMgÃî3
+ÓäYB]|Áãèƒö_œ(ÁàÂ9Ü`ÅP<”ðl‘…ú2çKßv´@©p
+ÁØV…7Ê-á-º“EŒ›À1·1<~Œêy-Û?\¼såÜ/‰\M†ÀO¶âÐŒN¥KÞ^µ›º?(×è®}à®lñ·èÒž'Wf(¸uóÄdúŸ/l¿„¨­Åi„ƒdv†r{Û-µ\»åd°ÝrÌsÒŽÕV&ùÂ
+AŽðT8rÉã43ôSFAÁQÁå—Ø¡…QŒ`”š˜Ñ._µœn.©•yêyYQLËüX¼3ÀFÜótˆK”û=j`p/æFÙ¨1=…÷`‹[–`j†]øCYÕž@iõt]—¼ÛV °Îó“ß]^?Üë©œ/Gò1Wª¡í_­±iyØç$úv§íGPµü„´-eKvAˆŸgÌyuÒF„àìÊ¤Hú|$éþfµxŸ‘pë­,u¦½j"d~_“šá®\#"ÜË[×Ìê•½¶òt{E<Þ¹*›eÆŸ}kj2Ùå×z©’ÉåžÚÎ_øRIv”pT2æ•€sSÅ©ûß3DÖµ)Q¢áÞúJ—Žº?>1õæ'¡AÂ»_¿Ëº–#Û®³NÃ§†­¤ò=v©µi_º”Y%-üëg
+;~Õñ…l‹w™!Ào®ºöÙÇ,a–‰âi#Á3o
+´XM‹è1uÖ§Ê‹ŒT°YašÝZRD¿ä ¾6óoÙNåÜv«s¿œ/Hw>¯0ÜäÌ©
+¿Ì*|Ð‘Ëè¾ØåT.qÑé‡t´¯Õ S´³­×Êà7=m™ú873Óµ‹°í˜‹µ´RêÆ¼Ä2•µîÎïH’8žz™N¶5Hóšzê‘°à0wÚT%Z#Ê¦ÐÝòo”ˆþLGpÁÊò|lEýãMÂíïŠ*åª¶EÃzìØt‚ÐÈŸI†L¡RE1Ç£™Ð=ï”ÝlñŠKŠåÚAS?hj®![ªo¯„‚¹—Š‘:ð‘½wäÇQ×¤›ˆH° ù_fÂ8ˆbr.ðs2cÙtåã•ë×D3¶½çÚÿñ)fÏ²Ã0Ö©>“Ä›…)0'¢*è OæýSêe"Ê>9_‚}–û.Ï$­nsTsÞaòð¨p—GAŒßS_2
+?òò¸cô¡B ³-­vÖQŒi ‡2s@òi9¶âXÆ1æFzê(QŽûàì÷t[
+óåÐ®’ŒZu¯²yúò4¬´”Û®üXl
+Á)ÿÂwcòØ±›HÜogš±Â@ýÞõËˆ«ÅB·ðO2€Š«â …DH<þ-û’˜ÿÿ†8’÷éÍ÷GŽ!ÜC’‹žNû__¸H)ž+)Öøgã_õ®jâkøüIj:“zxw-hHÍ¹X&é¬ü„^=ÖÒÁ¶§éYæÖ¯»\9ªY`oRÇÄ
+ïQ˜-4Œê­;ÓÄBÃ“êHzƒ8Ûø-‰ÕÌnLþÕá¤ê–œÞ…›üÁŸQFÃÝR,•% ]i #RÔ” TQœü%E!2ô«×Ÿ•™o¸NÞu«Ì5 ôº—„U¢yšìµBz)Óƒ)Gj
+žªD‰«L×*<wÆbKÌžN+oî¨9äÓuoq¤îŠ7Ë—	i¥@¿|Q.
+Äë:º7šìG.*hW]ý‹’oN"‘9mÜ×€
+”V60˜õÛv@ÏËÁøEßúw¸!&¿Àãª¸Ú1ÄÔwÛ9fþNtÉæñ%øˆ.ÿC‡ÌÆ íê–~æ–#!ìºx3ûÅ*{~Íõ¸‡=üRmmëP‘1XµÅqÛµ Û#‰ùZF–«6 a¿ƒ"á”<Ë.Y]fü¤‰Pèž§Ì9û`Ë½OPG+RÖ˜ø—L{ig^«»`}ÉAýLßÕÖÈƒìçŠÓ@üG`–­²×Í³C6ŽæVÀTUJr?ŒIöe[ï½…P’¤Jð*?Ù’z¿Òòá5]¼/öë}èéÎ†y6ÿ¯ëP[Ü>_y¤Â•kS–c6HÅ‚_³ü»²\Y©cìuŸ\(Å¸%g©zj)1,UÚj Ó°œb hUÞÉÍï‰â8È3ˆP©^÷{[ƒ\~Èõ"¨aÎS5SÚnèäÓé¢xÁ£W~c
+Lº•p÷«JD³MÞ†þ¦‡åewg€‘]çP=YWMbB¼$ÝÁ\!$FðsS5ãÐ‡QZÖ½ý¨rx½Œv$C¿¦~ŒæWÅ™{9!¬Í¾—Ô…9â¯á+}GaÂ8jk.3Ï’nwB%]i“ˆó$o/üÁÓ¤'òd^_¹§{àëXå³ºÎaF²…5
+/_:ŒµöJGö*êaû—N?LC0Í^<4àû'é‹¤z¶
+ºª“bl©‘Û+R
+|bÑ°æZö8cý¦@³™Ÿ–J‚s!Y!ÿ	}Æ,3Zl¡Q=%ÃìyW“§»ˆÎ-á÷<w
+†š
+£­Q ëAÌÌH?ù)–B¢_›Ú’®üË›ÿÕ”ð¨¼UÝ‡RÔmj=u•SŽ)Ò<zÉ 2´òÛlµ”X,ó—/òDs—HUª}2@ÝÜoP•c[‚µM+xoÕ½ É~³‡e§µß˜8±~VÄ¡Ô8¸ÛÞÐ„&\S~Ö<èµ;·ˆÏ2GØ6™&¹0¨³C¾|nõû¼='÷ú/ÂA 'âV¤ WNÈ’×RÙúÓ¸æï®Š…2S½®µÑ4vŒW9‚hŒšOËSbåšî¤5•˜ú&\1µm¾,cZ:ã¢†\,o½©ÅŸ¥>Õ^”D‰¾ªÐÞÛÏ6íD!ÉZC•à_xè¥Oh#Tõ)‡5
+Tõg!Á£}A}­£æ„FÁÖÈ6¹0í’Ç™ceqœœ ‚Kâè
+"'mç	¶Ÿ©H”L$-%³é}ÊìM`ëÝ]ì¡mt5ÄÌ¤È‘¤}›‘e
+0fô¦dð‚šµ¶¶kkÊ˜?áOÃãß5AÊAEãú@öT¥x; t(z·—r3ÓÏ¨…aF]cåPÂOÝ‰”btÙÿì±·§ÀË{nt²ôAVD¸”ú`,ÍGú`êùæ€3C‚ZT&§‡ÅéhZšØþ'·J.ŠÞgYÇ\‰‘æI{uÞLÃEÿçÄz
+ëˆ€šÉE¼Qhæ-¹Û«&bÔš
+ÚL;fÜŠK°pÉÿUû"Úíµ=/Ú1…=¨
+ÄŽKÔí\ù.ÀáOë·Å?]’†!•ÞLÿk¤ÈböV™ÎƒbPqa™æußüèD´"`8W¡=ÞØŠg\¾éOÁ\ònP¬;QT…ˆMJ©²*ßÍf×µúýÁÕDo‚[íH§ç=¢'ªGR$Ÿ6íˆÆ×»n<î@èM;ÝLœˆ­ägÈÊôÿ§¤|ô_­™¦_Ê}ü³€Gšp"’j¤þ‚ŸºÌ¥—bgv°ÅËÒâ‰du+š†—0}©_X£*ùÅµå\}èú÷G¾
+±ÇâÎ®üIþbfú)À¦'qÈ+ÍíT*ÚÆó¥µHeî^ûöçœd¾d2^Ÿ,VÊE’O|Àä?ŠÓÝìöxób>;pÑx¨ïRŸn4nãÆáŠ‘EÃç}’š3ßú®¾2þuŸN´‚] ÉÑÃ'Dnƒ…<Ò¤OTýðeß3]–7KûÆäyÈ
+YF*WÏØ„<hI·ÃÕK´ÿˆÃ÷¢lŠ@
+(",Wä}ÅØâŠÃýE5'ù_j¹žÅØOÎuœÇBàÙø¤}‹Ôý‘ñ	ˆ05 ñ»å è/O‹ìñ?½
+¾žš2°gÜ~@d­wÄ*/òaø0'Ýž…‘D&Ý(–rfpDà1¤XÜ\ßTäæ8¶ç«÷›®h×~¬i®(ç PEýŸ
+æf3‰CÎ„
+‰aŒ©œYâ–»ñSYG"æÜ&ÎbÙíYq¬üW”‰ý›Å!³Š”šJo»ïþªÊQ'I‰u—Ì«1ÎÓgªH†$1•„š©œAÓÛT:?!,oNêå²Ù#FäE+kP»ï¿“@.h÷ÖU—¤À˜;¨½>¼?-«6Þ/y›Wîuiõ/³zè1§ÉÚWK§Í¶D&×|Óu·]cëU,¼öSDÕWâ"õ¤Üš)¶	‡n³µÐ2’^|#êÖ95;Ûµƒ˜÷e°GZÏA¡=ØdasÐ×êUbsi*rÑÃì—µÞü„¯»sq;–ÒÒþ‘J]8Ðò…Ó_Ó®ô©’ +Ç¸Fnk!kÞ{e\»k.;)ÑZ«Ú¢
+SLí
+}‹ZÃ¾«Ø¤)hÝ'–PÏ¡Iœ²—îÁ‹%â>g¿)»¨Àv—.ê‡îQˆ’/yùºH
+¼GºŸ%Æ´$¿‘ì¼º y¶u[xŠÈˆSâ·Ö
+·±˜Ir~æK·£%5
+Rd±W]‘±€D£Õ~¼pá–P¾r‹#Úvzšü•!·^Î]Ž},g¶Ìh÷=F{G{ªxw¢Å†¶)Cz¯V	@Ë‘éäZ@‘C`¦b+sÅ]ß•ºjãÈädêüYÅšõ›ì\%MÇ™‰Éï“ kÈoçÙámú'ð€z?b×¤àÏúÚ}\¤ôm7,4[0–Ñø‡·Õâ…ï&|,k˜Hœƒßx»¥û?DâÛ'Gõ^A 3¥iîKû ¬äk¬Ø‰b,æ*—šÏhöE|!î’Q¸ UÛu6TEËPíCˆÁîÔÑ—[æñÉUÅžN/<­Pž‹2›PGIÙáÆ¥«¡.Á•´[Éô‚ÎnK>
+b¹ãçgŸø[Pí¹@y’¼°¿2P$¿JÅ]C1Dn%#æfE$ŽöüˆX›ÚJ”òH´8Çà3ÿ™™kD‰–>fí=µy1ªçãñŠ3œ]}†Æá¦nîÊ†>ê2}8ÕØƒ„;_û1	€¬:sƒF¾V@¯n^zÁ¯ÏÜuÙ%7ÑÜ¼#§6ŠµI˜`œ0·4>øðãËöïAÚqhá‘¿Ì\w?= %îTvˆBiž~Måß‹S²–±Â|Wuž O;¥Óq/¨M³„j=xvWhý¬5&¿Ñ†Ëž1N0øþ ïGÌJD\í¹ åí]§¹(5/Ñ«g²Ä·Ý&²ÂÇÇH;zJœ~§jRzÔN 
+ØŸgêÍülk#!+”õuY1IÜ>AøÀsFþÂIjÓ4
+@êöm§rê?ŽìÐO^Í#·kYdÔX$hÙßUÒÄZ¤E¼è	moO Ø!FD7à¯±	é7„‘õÐ«6=òæ§âŸ¦åWv†û“‹QÍ»/;î>t_Çú yYG)^xI‡O×I‡ )1K3¾e°_q×<ú}7…º|#¤ú­1M6¯þ8iã ˆ5¶ IÜEK‰h.¯r"¶ó!{5zÛ_QÕ]OöÜÛ–pE_µÐ)Œ™†ªa[1.Óš áŠ¿˜/7ÜU²Nísþ )OîØŠf¤N²ÙFØTÎß›té7ò/pü"®“É?&àQkž<'*Øryú‘a¬z³x4ímâÊgÃ|Ð!¿—zS“Ð0{æžž7V‘KKp¼}™†ß?lÕó É´|ž„1›ÕÈO}ólk»ìg#3gàQ™•¤g)FZ>ð¦Ò
+cþ¤éôQ`ŸÒrò©ó[Åì IÏSoeKõ¿@u“„ØíOï!îkíÿs‹ö¤ÂÌ§û¹šz„g×G#í³Ä¥xÍ\ÄuÍ¯þ?¥ç…ÇžñPÓ‹€Ý§&@ã…»å*œàYiùò¿N¨·v‹!Ô×òZôÇT©DÌŒ7û Áh¨‹Õ•%í.ÔÁ9aµ“)Y
+V¼eX›€3©™µ/´¼ž#Ür<“ÕS“‡Ðãeƒ¡!&AbyÔšoÔ‘öFëÈVýëtßÎu7O^JbÞ:ØÉ²¦œÑÑ‡–	¯;†SuCsŽ<Ç@ê
+7if5ÙIÍîzIá£d¹‰Ðá|46;ŒG÷«K›I˜8ÔË­üý?WA¾[gí#hy…H<½îµ×šQYFÀ2Nšóû´µh,õ9•’Gº· ùH
+‘t„ÆYVà
+C6óAø¤RÖ3_ûDÞÓ<Š’ë¤â,yNPÎOš2'óÙ“<ƒ‰É_oàQ%cã!‚SÖdÊ!À…î›Ö\%æïgž\]³þ„·}Ç–„80yop6{n€[fM4Nàw¼RTg²6†ŸßJ<Òp‡zÇq¨Z^Nît~üîåa;Ñ.ÿ\Âþ$ÒÕ9’šªK˜‚¸É§äï%NÂcèsÜ%Q50·4?pÕ‹\pÚOñDâ·¶ý*ýÁ»®/ãy³wu†•Ã¦ºÁä¿]r8m½sÆÖ\Â:WÏêM¥OiÄ³yWõ\Ío´¶ÔçRž*Ø¾É`ÀºNÖx¼ÉéG%X³ÊÏó·ÁpE2å¶7ÇÃÈc†í¨‘—Þo ’ðç!”ØÃæ
+WßðtúóÁ<Ì‹wã­«ó
+kcÁoÅf¥Ÿâ§€Âä¤V•¥—‰uëÃS&U	6%jbU‡šŒínä[¦gurAK`Éã\áÃ-]g·Æqºw;g¼*žÚ	¦àú2À…EkØ³ØþÍúÇ6]‚cpE8·„O²FúnÖkûŠåB;|7– M!·!„ÂÆ'TüF'Œ–ÿ
+Ö=4"S IÀ¨¢k#lÏM3ËuÀE¥YÿÄöW“ IàÃ×€bÓÕ«¹ÙvY®	<µaRÖE¤éBçŠ-ŠÒf Î<D{±ÞK´¨#Ï R$¼Ç´¤k×«DÐæÍþ»—¡ÎãC:OØ|ûù™?Ê£±MaÍKº){@³‚è5bS9Äº6¥=WG‡ÃëQŽÑÔo£7´TóíèY!>ee0dCéæ-÷m t<§ð—ÅžøˆwÑk'ÏÕ„É€6ú¼¢L&ïoKr¤wL° ‚¼¯s<vK†@`Ïvß.oRÎÀ`ZŸÄ*[	’ÙàS
+Tß9†Î[sêCÁP5¿¿÷Å{ÃÎm*Šj075Hœ;3W©úŠÂºøZ®ÒÞ×
+tHê²‘'Õ0êóZ`Ä!0„Ô…B¯t›ÈôrtØw•Ü²ß„ ¶Þ´(jÇX3‹‰pË8Cd;onòm§wèšIª
+Ìc0e%
+,ÌNŒ‘9Å\Æ#ƒÝÉñ;'cl¼5—"kš‹ô •T#gå'pUçmã^÷M4Í’ÿW¢ËF1¯®œƒìž-†šûÞ)ƒå©àq—ogÓL$¿Žhžg¾0V­'M3Ê®Rþ¦¯e~é*îä‘æ0˜A?ÄÆŠÀcËÆ	ˆ²›uÍWpCÍ©÷ïõVI®)V5PZý¦k¸¸+¯û}ÛìIòFfZd%UšjK&{3Â—…Ë …êÚÐ¹]Îx²yª~³à³Ë<^Uä%ãfEè$E.xDu†&-Õ‘^2«	ˆÄÄ#~ju¶¬Ù¤ÈzGDúìwk+fJ
+1ÚoÂ%%)p4ÚåY‰|rAÊ:»•[6ù'ANÆ'®òol’ùH•LîÂ‰ÑêhòÏ€
+$¤ç+§8Ygœ%e²9º6<©twvgØl« À£Ç~áõà¡ÂÓK
+þ‘ÈCþiþ[à#Œdô\ù,€“èAúR<r¶b¨Ôu„iÂ|;	ióèº.LÞ ìLƒ[†\}c2íãÔµ)k<2drô_¾ä„+¥­€Ý2bÆ?›XEü	ü}ÒÁf¹þÒÓn ó>¶”Rÿa—sMÄGŠk†¦àŸŠ4Þ6ôÐ6´xq"dÑŽW»"Íô!ec^Âyj&@DÛòí(Ú£%WÌñµXºLñ’ŽMËZKü@‘\‚‰»íÿH¾›8× ¢’ïn¦§?(µÆì:1±úa$ö®¦Ls\cÙþÕS) þ¹ëÔ
+pwhêè€¼	•¡­ƒS[iÆs°QzÌ×¬’ÈhË¥¾ítŠiPu¯<9NEù*æ¦¶IºÂUÏOÚ‰ÝNhìyÿjà!”l‡ìÑh>ïÉ†7š.\{ÛÂ'ï¢žÁyÀ¡°aj|üÉÉPðÿ¦<ˆèúC¥ÐÅÈæpE¥éj¯;ò²Å å~¸…T3„å«éIØÑŒ >v¼¤ÐbU’ðT“3ee_üòÒrYÍêËfUJzsKÿ¡'}¡ü{|Ö«i¿Tsíöa—.¼ä|bwÞ04; ÕörZ!OÙ®>”dÃfY-°ZÒþIÂActÍÓ4(Av0œQ1Û(Ã~¿—ƒ¶êÏ+ØÝÃu²éñ˜¿qÕbt–wmŸ6j:ã•ãOä46§Cà›×óŸL²róœž•6¹¼ “ú%êj'eDM,¸(õÝÎ9ºÒq—†Õû'®"À"6ýìðLON¸N8ŸWëgsç3\XÇz‘ì/Â!óÅ"jˆEN¼ËùWYzöÐå(¨Ê&SVÁŽƒe<Kv-ÊÜÈ‘¶O:”WÜ˜ÒpYõÁX¦ikP³ˆÂ Ì¶„ŽXŽfÜAæL@Ähð'ëŒt2™(ý,¸xöÔ$}kŸÊ^˜3l6åîà]Š"Ø#ê6Wé_ü—TÞÚéi%¦»LôHÞêêƒ.Öú­fk•ía´«8	i™u44©àþÜU[AsˆîM‘
+ÒéU`ÉW"¯ªÅ
+Vü`<ê¥dSp¬LÒuš0ÙÊë:J³Z…*tsZíSÝŸƒiq¹1˜_ðoæi–Ý]ÛRî5KÚÝã¶±Ÿ¼]¹•ƒØÈ÷”íÖ4B.©Ô»Ñ‰½³J§¡×ý<÷d³ñO3BÇJYŽï$)ÁKáÔÐXÏª_Š’!ü0õÌÏŸøåYµxŸT6iQ§bk}W1Ã±2Ì7	`ï"yOGà_/.Èô±mìMYúŒóZm×U.pª	¢2Šª›·á\Œî¶eº†rLüKihþ$1i>®DSÎÀ€”KïŒ÷8Xò 8Š~	ibÁn:µÑSÛ,JÖjÃ>(Ì‚±àÓÒ:³/,e¸Å®Ãïï]l%üOáLºõ	·3³üµÖ^¬f™MxÂÊS uÖ½1OšT‰_x¸^>¶†Œò*ŠÜìÆ3
+1ò@¢,=éFÜÎ}æ6îŠÏ–,è´¶ïsÐ…·2ŸLÛJâÖw5hÈ¥,Sš ù“âõ5VpE¼r×^¨	±£ýw“§w4
+–²Ú-¯g÷‹y}vÓIGlÍ¯;ã2xJë-x½sVãQœmÕôƒ·³ân1í	á1ÂgNûÂÈ<ÈáÝA´ë>Öv¿ÒP#¨þ…s.Ëî]ïW
+ïûEmöÙ;¡‰Ý‹ZÐ :¥úQ|ðÇfv	O)½åÍª›,¼Â,ó‘¨´°üR
+ /›üÉÔÃXê; Ê@\JŸÅ*‡òÃ<\áÝg•%pŒKm$ÇÁÉéfAo)V¶^Gá9šGþ*1¾sßeÎ£MÖÜ8™yŠxßì–Nå
+«ÿ†íE	™áËñ…º7³ñ	"˜·™¸Ä08ï‰GL•=70Ù1-
+já„ñÝ›·Ñ^2>1Ú{‚Ñ]ÍÊbb|=¥dOí7§'³	Þ²v"ßÁí64×Z%IT!oµ’{ÑÈpT†wWÿ­uk¯|v]+‚`‘õøn”ô\€Å•—ê$/Ã½¶n®ðžhÑœWHãÕê	«…\äCÁ¤Óiðr@!Kä¨Ù«’“Uì¾²³ÔjúvKÝ–9Ÿè„$`LRˆ<‚×¢å†XvÀÙ×â0f†×«Îºîè]ÁØ¡Wö
+Ís¤Å,kf=û&±H¼ÄsÓq-£óî:	Y >42‚y²ÓÙ„C:
+ù´	þµƒ{¹`HQœT2ã´l„þÛdÎ¥‰W³oP\÷Ý
+;/éH~“ÿ)úµN…pÅ+®÷SOÏ›¡W“æ„÷Â¶f Á “dNõ
+•e»>'Á#“çðKchá’·rˆ]ÈòÁ¢Ô º%fÞ©>þ[`$«ò:pŸþx„ôê,³ÊK7fV¯7‘¨Ä6d ¸/@¸%Ö˜¦&[à4mö®”A™«r™šØ© z0¢ëé´øoØ‘_`{Õ£YèÑyûmÅ­•¯8Ðòü8Oo¹Õs™”&OÁ ‘EŽ8Ô	³Å¼ý†pV$GWÍò,!ñgÞÖ”nUÈ&…q63àwÛÕ©Óähøp»kø
+»”£Ø…2…·¹4é$4ÿ	[ðÅâI£KKg€›¨5Ý'Wo„˜qy"L…Û
+‰7Sta  bðBU-`ž'šñ_ÜûÊùÙ«ßVëš`
+qÇú„T1¹
+„ž%¸rø¢vº`¸Kœ…†‘´s9`æD5wqòÁcæNNbž$8õŸ~8Æ;1Ë8ì«ƒ Ž’€PU‘ãÇ![ïòà'¶&ô%åbZ7Ä¤bfÞ,[Ýtjüìqó‰;¸)˜óQ›k‘ùôó ˜È§þwƒ˜+k6,¡Mät”‡r­¬Óìtíi†b/òÈhþf¿àã#‘<m"Ô}¯ÅBÔnå_\ŒÇ ™Þ4cU’—O˜ƒà3BºÞ´ãR~ÓÍn˜ÞD–7:Ž =2Íîé¢À=Uv>¹#¡àçr•ß$>Èf°>ÓÙÈ¼Ù>Îe )^à¢ë"uªâµTel˜Žw
+¶}}}x¥]èt@sVßª}K÷øoƒ´$Tá¯éíØ6ÒÈ`!NñšC“_©…©w–8…›Ë•\èTbŽZ¹ÇÕD»²:ÄYô­QïYR#öN§ýF]µDÞ>±’ÛL´ÅnÍÏ’Û0¸œòË
+>ô?SíÈ¼VJ?7­ ¢ùD¼|¼*i6S8ãÈ+ý=
+.^ÉÌÒu!5NÍD)Û=&š·»7må™+ l•:ÖJÕw{ ¨cÁ´»ÖÊØX•rØW7¶dû~›€ò)fAû›_œH–±Ã¦Ä‹í
+eéþ
+ÌDµ8žtz0OxJA«âßìSÛ|cÿÚ%
+óTl”ÙXœ’è€gÛ\cŠ¤œÙeÀë âAL’X<ï¡þ±VŠÙ†ó« „ïñ^"X¿ãƒÞk¢³wo‹kÞ´óÞhý›‡½ÍØ A×Yg?¶Ö£è¯—CÈ
+.-£@ØÖ¯É‚1óÜ^Tas´“Hšû\L…·jvŒQÀs²^ÂúNˆ€eÎY¡z'+¯l9þá¥º›R‚7Æäw$3zàÐ€£»ãjLD=”=è{ŒîÄ4%Š‘Ä@Q}wÜìÌuU©–Ä
+1“8ó©ïžøqoï¢ºÞsMðÅ‡¯óÑqÌZC£ZÅvGèA .¯-V(r‘ÄÆy²ÐæKàºÉ@è\òsÍ+Û`œ"þSK,1¾$£ô. ÛÞOg‚ìûLË~ÿ‡—]Jâú´9“’qÓQ+
+T»öDã›VF‹C¶%?(KÌ‘N Ý–æÿîž1!*U¸çÏ5Ã»éù ³¹¾FBŸÌaÒt–¼ÞÀ}+Ë<èL¢[¾¨	æÓücá·›sœÌÂ0ÜÞ
+±ÍêêÁÎ?50ênóí´F|ÂÝj3!å½˜‚ÅÄ ”'Ñ˜.Õ'Æél“yMö†âŒÉ_„mËH		kû]÷BY÷v¦ˆöv?à«W¬jŽ$R¹§n«#è[—yÅ´ˆà$L–ÿ_–ëŠ/ÒrgËp)7n`ð÷†"yY™oÝW1© èô0„S›q’„^C½NÍÇ)ž—xl 5fñC©ø§s9ÂÀÐåµŽÙTƒb¤'Æáó¥‹bÔA|¥YÁ>c,?oÜ
+…CÛ¯è×žÞØ,Z	N<t¨<ü,<Ì>·ò˜[(I×5Jw‘ù°´-]v^6,¬YõêÞ˜¥­|5€‹'?_¼ÁUKg7pâ¾FUÜ«³˜	Y—Ex­ZŠƒªÀà»¥þ(}÷‚9=½0ì	Ì˜@K›º|ˆ¿rnû>…ºoHR3X=e¹Ö„žø#XyJf>°1
+8Æ&½|`©Ç¬4—ï}{ÂäšndÜ„¯àÙDò/$*ÃŠ~Vw€Ö¡u‚N£CvHáÐÒœ3(è_o³ Œ(®+~©‡Ó½dq]<%ø¹µ
+Šû&¸X¸·žGFJŒs$­dié…†‰â7é‹àª£¬Ñ`„´4wÑ^J]G;ð7JFÆ®;u§ŒÅw]máSýŽ;ñ¸\²t«0V'wV#\ñþ
+èåi‘Fø	¾hW&”Ù´û3\ Nâ i?hŒaàap°Nè|æ²OÅï}9âög.ŒnnôK
+êÑýœ±»¿nÃý4ôZŸ2‘Hõeù\Óñ‹Œ`
+AßÅÉm×9¸¢±lOF}ª¨É‚	vŠ´/}È|ÝQÆ˜²rªgŒR«±Ë™ÕgYù‹ŒQ¼Ãkß–¡hõ3Hþûgy³á¦ÖÈr›G¦*Ê‚»õ2…9Òez21áÁ	±ä%YlïZw  Wúz0³Œl#[HÀ™Ž&iûÝ‚„ ŽÃvôURH
+a‰+ý}Ø<ZFL®'¡žV)UÕÎp.1ý«C¯–qÍ­J-ËHæ,<;N;‚’UhzÓ4·®g¾AÕ9œvœ±ö0ÊéÏyþ¦ÿêEÃ£ë`1´óo¹p38;vp¾‹¸X©I.S‰ZÑôLažÏ¦þGùõ\pv‹Ù3ôgÏmüÚ®?–x¡ÏUÁ‹aÛðÓ}:[!$›µ0—°œ>TÉÝo¶+çÞ÷&ºFˆÆgŠ–¦ˆ„H Í`
+ ·Ä?û7êµ›…µThSšUÑÍ•ÑõîÊë%ˆñ÷ßÝ
+=MoòÀe­‡¹s‰‹™¶Õ)zç°±—ÆIÓ×éyNß6Þ@ ;poµ&•Í $ªê	Â˜q2Ù„a˜Yoú¨¾\ÑÜ˜/L€ÎA¬y˜$ü!úÜ¢/@f(Èx;¼Ý[±¾‘Gb…\1ŒXÜçÈèW”ºQg
+ß)š?_µ>ZƒúMŒ;%hWv8È_UŠø{´¦Ðîy€ÐÒ2h|>xiš¦µW($¢G˜rrt,"\Ìð`ŽóäÒa{T²ˆÎ%Ó	RìSRDVÏZ‰£”Ô~¨ÚG1gàýL[Rmx|úî<d$¯SwæÉ¨„åÐ‡µY"™	
++0ut–è=æ°èù¼Éè¢Ïã¤²g*wÆ wË°j-²«°ÔÀºòGp½ÏmÛÚmEp˜®›Už¬Å‘æ­]øÕÿ¦eµnkÊ•‰C"dš7£Þé}ÒªÂW­Êê7»§’ŠùÛmùvð¹õœùEšdî™Ã>Ëú7;.¼Q lÉ¡â¸z¥)š¯‘•²Ìû6 ÕkÏbñ¦–Ô)Xt$K ù>U"bÿ‹s<(ñå}³±¤oo¿5’I³3@ðì1:Z–Y†¯Ž'Š9%G6Ðe±ä˜¾8U+IÝÑÞÂ0ãYêkœÙ<kÛËøâ*²ž^Ê/…£øÙw)ƒæŠX»Ñó»¨c¡ãøÝÍL%	˜‡*e¾9‹oTø¬Î¬¢D{9R	ƒR­†&ÌÂg¨ë61.-q«m´&ir¢RŒ­«—c>Dž=•jZNà¯¤ö0¥ÃÌæik êæ`3íâ•‡{ŽMPmSÕjæ›b²”2PŠƒ^ŸÇÇ9dß†¨>íü„½DoYÃ~o³Ú¶èÞ)œUÄÕòœî©•å–NšµÙd·5×oå½Ô›¨k6¬€£ ÏIAZþÕµ_h> GÛ/¯i¶£À’N©,¬[¹ñ }Ð"7Âæ°ð6·á\ûËªüÌ¬­Ùöiñä\dÓå3Eµ02À¶4yò¿÷Ž'öñv¾ad‚»;²
+¤NUJ×-zÈÏûù—n5qGJÙ{	› C>€ÃµÔ£[Ý*¼8ï AØ©Ÿ{¿7?r”r)úHO‚è!!Ó«£"<ÖòÍÌhñôè‹*
+)©ùÆíY"mEçàí1T„^@Ïï+“¼£GÙõÏ×µE0‰ã#gÏÅÑšöçMï.Íku:+^Ò!äÓ³{ c
+´@ƒý¢¦a•#‹¨‘x6ŒÅC"˜Ð%Ù43Ü¼ï½Ð/9î;´ÐU={¶Vô<î®|±•hŽc*/¤t}ìnUOº®¿–Øý25ÏËÃa–`-cbòç¤´gðRÀ3»‘¾
+ûÑÁ
+3z c¿”¿
++Ž½ÿQM‘v?·Îì¡-6êúÎxÈª…³¨ßoh/ˆ¡qUßmž	G„œVxY¿í0<ð¥ó£^±ŒrXüdäëm¨öªVe„KÂ§?k}À2€¯³vr±ºßŸÖd©š®þ '	êGã˜:HWk`}RØÜ½vZ:ãÂSè¡Â^~;#OMù¾	¾j˜¡ïã¬¼%fWC4¶|ù}éŽ¢æœ[ûŸs_‘{9òö¸"b‘ÀÄG$NË)ÖÛƒeÍòŒM.ÿÎJ±qjL‡ŠZÍºD'[2-	êg“ƒ¸qX7%ÈM‰ÏAŽgà!†Š|âiSG_u–É›)ïež‰ºAþ'Ü”ôßö-øpÛáZ,…0œBNûð¬Ñ0×è!C«åw3–Ò‹:˜`Y):8t´ïû}ƒÂsþÐkÔpM—N67¡ýéçŒ~ëkJ¬O|ñ™T×ø`®ŒKNW»~éqÀjJV¢¸\¯m
+“ßùX85ÞtøŒMñq
+¢R	*°Ç Wi'+9i
+¯>Ø<k}æz>^ò"\õ;ˆŠ›aŸ^W6¼`Ëì¶|s·9v[·—>nG*¦‘¦fŸ×ò`¼­Z›‰‚ÒÖbñL|jz>:ÿVÊöZ\þò¡à=*l )¢½%Â¿$ØƒgËßÔðÌ‡RGì/’@#aÙÙ¥rb·C´V°FŸuséì0€S?s28é5sUÖ­³LµÉ”è¸oJôFtc˜ªKI$¢Avê9&ˆ8B9€6²žÊoÁn\ž¤ÊÊá78&û©ñÉà-ÝÅ^]¶‘Ó¶‡ËFûjyðìž¾SÛòSþp&ï‘wÕè0··¹.¹]jåGw¾Õ¬ÉF‘®nx6åûÅ?õÒ‰Tˆ^w>±W–:	öKÚ
+¦<üvÝoI?HIÇ8à4ÉGÃŽÆ—lƒF3‡pÄ…1¥–r ¸V±
+uîÛ‚ÆÄŽE£¯-Ig´ÑJb&ãù©µn‹VùN+:ç‹¢ë<¡ÿ]|Í=»*ûY¼@èÊHDj$…¤g&êó1Š^Áv(Hìò$(p?DÅìA±K„e3I)8`ò”šo{„·v:/“Ž`ÅLÿäÜL›@Ì}ÎVŠDM¦®â›‹5 Eæ}<
+¦Í÷¬á[¾J(|áI\Ø&J.luá¦ù~¹åq =ëWlmô«gÅË³ôª[
+c×ú+¹ÇDªÚj—5àvqÄOYµGPz „Ò©‹€ç—Ë™£Oµ…Ñâ4
+FèÔm–XcÑöŠæ¸èQ¶˜ZO–eWLH‹™’äàxìæ­¦â
+¢^–´	äÂâm–$àRxëÅYOhÖ±q›Tµ,d/V¼ŒBv¤¼ tTƒ¿Âò*aÀO PYk˜}J3·¯Ep¿ÙÖ\&µV­?„½¡™;Ý·M'®m3Kû=¨ºÓ…òWÿE€@Â8h¾'ˆt[ññaê€`94hõ“;Á‘ýtüóVÃ8i´•ž.UÕß5£¾_MéÎ`¥Ö×Ž·S³¨ÊP
+AbÜêMvÙOÑ5Qí*ËT
+wú¹-Xf€ø„…ûáT=;×çrn´¬VºeÐ›ò«Ä—çö£üvH ßƒ;mîÀf•H%ÇÁHÃ¶<#¦¹‘‹â©t ³i‰J.‚øÌµkQ~5pblIv>²(6zW\_L¶vß½¦bÌ®'’“wàëW×~1¥y·†M8.A„×Û€àÈ -ùù5]»:£HÿšwhÀÎ4¡vÓ¿çÜ9sáÓž­S¢Q–X%å…UÏ7ž÷ÔŽ¶›jðÞl¼çßJðž[Láp+‰¢?eàÈú†R±™r÷a%i“îQ*¯x•4Lò9T`!\.ö,ˆÏ³açº…·GÿHkZ¤üÿ8”+2Úg7:pV:<QãL–Ë®§‹M"ÎÈzO¤Ô>šÇmª'ÿ-RËõx5ÎbNú÷›çØ‹”bâ¾v]<=[a[GX@A…„z™Z:È¦Ä®2¦7B¥”H¦ÜŸò"àý`û7 î¼ìNjµ®XÛ]Æú ’»¶#£µÙ evß-ÊÞ‚m’dÆ´|ÒOV?á™TWª<äÚÖñT·\ëLgx~/…Î`7((²‘îÿP´²â^2j-'*ëç4¬ÿßK¤r€ŸiÃýoÂ^¿þ|ÊŒŠÓíŒ¯t.F4|s´sWÌ™nEÌaÐƒÄÀ-“h\ È}üŽã$ -#É—ÜÙtÛ­Â©ê(ï¶œnÂrßÏ´"
+Y¨-Á;ß3I/ZåØ`‚£M˜'qúÔáÏó1NI@}®ÉÔ©~…{^ÖŒW"à‰é¼].Æl}`ªËÍ±CP³NŽÿ¦TÔ'@Ó7ºtäyå6à“Ð^ÀtÛío%Âq–xwöI_ž™ ?áHWÊè™ÂÂÞÂ±µP8I¡8äqlpªªw˜^LžHÎ¢æJ*=¼Ür}B@Œÿ¬šs6KSU[Ä«‡ƒ>`•lÙ«lMèg¼ˆS`¼`ˆ¦º¯®õ¢ÌÌóXÂ/™=†±.&Gò*·“1¾Ë»´d-°=ä
+î8Ê<í+¡Frs]ÝACG÷8,©æIÁøÁ+ÚH=‘i°ÑvYZØ,ø…Óhtf@‚øv.Üù²•E4þ“"EB,™›Wj3•é6þ¬ƒN=ºÊYçïZj‰C§ªæ™•¬…XéªÂÝðŒñ*¥·„Ap«UVY¹j~\¶l·¢û=¼òë®kdÍ Š^ªëÝ•\|¬Õ'ÎãY$Ñ$ŠðþT18Wl,¯láÎÓMÃ³‹ì”…6Ìy~†®®Ð[€ÄèçŸ×Ï~ŒnÏ‚·¾?ànUPm9_ÿÌ h>Ý-Ä˜K
+e(èb¥¸ þ2Ðë!µ\-Ä"v<U³5Þ¾Ø­žÊ³5öîî±eZ‹{Š›º¡ƒ¸çŸê „šÞYP°8ÑîJ–HMtòBž>ÀÞª!¶fVüqôOCE
+’JíœPEH èZW°êo˜å.eÆÊÌBû´+3“§¡=¦AŸ6˜Š ¿V`É ¥Éº©êÑ7Ë°-6æýi³âáujvT0†Í•Ž¡:|AÂQ¹LË	Ö_ÀÑdµ,@”»¤gP²f·0'zqMÿm’í¿ØÑ·pú"øÖûhŸc2#[Þ™´[&BWdl3­ÖêÓfa<eQf ¿Åä|b?U·\ÊÏåµ½B‰ÉW{{k¨ÆŒ%ž+¶Ðâ©FçÓëœf«.Ä¡á*&éh8Ÿ§2Ól9ké7aTÇ[xo‡Ô»5™á~cíæœ %õé´–^Æ	g©˜Žå.fª
+•]q1Y	§}Ö/…^U¶®x‘iÐ€KQm50R=²ò0"/8—m]er³¸A¬"üÓ°Ž×k¹ËÁ–8wÇ_å5~3ekHiWÏMØ?¢ódŽs¶Ë6yÖÔéiö‹°­#|dh9ª¥p]ÌÞæs%*ÏÉS±ÒÆÁŠy)½iW–ßuº¥´x…k}$šsWIÁâysÕàÓ1ËÁZö?¼dbÊ°8ÅH–Ù£6{ÓÐŠ Ž§ØçR }ÐÍ’TÙMl¡öcþ|zìÝ*Öü™î§“EDy7:Î½ÚøhJ@ƒM
+!ž€?µ°´“?…Œ71–€þ½çíE÷ƒ0×å½
+7¤"Ï¡~¶ÂL@¸tÌÊùdý©)˜¤Û»±(uÅThÂklãàd i…­©£~×	†>LÂ††¸ø›ÓE|ù–Ã¶ÈêV<ÕtÄ 4ÜI¿>sG q?s_Ãëm£¿M"¦tÝí$3$ôÝ¶)…€ zFÿhµÝBífŒ†(iîƒññdæIÆì‹7Õ,’9³ùƒ!ëÓ÷Ãš«œ×¤Ïó²Ô4ÄÍ
+a¦!èŠaTnÑV ,~§§gä^|9®×‚O#@só¯\ÛÐ¡(þ†„¹v*çµÊ“ü»ö¹‹°Ü]£‡Ö"IÀˆ"üxÇÐëÂ(‡{Û &YŒNóîìT.èÁ±³Ñ©p‹*Ê³$ƒ™Í¦P‹Ù3®óUþì¸ñ›_ü|
+·wnØÓ"ñyfYàTmÁ‰Å¦ož	3ë¥fNG’3pÃ
+ï±3ÿ9Èõ‰®åH
+.¡ÍøÁ`v†l5ýµVE\:$ˆÆôe\¬_(Ø‹~H…Ð¿Òˆ+C%“Ýñ—drâ\˜ÈXV!×Ùóýµ#À¡Ê×6óq¾ÇIƒ5Òí¡¡ö	•V‡<§Ë® „±í›ë!ÿO°˜ñ)4ÞxäÜ‚KÒS&¾G_S ^ó³˜ÞüÇ¦HÚ1Û¿uºÓMÃXR¶YÕ/A8|½¾Ì«“¸ëcäõÈÐÎCíQ©agåÕòÐ%-š77ˆy9Qj¸šäµÇnÈ>2›) ê&eŽZ,'õºþ/þŒ(ëï<½Á+$U]u9TØKØÑß0('$HQy›\¼òd+:'€ÍóÔ!þº“òí˜Ñd¦ÒÞq+¨“lé_¶`™Œ+-An›^‚#‘½\LªÂÄC¶t“æ8ï›œÎˆ`k[mjõð¾C+ü¦js/±	¬(eb@	Í/D´Ò…”4·/U—ÌOeIÇüF†—»F:Èüæ»½‘æq8;tz‰SD)oŒeáÙç^Ã0É3E¥ŽvñÜ9 ßMøê’gªI@>0%:T2šò'khÞö»óÄ"õGp¶gÛ(ù©pÌø| y9cæ®ü÷2a®4›$¨ŽsžéÜY~ƒ`Lî„Rc~è¾‚£.¹R¡aIDªx¥ÛŸª§n•?LNùÒÿÉÏòñ­Ð”­§è@Îÿ6J€é¡ã«ÕºàÔm\uIÈî5dyrxÝ|ú7?¿JW#¥ƒ½:g§æÐÓ­L²O7WÅ˜T\	ð%{Éä?&U”ÊÒÏéäI~¨ñA¶¢JŒI]X€‹W‡OogêVyIÁ«âá…2›:2ÖÇ{#‚)vÍ ýæ³cn'<ó½Ÿ­‡ä% ñ‘ÙžagfåõC(¸âH	 ù<0€9ös
+ä…¡Ë|D”ðVÉDx|feé‚Ùg¶÷SWúl¬,%#
+ò—HÏ’_3ŒÁß;
+Xvf&¢aôþyålQ39$Aè›Ëg2XÄ'7°ÕîÎ¡¥²ß®u\—b .×÷ó·¬=Â#]éme.°×Ô¦*Qsiîû%ªç_eø‡2å4Wˆkå>žï^r€•	,×™	×ãÏ1±ä_@eàEŒäŽÁ•<Õgi£?®ÙOZù`Nh—Þ	(|™ÿnG®‘Ñ(xÊŽÁ›i³ùtº@X™þI
+Å}å`»ÛUkªþ=Vk}FÂãÅÏ(—šhLÿµúÞdo<KÀ%’òRTÅkdöýÐˆ]]£ëfácWJŠ|©¦I¥<sÂ´×3Õùq»µbÜ6Q… Ê	*‹iðÆçþÿÐ!Øsšp¹S¹êqyÍ1‰yžï)Iõ
+ôîU€Þ×;¿þZvR¯ež.éf‰R“ºA¶I·[LÅ·ã}4øè¸ÃóÞõí¤›j%‹²ïÝè¢¡b
+KúOMkÜ„Sz³Ò‘ÈTæÕ•Õ«ßºßÝèê3åIrqê˜{I³=eóÿœñ’/„° n#•¶™Eõ1¶ÑIÉ;WZýÆ¬jÑlÖP
+—ótKažœ½\é.áÁM5@9›³€×êDøW[Oà<¢>!¼ðøGŸDœ¦ìo‘ÐÓÚò‰´mTïÖ
+ü¤Š–0ÔX(ûÝïj&ç}àýÊ³GÀ¨
+áCG…ò1m“ZŸÉECc¤Tî&øÖçÃ©—ªÝí’ Ì„Ú‰¶æ~W)öÐù·º¡%ÐR)ˆ¬Dê8`zì/«`®¥+ k@0ØqØ½NpŒ¬!Ç•Cí¤qMØ{ÅÄjÁb?H¨s‚¿Tƒ]N|âÛ]¿ÿDJ„¨~>Ü|G"É»Y¨¿ìBÎÃÔí_¸ôê]fpBŸÌÙ*[¨ d}½Z5†#Ft8‡6Ú »Mâï#¿=§Cî1)‰(þ&5Ø<ˆ?Jl»e\ö*Ô|•&[]Ûü¥—Ù—˜:•-ñíH°RÞÑ>ý©oWÿE;M³ÁÑ¥­ËÎj›¦'‘Ï'@R×ŒüP~yÅ)øÎ!Dë?K
+ñ;fƒ¼s[-Ao˜¾íŒ¥;dt›>'uc.p¸?µ­ÄÜE£p€ÿü¥[g…Š¶Š#WÚÝ™£FH%CÐ&šŒ˜ëc3[Ž¶–AÁK‡6ˆ`3elrî;Tšh¸(nRLuV`Ï úšá
+)„T¦Í]Ð’¨2¥H¢Íäw€ÑaÉžL	Ö4îºå‹ÃÁéà²/“íÏx0^8®+N>‘åç=®Â'Ê¹ñ^t5-
+@! +Ö5ÐŸÕ£ì²/ú.J-6EžÁ7øGRAÃO†>w3ó*&¼îaXÖÈ(<Õ±£vÖ}*¦8˜!âÓ;Ž€/–±håT•šúLX4&Õ@>!¦KÐ’)Y
+–ë 6
+ŒðmÕú“<¦J—ºu·Œab{ôø°=+£ëY\BÛŽÙý¶g±Ë’žÏ0|˜\KÌÔî`bé‹L ’Šî)¼âš/4”–u†Éïÿ&ëáB<”ÜÍÞWØˆìc(ãç6k¤ÊéoC©kÉ›TIG,;Î«Ö:ÁL`5†¢¬U¥ÄfX£8n‡›M‹5][ê‘’'Qî?âøq91lk¡bsð`ð÷Ò‰iUw+UzóQW2{ ›æá\70ÙøÒ·kv¨üù‚|íx¥Ù{*>.3yj´@W8“	$L2¤ÿ9!oˆ#•úGµ+@aÃÁÓÇÀ©ÿ× âóo¥Ê­MP`fÜÓ³z>`>† /¦L…E Ûrb3Ò!^ˆ”Ê•-pÔ$é;G=Ç?Åã>h
+ð"3n+Ö ³¯8P0/òD½é´§î—Y_ŠAÊx†Ef7oÈm„4xbbt[:åàæ'MZ}§¡ƒŸúÉ8îrð¶ªÚ—x%çP9NÕ‘á;Ã¯¢a)urˆJJÂ¯•†ˆ†È/Ñ?p?xÐ-‚q¥ÉF˜ãö%àÙoÛÿ÷tÀb`Cÿa{aª\½ÃÐ­€3g•wÈê)vTËn~ˆqcŠB;­Dvz×ž=ôFð¢˜™)nÖy@É#EMÂÏù²2G³;+Ï9B3Jiñ¥/³ïÉóÝä&Ç¾ký7›{üôQ†b?iP¹©eä †%Æ†ÒmËì± ¾Y´ÀŽŸ_ÍD)²þgžÏøÈrºM´"_ÿåTIÂ%†æ´¹Þ±=$>îÆnü¼4n„-.+?YZñzÆ>FÓ‚B×Ú‰ˆÏÀ[ÎÆtöƒC_±XB¼P?Ä´A• @Š%!ëMÄ
+sÊË§ÚÛ
+Ù‰€6Ë¶y=ÁDVGac59¶
+È±õBÉj( I9^³³ˆa8Ð0n5¹*†¢E¸¤÷#9¦ºÃûFÔ%I“í¼KûøÜàþ\ØJ^‚D™Öåyis‰¸}œŒ	Òñ–‰f
+Ql~‰ª*Ä)¡Jâ²4YãÄpŒ=­¹A7¥RÓÓ¥ŽþÖùf«—ÆÝå«×iì“ ýj€;ñ`ëÈÅ«__G~5o)´Ýˆ>úÑM,ÝçÓ nÌpÇ#æ5û†—Œë^ÖrfbyÓ:ï÷ÆÐ?b¬™b¿ùüÒÙ­ÜdÊÙÊ,M!Ð9€Ëòî ¼õ³//W¬>˜c.YËÇÜ¨9ZãW„ü“JŠ™Ó¦	ûâXÝLôq±~CÏ1P~Ìu¥Å>¹ôÛŸÿtyÂÎ¥Ž=­ŸË-Yï‡Ú˜›ïÃà,ú^³JÒ±u-–ÿŸÈIÃ‰,›
+”h‰&½„D™5BSö	‹­?€‘ó¸
+„ì¤˜øëU4è’€)›c±f¯HwzÏw#¾sÓaÑ 4è”Éú›;zy*yx´›ÇuÐ Z›(¶8O}ž÷Ci;Ì`MØ¤÷pÄê
+“o q­Îé3iŸæ¹<´Ð²cº"ì@³ímém³H½Bñ"_Û¢—Ç\†7±;µþ8	f÷hKÿÞCÅdAõn^ol[!¥Z3Ñ‰šˆÒQ¤St¡–3Òß[ÄKzÖ[Õ
+/< R¯r*øó^ÈrÚ$ŠênÕ: }qN6›–ÂÂÞÅñI”—•Æ'ØÄã3ìãÅ"dh³x
+ki+Á“¸.t¥Yÿü&lÕÌ¯Ô?)ÅgäIðEF×ö¤Ÿê{-N†§qzà9>UZ){¬‹~¢¹Z¸\’æ¦´··Û°tP$ÜÂÉ„ûrÓ¢óžj ´MF…Ÿ¦³ø¬yFisG±ö5À·È•B®;Æ*ƒŠÉ„n~É6Nüwgœ'ßcù[´Ÿ\Udi­¢2ß…ÜXêNb:iÜR¸ö1n<Os³ßBÑ£,gg»G>”¨ž¬7
+à–éÿ.·t•&zÖý1'ýE7ØÆŒ6Û{H- µÓ+2ŒÏÝäW([mw‘^Ÿ4~sð†›æó›ü¦m«ç|$OÒ[&Ú›'Áø¢ÌÚ6dáU Ä›?n`tÂ¡öY®ö¹¡M#‚ÌžˆòM~Œ`äÒ¤·ÿ°LÔGÑÆ±;ª²jnµ"ö@Ý¬öÑåïŠ\ßäôPsqe(©ÿFk$³éð7ÎÅƒ}å¤^É0Ê€ FiN›©ÄÁ
+¹jßŽû#p/Ü$>;v—gQ´"2;q¢ÇÏ%ÜVR¹ÈôŸ³ë¹€iW==£+ÞR‡Ô±Z~·t“Ø>«°ŽŠƒÅáŒ	HIÚ`1sûGÎ/)SŸoK>a	]íKz”áÈWÝú<l«,wÃ„¢"J;…É´—bÂàKu+|C~¨ÚuÍ’;J«e>NÈýÕ“<Ä¼àj}ƒÁ
+*Ëÿ;"”¢BàÌ©†ÖK3¥£4 Ÿ®–Ìÿs
+,k5ËñÎÝnZ\ƒ3©övž8Î«5w(Ï3àh‘¬•i¬+~hŠÿÑ0KÌ•ì«µâ$rq¹¾î?ËT~¦2Q»›â-‚×á¶ª«þèiê3
+FG Õ9+|ùm¿<TáK68ÌtBgÕÅ)ÅïÉÜ«¸kéŸQËß÷=]E¦Ç	 †“ƒ¦4PÓ Þj`Î ²i^ŸÞ)Ë§Œ}ã0‘ë
+¾¹L¶äNm¾g198ÿ<¸ÞaKð®á´J°)í­pû
+Yƒ´‚¹›ž(A¦W8€ä§åª
+OäŠ#WÃRœ þdªlRE'ºÜ¯¡IW´KÇ¢ÜA½©ŠÛC
+*3½nyá½Ó‘lzÒÂÇ;4ØšJB­¹“qÒžÿõy7­Š¼uBýfêúò[Ì9ÈKÕn@òŽ¼uYÂ4ì?Æ4xÉ!¬D¾µ÷º_%aÅ" î˜
+ëg/2\ÿ*âuj£Fáyl©Ÿ_èÆÈÿ‰®œ
+W°£b¢±¼ˆçï5ùæ1•uÚÕ ¥A°NÖ–fá®æˆù¸V/_1Œïmú§`Ñn/½Ö«ÇÕV&Š8C”`‚t>3PU:2ä	ÄŽÝÂ½N’Üß'ÈDâ®æ£Î¬%ˆ›PÛÖjók[paOp=‚÷b$·ËúÎn¬;©ÓcNt†S¢œú×ÄÚMÔl&Ÿ8[œÊßÕo®0—¢Ñ‹¨¼æXæ+ä)ãÛXˆ©èJGQ¥° [?PÃÓî©ŸNûrBô–ü73SÂ6¢1(AÉ¹‡÷Í¿7÷PgbÜüüŒiÊPïÂh'3ÀîY¹ïöýYzÐžãåDªVa!	´§2c’»I-îïƒÿôlF+”cºœÎ¸èžØõÇ$Çôu£“%¡CØðmR¤œŸÊŠìuÜÇÁÃRug/PFÂÊÿÝ˜¨/ýçøÆ(úæ‚˜Íc séb£¸ Ër~}m˜8Ì½\úŠK„fåŒú›èL™Å?g£Mm†Çê¾iBÈhGé/%²>ôI¯Äo–‹i¯†ý| =­©Ý‘RÿÜ’ŒM4G,µÝHZ$-·³ãS¦o­¸é:­ôû“e,áníæÂÚŸ 6©G5çr&ÅªìÔ5±{ùÝCàH_<¾%‰ÕaÐNô.~¿÷^F5þ[ UÒ{Ï@\¿\ðšÈ°›vwËÖÊkB}7Vj»ßDqíÀ#÷÷†õCA° ‹*$%qr¯åÈúî¥såžL`óø4·ßßÔL® ¬ì¾byih_Mq2êøw9Z¸Ðs
+bÑ-­¹­÷ö,äÓ9ÞG§ºû;)_ŒÝäk1­CœÐ)q]®Jj¹6·iþœ@øŒ]V³…!BïVhâ9uès+sô®¼†ÊÞ/H¾»¬Òy§´åÇ1ÙVBa—´J{¹ÛW½SE*˜2=×.é] A¡Oi×
+ýR•è˜ÝJrtD0Þ#ÊÍµSø:‡±Ëß\Q(‚
+xÍS8­ú0é""ß.!¦¤?hšP}‚Ò+S‰üº>‘5|MÅÚÛ‡(ºCË¡2P<<šë³špî½h^I•UDX•1Q‡Éyé¿Ýò¬Ò$ nïÏlÈ˜×¯%
+«¢žó¤fE§¹êGáÞÿÃö<0Ÿj~’Xm]jpÓ•tUnÂé÷à…
+7mJøZ´G‹ã¬èYÊ?k'v3qã•¹0HÍsô†lç“k+±èoúbXètYÆ›JŠúm0ã_Ÿ˜£ò‚÷òü´'œU×ÂÝuõÐ§ÂZl]¾Ã^èÇMG›4c”lI€`6prŒìA3ê;K2Šê)AÌM©ôbNèQúƒo,-:ÏœLG;ë„ 5ÿ·RTƒT|ry›'QÖ®…uvc]Ò¨ÕêqOú6E¯lgËN Ìó~³Þ¥÷‡u·óG„ÍÂz4š ¨MàZŠ,"àU°gÐ6ós3ÌPYLj³«I˜&œÉZ‰¼ñjŸ‡ 2ªµÂÃŸA¿î<ú¦\Ñ£­Y'Z'1é-àš±BÏY	:†X.È~*?˜ú¥V‡;Ž0sn&€¾(~¥“÷|`¼áfÄ¥;b²ßn'gœÂO~cš•1Î/&çÑÇŒ÷D¨ùÙ!šaý5 ²†û¨|o[ö“¯ëï«ó­­b”Yi%•%ÊÌ•°ÛÀø¤°‚dþïƒ±Òu WBœ·ÄG;À<“oËìÁqÂŽôò×¸Ïêþe‹>1”ßßÙK¯˜GMvÅey{×¥J8ú‚è–KDu. £i26xçŠ}^Q3½‚]IÜFGìsU]ûHŸEá±òrT²…–ŒÓžGu‹à€iIó×‘–Ôü NM…–’æ7ØW	OQ¾1nCç3¶·µ·o«ÞÀÃG …¨é·É"f;øµñ/Õ×µ¦i'n·uÕØÌ8Ñy‰šA©·éÑI€ÜCÇÇ©Z?Í'ÐÒ£9âX’ÏËø+U;oÅÕäü}‡f>ÅŽO!ÙÔÄ0\?ìÒ+û™Q• T¸”3÷b±{k# š´#ËˆmÃî_i…ŠÁ¥×‚›‚e<žw °]¬+F²hcÀ´”ãžl¶¶!‹›O[eY-óP¶’‚œüŸã[—V˜Âé‚b7L_n4ùÝSw¨ŽøáÎ‘dSz-Ë¶-RáÄ>K{áƒ³2#ÕIt3–+–v«Ù¢GÖÍWÛßGÖ
+ 8~T…ra?8w ÑªÔÂÏæ†EÂ˜6Ÿ}gPåÝ±ÌÂ¿ÿ:ÛÀç
+kÐ5˜À‘¯S˜Ü!ì¼AÂ™ÿJ8ïÈ´G`ÏŽ¸!° Ý:Òø9ÓÇö¼ÚãmÝ¡”Á†;žÿ[ˆüŽÈ|¨)·ŒŸbßíú7…ßiÚqiQYöCG.@ ˆ÷ç¡ŽÙÌÂÄ¨ÜUg+FñöUÐY³º•¶Ÿf5;
+å¡é,jGäÕ,ò‡,°.B3\‰ö½j3î÷áv–cDÄ-Å|Ñ-ðî›W®K(¤fw‡Â"*ÀŒhZÜ-[åìH<|I÷|  ³«]"[´D”~âéÌ=ÀÄÒÉ”+×iøä%Ëòµ éëQ¤b‰èM´hö-Å(Í;ÚÛ6‹3¬§È„o§ßeéèWŽ3ÑòÖ]ÀíRµÂ@}šFÇï­m;Ùn9búÑö$/Å
+ÆöI\)¢@Gå¬P·ä9¶P+ú>8+óD[|Ñs&g—&K‚›¦¿UWÛ=åŽNY-½U{1Ú0JRôÝÿË4ÌKú—ÞÜiÖ¸Ïnö‘M‡±Ùj:W¸Œ¾mýyðÉ…Å‡¶Ô˜äí†.†“7BU.gÄæw"ôÀž˜ÍàûgÌå;XŸ»‘šÑ²’CÑÍAœŠ¦Jåá³å·œ½TzÛåuñÔJ*µÌn¯ïFëv±Øêdº€ÃÎ'ÝCdÒ6B(Ò-8?'Ø÷/MÂ½-æÇéö>eÏÕHÆpÄ®ž÷2IÏš-Ì?,¾Í^‡À!þšöã±’˜äŸÅ»oˆ€ÙÛÁD¢¥Žcöyß"Ýè
+szµzW¦}™ öÞºí  ¢ 7t ÆF­O£Æ².Î÷ßJ7§ÌÃ›i±o)ÞœXéx• vè,½ëŸF~§Ý,
+¥ú¯düÉƒ®€§½`Q\a·R”qàF:ø	#´œî¤Ôæáò`øÝ.*Ö—ìÖÍ­èa@.¥C»ó('Zù|•a–BóOBÌÙóÐÏQIYÛ34j¢?Ž+ÖR¬íñ †Á¨]ün(¡{D#ž÷Æþ°V(dŽkM•Fái4Ÿ”¥€I‘'WŸSgä¦wu’"&«û?bÛ½Oí2¬þ˜}„¢;'m
+€þ¦n&ù)þw+«þÖ¼†{¼I–ôÏUƒ—ûñEYÕ@å—ÂQËÝuH–×çá·Å¨g¦%›Iñ›øAÀðjèþÏ‹<0ì^Ø1ÅÈ*ÂdÛf?;€ç
+ö­¨`?šôOòXøýupôÂ&?}óMR{Æcú#—
+ã…¸+î
+Õße„ûuÑ—µµGOeÎ ¤ewöy”/Í/ãƒðvXªÉ'æ1šà]•%·ZnAcRB4‰ûxè×‹žqx ˜zòiµ¶Éü7ÊQíz¹n@ 8ü
+šr:ï
+î§ú3}L›Ö¸GÐÖžz ö0šNO‡˜Ê‹ä—85š³eÓð!œçÂ@öup®ÐKÊ£ÇGD‚ÁFH8ô5!¿ŸR%šo|J±,rÀB„chúð½èôb‚Ÿ°u)aù\4cÃ‡éžWk^
+ç¥Z0±;}ya+À‰
+ž]G”ì±Á SSÃD•ªÜ¼ÅŠµb‚{	j[BªxzŠ‡ðZ¿3ââ6x®‡Ó†êf!ö¸‹Â¿þ•&\âÎè”-Tr½^ÜO0
+ùÁòA4_ž•ÓSÇ%ˆ£×øŒ;Ÿ“‹}ŸèC/*˜{9õp"Ô öftf„Ú7–-ÚˆXªÁ_V87µH:g€ñêD~i¾W@Ë¦?C}ü”V|À“–ÈxÚù™1/#üC_5-@c2CEÝ¯_´NÌ”õ&êT:Ë„%!íâi9ÊÞ°å]¢>bZüsyÅŒJgëƒå/CÉ¯tLû‘7«Ñ°ø¨ B:EºæÀØÁ¹²%Pæ—¯ÉSÖo;÷âÙœ¨nvÊ0Œ
+XÙº§UÿEÍzY9~Nu£ã 7©ÒEö=àšý¡î´Þ”Jº¶Ýàñ»ªç¾†öOiªÀ—¯ýØðI/zâ°Òwãòn{ÌŽ»¨‹Ì9qÒìü*
+xS!T¦lO=	?“8uä8;\Ñ~ÎÛ‰ÌSPue,ÀLò8—…xÍ¨-.º|±GPïÚ=ñqƒÜÎXýŽ‡´C‰ÿqŒ‡;‘øä·Oxi¢ûÜÊŽ‚dŠÜoš¢{Ë˜x†ÙŒ·$Øë‚=ƒ!›\»ª÷ÖµiT„›uQé»lÂf'­¸]÷,É(xµ5UÆäD¼ùq¤T¯€+Q?~q—°ú[êÙ¼/¤)°íÙ;Žùðœ²h5F² ­-â„VëEd¬¶!g˜"¹FDÖÆ¦­Rà.«¾|`ÐwFÜj¦ÿbNÜŒ:å>v³URzuûœ*8þ±:Ìë4š¢ús|qÕ¢Ñæs,XÖ²Âû®•_¸ƒ›ð=T+Àß7Þ›Ã6ùZUEï…Ãºib‹>œÏÀzH¹ê»"C~³©“'³Æ¿zE7#(®]ú¥:9µ:õyæŒ3¤/H³Ð%V6À†>†Þ"~«I ¶ 2ÉOBî’3‰1LFŒ¨Áªü¢¦9øâ³¨£-äv÷0‘Á·ãÈ`CÕ
+`¶Þç„îùôa³sß‹þÔØ+BP"€õTàº,’•Y•~5?ã…»£”æòròÿK¾ÿžuKO„G’ðÜŠÚêÏŽuüCVq$ýS{1ØveJvá+‡Šî–"c'Ý‘³gÎ«a#išF-ùêPð)´1æÙ*2üÖTòîð§KS©Û>Î`ò¥	òÎe©Lƒí<#hC¸°‚„ûþâ<¡h·Ÿ‡ËÉå2nC@©=‘˜Ô…”çƒ ¬Q1éXì!j±A:ì¨”$Ú$KoyvÁÇJ¿³YÝÜåZÏà“2Õ]ƒg/üBò§¬¶š:J³Ç»1qãM¸ùuÙX^döAÞµ–ä%‹Áì#œþšf¿|íå¼¤£{šd)™a‹ôzÁûnÊQÁ*H&Ø` µµ/Ð@‹R&0nþ8Ôè‚" –êFáøl78{—mË¢q7a Ñ‹K	/mÝáø¨’=R° ö—%…áXãJUì»e,#yhÎË½*ªÁ¾áÔ#Ø{”,ïV, ä ×òËŒÝh°ú#’+Y{œd¥àÜ! ö™æõØ[7÷Ù
+c–ªÓ<–÷|m~Z‰w’gn4—kŠøyg;býîY¿Îéë‡õDÈNAÐí/»¢7EéØ®\¿ÓåŠu@2L3½à÷«gà.ý>SˆÊ‡·Ô\€eÒò_eu€£«Ù‹ÊMÙr#ãTÄoÚÓÓ\é`2>
+·Ùêö!Ÿù8:cQG6VMk@`Wm:²bS'ÚjÖ(Åó:àdÒÀòmMy¼®d«t–[ŸýddŽWÇ5²¥·tü‹SÏŠ,qóÉæµØ©<ø·÷Ñ†æ^ê;ßJ)ï»8EXu†Ûbj@†Ü.8Þ'A0Þp»¹	5™jÌÐÐ•gGôÁ[.” «•ï¯Ÿ
+=TCG‹â®õlWÄì²ø¯7,«/h ­@ÈoÉ'³Á%E³Äð¯ŸŠ~ì4ýôN>¹ÂWËIÏŒ‡äÿÌÎ(ÈÖ–ä#2a±a])ÕEpÖàüÞ%üîÇp«ÃÆÌ¾%‘qŸ×yÉÁÇ
+´É£«§ª	i&³9^*¾µrä–o±4·~yá5EwÄ•:‚¦D6qóùãlP©9ªÎá¢RÁsÕ›dà—ó¯â_o¨±öµŒaÏ@ç$§K@Cãu•ª’
+Ït§šU¸öaÐ8	ò)Ù`¥]eÖÕAè®œ±M‹§¦!2Æ
+þ cóˆw_
+æúÜL~µY†½þêÓr4X ¢Ü"*X–fŽB†g¤é3lA2tØj]òËÓæ¯,›î	?@%N„e¥_[!R»Ë(bœ/Â«|.¡ìè%†´aKähJïg% KÆ%S–;ëy¢o¬5Y~;ä®Üþ‹ÛÙhç(Î'bHF¯«üÊÈðŽÅ¶Ë¨ÝÞxÛFlsD¥/¦ZOï¢©¢ƒ»qø×›xúybHõ³oŠé
+ÝäÊÃ5ýš¡4ñP²-9
+¡OAY;èT†¾”èÑà}Ìø’LËþ)È°P‹éã”,ƒ—ì ´£¤n‘Míff*?.ËtQ—Ñö·1„ î¯¾i‰¾ 8›¥MÉ9)ƒØ¹›ÆM[îî°aÂ˜>"ŠÿCgÝöœðÌ^)‡Š8á (ixNELÈ: þÕ„X«õÀ}ªnC´}Ë‹Å[e1“ÇÛ~*Åm­Í²—£Xo'_|¥g_/æn¶ÉÀž³èðH¼þ;&ŽÅ¦ú#Ç$d'† E}@YŽÎ¢=ñ­ªŠ†*CwêK?øväqÀÌ?·L!HXÓwÝ¹Åµ°/?Æ“})~þãŸ‘&Kì±íŽyæ<”¸P‚KPËçH³•ú€±1ó,äö°Ó8G˜º£ýk–Ib4O“æõ£4§&ôÄ
+×$u¡¢Y"²'ðå(×Ÿr¯Ó8nl3ÿÖy%[Cýáy!ËŽâ—fã©¹·áÏÇVùÏøÔá¡¼ lõ<ºŸÝ0Büógžk¶ÍÛ0s €Š„ñ¹Øž?DIpV$jõè‚f´þ}c’Ú³ëh”‰Ÿ)þuÿð§ÓHé”6¯¹È6
+.ûºhÀ’­Ð›uÀ¡¯­IKÀOÀU'å¨ç
+‹d}ï ¼¿âùØ=ž~ÇöŠ
+Ñ¸‹h`bù°H}ºmr‰¨K
+\óûŠ|E@JJÌ{SQ7ÒÉ<ÝC^QœY>ù,ñ2¦Då³>
+¤¿.mò=Íº£ªahfÊÕì]ÞGíá^u°'ª-‘PVFä:þ/€ÛýjO ~…2•ÝeèMÁ‘ó.±fuWèè›”²~˜Áå  q¯[ÍÏõ«õ‚_N^—¾žì|î‘÷™–wè¹ç,ƒöìMÕ…(>Cåß8\v‚t!bÝËU>•¾ å­©Õk³4V„·öèT(§Y#„?­lƒ#S8„Ü)„¶¢Ló!­¡
+×%®Bºæá"Ï“jQAÈZY]?ÏóšÙ³õkâ'ŽqÙæ?€H.&qy¤¨85¢é>ø¹;:9Ú.ž7yÃ#l7½)šä€óëEªO9‚?å1ããöžÈ›PÃn”µÊ®Ùôö;”¦@q-dKRÛlBekU„øf<Ÿ! -Ø<â2›Îá‚}„bVN-1um O©ùfeý™ñ&™¥vòHì7ïÇÙ3}ÍÏˆo®Óvâ•›¡)Ö×>Ë‡ÛÈFx¢S Ãþ
+«À¯“v².MÙ!©ðPÝàV ˜¤Äu ég§v<«²°Z/Ì#o¹ö¼Æ\#}«‰`'1±“„ôö-¬¡1¦oÕ"ŸP_ØMTt’R?"]4ñLEjg²ëJLæm¦¬W†ÙÆÃ:ëßÝVDIÜh†pÖŽeñÉ·<RÍÝý÷ÖÌ]¦EW.•›õw¤Ë®K^r>mõ—ÿ›‚ÃóàÑ,=¹ïjy£·¾zLÚUˆ
+V¼ÍmíwAú*PU,;ÜlhÖ¤“ÉñÏ¿ÈøÇpðú7.ÿÄ`ãæÍÚÔ³Ÿ£Ð„iáð·ô¹Gð¡P{¶°Å
+|SvÙÈX~±MB'_¬fÆùáŽÑ@,äœJ!Ø6 ê*¼;ˆîÊý7_“ð4Æ®<°ôØ}ºÂ}Xe«³lY²I2
+’f²¬c²÷#4W
+ ¤PN^Cñb¾Á	:G–àËTévE!}XÝa¯¢ù=á:#ÑðÓ‘ä& Z'@=È“èhi?	çñÕˆB¡·ÐÙA<öûNDœ®±5d¿£ùBNùŒqT3(lßŠÜNMrý^®ãO[kÔ¯@Ýo¸ÔI4‘‚z9ÜÑ³¶ê	 =‘ÕFaYü1Ãó:±n¯e\¹K—Ÿz;Þ›”6;ÃM Âê|µþµàÜºãÁ*Fà!Ï’[.Ž†Å@8&™Z­¤g¸™V‘õƒIGb
+íÍe•ªMºÖà}Öá:«qk·ðÑïŸ+ò¸”ElUû­|A+ 1tyµèÁQQtfî¢`¬
+ÙeñÒï¥ÏðâÔ!4Ø
+»{Þ{ÔÆôl¾?ÆTü¶ŒÙ§‚>»U–üœž.×à©÷×*6ñB_2öËÜ÷¬¥N4¦eMzáHfKVý{c÷ãµ0³ØØÜjtR£Í]5ôø/¹  ÙS,Ò$ãfóOhË>”ÂMÔKVÉ÷ž!—F¾¢m–2¡CtÞd‹ò¥j7‰iÒ®%ÅJÙ,mb®$Cxs³ã%glý!ÇlvPoÚ>„Æ?!èkcˆ¼æÀ¾ÔÃ;
+Z
+>øî»,!Uh±ƒT~¼vK?u_ ˆ-Ê²A°»c`™_–´†—ãÍ¿îôv/D8ê& ]˜£*OÏâà[¿„/×œ‚0P¤jËiŸx§#€½ãèã”·îÌ¹;³·j‡˜ùhÌß¼\‰Œ³*Ô-‡ýfÖ
+hsBÃwIc@#+ºÌrî6U¹‚ÏÇ‹ðúg‹Z´õüã&»ø®ª X?pR˜¸¸TÍ/±jZGÃNýÝ#¥ ›$¿e»Ba‘"T"ƒ°'¯¿æV[Ã9JÈ‹`ÁR*È@–lðé|ª>7!MdHf\÷X'º­˜«ùºH58?‰kmÞoï¨£í½ûÜ„Hk+<lÅT:]´^HcŸ}ÀÓ“+í©
+ÙG”ŠßTR^h§üp÷/À“«Qƒ!lmdw™tVOþôÿë}®H[Öáô.Ó4ð
+MŠ¨o7f¶)Š–=I0>»#¬Ö¦›§ªÃ¦ 	føèXE#SN´û~*Äé*L›û(³E2.7^Ô1¤(åÚ/çu›¢44l¢…ëJGäˆ\j
+Ë@†°Yìÿ”Cìg¿¾¤ü#º»5QY"MhTX]™	‰5â¸|‘yó\±µÈá%jÝ@GÇvê9ÈÕ Â	!éVêÏ/­vS‘2Ô‰f}áµ<æøßCº
+Ã Ä–V¬ ´§žÏ•.ÂÞÁ¨ôË¥0KÏn$1­:D}ÀÃeæWº:á°àÿåðq!‘¢F.”Ùê€Kœ»Ó€à œŸ¾ˆÂ²Ž–ìÈÄåë+¯g5B1{.Ó(Tå8ÊÓ\@]©0øât>¼@|­I~Ÿ!S©/IžÀ>ÿQU‡æí=ˆ§Þùa€ Ü‡I–‘tñåj%T6¸D2ÇùWÙW;®vvéÑÙDEl?bö‰<·à­õ+ö—©-²x;Yˆú‹÷6%òÇZÔèt¼¾.W59xØ¸²ƒX,3#´õ¿öpÎE¦ˆ{ºÀ²v<þ‘òj;¥>=R(’—°i |ÍãWÔ@5)GÚ©¹ÑEÊÂZå{E«õ÷‚.¥%?×cÙ­{Ðo
+ºvþ¿Õ¢-*å`”é4¶üÎ¬Þó¡L‹çòÉ@JŠ±®
+áµârÂÎ½o‡Â§ÕÄQ‘þ	ù]6ÉÓàŽ¯iC.5ˆËùæÞ¹´¼I,'©þÎ¿\W¾\?~›B§-…xwB
+Å^ KO&N™?/þ,8	û¢?xÚß!E=1óÂRP­Š‹“C“‚ýcñŒoLC–‰æŠ½*QŠ¸+dŽ¢øCÐ¿·JŒæêpHÄZÏÏ¶'tëà7ÕM6D
+môÚ—ö `øÁ¥‚…ú ¬ª>à¦ÔZ„ñàï•VÏJ2ù6™å°/·u>t	ê<uq•ýGnn’í÷câS«[¤›d—â¾ßD<sÐÈwD-úcHL×Ÿæ‚®ÉRØ©1§š±ÓØì«9¼°›Dãü^xT".ý2ÈåÜë¶aÍ¾Hã)®l3²Œ(¬¥.‹ç¶2‹Í{5%ó
+b°|è~ö28˜|~8ÄéÊ“¼TÒJƒ‰Â*p] UJŠš0IÄ_'òÁ#Mñýo^¶¨ðÄÄ?nÂçH÷…:e&æ_M³®«ûOè¨0ZáÍƒÖlú?^¹ªúÎ®˜}5þSè’fPc^³ÓÙ¸\å4gü‹?OÓ˜Ù©²E¸¸’`›qCBëÕÏ:¾J\RÂlqFsñ·•RéÈÄ5MõJüÛÁœrbY)¬4¢ÜDŸûDiŸá04¶Âünã«Pãšg?ÃÈÏ™ýlîÆ»N'1'Ú„Èošöä:R^)8ì˜êL¼ÚJ½A´½IX¢ý¨™Ç}­¦…#Bfæ*ð‰°q˜½éCeië3Í¹[½™Wù˜Y£šÄ]oÿlÓÉþm“ÛŸ-xBV~àŽ‚.W~ÕÎuYcÆ’`M#4°ª[õuÜ¨u}ˆ×_ùÒ8RÌ£17QÝÄ¾ÚÒ2ZðF6FÖé”{Äž“‡-‰@q>°
+„—ù%¦óXˆ&!\£¥îýoZW[++‚“»!uÎ.@’OµxO†mókÑYåf`7	ºKÒ<ËB›
+ÿÚººcáé¸@°³çPŒŸ$åb€÷ªQ‡û³·!ÚÂ­Köla}Në_’—8/óP
+"A‰AÜ\s¹“Ìµ+ŸÄ““þV£Ñí³áqì<tÍ9\€ÍhXgR6#ær‰snÐËvs¿ô×Þœ+¬:6¯Ÿ©6®jÖüS®L«­XGd©ðgÓ9&CúVêÌÿIL¿ú¬hxÇþ’wÍ¯']3–GÖû²:„¡•UPZ_ÔÅJ‡„GIUï…špÉ7Skré.•ÚßºzN	ü¡<¶FžcŸÐbFpÍ,Oçf~žõÊÿš&­äº(>?È‘¤"äwõàëc
+P`Š`['{Ø¤µ­>Cw¹!MQ~7s¥1k)O@¬ñd§'|»¢í`»Ó,0vM=ÇG\–ì´¡¶p<ËWf	#Ñ(¤ó[s1ßºüaTÞõøó'´Ô¹ò¤'(»¥M87`ÃßÄû
+©ù„Úý‘‹‚èƒa®JNß	TÝ9îƒk¯×	ë!-hÑ¯ú2œ<áð¥U½‹}ølj]coé|K¡šeädKOÖEnwè³dt0+á´M,ÙóåY|=Ð<¯´5÷>
+Þã‹ÐT'·/A@K¯)±„N»0‰JLk³ø Äßššä$ ÷1#»[³öay%5cwM·ê+¥â–/æÔ~nãô\I¹°zˆ|%1Š…Š|ÁØœ ÕæÕj-´×’­/wPyNô›Ðf<Ýó6Ú1?aà–€ôÊîO‘¶{­˜gZ’Í¸ÅÚÿSÇMþ)TµŽ*ªŠlÿuš¡sìÓ¡îj/çê¦&¦g!¼H Ôe%±H=NÝÃQ
+@°NMæÛVsõ S+f¶TdG½ÀžÓaX]I¤”¬Ré19^ øò3½p×ÃJY©¢Ørâ
+Ì:™Úl¶ºUµ+0ïÂIÓ-Ðû×©¹Ž06ƒYöò„˜]»µâ¸žKh¼‘ÓËíàc½È¸†D6¦÷$r<ó-hÕ}qžTpU†Ç.Êê
+ E´m´{ŒÊO¨²¼mm˜ÜSQr¡ôU]ñÓ’Ðõ‚à›[ÆÚ‡t¶Ë—50…ÁØÙ<£W­9áåƒÚÞ¢›gð³péúŸ·º“oÞWži®ªáoÝŠAãNrÅñòä°þ¦ß¥`ì*1qù*\7G\›Q7Ÿ´•ûÙ„õûýi¨H	!ªôÈ¼ÏÄVÍnBž×.”:ý@ÉŒõÄMì[u´ïï~Ù­(N^“¹¢9;øîq,©D™J:ŒîµÖød­ûðß€w•˜—iÌ xu1AŸÐzä§éâ³’ör¢,<‘÷6¿Ç>C³A&Öå@IÄ@/?›õ”a/êvpÇ„çÜüù¢L@eCÁû;€`G\@gcyÅ	k2H©>dxLWø8iÐ+|&­|1m Ç$’N”ìÛ`l¨òî@ÕÀÂ‡—
+÷ÖþÄk²Ä¼
+/›EïÂL‰˜ÓaTìdz]ûI¬µÕAVÐå¸«¨Ðj†[¬oÜÓuö]wKyv#QfýÈ•~Æ}½ÒYK’"¤Pè‘˜H4\´‰×bçÑuöØü{æW_ÝÛËµD1Ifvã0aa>’p–´ ­üî ¹]üãb
+3-kÔ4’ø”®Ý¹ŽC6ˆuŽÍ(ÄøÄ9-ò‡¯XŽSV•aÜÃNÚÓHä†Â¯_è¬ß‡ÒÎ
+8”)	á«E¼ð4FÈXü.}Ødü­°Ie(V0ÓvCŒ7¬iÞM‚»z½ðZ9XgöŽi:2”ŽQ…µ”ˆ`ÁTi8`Á<Š@×‰¶»;uìxÛJ'z:ãòÀ›ôXÎò†‰Ÿð¿éŠñQù¾ªëáGt(€,4^_Ñ*7^Õ˜©'b!›ù*9£íÕ¼gd9\ÎZÇµ¶wZ÷c ­³bÜ?£¾&`,Ê£ÔqŒŠ“ý\¡cb©§ƒwò2Î³óÁSÖŒ«"¡ÖîØN\¿Uï´÷	Žâ®ìsÂ#ªÞf€H„ÓLÎÁ…LÙ
+:*u	¢å{‚‘ô$œdysVNBU®vO¼™¯ÀY'Dø3ùGíºà_×ò‡¸i ¹2OŒ]yâ1W=›Þ–Èà"CîH{ˆ¥y$Ÿ2É }U›)ß«6;šr§ÒhýšGf*ß¤b¤õQÞ½¡“YW OjÈzÔ²ïýÝÎgª¤»4
+›þóåyüÿ°uRkN’²µ^è®¡X†…“ÕeãÉ'HÙ[¨Ö 3·¢“‰G™Ü(#¦žœxlL½.íRôÑs²ë[ –‚†oîõBDðX• µ.Zu¶‹'ÅvkØsôp†-Ž£ð¼õ¦¬5Ä•¥ý áë,ÿI¶ê°á¼ê\wïN)¨ÆudCÎ‡òBéÅ“]Ç®•Â‹÷bW
+êBy»õ¿]F²+ëä©ÒˆkLYsƒ“|°[·‹T‘­Ð5ëœž­¨Ì³m&Ÿ„#Ý½Ã‡CMl:*yþ	¦~W.… é‰Ç·8t7•÷‚|œÍøŽ÷i¯PZÍkò+Æ7ëK“¦,Ç`p(SûùA|ðm±ã¨’(o HE,\¸5Ž tð"‰„õhùÂK–™8ÝNV^Ó°ÛqÕv39ò¯Åê§ô(Ù3þä^c-O€«s[úKN½®®#@5Ùí]rÉ• o ßpIô:íÆ°<‡ÜÞM¹…4 ,Œ“&ñÓüN77TœžÒ‡'p£D¿xÃæõ©\@ÖˆùóÀm—Ü'´‰Þ;¾Ô|HëøL^× ¥Sˆj~\V’·,àœ‹ ::ê¼ûRÞ«¯ Q‹h²[üŸ8+ôVÕ/\úñ&,!Y›˜dfË`|×uCý8’„ìRD2Y/ùºkë~›ÉYæGÎõýö4
+ÏË®»7\ŒÛâÀý"ÌUôŽHA¡tY2­Q ãÐ
+dkÖ¶Æ¤Áùü™/Æ³²ò8=ÿç lì«$H{Gò^‡x
+ö~+Ä‰V&ÜHŽ20æ|å¼]ýí¾ÄAhý4”£ÝÈ)€æXÓÎsæ7D4%œjiíY©½Îœ¸Ý,0øÍ•ýÓ^C71L×t*‘,G7UO¤|G¡–áª ™,¯¦Ñò~^ôã×è
+^Ò<…›Øi:ñ75™`—œ,ÌF—¿º7¦¥¢Æ‰si®dl:sdòôdÔÀÑM¹›ZšŠF…uìgÇÑNEuéFþ­_@‚ëëSâ|P÷ÐQK1˜ìg×÷ÞHîÊP‰ªs“ŒK­XsèËÿeÿ¾)m±([ºg¾÷b‚ÞèåWßöYrmŒhMVŒÕ&Ý…½­&ðá¹ßøÜ¦òÞfít%õÀa}e)êw2ÿ
+ÐC0µJtÕN+A»."+ÊúÎ²ÆÖøt•vw_¤+²Ó- öµ>"¤»6²¨;PXÚ´ãòƒ]½QÇP†o§Œ1hJvWYe-ÃÄ+b;V2‡xô×gÖ–Ù³)ödö×…ßÞé±û—ØôäO\”îc
+Õ`ïßñÒòÞJD'õÖæ½­yŽ­²ÔõŠQ¦¸—$3}áúcŸ×»*|øf7øäcˆè¹D×áˆåº±³÷#å•ð!…§³ÁýŸdÓív[‰_°
+nßC{‹ˆ±Š½þ/Y¹µè4–š&W·Ü;[ýÈ	, ¿ô¸fìRû¬
+QÉv&ªÝø´>óü¦(ÞæùæÍbRÞ ˜Oin„à™åÆ½‹FNb¿Ï€$“!ÍTÞãSj¾yìÄ¹âèóêZQC_XÎðgO®¶ô¶¨úïšŽJãéµ ›¼µ—${O{¢%ÜÃ%é_6Ó¢Û^RYÓÆÂÓx
+×GkZÍ‹&:WóJ4€"üÞŽuÞFvK½|úvi ÈqŠNŠ»…·_Létòº‘<œ˜€/$ _5‹€¹§è3A_"FÄ%Pö}/
+wv9{€?Ðe¬›æ¢Ræˆ³év/%s²<Éi½$=3)q\cÈ5ÜšÊsòŒöE¦Ñö1D¿w ‹ÞãÙ"šíºˆtè[¥¡‡wÉÙ¢«ÛPáu_s6¶;Îüs•€F¢ö²ƒ¼í¼ŠO…3C)WÙJÖµù“)ùG¨ÿ¤˜t^Ã©±ZÜ%ÑsÏÊanñ»Éh6x¹Âé3[ðª®q—æ?,z
+-©&ï»(nÄ9¶:?é–	˜M:õvÛû6&
+Î¼b~!éh	ü|šj‘þD¾U	Ã,â¼>RM ÓØ5ø”‘Æ3B	'CFAWÎ¥ÿ³cþFÅ a2#o[âÀã[GâH7~%´ï.‰?^(‚ü ?öi»i=§ <ŸYW§äªeC^$H¾~ÕªjïŠ}—É,Œ:%]æ“9âyL -úú¤ª10—Ÿ«^]ÇÐêÃ yGž¾ëh«Ë®aéI»½ÙœÀ›©JÙŽÅþ‡]Ôf>8…pÂtOüÎ³
+VW¨‰AMõ®L†9L„u\CQMÃLÒñeŽa1F}ùr(«ÂËD ©ÏZŠï!àŸ÷¨\ë‡3KÈ}	’kdõû[¬•ìÙ¡ø`M1…S$v\ØÚ+”ÊÍE5¦ú‚Ûo$*–ßÃ‡LY`p‰£¹òd¯]·'ªŽSA@÷hÝ“,¡ANq÷ùçôá.‡Õ¤8KÂâQzÏ,&{u:Ù°îðh -S;§1.ì=Eeæ3`ÌP‡£E@–tì¾uyTI*Ï¢v^mwÑ	ô#  %¿”Y0ã0ã¦¶-è1	Úr ª»
+=LÞ({ÈEàÑ®5k©›¼†l¶tîQ<ÕS€ð¨×ØÏoé6†×šÂ„ÄŸ°à&ÿ*êyV`¡Sbá—¬)rÛ]¿qWŽ‘[ð1á÷YÚaqÙ®òav¿ PV"-¯Ã!vxbáÉ€cH^8ë_¤!NrÔî¨wËÕ¦îZ¶*
+…³ÆÌÎÏ¡ÏZ{éVuö¬j­)\2à':’wÇ0ãÕ=
+Ú/Ë%˜+£Ä! ¥›ØÈ ÈËÃ~Ñ‡ÍhžJ‘w%§ý¤Û±é6ë¡*ÆØ›âÎLm±•oÃ^æJU=‰tr‘ë0R‘è¼„úÒ(–ªOÛ±>LŸH÷º5tˆ
+cy‚xOÂÄ26ì×¹ÀÖß;G–¼Ÿ67—ÍCÐêÆ´†ÀT"(áesØ,šxaJEØm¡ý–tL`ÏO¡f´À÷;Du;ì.õ-J‹A@ï>Ö*F¢EÃC•¹ôÝR"ß€Î 7¿[}Þ¬‚ š*ÛBÔ?˜+àŽ®/Ñ)MÈyH‹¡û–;v$Î¶/©ssí0r£PT¾ìþO˜©¤å¸¸Ë«F’í¡Ô}’¦YØš¬ ¼³
+ó×]²#2Ÿdž¤ËÝ*Z‡¦{l£mÅÈ„ù`ËaDK!FŠ`‰ÕŒ©#˜ÞL•HÐÙËh6émáj²FTtùú¥:¾³ª6F‹òUj»8B Ÿ“Õð'’¡4°në°H×É ±ÑC;LùIw{C&šR	-|ƒÈ–§B”¤è¢üe°œ´aK–v 1ÀcÂ1ŒÊýï JþQu¤á½Øã
+Pl1É¤Ò!¼*–]ÅÃ#y¾R'ÍrŸ3þ@VÚÄÙâê@½q¥µþ\¸	Š¾ñ{åÒ¼Ü½ R}CoúYídñê‡lÿ„éÈM­ºàõ›
+’r—Ë¿’UÈÓ€’‰Å%Fì?Jz
+3†
+Š$De”ÛPáXˆ4Ï.ÙÊ“8kÒ¸íF¾ï0qVŠ=ò«f…’;ÅJ¼‰oØä˜ñºE=IáØæŒ¥›	ÙÍWùVHñs>Jip6¥©Ð_!ƒãÍŒÒÛž2J0·A­¬¿©ýOXA½í¢[°)/•¾
+`IÛ¡
+C2(ÕÇIr)†tÖ^Ø§Ë^³>„½Œê¼zÅW“&¨NJ¸¥KÿG¸–ÐºH¬W–¶µ	ê^	}Ý«8+·^|ë _BÞŠ•T«¶ŒkðW†œoa#B@žÙ91ÿÊò¬Å§‡‹1xAB 1ÂTT",ó'åÕ¿ˆ€"ó#`V)å™ØÖwd šêd|¸·ÝÇâ&%QMù¤€²á¦j/~@$¡á¾º~‘ël÷Âí÷Ç‚u<.¸’ç'hª®a@ÔG¢ñéä†¿;Rñ/è‰ûÔÁéE³LµQáj4”™«„]W+1G#J*ô¶ƒýL$y&ñŒV[7Î+Z_s2H™m×®788€_€dø©Db¥~£ÀKòP¤_B1ÃVŠßDü(ØçoÔÁ/Ê½µ|Ê$ Xø×M§Ûma»{rœC1íeÓƒÄ¹EL®´ÿ6]-–wCå
+Á¶ÊŸw¾aPL4Ž™gÁ`Ö˜Ø‡©cÉìæ4y’·>`ðÈ?~Èä1A@ eèó(­!¥üx$^VôlAð[˜å˜Çª¹oËL€û!5¼Ej)Q¼YU£!ž•DD8ÃüD×ñ’*W€õ†È¯‘ªÜ´³¯F9b’Ò„öI4Wº4vNÌ—Ýä”ˆ>ëa.º–
+õ4¢&j{K Û]zôÛ±µØbå-¶gkÚæœÔg>?û¦
+Ié=å{Mi%ñ‡IÒQoY•Ú:@àÊ’Ý
+ý>~6Ã4FÂýchÈžWÔýpqÑŸ¼–YøªÈÂpÞ-.þC9¹Êã3«ÐëfúEYqÍý¶»
+ò¿ZëLY!f\ê¹}ãÎ,süþsZ›Î!v!1tw>è¿!ì ˆÍãhý Oú·RaegÅh[ZL¯ŠÄŠHæ‘¬Y\‘ÞCsCN)e4YˆŽ½C¿ñn®ËhùOŸ©TŸB‡&^1´NÐÅTw-Ù™lmï®ïÌ_¤â8\!ÍÐˆöVc&©˜¿Î%¼|Ý+=íö®¥ á@wª’Ò÷¨³“ö?sT[ÀvêÙ.zS‹É1BqéïôÝuyøñCj­6·’³¬à’R}feøyfm¹70zÉŽåàP”ëE´(—K<õ´ŸÓµ²¦\
+àåàhUb%Ø±Ž‚Ôøüáj!BÎ]XÝ3ØC^
+hGÚ0’ÇrZë¢ä!ÓÊê‰xA-0;=C¡r;rßT_ìgà‚_—¢ÄàÑc[ö[‘žmœp åpNDÙÕEÛ-Îli¸["ºþ†\­Sh»Èw¸êPÈã-þ¶
+­ -Cª¹@Ñ¾`àÊøã—Ã¹ªvŠa‹þmJ¥B­ÿÇ:QöÊ±§ÚšÕõoÜÌoö¶ë+¬^ uˆó™ôÏ<^@¾(V¤¿`#³ÃŒ	ÉÐáo¦¢§m3S5/è›µŸU/°°™Ð²ˆŸgX):WÃï¹Ò Ò3\lÌí#sRAÓ~!=Q#IÿgSáß<yWØ¥@žÃoþ7eXAzð¸n‚Õ²Á9²Ê
+…ôbL1å7#ÒúÁ~Û¼	Gæ›¥F|¯·¾â“ŠƒúPp6€’Õ9Üw&ÞÚK~bƒ;ßÿkbé	áÀ·BU›`è'É9Ê„7ùe: ”#ÉÖwõÜ(ØÌ«ð>wyÀ›Dùœ€DŒY‘$(Q[?àp†1e»â#ˆ¾H€ˆðÊ×«ªŒóT¿¢'€P
+oþ”‹®Ñ¶Y$4GÈo¯Ø$×
+¾¡¨zÅö•â†Ð2'ÛŸÂŸójO‡R"v5=P¯[yAQ6³´m†˜0ÖêÄ]Í´˜:“b¹d†k5Ž{;¾i‚V£’g»÷ZæþgKfçRºûÉ<tÞÀ˜¤\,æe¤XJšO„úS€Î3ðÙRÙ
+—l·¿N)(Îª›õÔˆX©&ÖVjø1‰ùEBµù B™>·öVyüYrªFÃ%º—ÆS©ÊO@Ä9ú>kC‘§¶=­ÈXÎ§Ç°AËGäW‡±Á µã›‰³KÃ‰¢/Í?×nAÿmÛ½³3cÇ¸J._ékÏ¡è‡’"[è·ô%y]džÉi3‰·31¾¡]%û |>ÂYf
+ÊlÑ“¼nð®Š@à•×kƒÊÝë)
+ª¦ßZ/¯®±s½2y—&q¼at‹Ž´õÕZÓén²‹I‹‹,W-˜$;*Ï>çÌ	  yãö¯u´äfÖMÍrÉÔG †ÆM•¢¬–Ü7•ÀV¾	Íûø¸SNOW;êeX>mâ¯èvw V\–[UOË±ú#44EƒcÈYä(+™JnX2°:§ø(©Á{óVëÒZOÒôq‹O;†pÅ=ÏÊ†¢cMv~D<0}ÐÄS@ÿ–M×ÁP÷×ä•Œ‰b‡éX©ËiÊîõ{ö¥”2Ý¹ZtÓ¹5<.Q —
+Šl“>¹p¿±I¬OÎ=Ÿ
+Ò[ë’Ap¤_‹oŸÉ@ENÇÅ	„þ±}«–/c&”ûcwÅ¹¥dfVç‡¿‰Hø™QK|jCÿËøV>f]¦Îªá</vzy!H	@¥§RCÎå£…ð1´û$í]›a4Š×ÝØÓæÈp¦'¤hƒêfœ3&ŒZ':ûº®G±;{€Àp­!_y´UÆWÂÉ)eªXßkŸÉt9}‹Ä ¼É"©DxÕ¤aªsYŠ >[¼4±CÝáº¤¯U@¶¿ÃY"Òð«j!Yx¾ü%GW?çSËÈ*ër–C¨j•c€Q_ÄÝÐÀÚûIœÊpÛ¹å0Æ¡É¿ÁÐî§’àéÿÑAVÚ0£ê3<k(Íú kÙßÂ›½e?é±
+p±ô2çfÿó)å?Q£Æwµšÿ*µ°Eœ¤”çø‚Ë¸3TTÁeÈƒ„±œdÉl­TR}µ6ñÔiÄ•Í çÂÔÎf”?åNuG9‚ŸºY
+Ë¢/¿q8$ÙÓúÒÇ†ë›q3ÎN?ùœßo•â²™¢e/o"Då"¼ÜSUvuØ»',÷§:„Ï8ÉšQ3|ˆÐŠÙ{Î­V[uÔÂ2üò!¿„&Ñt ÛÎz¨¶ìÙ’%!J–ÙÁZVl}°ï:5¦ÜI‰\sñLÜµSŸ2bÏR M…I‹²öÉ~”ñåú÷•÷Ûütºë/¬êtžpF«&îm'u‘Þ2gytbÂ•VåÉÆ)†~ÜpB¢°ý}0 âÞÒ	æùÉ@‹l7Çâ¥»E ¯Ï ôY1c %ê5z;‹V
+Ê;T«òE	¬Ã×½– Ÿö Ô7ý¯ ½ËP´®ß£Ü
+îÇÅL‹ª/Óg±ÊâWÚ.j¥+låŽ—ôï£S–ží· ª©šë½-óéÞPÙìÅAê:Éa©Mv:Ž#K?A§ËDÝB– ŒÛw’÷l«™oØ¼Ø,.£>z°P¼m¿Ý r•xÙ,Cr!ùÇ~aÛ½gRRHqÞÀ£>íKb±¨8úTŠ½9Z¿Î«ÖÔ Vx/Vî¦U/k†pA^ÞZèãÉKŒñáæ­€(RŒ!Cv6î¢]­A9ò÷ëÉè+žWÆ¾ÙÑç-Oô2Äè«çoŠŽÊ²
+Ö8<¹àù4 šX.Óàv¤®R³=Wx±Áì½6Ÿ— jŽuQÅÕTz™	+ŽBNä+ABðŸ°?3°pTKâ°…iOõ¾Û`eÁ0O.1Y™$ïì×—ÿ#º¶óßw³ir/îhEò<=±;;ïzMßäQÎ\ÞöÎÌè¡€Ï¯©ØÉä›|‡QÖ0Ûž¢_˜¤ÏãkÜ
+„»¥“€$˜&xÃ”ÚXÆPõÇ%øè!å„ÈýíïGÿ;öqÒÏ	«+½›Ç§±`ìÐ]_X{mK2ÚHåJ*/³¨÷^¨éÑ‰ú]ÍÂÄ‰*ÙVnçÒÄƒÀ|ŠÉÎ™íÒu‚xí?kËÂ‰ TÀÜ–õ¢Í›¥ƒ¥pˆ¿¶äTjòpÌ:¬Ï–ì~“@>0;wŽÖ¤dÊaœ´—œÀNö¢Ü‚³~W‰/×	É±ââ³}ÿ;ê|ZABÜ»Ö‘¦XmæŸÛÁz×lõGñ7wrø£q›ÅDw’þ‘,Äa+~ôªÊö´ß¤Oõü)…Îà´‰\ÌL…¸=ÌNÏö=Dç“§ÌÖèz¹S	ÕÓ8m³>\€XC†xÔbC>¾2¼ç=Iœí±ÐËÞÏíNb±O»}*Õ€Ù@g³¯{9ô¾I‡¥<bÿ]S(SÏl¨z_
+JN aV]ês#«í‹¡B”×Öýgér[‹Yˆæ—pÒWËäªlýiÌrL9BO»~òÙ¢=P’ J²—Å x¾â*°qUœ¦ŒOÔÕL9ã0_yÜFUh’)S±„ÁnDgë@OôÛÜŸ‰uA¸æÉÓßwÏ¡×®hÃº~¥vÁOŸO»"A(µ¦HdË1+að{UŽÎ?î*Ç¡`qÜ!]ß#¿E\ºÌh€|€­QaÉ–Ôòs!xy7Ë`	°›º#ƒ]‹`ÒK|¶õ{×…GF
